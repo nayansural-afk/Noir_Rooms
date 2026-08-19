@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "posts": [],
+  "seen_news_ids": [],
+  "seen_urls": [],
+  "category_stats": {},
+  "time_stats": {},
+  "strategy": {
+    "exploration_rate": 0.3,
+    "category_weights": {
+      "movie_news": 30,
+      "actors_directors": 20,
+      "upcoming_movies": 15,
+      "trailers_first_look": 10,
+      "box_office": 10,
+      "awards_festivals": 5,
+      "streaming": 5,
+      "short_analysis": 5,
+      "breaking_news": 0,
+      "controversy": 0
+    }
+  },
+  "weekly_reports": [],
+  "analytics_snapshots": []
+}
