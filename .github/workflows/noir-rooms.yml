@@ -1,0 +1,50 @@
+name: Noir Rooms — Cinema News
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 9 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noir-rooms
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Noir Rooms
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CHANNEL_ID: "@noir_rooms"
+          POSTS_PER_RUN: "1"
+          CANDIDATE_LIMIT: "50"
+          PUBLISH_LIMIT: "1"
+        run: python noir_rooms_bot.py
+
+      - name: Commit history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news_history.json
+          git diff --staged --quiet || git commit -m "chore: update Noir Rooms history"
+          git push
