@@ -1,15 +1,21 @@
 """
-NOIR ROOMS — AI Cinema News & Telegram Content Manager
+NOIR ROOMS V2 — AI Cinema News & Telegram Content Manager
 
-Adapted from the Light Room Bot architecture:
+V1 base:
 - GitHub Actions scheduled execution
 - Groq OpenAI-compatible API
 - Telegram Bot API publishing
 - Persistent JSON history committed back to GitHub
-- News collection, deduplication, scoring, AI editorial pass
-- Adaptive 70/30 exploitation/exploration strategy
-- Optional MTProto analytics hook is deliberately separated because
-  detailed Telegram channel statistics are not exposed by the Bot API.
+- News collection, scoring, AI editorial, adaptive strategy
+
+V2 additions:
+- Story-level clustering & deduplication
+- Multi-source verification / confidence boost
+- Content Memory (entity / topic tracking)
+- AI Fact Checker (claims must be grounded in supplied text)
+- Hook Intelligence (multiple hooks → select best)
+- Breaking-news priority signal
+- Stronger relevance gate
 
 Required secrets:
   TELEGRAM_TOKEN
@@ -22,8 +28,7 @@ Optional environment variables:
   PUBLISH_LIMIT=1
   MAX_AI_ATTEMPTS=5
 
-The program never fabricates analytics. If Telegram analytics are unavailable,
-analytics fields remain null/unknown.
+Never fabricates analytics. Bot API does not provide full channel stats.
 """
 
 from __future__ import annotations
@@ -37,7 +42,7 @@ import random
 import re
 import time
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -58,9 +63,8 @@ MAX_AI_ATTEMPTS = max(1, int(os.environ.get("MAX_AI_ATTEMPTS", "5")))
 
 HISTORY_FILE = Path("news_history.json")
 MODEL = "openai/gpt-oss-20b"
+HISTORY_VERSION = 2
 
-# Source weights are editorial trust priors, not claims that a source is infallible.
-# Broken / unreliable feeds removed or replaced (Reuters DNS, Empire 404).
 SOURCES = [
     {"name": "BBC", "url": "https://www.bbc.com/news/entertainment_and_arts", "weight": 0.98,
      "rss": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"},
@@ -83,10 +87,10 @@ SOURCES = [
 ]
 
 CATEGORY_KEYWORDS = {
-    "breaking_news": ["breaking", "announces", "announcement", "confirmed", "official"],
+    "breaking_news": ["breaking", "announces", "announcement", "confirmed", "official", "dies", "death", "retires"],
     "movie_news": ["movie", "film", "sequel", "remake", "production", "casting", "release"],
     "actors_directors": ["actor", "actress", "director", "star", "cast", "starring", "joins"],
-    "upcoming_movies": ["upcoming", "release date", "in talks", "development", "production"],
+    "upcoming_movies": ["upcoming", "release date", "in talks", "development", "greenlight"],
     "trailers_first_look": ["trailer", "teaser", "first look", "poster", "footage", "clip"],
     "box_office": ["box office", "gross", "opening", "million", "billion", "earnings"],
     "awards_festivals": ["oscar", "academy awards", "golden globe", "bafta", "cannes", "venice", "sundance", "festival"],
@@ -94,24 +98,39 @@ CATEGORY_KEYWORDS = {
     "controversy": ["controversy", "controversial", "backlash", "dispute", "lawsuit", "feud", "scandal"],
 }
 
-# Hard relevance gate — reject obvious non-cinema noise early.
 CINEMA_POSITIVE = [
     "movie", "film", "cinema", "director", "actor", "actress", "cast", "casting",
     "trailer", "teaser", "box office", "oscar", "festival", "premiere", "sequel",
-    "remake", "screenplay", "cinematograph", "hollywood", "studio", "netflix",
-    "disney", "marvel", "dc comics", "warner", "paramount", "universal",
-    "sony pictures", "a24", "indie", "feature", "documentary", "animation",
+    "remake", "screenplay", "hollywood", "studio", "netflix", "disney", "marvel",
+    "warner", "paramount", "universal", "sony pictures", "a24", "feature",
+    "documentary", "animation", "series", "showrunner", "screenwriter",
 ]
 
 NON_CINEMA_NEGATIVE = [
-    "little league", "soccer", "football", "nba", "nfl", "mlb", "tennis",
+    "little league", "soccer", "football match", "nba", "nfl", "mlb", "tennis",
     "recipe", "cooking", "masterchef", "weather", "election", "congress",
-    "stock market", "crypto", "bitcoin", "iphone", "android only",
+    "stock market", "crypto", "bitcoin", "iphone review",
+]
+
+BREAKING_SIGNALS = [
+    "dies", "dead", "passes away", "retired", "retires", "breaking",
+    "exclusive", "officially announces", "confirms", "cast as",
+    "box office record", "opens to", "first look", "trailer drops",
+    "wins oscar", "wins academy",
+]
+
+KNOWN_ENTITIES = [
+    "christopher nolan", "nolan", "tom cruise", "marvel", "dc", "batman",
+    "superman", "spider-man", "star wars", "harry potter", "james bond",
+    "netflix", "disney", "hbo", "warner bros", "paramount", "universal",
+    "a24", "scorsese", "spielberg", "tarantino", "denis villeneuve",
+    "greta gerwig", "oppenheimer", "dune", "avatar", "mission impossible",
+    "oscar", "cannes", "venice", "sundance", "bafta",
 ]
 
 DEFAULT_CATEGORY_WEIGHTS = {
     "movie_news": 30,
-    "breaking_news": 0,  # breaking is a modifier rather than a quota
+    "breaking_news": 0,
     "actors_directors": 20,
     "upcoming_movies": 15,
     "trailers_first_look": 10,
@@ -124,7 +143,8 @@ DEFAULT_CATEGORY_WEIGHTS = {
 
 HEADLINE_STOPWORDS = {
     "the", "a", "an", "of", "to", "and", "for", "in", "on", "with", "from",
-    "new", "news", "first", "look", "film", "movie", "report", "says",
+    "new", "news", "first", "look", "film", "movie", "report", "says", "says",
+    "exclusive", "official", "announces",
 }
 
 
@@ -145,6 +165,12 @@ class NewsItem:
     audience_interest: float = 0.0
     potential_engagement: float = 0.0
     status: str = "candidate"
+    story_id: str = ""
+    multi_source_count: int = 1
+    multi_source_names: list[str] = field(default_factory=list)
+    is_breaking: bool = False
+    entities: list[str] = field(default_factory=list)
+    verification_confidence: float = 0.5
 
 
 def now_iso() -> str:
@@ -181,50 +207,74 @@ def stable_id(source: str, url: str, title: str) -> str:
     return hashlib.sha256(raw).hexdigest()[:24]
 
 
+def story_fingerprint(title: str) -> str:
+    """Lightweight story key for clustering similar headlines."""
+    tokens = sorted(token_set(title))
+    # Keep strongest content tokens
+    key = " ".join(tokens[:12])
+    return hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
+
+
+def extract_entities(text: str) -> list[str]:
+    lower = text.lower()
+    found = [e for e in KNOWN_ENTITIES if e in lower]
+    # Also capture simple Proper Name patterns (2+ capitalized words)
+    for m in re.finditer(r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,2})\b", text):
+        name = m.group(1).strip().lower()
+        if len(name) > 3 and name not in found and name not in HEADLINE_STOPWORDS:
+            found.append(name)
+    return found[:12]
+
+
 def load_history() -> dict[str, Any]:
+    default = {
+        "version": HISTORY_VERSION,
+        "posts": [],
+        "seen_news_ids": [],
+        "seen_urls": [],
+        "seen_story_ids": [],
+        "entity_memory": {},
+        "category_stats": {},
+        "time_stats": {},
+        "strategy": {
+            "exploration_rate": 0.30,
+            "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy(),
+        },
+        "weekly_reports": [],
+        "analytics_snapshots": [],
+    }
     if not HISTORY_FILE.exists():
-        return {
-            "version": 1,
-            "posts": [],
-            "seen_news_ids": [],
-            "seen_urls": [],
-            "category_stats": {},
-            "time_stats": {},
-            "strategy": {
-                "exploration_rate": 0.30,
-                "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy(),
-            },
-            "weekly_reports": [],
-            "analytics_snapshots": [],
-        }
+        return default
     try:
         data = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
     except Exception:
-        return {
-            "version": 1, "posts": [], "seen_news_ids": [], "seen_urls": [],
-            "category_stats": {}, "time_stats": {}, "strategy": {
-                "exploration_rate": 0.30, "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy()
-            }, "weekly_reports": [], "analytics_snapshots": []
-        }
-    data.setdefault("posts", [])
-    data.setdefault("seen_news_ids", [])
-    data.setdefault("seen_urls", [])
-    data.setdefault("category_stats", {})
-    data.setdefault("time_stats", {})
-    data.setdefault("strategy", {"exploration_rate": 0.30, "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy()})
+        return default
+
+    data.setdefault("version", HISTORY_VERSION)
+    data["version"] = HISTORY_VERSION
+    for k, v in default.items():
+        data.setdefault(k, v if not isinstance(v, dict) else v.copy())
     data["strategy"].setdefault("exploration_rate", 0.30)
     data["strategy"].setdefault("category_weights", DEFAULT_CATEGORY_WEIGHTS.copy())
-    data.setdefault("weekly_reports", [])
-    data.setdefault("analytics_snapshots", [])
+    data.setdefault("entity_memory", {})
+    data.setdefault("seen_story_ids", [])
     return data
 
 
 def save_history(history: dict[str, Any]) -> None:
+    history["version"] = HISTORY_VERSION
     history["posts"] = history.get("posts", [])[-500:]
     history["seen_news_ids"] = history.get("seen_news_ids", [])[-2000:]
     history["seen_urls"] = history.get("seen_urls", [])[-2000:]
+    history["seen_story_ids"] = history.get("seen_story_ids", [])[-2000:]
     history["analytics_snapshots"] = history.get("analytics_snapshots", [])[-180:]
     history["weekly_reports"] = history.get("weekly_reports", [])[-52:]
+    # Cap entity memory
+    em = history.get("entity_memory", {})
+    if len(em) > 400:
+        # keep most recently seen
+        items = sorted(em.items(), key=lambda x: x[1].get("last_seen", ""), reverse=True)[:400]
+        history["entity_memory"] = dict(items)
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2),
         encoding="utf-8",
@@ -236,7 +286,7 @@ def rss_entries(xml_text: str) -> list[dict[str, str]]:
     items = []
     for node in root.iter():
         if node.tag.split("}")[-1].lower() in {"item", "entry"}:
-            fields = {}
+            fields: dict[str, str] = {}
             for child in node:
                 tag = child.tag.split("}")[-1].lower()
                 if tag == "link":
@@ -253,8 +303,12 @@ def is_cinema_relevant(title: str, description: str) -> bool:
     text = f"{title} {description}".lower()
     if any(neg in text for neg in NON_CINEMA_NEGATIVE):
         return False
-    # Require at least one positive cinema signal for general entertainment feeds
     return any(pos in text for pos in CINEMA_POSITIVE)
+
+
+def detect_breaking(title: str, description: str) -> bool:
+    text = f"{title} {description}".lower()
+    return any(sig in text for sig in BREAKING_SIGNALS)
 
 
 def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
@@ -262,7 +316,7 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
         response = requests.get(
             source["rss"],
             timeout=20,
-            headers={"User-Agent": "NoirRoomsBot/1.1 (+Telegram cinema news bot)"},
+            headers={"User-Agent": "NoirRoomsBot/2.0 (+Telegram cinema news bot)"},
         )
         response.raise_for_status()
         raw_items = rss_entries(response.text)
@@ -288,6 +342,7 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
         published = item.get("pubdate") or item.get("published") or item.get("updated")
         published_dt = parse_date(published)
         news_id = stable_id(source["name"], url, title)
+        entities = extract_entities(title + " " + description)
         result.append(
             NewsItem(
                 id=news_id,
@@ -299,6 +354,10 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
                 discovered_at=now_iso(),
                 category=classify_category(title + " " + description),
                 description=description[:1000],
+                story_id=story_fingerprint(title),
+                is_breaking=detect_breaking(title, description),
+                entities=entities,
+                multi_source_names=[source["name"]],
             )
         )
     return result
@@ -345,10 +404,13 @@ def interest_score(item: NewsItem) -> float:
         "nolan", "spielberg", "tarantino", "scorsese", "netflix", "disney",
         "hbo", "oppenheimer", "avengers", "spider-man", "james bond",
         "oscar", "trailer", "box office", "christopher nolan", "tom cruise",
+        "villeneuve", "dune",
     ]
     score += min(30, sum(5 for k in high_interest if k in text))
     if item.category in {"actors_directors", "trailers_first_look", "breaking_news"}:
         score += 12
+    if item.is_breaking:
+        score += 10
     if "exclusive" in text:
         score += 8
     return min(score, 100.0)
@@ -367,20 +429,60 @@ def engagement_score(item: NewsItem, history: dict[str, Any]) -> float:
     return min(base, 100.0)
 
 
+def entity_penalty(item: NewsItem, history: dict[str, Any]) -> float:
+    """Downrank entities covered very recently (Content Memory)."""
+    em = history.get("entity_memory", {})
+    if not item.entities:
+        return 1.0
+    penalty = 1.0
+    now = datetime.now(timezone.utc)
+    for ent in item.entities:
+        rec = em.get(ent)
+        if not rec:
+            continue
+        try:
+            last = datetime.fromisoformat(rec.get("last_seen", ""))
+            hours = (now - last).total_seconds() / 3600
+            count = int(rec.get("count", 0))
+            if hours < 24 and count >= 1:
+                penalty *= 0.72
+            elif hours < 72 and count >= 2:
+                penalty *= 0.85
+        except Exception:
+            continue
+    return max(0.45, penalty)
+
+
 def score_news(item: NewsItem, history: dict[str, Any]) -> NewsItem:
     item.freshness = freshness_score(item)
     item.credibility = item.source_weight * 100
     item.audience_interest = interest_score(item)
     item.potential_engagement = engagement_score(item, history)
 
-    # 25/25/20/30 weighting. No single metric can dominate.
-    item.score = round(
-        0.25 * item.freshness
-        + 0.25 * item.credibility
-        + 0.20 * item.audience_interest
-        + 0.30 * item.potential_engagement,
-        2,
+    # Multi-source verification boost
+    ms_boost = 0.0
+    if item.multi_source_count >= 3:
+        ms_boost = 12.0
+        item.verification_confidence = min(0.95, 0.55 + 0.15 * item.multi_source_count)
+    elif item.multi_source_count == 2:
+        ms_boost = 7.0
+        item.verification_confidence = 0.72
+    else:
+        item.verification_confidence = 0.50 + (item.source_weight - 0.8) * 0.5
+
+    base = (
+        0.22 * item.freshness
+        + 0.22 * item.credibility
+        + 0.18 * item.audience_interest
+        + 0.25 * item.potential_engagement
+        + 0.13 * (item.verification_confidence * 100)
     )
+    base += ms_boost
+    if item.is_breaking:
+        base += 8.0
+
+    base *= entity_penalty(item, history)
+    item.score = round(min(base, 100.0), 2)
     return item
 
 
@@ -396,18 +498,73 @@ def similarity(a: str, b: str) -> float:
     return len(x & y) / len(x | y)
 
 
+def cluster_stories(items: list[NewsItem]) -> list[NewsItem]:
+    """
+    Story-level clustering:
+    Group near-duplicate headlines into one story.
+    Keep the strongest item, attach multi-source metadata.
+    """
+    # Sort by source weight + freshness preference later; first pass group by story_id / similarity
+    clusters: dict[str, list[NewsItem]] = {}
+    ordered: list[NewsItem] = []
+
+    for item in sorted(items, key=lambda x: (x.source_weight, x.freshness), reverse=True):
+        matched_key = None
+        for key, group in clusters.items():
+            rep = group[0]
+            if item.story_id == rep.story_id or similarity(item.title, rep.title) >= 0.62:
+                matched_key = key
+                break
+        if matched_key is None:
+            key = item.story_id or item.id
+            clusters[key] = [item]
+            ordered.append(item)
+        else:
+            clusters[matched_key].append(item)
+
+    result: list[NewsItem] = []
+    for key, group in clusters.items():
+        # Representative = highest source weight, then freshest
+        group_sorted = sorted(group, key=lambda x: (x.source_weight, -hours_old(x)), reverse=True)
+        rep = group_sorted[0]
+        sources = []
+        for g in group_sorted:
+            if g.source not in sources:
+                sources.append(g.source)
+        rep.multi_source_count = len(sources)
+        rep.multi_source_names = sources
+        # Merge entities
+        ent = []
+        for g in group:
+            for e in g.entities:
+                if e not in ent:
+                    ent.append(e)
+        rep.entities = ent[:15]
+        # Prefer breaking if any member is breaking
+        rep.is_breaking = any(g.is_breaking for g in group)
+        result.append(rep)
+
+    return result
+
+
 def deduplicate(items: list[NewsItem], history: dict[str, Any]) -> list[NewsItem]:
     seen_ids = set(history.get("seen_news_ids", []))
     seen_urls = {normalize_url(x) for x in history.get("seen_urls", [])}
+    seen_stories = set(history.get("seen_story_ids", []))
     output: list[NewsItem] = []
 
     for item in sorted(items, key=lambda x: x.score, reverse=True):
         if item.id in seen_ids or normalize_url(item.url) in seen_urls:
             continue
+        if item.story_id and item.story_id in seen_stories:
+            continue
 
         duplicate = False
         for kept in output:
-            if item.source == kept.source and normalize_url(item.url) == normalize_url(kept.url):
+            if normalize_url(item.url) == normalize_url(kept.url):
+                duplicate = True
+                break
+            if item.story_id and item.story_id == kept.story_id:
                 duplicate = True
                 break
             if similarity(item.title, kept.title) >= 0.68:
@@ -425,29 +582,32 @@ def select_candidates(items: list[NewsItem], history: dict[str, Any]) -> list[Ne
     exploration_rate = float(strategy.get("exploration_rate", 0.30))
     weights = strategy.get("category_weights", DEFAULT_CATEGORY_WEIGHTS)
 
-    ranked = sorted(items, key=lambda x: x.score, reverse=True)
-    selected: list[NewsItem] = []
+    # Breaking first
+    breaking = [x for x in items if x.is_breaking]
+    normal = [x for x in items if not x.is_breaking]
+    ranked = sorted(breaking, key=lambda x: x.score, reverse=True) + sorted(
+        normal, key=lambda x: x.score, reverse=True
+    )
 
-    # 70% exploitation: top score. 30% exploration: category diversity.
+    selected: list[NewsItem] = []
     exploitation_n = max(1, round(CANDIDATE_LIMIT * (1 - exploration_rate)))
     selected.extend(ranked[:exploitation_n])
 
     remaining = [x for x in ranked[exploitation_n:] if x not in selected]
     random.shuffle(remaining)
     while remaining and len(selected) < CANDIDATE_LIMIT:
-        item = remaining.pop()
-        if len(selected) < CANDIDATE_LIMIT:
-            selected.append(item)
+        selected.append(remaining.pop())
 
-    # Re-rank using learned category weights while preserving source/freshness quality.
     for item in selected:
-        item.score = round(item.score * (0.70 + 0.30 * (weights.get(item.category, 5) / 30)), 2)
+        item.score = round(
+            item.score * (0.70 + 0.30 * (weights.get(item.category, 5) / 30)),
+            2,
+        )
 
-    return sorted(selected, key=lambda x: x.score, reverse=True)[:CANDIDATE_LIMIT]
+    return sorted(selected, key=lambda x: (x.is_breaking, x.score), reverse=True)[:CANDIDATE_LIMIT]
 
 
-def groq_generate(prompt: str, max_tokens: int = 900, temperature: float = 0.45, retries: int = 4) -> str:
-    """Call Groq with exponential backoff for 429 / transient errors."""
+def groq_generate(prompt: str, max_tokens: int = 1100, temperature: float = 0.4, retries: int = 4) -> str:
     last_exc: Exception | None = None
     for attempt in range(retries):
         try:
@@ -472,8 +632,7 @@ def groq_generate(prompt: str, max_tokens: int = 900, temperature: float = 0.45,
                 time.sleep(wait)
                 continue
             if response.status_code >= 400:
-                # Log body for debugging without leaking secrets
-                body_preview = response.text[:300].replace("\n", " ")
+                body_preview = response.text[:350].replace("\n", " ")
                 print(f"[WARN] Groq HTTP {response.status_code}: {body_preview}")
             response.raise_for_status()
             data = response.json()
@@ -487,54 +646,92 @@ def groq_generate(prompt: str, max_tokens: int = 900, temperature: float = 0.45,
 
 
 def ai_editorial(item: NewsItem) -> dict[str, Any]:
-    prompt = f"""
-You are the Persian-language editor of NOIR ROOMS, a cinema news Telegram channel.
+    sources_line = ", ".join(item.multi_source_names) if item.multi_source_names else item.source
+    multi_note = (
+        f"This story appears in {item.multi_source_count} source(s): {sources_line}. "
+        if item.multi_source_count > 1
+        else f"Single source: {item.source}. Treat unconfirmed details carefully. "
+    )
 
-You MUST use only the supplied facts. Do not invent names, dates, quotes, numbers,
-release dates, plot details, production details, or claims. If a fact is uncertain,
-omit it. Do not reproduce the source article verbatim.
+    prompt = f"""
+You are the Persian-language editor + fact-checker of NOIR ROOMS (cinema Telegram channel).
+
+HARD RULES:
+1. Use ONLY facts present in the supplied TITLE + DESCRIPTION.
+2. Do NOT invent names, dates, numbers, quotes, cast, directors, box-office figures, or plot points.
+3. If a detail is not explicitly supported by the source text → OMIT it.
+4. Do not use your world knowledge to fill gaps.
+5. Never present a rumor as confirmed.
+6. Write original natural Persian (not machine-translation style).
+7. No misleading clickbait.
+
+{multi_note}
+Verification confidence prior: {item.verification_confidence:.2f}
+Breaking signal: {item.is_breaking}
 
 SOURCE: {item.source}
-SOURCE URL: {item.url}
+OTHER SOURCES SEEN: {sources_line}
+URL: {item.url}
 CATEGORY: {item.category}
 TITLE: {item.title}
 PUBLISHED: {item.published_at}
 DESCRIPTION/EXCERPT:
 {item.description}
 
-Write an original Persian Telegram post for Iranian movie fans.
-Tone: natural Persian, concise, cinematic, energetic, not clickbait.
-Hook may be colloquial, but must remain factually defensible.
+TASK:
+A) Extract only claims that are explicitly supported by the text above.
+B) Generate 3 different Persian hooks (punchy, max 16 words each). Pick the best as selected_hook.
+C) Write the final Persian post fields.
 
-Return JSON with exactly:
+Return JSON exactly:
 {{
-  "hook": "one punchy Persian line, max 18 words",
+  "supported_claims": ["claim1", "claim2"],
+  "hooks": ["hook A", "hook B", "hook C"],
+  "selected_hook": "best hook",
+  "hook_reason": "why this hook",
   "headline": "clear Persian headline",
-  "summary": "2-4 short Persian paragraphs",
-  "key_facts": ["fact 1", "fact 2", "fact 3"],
+  "summary": "2-4 short Persian paragraphs using only supported claims",
+  "key_facts": ["fact1", "fact2", "fact3"],
   "cta": "short CTA or empty string",
-  "hashtags": ["#سینما", "#فیلم", "#..."],
+  "hashtags": ["#سینما", "#فیلم"],
   "confidence": "high|medium|low",
   "publish": true,
-  "reason": "one short sentence explaining editorial decision"
+  "reason": "editorial decision",
+  "fact_check_notes": "any uncertainty"
 }}
 
-Important:
-- Never fabricate a quote.
-- Never say a rumor is confirmed.
-- If the supplied source text does not establish a fact, do not add it.
-- Keep the final post short enough for Telegram.
-- If the story is not clearly about cinema/film/TV production, set publish=false.
+If the story is not clearly cinema/TV production related, or claims are too weak, set publish=false.
+If only one weak source and story is extraordinary, prefer confidence=medium or low.
 """
     raw = groq_generate(prompt)
     data = json.loads(raw)
 
-    required = ["hook", "headline", "summary", "key_facts", "cta", "hashtags", "confidence", "publish", "reason"]
-    for key in required:
-        data.setdefault(key, "" if key not in {"key_facts", "hashtags"} else [])
+    # Normalize fields
+    data.setdefault("hooks", [])
+    data.setdefault("selected_hook", data.get("hook", ""))
+    data.setdefault("hook", data.get("selected_hook", ""))
+    data.setdefault("headline", "")
+    data.setdefault("summary", "")
+    data.setdefault("key_facts", [])
+    data.setdefault("cta", "")
+    data.setdefault("hashtags", [])
+    data.setdefault("confidence", "medium")
+    data.setdefault("publish", False)
+    data.setdefault("reason", "")
+    data.setdefault("supported_claims", [])
+    data.setdefault("fact_check_notes", "")
+
+    # Prefer selected_hook
+    if data.get("selected_hook"):
+        data["hook"] = data["selected_hook"]
 
     if data.get("confidence") == "low":
         data["publish"] = False
+
+    # Extra safety: require at least some substance
+    if not data.get("summary") or not data.get("hook"):
+        data["publish"] = False
+        data["reason"] = data.get("reason") or "missing core fields"
 
     return data
 
@@ -553,6 +750,9 @@ def format_post(item: NewsItem, edited: dict[str, Any]) -> str:
         lines += ["", "📌 نکات مهم:"]
         lines += [f"• {x}" for x in facts[:4]]
 
+    if item.multi_source_count >= 2:
+        lines += ["", f"✅ تأیید چندمنبعی: {', '.join(item.multi_source_names[:4])}"]
+
     cta = edited.get("cta", "").strip()
     if cta:
         lines += ["", cta]
@@ -561,7 +761,6 @@ def format_post(item: NewsItem, edited: dict[str, Any]) -> str:
     if hashtags:
         lines += ["", " ".join(hashtags[:6])]
 
-    # Source link is always retained.
     lines += ["", f"🔗 منبع: {item.source}", item.url]
     return "\n".join(lines)
 
@@ -577,8 +776,6 @@ async def publish(bot: Bot, item: NewsItem, edited: dict[str, Any]) -> dict[str,
         "telegram_message_id": message.message_id,
         "published_at": now_iso(),
         "text": text,
-        # Bot API does not expose the full channel analytics history.
-        # Keep these fields explicitly null until a real analytics adapter supplies them.
         "analytics": {
             "views": None,
             "forwards": None,
@@ -588,11 +785,26 @@ async def publish(bot: Bot, item: NewsItem, edited: dict[str, Any]) -> dict[str,
     }
 
 
+def update_entity_memory(history: dict[str, Any], item: NewsItem) -> None:
+    em = history.setdefault("entity_memory", {})
+    ts = now_iso()
+    for ent in item.entities:
+        rec = em.setdefault(ent, {"count": 0, "last_seen": ts, "categories": []})
+        rec["count"] = int(rec.get("count", 0)) + 1
+        rec["last_seen"] = ts
+        cats = rec.setdefault("categories", [])
+        if item.category not in cats:
+            cats.append(item.category)
+
+
 def record_published(history: dict[str, Any], item: NewsItem, edited: dict[str, Any], result: dict[str, Any]) -> None:
     hour = datetime.now(timezone.utc).hour
     history["posts"].append({
         "news_id": item.id,
+        "story_id": item.story_id,
         "source": item.source,
+        "sources": item.multi_source_names,
+        "multi_source_count": item.multi_source_count,
         "url": item.url,
         "title": item.title,
         "category": item.category,
@@ -601,13 +813,21 @@ def record_published(history: dict[str, Any], item: NewsItem, edited: dict[str, 
         "credibility": item.credibility,
         "audience_interest": item.audience_interest,
         "potential_engagement": item.potential_engagement,
+        "verification_confidence": item.verification_confidence,
+        "is_breaking": item.is_breaking,
+        "entities": item.entities,
         "hook": edited.get("hook"),
+        "hooks": edited.get("hooks", []),
         "confidence": edited.get("confidence"),
+        "supported_claims": edited.get("supported_claims", []),
+        "fact_check_notes": edited.get("fact_check_notes", ""),
         "status": "published",
         **result,
     })
     history["seen_news_ids"].append(item.id)
     history["seen_urls"].append(item.url)
+    if item.story_id:
+        history.setdefault("seen_story_ids", []).append(item.story_id)
 
     stats = history["category_stats"].setdefault(item.category, {
         "published": 0,
@@ -618,16 +838,10 @@ def record_published(history: dict[str, Any], item: NewsItem, edited: dict[str, 
     stats["published"] += 1
     history["time_stats"].setdefault(str(hour), {"published": 0})
     history["time_stats"][str(hour)]["published"] += 1
+    update_entity_memory(history, item)
 
 
 def update_strategy(history: dict[str, Any]) -> None:
-    """
-    Adaptive policy:
-    - exploitation = categories with real observed metrics
-    - exploration = minimum 30%
-    - no category can exceed 45% of learned weight
-    - without real metrics, keep the initial distribution
-    """
     category_stats = history.get("category_stats", {})
     observed = []
     for category, stats in category_stats.items():
@@ -646,7 +860,6 @@ def update_strategy(history: dict[str, Any]) -> None:
     for category, value in observed:
         learned[category] = min(45.0, max(5.0, value / total * 100.0))
 
-    # Normalize while keeping exploration alive.
     total_learned = sum(learned.values())
     if total_learned:
         for category in learned:
@@ -676,6 +889,7 @@ def build_weekly_report(history: dict[str, Any]) -> dict[str, Any]:
 
     report = {
         "generated_at": now_iso(),
+        "version": HISTORY_VERSION,
         "posts": len(posts),
         "average_views": (
             sum(p["analytics"]["views"] for p in metric_posts) / len(metric_posts)
@@ -685,9 +899,15 @@ def build_weekly_report(history: dict[str, Any]) -> dict[str, Any]:
         "worst_category": min(category_counts, key=category_counts.get) if category_counts else None,
         "best_hook": best_hook,
         "top_news": [
-            {"title": p.get("title"), "category": p.get("category"), "score": p.get("score")}
+            {
+                "title": p.get("title"),
+                "category": p.get("category"),
+                "score": p.get("score"),
+                "multi_source_count": p.get("multi_source_count", 1),
+            }
             for p in sorted(posts, key=lambda x: x.get("score", 0), reverse=True)[:5]
         ],
+        "entity_memory_size": len(history.get("entity_memory", {})),
         "growth": None,
         "recommended_strategy": history.get("strategy", {}),
     }
@@ -696,8 +916,8 @@ def build_weekly_report(history: dict[str, Any]) -> dict[str, Any]:
 
 
 def print_report(report: dict[str, Any]) -> None:
-    print("\n=== NOIR ROOMS WEEKLY/ROLLING REPORT ===")
-    for key in ["posts", "average_views", "best_category", "worst_category", "best_hook", "growth"]:
+    print("\n=== NOIR ROOMS V2 REPORT ===")
+    for key in ["posts", "average_views", "best_category", "worst_category", "best_hook", "growth", "entity_memory_size"]:
         print(f"{key}: {report.get(key)}")
     print("recommended_strategy:", json.dumps(report.get("recommended_strategy"), ensure_ascii=False))
 
@@ -705,17 +925,25 @@ def print_report(report: dict[str, Any]) -> None:
 async def main() -> None:
     history = load_history()
 
-    print("NOIR ROOMS: collecting cinema news...")
+    print("NOIR ROOMS V2: collecting cinema news...")
     all_items: list[NewsItem] = []
     for source in SOURCES:
         all_items.extend(fetch_feed(source))
 
-    # Score before deduplication so the strongest version of a repeated story survives.
-    scored = [score_news(x, history) for x in all_items]
+    print(f"Raw collected={len(all_items)}")
+
+    # Story-level clustering (multi-source)
+    clustered = cluster_stories(all_items)
+    print(f"After story clustering={len(clustered)}")
+
+    scored = [score_news(x, history) for x in clustered]
     unique = deduplicate(scored, history)
     candidates = select_candidates(unique, history)
 
-    print(f"Collected={len(all_items)} unique={len(unique)} candidates={len(candidates)}")
+    print(
+        f"unique={len(unique)} candidates={len(candidates)} "
+        f"breaking={sum(1 for c in candidates if c.is_breaking)}"
+    )
 
     if not candidates:
         print("No eligible news items.")
@@ -735,7 +963,6 @@ async def main() -> None:
 
         ai_attempts += 1
         try:
-            # Small polite delay between AI calls to reduce 429 pressure
             if ai_attempts > 1:
                 time.sleep(1.5 + random.uniform(0.2, 1.0))
             edited = ai_editorial(item)
@@ -745,26 +972,29 @@ async def main() -> None:
 
         if not edited.get("publish", False):
             item.status = "rejected_by_editor"
-            print(f"[SKIP] editor rejected: {item.title[:80]} | reason={edited.get('reason', '')}")
+            print(
+                f"[SKIP] editor rejected: {item.title[:80]} | "
+                f"conf={edited.get('confidence')} | reason={edited.get('reason', '')}"
+            )
             continue
 
         try:
             result = await publish(bot, item, edited)
             record_published(history, item, edited, result)
             published += 1
-            print(f"Published #{published}: {item.category} | {item.title}")
+            print(
+                f"Published #{published}: {item.category} | "
+                f"ms={item.multi_source_count} | breaking={item.is_breaking} | {item.title[:70]}"
+            )
         except Exception as exc:
             print(f"[ERROR] Telegram publish failed: {exc}")
             break
 
     update_strategy(history)
-
-    # Generate a rolling report on every run; it is not presented as complete
-    # Telegram analytics unless real metrics exist.
     report = build_weekly_report(history)
     print_report(report)
     save_history(history)
-    print(f"Done. published={published} ai_attempts={ai_attempts}")
+    print(f"Done V2. published={published} ai_attempts={ai_attempts}")
 
 
 if __name__ == "__main__":
