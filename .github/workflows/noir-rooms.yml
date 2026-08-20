@@ -2,10 +2,8 @@ name: Noir Rooms — Cinema News
 
 on:
   schedule:
-    - cron: "0 5 * * *"
-    - cron: "0 9 * * *"
-    - cron: "0 13 * * *"
-    - cron: "0 17 * * *"
+    # Every hour (UTC). One post per run.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -37,8 +35,13 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           CHANNEL_ID: "@noir_rooms"
           POSTS_PER_RUN: "1"
-          CANDIDATE_LIMIT: "50"
+          CANDIDATE_LIMIT: "40"
           PUBLISH_LIMIT: "1"
+          MAX_AI_ATTEMPTS: "4"
+          MIN_INTEREST_SCORE: "58"
+          # Optional one-shot channel branding (leave empty after first success):
+          # SET_CHANNEL_TITLE: "Noir Rooms | اخبار سینما"
+          # SET_CHANNEL_DESCRIPTION: "اخبار فیلم، سریال، بازیگران و باکس‌آفیس — برای علاقه‌مندان سینما"
         run: python noir_rooms_bot.py
 
       - name: Commit history
