@@ -309,6 +309,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8adfb0b8fc05598da0cd090e",
+      "story_id": "283454c87d00b568",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
+      "title": "Jessica Simpson Doc Set at Netflix From ‘Robbie Williams’ Director Joe Pearlman (EXCLUSIVE)",
+      "category": "streaming",
+      "score": 67.17,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "jessica simpson doc",
+        "netflix from",
+        "robbie williams",
+        "director joe pearlman",
+        "jessica simpson",
+        "variety",
+        "directed",
+        "joe pearlman",
+        "simpson"
+      ],
+      "hook": "دستاورد جدید نِت‌فلیکس: مستند جیسیکا سیمپسون",
+      "hooks": [
+        "مستند جیسیکا سیمپسون در نِت‌فلیکس",
+        "فیلم مستند جیسیکا سیمپسون، نِت‌فلیکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نِت‌فلیکس مستند جیسیکا سیمپسون را خریداری کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 12,
+      "published_at": "2026-08-20T18:01:18.806997+00:00",
+      "text": "دستاورد جدید نِت‌فلیکس: مستند جیسیکا سیمپسون\n\n🎬 نِت‌فلیکس مستند جدید جیسیکا سیمپسون را از کارگردان جو پیرلمان تهیه کرد\n\nنِت‌فلیکس مستند جدیدی درباره زندگی و حرفه جیسیکا سیمپسون را به‌دست آورد.\n\nاین مستند توسط کارگردان جو پیرلمان، که به خاطر کارهایش در سریال «روبی ویلیامز» شناخته می‌شود، ساخته می‌شود.\n\nمستند به‌صورت عمیق به زندگی هنرمند و کارآفرین می‌پردازد و به طرفداران فرصتی برای شناخت بهتر او می‌دهد.\n\nنِت‌فلیکس این پروژه را به‌سرعت خریداری کرده و در انتظار انتشار آن است.\n\n📌 نکات مهم:\n• نِت‌فلیکس مستند جیسیکا سیمپسون را خریداری کرد\n• کارگردان جو پیرلمان مستند را هدایت می‌کند\n• مستند به زندگی و حرفه جیسیکا سیمپسون می‌پردازد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -318,7 +369,8 @@
     "2e2fd938beb37dd88c06a542",
     "215e4eefed5d58cad62c1e80",
     "f0825d27899b40001d469a35",
-    "29e51188c85c6cfe7b73a50d"
+    "29e51188c85c6cfe7b73a50d",
+    "8adfb0b8fc05598da0cd090e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -327,7 +379,8 @@
     "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
     "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
     "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
-    "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327"
+    "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
+    "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927"
   ],
   "category_stats": {
     "movie_news": {
@@ -337,6 +390,12 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
+      "published": 1,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
+    },
+    "streaming": {
       "published": 1,
       "avg_views": null,
       "avg_reactions": null,
@@ -357,6 +416,9 @@
       "published": 1
     },
     "16": {
+      "published": 1
+    },
+    "18": {
       "published": 1
     }
   },
@@ -779,6 +841,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T18:01:18.807075+00:00",
+      "version": 2,
+      "posts": 8,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "actors_directors",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 66,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -787,7 +907,8 @@
     "dc38a20d0963a1bf",
     "510bcf8499fa4cd8",
     "dcf80bd8e54319ba",
-    "d218ce7f7e756d80"
+    "d218ce7f7e756d80",
+    "283454c87d00b568"
   ],
   "entity_memory": {
     "venice": {
@@ -1180,6 +1301,76 @@
       "last_seen": "2026-08-20T16:04:53.294014+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "netflix": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "jessica simpson doc": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "netflix from": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "robbie williams": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "director joe pearlman": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "jessica simpson": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "variety": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "directed": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "joe pearlman": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "simpson": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
       ]
     }
   },
