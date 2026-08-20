@@ -48,19 +48,75 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2e07738d432981532a7253be",
+      "story_id": "d8c210a4afc89034",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
+      "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 89.85,
+      "freshness": 100.0,
+      "credibility": 95.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "sundance",
+        "sundance prizewinner luke",
+        "lorentzen",
+        "documentary",
+        "boatbuilders",
+        "boarded",
+        "metfilm sales ahead",
+        "venice world premiere",
+        "sales",
+        "luke lorentzen",
+        "maine"
+      ],
+      "hook": "دستاورد Sundance: مستند Boatbuilders در ونیس به نمایش می‌رسد",
+      "hooks": [
+        "فیلمی که در ونیس برگزیده شد",
+        "سفر به دنیای ساخت قایق در مینه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "MetFilm Sales حقوق فروش جهانی Boatbuilders را بر عهده گرفت",
+        "فلم در بخش باز 83rd Venice International Film Festival در 7 سپتامبر به نمایش می‌رسد"
+      ],
+      "status": "published",
+      "telegram_message_id": 5,
+      "published_at": "2026-08-20T11:23:32.924296+00:00",
+      "text": "دستاورد Sundance: مستند Boatbuilders در ونیس به نمایش می‌رسد\n\n🎬 مستند Boatbuilders، برنده جایزه Sundance، در ونیس به نمایش می‌آید\n\nمتفیلم ساندنس برنده Luke Lorentzen، مستند Boatbuilders، به دست MetFilm Sales رسید و حقوق فروش جهانی را بر عهده گرفت. MetFilm Sales فیلمنامه را در بازار Toronto International Film Festival Market به خریداران معرفی خواهد کرد.\n\n📌 نکات مهم:\n• متفیلم ساندنس برنده Luke Lorentzen\n• MetFilm Sales حقوق فروش جهانی Boatbuilders را بر عهده گرفت\n• فلم در بخش باز 83rd Venice International Film Festival در 7 سپتامبر به نمایش می‌رسد\n• MetFilm Sales فیلمنامه را در بازار Toronto International Film Festival Market ارائه می‌دهد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
     "897a1351c593cd1eadef62cb",
-    "35258b33ea997c9a5dafa5f4"
+    "35258b33ea997c9a5dafa5f4",
+    "2e07738d432981532a7253be"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
-    "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305"
+    "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
+    "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -71,6 +127,9 @@
       "published": 1
     },
     "10": {
+      "published": 1
+    },
+    "11": {
       "published": 1
     }
   },
@@ -221,9 +280,142 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T11:23:32.924374+00:00",
+      "version": 2,
+      "posts": 3,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 12,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
-  "seen_story_ids": [],
-  "entity_memory": {}
+  "seen_story_ids": [
+    "d8c210a4afc89034"
+  ],
+  "entity_memory": {
+    "venice": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sundance": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sundance prizewinner luke": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lorentzen": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boatbuilders": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boarded": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "metfilm sales ahead": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice world premiere": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sales": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luke lorentzen": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maine": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    }
+  }
 }
