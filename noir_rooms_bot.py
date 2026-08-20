@@ -20,6 +20,7 @@ Optional environment variables:
   POSTS_PER_RUN=1
   CANDIDATE_LIMIT=50
   PUBLISH_LIMIT=1
+  MAX_AI_ATTEMPTS=5
 
 The program never fabricates analytics. If Telegram analytics are unavailable,
 analytics fields remain null/unknown.
@@ -36,7 +37,7 @@ import random
 import re
 import time
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -53,28 +54,30 @@ CHANNEL_ID = os.environ.get("CHANNEL_ID", "@noir_rooms")
 POSTS_PER_RUN = max(1, int(os.environ.get("POSTS_PER_RUN", "1")))
 CANDIDATE_LIMIT = max(10, int(os.environ.get("CANDIDATE_LIMIT", "50")))
 PUBLISH_LIMIT = max(1, int(os.environ.get("PUBLISH_LIMIT", str(POSTS_PER_RUN))))
+MAX_AI_ATTEMPTS = max(1, int(os.environ.get("MAX_AI_ATTEMPTS", "5")))
 
 HISTORY_FILE = Path("news_history.json")
 MODEL = "openai/gpt-oss-20b"
 
 # Source weights are editorial trust priors, not claims that a source is infallible.
+# Broken / unreliable feeds removed or replaced (Reuters DNS, Empire 404).
 SOURCES = [
-    {"name": "Reuters", "url": "https://www.reuters.com/", "weight": 1.00,
-     "rss": "https://feeds.reuters.com/reuters/entertainmentNews"},
     {"name": "BBC", "url": "https://www.bbc.com/news/entertainment_and_arts", "weight": 0.98,
      "rss": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"},
     {"name": "The Guardian", "url": "https://www.theguardian.com/film", "weight": 0.94,
      "rss": "https://www.theguardian.com/film/rss"},
     {"name": "Variety", "url": "https://variety.com/", "weight": 0.94,
      "rss": "https://variety.com/feed/"},
+    {"name": "Variety Film", "url": "https://variety.com/v/film/", "weight": 0.95,
+     "rss": "https://variety.com/v/film/feed/"},
     {"name": "Deadline", "url": "https://deadline.com/", "weight": 0.94,
      "rss": "https://deadline.com/feed/"},
+    {"name": "Deadline Film", "url": "https://deadline.com/v/film/", "weight": 0.95,
+     "rss": "https://deadline.com/v/film/feed/"},
     {"name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/", "weight": 0.94,
      "rss": "https://www.hollywoodreporter.com/feed/"},
     {"name": "IndieWire", "url": "https://www.indiewire.com/", "weight": 0.88,
      "rss": "https://www.indiewire.com/feed/"},
-    {"name": "Empire", "url": "https://www.empireonline.com/movies/", "weight": 0.86,
-     "rss": "https://www.empireonline.com/movies/news/rss/"},
     {"name": "TheWrap", "url": "https://www.thewrap.com/", "weight": 0.84,
      "rss": "https://www.thewrap.com/feed/"},
 ]
@@ -90,6 +93,21 @@ CATEGORY_KEYWORDS = {
     "streaming": ["netflix", "hbo", "hbo max", "disney+", "prime video", "apple tv", "streaming", "paramount+"],
     "controversy": ["controversy", "controversial", "backlash", "dispute", "lawsuit", "feud", "scandal"],
 }
+
+# Hard relevance gate — reject obvious non-cinema noise early.
+CINEMA_POSITIVE = [
+    "movie", "film", "cinema", "director", "actor", "actress", "cast", "casting",
+    "trailer", "teaser", "box office", "oscar", "festival", "premiere", "sequel",
+    "remake", "screenplay", "cinematograph", "hollywood", "studio", "netflix",
+    "disney", "marvel", "dc comics", "warner", "paramount", "universal",
+    "sony pictures", "a24", "indie", "feature", "documentary", "animation",
+]
+
+NON_CINEMA_NEGATIVE = [
+    "little league", "soccer", "football", "nba", "nfl", "mlb", "tennis",
+    "recipe", "cooking", "masterchef", "weather", "election", "congress",
+    "stock market", "crypto", "bitcoin", "iphone", "android only",
+]
 
 DEFAULT_CATEGORY_WEIGHTS = {
     "movie_news": 30,
@@ -108,6 +126,7 @@ HEADLINE_STOPWORDS = {
     "the", "a", "an", "of", "to", "and", "for", "in", "on", "with", "from",
     "new", "news", "first", "look", "film", "movie", "report", "says",
 }
+
 
 @dataclass
 class NewsItem:
@@ -181,7 +200,7 @@ def load_history() -> dict[str, Any]:
     try:
         data = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
     except Exception:
-        return load_history.__wrapped__() if hasattr(load_history, "__wrapped__") else {
+        return {
             "version": 1, "posts": [], "seen_news_ids": [], "seen_urls": [],
             "category_stats": {}, "time_stats": {}, "strategy": {
                 "exploration_rate": 0.30, "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy()
@@ -230,12 +249,20 @@ def rss_entries(xml_text: str) -> list[dict[str, str]]:
     return items
 
 
+def is_cinema_relevant(title: str, description: str) -> bool:
+    text = f"{title} {description}".lower()
+    if any(neg in text for neg in NON_CINEMA_NEGATIVE):
+        return False
+    # Require at least one positive cinema signal for general entertainment feeds
+    return any(pos in text for pos in CINEMA_POSITIVE)
+
+
 def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
     try:
         response = requests.get(
             source["rss"],
             timeout=20,
-            headers={"User-Agent": "NoirRoomsBot/1.0 (+Telegram cinema news bot)"},
+            headers={"User-Agent": "NoirRoomsBot/1.1 (+Telegram cinema news bot)"},
         )
         response.raise_for_status()
         raw_items = rss_entries(response.text)
@@ -244,7 +271,7 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
         return []
 
     result = []
-    for item in raw_items[:30]:
+    for item in raw_items[:25]:
         title = strip_html(item.get("title", ""))
         url = normalize_url(item.get("link", ""))
         description = strip_html(
@@ -253,6 +280,11 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
             or item.get("content")
             or ""
         )
+        if not title or not url:
+            continue
+        if not is_cinema_relevant(title, description):
+            continue
+
         published = item.get("pubdate") or item.get("published") or item.get("updated")
         published_dt = parse_date(published)
         news_id = stable_id(source["name"], url, title)
@@ -312,7 +344,7 @@ def interest_score(item: NewsItem) -> float:
         "marvel", "dc", "batman", "superman", "star wars", "harry potter",
         "nolan", "spielberg", "tarantino", "scorsese", "netflix", "disney",
         "hbo", "oppenheimer", "avengers", "spider-man", "james bond",
-        "oscar", "trailer", "box office",
+        "oscar", "trailer", "box office", "christopher nolan", "tom cruise",
     ]
     score += min(30, sum(5 for k in high_interest if k in text))
     if item.category in {"actors_directors", "trailers_first_look", "breaking_news"}:
@@ -414,25 +446,44 @@ def select_candidates(items: list[NewsItem], history: dict[str, Any]) -> list[Ne
     return sorted(selected, key=lambda x: x.score, reverse=True)[:CANDIDATE_LIMIT]
 
 
-def groq_generate(prompt: str, max_tokens: int = 900, temperature: float = 0.45) -> str:
-    response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={
-            "Authorization": f"Bearer {GROQ_API_KEY}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": MODEL,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": temperature,
-            "max_tokens": max_tokens,
-            "response_format": {"type": "json_object"},
-        },
-        timeout=90,
-    )
-    response.raise_for_status()
-    data = response.json()
-    return data["choices"][0]["message"]["content"].strip()
+def groq_generate(prompt: str, max_tokens: int = 900, temperature: float = 0.45, retries: int = 4) -> str:
+    """Call Groq with exponential backoff for 429 / transient errors."""
+    last_exc: Exception | None = None
+    for attempt in range(retries):
+        try:
+            response = requests.post(
+                "https://api.groq.com/openai/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {GROQ_API_KEY}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": MODEL,
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": temperature,
+                    "max_tokens": max_tokens,
+                    "response_format": {"type": "json_object"},
+                },
+                timeout=90,
+            )
+            if response.status_code == 429:
+                wait = min(60, (2 ** attempt) + random.uniform(0.5, 2.0))
+                print(f"[RATE] Groq 429 — sleeping {wait:.1f}s (attempt {attempt + 1}/{retries})")
+                time.sleep(wait)
+                continue
+            if response.status_code >= 400:
+                # Log body for debugging without leaking secrets
+                body_preview = response.text[:300].replace("\n", " ")
+                print(f"[WARN] Groq HTTP {response.status_code}: {body_preview}")
+            response.raise_for_status()
+            data = response.json()
+            return data["choices"][0]["message"]["content"].strip()
+        except requests.exceptions.RequestException as exc:
+            last_exc = exc
+            wait = min(30, (2 ** attempt) + random.uniform(0.3, 1.5))
+            print(f"[WARN] Groq request error: {exc} — retry in {wait:.1f}s")
+            time.sleep(wait)
+    raise last_exc or RuntimeError("Groq generate failed after retries")
 
 
 def ai_editorial(item: NewsItem) -> dict[str, Any]:
@@ -473,6 +524,7 @@ Important:
 - Never say a rumor is confirmed.
 - If the supplied source text does not establish a fact, do not add it.
 - Keep the final post short enough for Telegram.
+- If the story is not clearly about cinema/film/TV production, set publish=false.
 """
     raw = groq_generate(prompt)
     data = json.loads(raw)
@@ -672,19 +724,28 @@ async def main() -> None:
 
     bot = Bot(token=TELEGRAM_TOKEN)
     published = 0
+    ai_attempts = 0
 
     for item in candidates:
         if published >= PUBLISH_LIMIT:
             break
+        if ai_attempts >= MAX_AI_ATTEMPTS:
+            print(f"Reached MAX_AI_ATTEMPTS={MAX_AI_ATTEMPTS}, stopping AI calls.")
+            break
 
+        ai_attempts += 1
         try:
+            # Small polite delay between AI calls to reduce 429 pressure
+            if ai_attempts > 1:
+                time.sleep(1.5 + random.uniform(0.2, 1.0))
             edited = ai_editorial(item)
         except Exception as exc:
-            print(f"[WARN] AI editor failed for {item.title}: {exc}")
+            print(f"[WARN] AI editor failed for {item.title[:80]}: {exc}")
             continue
 
         if not edited.get("publish", False):
             item.status = "rejected_by_editor"
+            print(f"[SKIP] editor rejected: {item.title[:80]} | reason={edited.get('reason', '')}")
             continue
 
         try:
@@ -703,6 +764,7 @@ async def main() -> None:
     report = build_weekly_report(history)
     print_report(report)
     save_history(history)
+    print(f"Done. published={published} ai_attempts={ai_attempts}")
 
 
 if __name__ == "__main__":
