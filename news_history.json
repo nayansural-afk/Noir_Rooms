@@ -102,21 +102,75 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2e2fd938beb37dd88c06a542",
+      "story_id": "dc38a20d0963a1bf",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
+      "title": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
+      "category": "movie_news",
+      "score": 70.01,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "bafta",
+        "john irvin",
+        "british",
+        "tinker tailor soldier",
+        "hollywood",
+        "hamburger hill",
+        "the dogs",
+        "raw deal john",
+        "irvin",
+        "raw deal",
+        "august",
+        "claire evans"
+      ],
+      "hook": "مخرج بریتانیایی جان ایروین درگذشت؛ آثار بی‌نظیر او در سینما",
+      "hooks": [
+        "جان ایروین، خالق Tinker Tailor Soldier Spy، درگذشت",
+        "مخرج جان ایروین، 86 ساله، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "John Irvin died aged 86"
+      ],
+      "status": "published",
+      "telegram_message_id": 6,
+      "published_at": "2026-08-20T11:31:44.237204+00:00",
+      "text": "مخرج بریتانیایی جان ایروین درگذشت؛ آثار بی‌نظیر او در سینما\n\n🎬 جان ایروین، خالق سریال برنده جایزه BAFTA 'Tinker Tailor Soldier Spy' درگذشت\n\nجان ایروین، کارگردان بریتانیایی و خالق سریال برنده جایزه BAFTA 'Tinker Tailor Soldier Spy'، در 11 اوت در خانه‌اش در آرامش درگذشت. او در طول دوران کاری‌اش فیلم‌های اکشن مانند Hamburger Hill، The Dogs of War و Raw Deal را نیز به کارگردانی رساند و در کنار خانواده‌اش در کنار صحنه‌های خاطره‌انگیز زندگی‌اش پایان یافت.\n\n📌 نکات مهم:\n• جان ایروین در 11 اوت در خانه‌اش در آرامش درگذشت\n• او کارگردان سریال BAFTA 'Tinker Tailor Soldier Spy' و فیلم‌های Hamburger Hill, The Dogs of War, Raw Deal بود\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
     "897a1351c593cd1eadef62cb",
     "35258b33ea997c9a5dafa5f4",
-    "2e07738d432981532a7253be"
+    "2e07738d432981532a7253be",
+    "2e2fd938beb37dd88c06a542"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
     "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
-    "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855"
+    "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
+    "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 3,
+      "published": 4,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -130,7 +184,7 @@
       "published": 1
     },
     "11": {
-      "published": 1
+      "published": 2
     }
   },
   "strategy": {
@@ -326,11 +380,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T11:31:44.237266+00:00",
+      "version": 2,
+      "posts": 4,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
+          "category": "movie_news",
+          "score": 70.01,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 24,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
   "seen_story_ids": [
-    "d8c210a4afc89034"
+    "d8c210a4afc89034",
+    "dc38a20d0963a1bf"
   ],
   "entity_memory": {
     "venice": {
@@ -416,6 +523,91 @@
       "categories": [
         "movie_news"
       ]
+    },
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john irvin": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tinker tailor soldier": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hollywood": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hamburger hill": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dogs": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "raw deal john": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "irvin": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "raw deal": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "august": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "claire evans": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
     }
-  }
+  },
+  "channel_branding_applied": false
 }
