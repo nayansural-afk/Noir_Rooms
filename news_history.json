@@ -24,17 +24,43 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "35258b33ea997c9a5dafa5f4",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
+      "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+      "category": "movie_news",
+      "score": 72.6,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 53.0,
+      "potential_engagement": 45.0,
+      "hook": "BFI 12 مرکز جدید در انگلستان راه‌اندازی می‌کند؛ فرصت‌های شغلی برای جوانان!",
+      "confidence": "high",
+      "status": "published",
+      "telegram_message_id": 4,
+      "published_at": "2026-08-20T10:16:03.678864+00:00",
+      "text": "BFI 12 مرکز جدید در انگلستان راه‌اندازی می‌کند؛ فرصت‌های شغلی برای جوانان!\n\n🎬 BFI 12 مرکز آموزشی جدید در انگلستان راه‌اندازی می‌کند\n\nBFI Film Academy، مرکز اصلی آموزش فیلم در انگلستان، برنامه خود را با ایجاد ۱۲ مرکز آموزشی جدید گسترش داده است. این مراکز برای جوانان ۱۶ تا ۲۵ ساله طراحی شده‌اند و به‌صورت محلی در سراسر کشور فعالیت می‌کنند.\n\nبرنامه به‌دنبال توزیع بودجه و منابع در سطح منطقه‌ای است تا دسترسی به آموزش‌های حرفه‌ای فیلمسازی برای همهٔ مناطق انگلستان فراهم شود. این گام جدید نشان‌دهندهٔ تعهد BFI به تقویت صنعت فیلم در سطح ملی است.\n\n📌 نکات مهم:\n• BFI Film Academy 12 مرکز آموزشی جدید در انگلستان راه‌اندازی می‌کند\n• هدف این برنامه حمایت از جوانان 16-25 ساله است\n• تمرکز بر ارائه محلی و تفکیک بودجه در سراسر انگلستان\n\nلینک در توضیحات\n\n#سینما #فیلم #BFI #انگلستان #آموزش\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
-    "897a1351c593cd1eadef62cb"
+    "897a1351c593cd1eadef62cb",
+    "35258b33ea997c9a5dafa5f4"
   ],
   "seen_urls": [
-    "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805"
+    "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
+    "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -42,6 +68,9 @@
   },
   "time_stats": {
     "8": {
+      "published": 1
+    },
+    "10": {
       "published": 1
     }
   },
@@ -96,6 +125,42 @@
       "top_news": [
         {
           "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6
+        }
+      ],
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
+    },
+    {
+      "generated_at": "2026-08-20T10:16:03.678909+00:00",
+      "posts": 2,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
           "category": "movie_news",
           "score": 72.6
         }
