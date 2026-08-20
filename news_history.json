@@ -406,6 +406,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e923d0db739cecbd3c016aca",
+      "story_id": "1cf45af28b7c50c4",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
+      "title": "Beatles film recreates iconic Abbey Road album cover",
+      "category": "movie_news",
+      "score": 64.51,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "beatles",
+        "abbey road",
+        "social",
+        "sam mendes",
+        "london",
+        "footage",
+        "sunday",
+        "harris dickinson",
+        "john lennon",
+        "barry keoghan",
+        "ringo starr",
+        "paul mescal"
+      ],
+      "hook": "فیلم بیاتلز، بازسازی پوشش آبی را در خیابان آبی",
+      "hooks": [
+        "سازمان‌سازی بیاتلز در خیابان آبی",
+        "فیلم جدید بیاتلز در استودیو آبی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم بیاتلز در حال ساخت است",
+        "فیلم در استودیو آبی در لندن فیلمبرداری می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 14,
+      "published_at": "2026-08-20T21:58:46.569723+00:00",
+      "text": "فیلم بیاتلز، بازسازی پوشش آبی را در خیابان آبی\n\n🎬 سازمان‌سازی بیاتلز در خیابان آبی: فیلم جدید سام مدنس\n\nفیلم بیاتلز، که توسط کارگردان سام مدنس ساخته می‌شود، در استودیو آبی در لندن فیلمبرداری می‌کند. بازیگران شامل حریس دیکنسون به عنوان جان لنوین و باری کیگن به عنوان رینگو استرونگ هستند.\n\nدر این فیلم، بازسازی پوشش آلبوم آبی را در خیابان آبی نشان می‌دهد و به یادبود لحظه‌ای معروف است که بیاتلز در آن عکس گرفته بودند.\n\n📌 نکات مهم:\n• فیلم بیاتلز توسط سام مدنس ساخته می‌شود\n• حریس دیکنسون نقش جان لنوین را بازی می‌کند\n• باری کیگن نقش رینگو استرونگ را بازی می‌کند\n• فیلم در استودیو آبی در لندن فیلمبرداری می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -417,7 +470,8 @@
     "f0825d27899b40001d469a35",
     "29e51188c85c6cfe7b73a50d",
     "8adfb0b8fc05598da0cd090e",
-    "855ff45303bf3228d5d390ac"
+    "855ff45303bf3228d5d390ac",
+    "e923d0db739cecbd3c016aca"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -428,11 +482,12 @@
     "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
     "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
     "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
-    "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757"
+    "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
+    "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 7,
+      "published": 8,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -470,6 +525,9 @@
       "published": 1
     },
     "20": {
+      "published": 1
+    },
+    "21": {
       "published": 1
     }
   },
@@ -1008,6 +1066,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T21:58:46.569819+00:00",
+      "version": 2,
+      "posts": 10,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "actors_directors",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 83,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1018,7 +1134,8 @@
     "dcf80bd8e54319ba",
     "d218ce7f7e756d80",
     "283454c87d00b568",
-    "6f637e69e3aa8be4"
+    "6f637e69e3aa8be4",
+    "1cf45af28b7c50c4"
   ],
   "entity_memory": {
     "venice": {
@@ -1514,6 +1631,90 @@
     "there": {
       "count": 1,
       "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beatles": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abbey road": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "social": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sam mendes": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "footage": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sunday": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harris dickinson": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john lennon": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "barry keoghan": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ringo starr": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paul mescal": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
       "categories": [
         "movie_news"
       ]
