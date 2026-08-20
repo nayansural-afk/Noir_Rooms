@@ -39,9 +39,8 @@ jobs:
           PUBLISH_LIMIT: "1"
           MAX_AI_ATTEMPTS: "4"
           MIN_INTEREST_SCORE: "58"
-          # Optional one-shot channel branding (leave empty after first success):
-          # SET_CHANNEL_TITLE: "Noir Rooms | اخبار سینما"
-          # SET_CHANNEL_DESCRIPTION: "اخبار فیلم، سریال، بازیگران و باکس‌آفیس — برای علاقه‌مندان سینما"
+          SET_CHANNEL_TITLE: "Noir Rooms | اخبار سینما"
+          SET_CHANNEL_DESCRIPTION: "اخبار فیلم، سریال، بازیگران، تریلر و باکس‌آفیس — برای علاقه‌مندان سینما"
         run: python noir_rooms_bot.py
 
       - name: Commit history
