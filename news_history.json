@@ -208,6 +208,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f0825d27899b40001d469a35",
+      "story_id": "dcf80bd8e54319ba",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
+      "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+      "category": "movie_news",
+      "score": 75.69,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "roskam",
+        "feature",
+        "le faux soir",
+        "to close san",
+        "film festival san",
+        "belgian",
+        "september",
+        "san sebastian"
+      ],
+      "hook": "فیلم جنگ جهانی دوم، پایان جشنواره",
+      "hooks": [
+        "پایان جشنواره با Le Faux Soir",
+        "Le Faux Soir در پایان جشنواره"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Le Faux Soir در پایان جشنواره قرار دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 10,
+      "published_at": "2026-08-20T14:10:38.471460+00:00",
+      "text": "فیلم جنگ جهانی دوم، پایان جشنواره\n\n🎬 Le Faux Soir، فیلم جنگ جهانی دوم، پایان جشنواره سان سیستین\n\nفیلم Le Faux Soir، ساختهٔ مایکل ر. روسکام، در پایان جشنواره فیلم سان سیستین قرار گرفته است. این فیلم پس از نمایش در TIFF به سان سیستین می‌رسد و بر اساس کتابی ساخته شده است.\n\n📌 نکات مهم:\n• Le Faux Soir فیلم پایان جشنواره است\n• فیلم توسط مایکل ر. روسکام، کارگردان بلژیکی، ساخته شده است\n• جشنواره از ۱۸ تا ۲۶ سپتامبر برگزار می‌شود\n• فیلم پس از نمایش در TIFF به سان سیستین می‌رسد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -215,18 +263,20 @@
     "35258b33ea997c9a5dafa5f4",
     "2e07738d432981532a7253be",
     "2e2fd938beb37dd88c06a542",
-    "215e4eefed5d58cad62c1e80"
+    "215e4eefed5d58cad62c1e80",
+    "f0825d27899b40001d469a35"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
     "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
     "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
     "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
-    "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies"
+    "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
+    "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 5,
+      "published": 6,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -241,6 +291,9 @@
     },
     "11": {
       "published": 3
+    },
+    "14": {
+      "published": 1
     }
   },
   "strategy": {
@@ -546,13 +599,72 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T14:10:38.471520+00:00",
+      "version": 2,
+      "posts": 6,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
+          "category": "movie_news",
+          "score": 70.01,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 44,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
   "seen_story_ids": [
     "d8c210a4afc89034",
     "dc38a20d0963a1bf",
-    "510bcf8499fa4cd8"
+    "510bcf8499fa4cd8",
+    "dcf80bd8e54319ba"
   ],
   "entity_memory": {
     "venice": {
@@ -803,6 +915,62 @@
     "continue": {
       "count": 1,
       "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "roskam": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feature": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "le faux soir": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to close san": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival san": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "belgian": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "september": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "san sebastian": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
       "categories": [
         "movie_news"
       ]
