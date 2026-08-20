@@ -20,6 +20,32 @@
       "controversy": 0
     }
   },
-  "weekly_reports": [],
+  "weekly_reports": [
+    {
+      "generated_at": "2026-08-20T06:00:53.270206+00:00",
+      "posts": 0,
+      "average_views": null,
+      "best_category": null,
+      "worst_category": null,
+      "best_hook": null,
+      "top_news": [],
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
+    }
+  ],
   "analytics_snapshots": []
 }
