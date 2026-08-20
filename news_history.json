@@ -459,6 +459,61 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "05ef33d04a0147d2644ac815",
+      "story_id": "402069b4ca4b1e00",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
+      "title": "Dave Bautista Officially Cast as Kratos in ‘God of War’ Series",
+      "category": "actors_directors",
+      "score": 51.87,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "dave bautista officially",
+        "cast",
+        "kratos",
+        "series the",
+        "guardians",
+        "galaxy",
+        "ryan hurst",
+        "prime video",
+        "hurst",
+        "series dave bautista",
+        "variety",
+        "amazon prime video",
+        "bautista"
+      ],
+      "hook": "دیو باوتیستا به نقش کراتوس در سریال 'گاد آف وار' منصوب شد",
+      "hooks": [
+        "دیو باوتیستا جای ریان هرس را در 'گاد آف وار' می‌گیرد",
+        "ریان هرس به دلیل صدمه در صحنه، جای دیو باوتیستا را می‌گیرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دیو باوتیستا به طور رسمی در سریال 'گاد آف وار' نقش کراتوس را بر عهده گرفته است",
+        "ریان هرس در حین فیلمبرداری صدمه‌ای دریافت کرده"
+      ],
+      "status": "published",
+      "telegram_message_id": 15,
+      "published_at": "2026-08-20T23:02:29.434948+00:00",
+      "text": "دیو باوتیستا به نقش کراتوس در سریال 'گاد آف وار' منصوب شد\n\n🎬 دیو باوتیستا در سریال 'گاد آف وار' جای ریان هرس را می‌گیرد\n\nدیو باوتیستا، بازیگر معروف از سریال 'گاردینز آف گالاکسی'، به طور رسمی در سریال 'گاد آف وار' نقش کراتوس را بر عهده گرفته است.\nریان هرس، که در حین فیلمبرداری صدمه‌ای دریافت کرده بود، جای او را در این سریال Prime Video می‌گیرد.\n\n📌 نکات مهم:\n• دیو باوتیستا در سریال 'گاد آف وار' نقش کراتوس را بر عهده گرفته است\n• ریان هرس در حین فیلمبرداری صدمه‌ای دریافت کرده و جای او را در سریال می‌گیرد\n\n✅ تأیید چندمنبعی: The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -471,7 +526,8 @@
     "29e51188c85c6cfe7b73a50d",
     "8adfb0b8fc05598da0cd090e",
     "855ff45303bf3228d5d390ac",
-    "e923d0db739cecbd3c016aca"
+    "e923d0db739cecbd3c016aca",
+    "05ef33d04a0147d2644ac815"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -483,7 +539,8 @@
     "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
     "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
     "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
-    "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes"
+    "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
+    "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324"
   ],
   "category_stats": {
     "movie_news": {
@@ -493,7 +550,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -528,6 +585,9 @@
       "published": 1
     },
     "21": {
+      "published": 1
+    },
+    "23": {
       "published": 1
     }
   },
@@ -1124,6 +1184,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T23:02:29.435031+00:00",
+      "version": 2,
+      "posts": 11,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 95,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1135,7 +1253,8 @@
     "d218ce7f7e756d80",
     "283454c87d00b568",
     "6f637e69e3aa8be4",
-    "1cf45af28b7c50c4"
+    "1cf45af28b7c50c4",
+    "402069b4ca4b1e00"
   ],
   "entity_memory": {
     "venice": {
@@ -1573,10 +1692,11 @@
       ]
     },
     "variety": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "count": 2,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
       "categories": [
-        "streaming"
+        "streaming",
+        "actors_directors"
       ]
     },
     "directed": {
@@ -1717,6 +1837,90 @@
       "last_seen": "2026-08-20T21:58:46.569758+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "dave bautista officially": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kratos": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series the": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "guardians": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "galaxy": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ryan hurst": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "prime video": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hurst": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series dave bautista": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amazon prime video": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bautista": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
