@@ -154,23 +154,79 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "215e4eefed5d58cad62c1e80",
+      "story_id": "510bcf8499fa4cd8",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
+      "title": "Phyllida Law, prolific performer across stage and screen, dies aged 94",
+      "category": "movie_news",
+      "score": 70.01,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "phyllida law",
+        "sophie",
+        "emma thompson",
+        "emma",
+        "sophie thompson",
+        "jacky leggo",
+        "born",
+        "glasgow",
+        "bristol old vic",
+        "theatre",
+        "eric thompson",
+        "continue"
+      ],
+      "hook": "پلی‌دِی لا، ستارهٔ بی‌پایان، در 94 سالگی درگذشت",
+      "hooks": [
+        "پلی‌دِی لا درگذشت، ستارهٔ بی‌نظیر",
+        "دوران 8 دههٔ فعالیت، درگذشت در 94 سالگی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Phyllida Law died at age 94",
+        "She worked with her daughters Emma and Sophie Thompson",
+        "She studied at Bristol Old Vic Theatre School"
+      ],
+      "status": "published",
+      "telegram_message_id": 8,
+      "published_at": "2026-08-20T11:38:23.779387+00:00",
+      "text": "پلی‌دِی لا، ستارهٔ بی‌پایان، در 94 سالگی درگذشت\n\n🎬 پلی‌دِی لا، بازیگر بی‌نظیر، درگذشت؛ 94 سالگی\n\nپلی‌دِی لا، بازیگر برجستهٔ سکو و پرده، درگذشت و در خانهٔ خود، در کنار خانواده، آرام و صلح‌آمیز.\n\nاو در طول هشت دههٔ فعالیت در صحنه، تلویزیون و سینما، با دخترانش، امّا و سافی تومپسون، در نقش‌های مختلف همکاری کرد و در Bristol Old Vic Theatre School تحصیل کرد.\n\n📌 نکات مهم:\n• دوران 8 دههٔ فعالیت در صحنه، تلویزیون و سینما\n• درگذشت در خانه در کنار خانواده\n• کار با دخترانش، امّا و سافی تومپسون\n• تحصیل در Bristol Old Vic Theatre School\n\n#سینما #فیلم #بازیگر\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
     "897a1351c593cd1eadef62cb",
     "35258b33ea997c9a5dafa5f4",
     "2e07738d432981532a7253be",
-    "2e2fd938beb37dd88c06a542"
+    "2e2fd938beb37dd88c06a542",
+    "215e4eefed5d58cad62c1e80"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
     "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
     "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
-    "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill"
+    "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
+    "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 4,
+      "published": 5,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -184,7 +240,7 @@
       "published": 1
     },
     "11": {
-      "published": 2
+      "published": 3
     }
   },
   "strategy": {
@@ -432,12 +488,71 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T11:38:23.779459+00:00",
+      "version": 2,
+      "posts": 5,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "John Irvin, British film-maker who directed Tinker Tailor Soldier Spy, dies aged 86",
+          "category": "movie_news",
+          "score": 70.01,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Phyllida Law, prolific performer across stage and screen, dies aged 94",
+          "category": "movie_news",
+          "score": 70.01,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 36,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
   "seen_story_ids": [
     "d8c210a4afc89034",
-    "dc38a20d0963a1bf"
+    "dc38a20d0963a1bf",
+    "510bcf8499fa4cd8"
   ],
   "entity_memory": {
     "venice": {
@@ -607,7 +722,91 @@
       "categories": [
         "movie_news"
       ]
+    },
+    "phyllida law": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sophie": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emma thompson": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emma": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sophie thompson": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jacky leggo": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "born": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "glasgow": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bristol old vic": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatre": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eric thompson": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
     }
   },
-  "channel_branding_applied": false
+  "channel_branding_applied": true
 }
