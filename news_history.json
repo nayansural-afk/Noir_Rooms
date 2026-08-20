@@ -256,6 +256,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "29e51188c85c6cfe7b73a50d",
+      "story_id": "d218ce7f7e756d80",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
+      "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "billy zane",
+        "kevin chapman",
+        "lee among cast",
+        "in creature feature",
+        "wekiwa",
+        "from oscar winner",
+        "richard",
+        "anderson",
+        "titanic",
+        "person",
+        "interest"
+      ],
+      "hook": "ستاره‌های سینما در فیلم هیجان‌انگیز Wekiwa",
+      "hooks": [
+        "ستارگان بیلی زان، کیوان چپمن و سی.اس. لی در Wekiwa",
+        "فیلم هیولا Wekiwa با بازی بیلی زان و کیوان چپمن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ریکارد ل. اندرسون برنده جایزه اسکار برای صدای Raiders of the Lost Ark است"
+      ],
+      "status": "published",
+      "telegram_message_id": 11,
+      "published_at": "2026-08-20T16:04:53.293982+00:00",
+      "text": "ستاره‌های سینما در فیلم هیجان‌انگیز Wekiwa\n\n🎬 بیلی زان، کیوان چپمن و سی.اس. لی در نقش‌های اصلی فیلم Wekiwa\n\nفیلم Wekiwa، یک اثر هیولا در تابستان ۱۹۸۳، با حضور بیلی زان، کیوان چپمن و سی.اس. لی ساخته شده است.\n\nاین فیلم توسط ریکارد ل. اندرسون، برنده جایزه اسکار برای صدای Raiders of the Lost Ark، نوشته و کارگردانی می‌شود.\n\n📌 نکات مهم:\n• بیلی زان، کیوان چپمن و سی.اس. لی در نقش‌های اصلی حضور دارند\n• ریکارد ل. اندرسون کارگردان و نویسنده فیلم است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -264,7 +317,8 @@
     "2e07738d432981532a7253be",
     "2e2fd938beb37dd88c06a542",
     "215e4eefed5d58cad62c1e80",
-    "f0825d27899b40001d469a35"
+    "f0825d27899b40001d469a35",
+    "29e51188c85c6cfe7b73a50d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -272,11 +326,18 @@
     "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
     "https://www.theguardian.com/film/2026/aug/19/john-irvin-dead-british-director-tinker-tailor-soldier-spy-hamburger-hill",
     "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
-    "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132"
+    "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
+    "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327"
   ],
   "category_stats": {
     "movie_news": {
       "published": 6,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
+    },
+    "actors_directors": {
+      "published": 1,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -293,6 +354,9 @@
       "published": 3
     },
     "14": {
+      "published": 1
+    },
+    "16": {
       "published": 1
     }
   },
@@ -657,6 +721,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T16:04:53.294048+00:00",
+      "version": 2,
+      "posts": 7,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "actors_directors",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 56,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -664,7 +786,8 @@
     "d8c210a4afc89034",
     "dc38a20d0963a1bf",
     "510bcf8499fa4cd8",
-    "dcf80bd8e54319ba"
+    "dcf80bd8e54319ba",
+    "d218ce7f7e756d80"
   ],
   "entity_memory": {
     "venice": {
@@ -973,6 +1096,90 @@
       "last_seen": "2026-08-20T14:10:38.471488+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "billy zane": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kevin chapman": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lee among cast": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in creature feature": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wekiwa": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from oscar winner": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "richard": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anderson": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "titanic": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "person": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "interest": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
