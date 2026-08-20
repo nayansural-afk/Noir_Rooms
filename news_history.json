@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "posts": [
     {
       "news_id": "897a1351c593cd1eadef62cb",
@@ -181,7 +181,49 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T11:19:28.871883+00:00",
+      "version": 2,
+      "posts": 2,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        },
+        {
+          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 0,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
-  "analytics_snapshots": []
+  "analytics_snapshots": [],
+  "seen_story_ids": [],
+  "entity_memory": {}
 }
