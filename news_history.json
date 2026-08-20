@@ -1,10 +1,50 @@
 {
   "version": 1,
-  "posts": [],
-  "seen_news_ids": [],
-  "seen_urls": [],
-  "category_stats": {},
-  "time_stats": {},
+  "posts": [
+    {
+      "news_id": "897a1351c593cd1eadef62cb",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
+      "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 72.6,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 53.0,
+      "potential_engagement": 45.0,
+      "hook": "آینده‌ی سریال‌های عمودی در هند، با ۵۰ اثر جدید آغاز شد!",
+      "confidence": "high",
+      "status": "published",
+      "telegram_message_id": 3,
+      "published_at": "2026-08-20T08:26:55.936357+00:00",
+      "text": "آینده‌ی سریال‌های عمودی در هند، با ۵۰ اثر جدید آغاز شد!\n\n🎬 ایپیک استودیوز هند و راسک مدیا، قرارداد ۵۰ سریال عمودی را امضا کردند\n\nایپیک استودیوز هند با شرکت راسک مدیا خصوصی محدود (RMPL) همکاری کرده و قصد دارد ۵۰ سریال عمودی اصلی تولید کند.\nاین سریال‌ها در ژانرهای اسطوره، درام، معما، ترسناک و رمانس گسترش می‌یابند و در پلتفرم Alright! TV به نمایش درمی‌آیند.\n\n📌 نکات مهم:\n• ایپیک استودیوز هند و راسک مدیا قرارداد ۵۰ سریال عمودی امضا کردند\n• هدف ساخت بزرگترین کتابخانه‌ی مالکیت فکری سریال‌های عمودی در هند\n• سریال‌ها در ژانرهای اسطوره، درام، معما، ترسناک و رمانس گسترش می‌یابند و در Alright! TV پخش می‌شوند\n\n#سینما #فیلم #تلویزیون #هند #سریال #VerticalDrama\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
+    }
+  ],
+  "seen_news_ids": [
+    "897a1351c593cd1eadef62cb"
+  ],
+  "seen_urls": [
+    "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805"
+  ],
+  "category_stats": {
+    "movie_news": {
+      "published": 1,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
+    }
+  },
+  "time_stats": {
+    "8": {
+      "published": 1
+    }
+  },
   "strategy": {
     "exploration_rate": 0.3,
     "category_weights": {
@@ -29,6 +69,37 @@
       "worst_category": null,
       "best_hook": null,
       "top_news": [],
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
+    },
+    {
+      "generated_at": "2026-08-20T08:26:55.936401+00:00",
+      "posts": 1,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "movie_news",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6
+        }
+      ],
       "growth": null,
       "recommended_strategy": {
         "exploration_rate": 0.3,
