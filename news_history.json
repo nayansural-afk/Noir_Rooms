@@ -360,6 +360,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "855ff45303bf3228d5d390ac",
+      "story_id": "6f637e69e3aa8be4",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
+      "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "spending dropped in",
+        "new mexico",
+        "but there",
+        "silver lining as",
+        "there"
+      ],
+      "hook": "بودجه‌های فیلم و تلویزیون در نیومکزیکو کاهش یافت، اما نوری در انتظار است",
+      "hooks": [
+        "کاهش بودجه‌های بزرگ، اما فرصت‌های مستقل در نیومکزیکو",
+        "تراژیک بودجه‌ها، اما رشد فیلم‌های مستقل در نیومکزیکو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "استودیوهای بزرگ بودجه‌های پروژه‌های اصلی را کاهش می‌دهند",
+        "فعالیت فیلمبرداری در نیومکزیکو افزایش یافته"
+      ],
+      "status": "published",
+      "telegram_message_id": 13,
+      "published_at": "2026-08-20T20:00:43.111200+00:00",
+      "text": "بودجه‌های فیلم و تلویزیون در نیومکزیکو کاهش یافت، اما نوری در انتظار است\n\n🎬 کاهش بودجه‌های فیلم و تلویزیون در نیومکزیکو، اما نوری در انتظار\n\nاستودیوهای بزرگ در حال کاهش بودجه‌های پروژه‌های اصلی و سریال‌های بزرگ هستند، که باعث کاهش تعداد پروژه‌های بزرگ می‌شود.\nدر عوض، فیلم‌های مستقل رونق پیدا کرده و فعالیت‌های فیلمبرداری در این ایالت افزایش یافته است.\n\n📌 نکات مهم:\n• کاهش بودجه‌های استودیوهای بزرگ\n• کاهش پروژه‌های بزرگ\n• افزایش فیلم‌های مستقل\n• افزایش فعالیت فیلمبرداری\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -370,7 +416,8 @@
     "215e4eefed5d58cad62c1e80",
     "f0825d27899b40001d469a35",
     "29e51188c85c6cfe7b73a50d",
-    "8adfb0b8fc05598da0cd090e"
+    "8adfb0b8fc05598da0cd090e",
+    "855ff45303bf3228d5d390ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -380,11 +427,12 @@
     "https://www.theguardian.com/film/2026/aug/18/phyllida-law-performer-stage-screen-dies",
     "https://deadline.com/2026/08/michael-r-roskam-le-faux-soir-san-sebastian-film-festival-1237046132",
     "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327",
-    "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927"
+    "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
+    "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 6,
+      "published": 7,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -419,6 +467,9 @@
       "published": 1
     },
     "18": {
+      "published": 1
+    },
+    "20": {
       "published": 1
     }
   },
@@ -899,6 +950,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-20T20:00:43.111266+00:00",
+      "version": 2,
+      "posts": 9,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "actors_directors",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 71,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -908,7 +1017,8 @@
     "510bcf8499fa4cd8",
     "dcf80bd8e54319ba",
     "d218ce7f7e756d80",
-    "283454c87d00b568"
+    "283454c87d00b568",
+    "6f637e69e3aa8be4"
   ],
   "entity_memory": {
     "venice": {
@@ -1371,6 +1481,41 @@
       "last_seen": "2026-08-20T18:01:18.807034+00:00",
       "categories": [
         "streaming"
+      ]
+    },
+    "spending dropped in": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new mexico": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "but there": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "silver lining as": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "there": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
