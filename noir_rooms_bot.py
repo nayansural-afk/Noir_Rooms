@@ -1,15 +1,14 @@
 """
-NOIR ROOMS V2 — AI Cinema News & Telegram Content Manager
+NOIR ROOMS V2.2 — Cinema-focused hourly publisher
 
-V1 base + V2:
-- Story-level clustering & multi-source confidence
-- Content Memory (entity tracking)
-- AI Fact Checker (claims grounded in source text only)
-- Hook Intelligence (2 hooks → select best)
-- Breaking-news priority
+- Hourly GitHub Actions schedule (external)
+- Strict relevance: movies, series, actors, directors, trailers, box office
+- Story clustering, multi-source, content memory, fact-checked Persian posts
+- Optional channel title/description update (needs can_change_info)
 
-Required secrets: TELEGRAM_TOKEN, GROQ_API_KEY
-Never fabricates analytics.
+Secrets: TELEGRAM_TOKEN, GROQ_API_KEY
+Env: CHANNEL_ID, PUBLISH_LIMIT, MIN_INTEREST_SCORE,
+     SET_CHANNEL_TITLE, SET_CHANNEL_DESCRIPTION (optional)
 """
 
 from __future__ import annotations
@@ -38,66 +37,85 @@ GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 
 CHANNEL_ID = os.environ.get("CHANNEL_ID", "@noir_rooms")
 POSTS_PER_RUN = max(1, int(os.environ.get("POSTS_PER_RUN", "1")))
-CANDIDATE_LIMIT = max(10, int(os.environ.get("CANDIDATE_LIMIT", "50")))
+CANDIDATE_LIMIT = max(10, int(os.environ.get("CANDIDATE_LIMIT", "40")))
 PUBLISH_LIMIT = max(1, int(os.environ.get("PUBLISH_LIMIT", str(POSTS_PER_RUN))))
 MAX_AI_ATTEMPTS = max(1, int(os.environ.get("MAX_AI_ATTEMPTS", "4")))
+MIN_INTEREST_SCORE = float(os.environ.get("MIN_INTEREST_SCORE", "58"))
+
+# Optional branding — only applied when non-empty
+SET_CHANNEL_TITLE = os.environ.get("SET_CHANNEL_TITLE", "").strip()
+SET_CHANNEL_DESCRIPTION = os.environ.get("SET_CHANNEL_DESCRIPTION", "").strip()
 
 HISTORY_FILE = Path("news_history.json")
 MODEL = "openai/gpt-oss-20b"
 HISTORY_VERSION = 2
 
+# Prefer film-focused feeds first
 SOURCES = [
-    {"name": "BBC", "url": "https://www.bbc.com/news/entertainment_and_arts", "weight": 0.98,
-     "rss": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"},
+    {"name": "Variety Film", "url": "https://variety.com/v/film/", "weight": 0.96,
+     "rss": "https://variety.com/v/film/feed/"},
+    {"name": "Deadline Film", "url": "https://deadline.com/v/film/", "weight": 0.96,
+     "rss": "https://deadline.com/v/film/feed/"},
     {"name": "The Guardian", "url": "https://www.theguardian.com/film", "weight": 0.94,
      "rss": "https://www.theguardian.com/film/rss"},
-    {"name": "Variety", "url": "https://variety.com/", "weight": 0.94,
+    {"name": "Variety", "url": "https://variety.com/", "weight": 0.93,
      "rss": "https://variety.com/feed/"},
-    {"name": "Variety Film", "url": "https://variety.com/v/film/", "weight": 0.95,
-     "rss": "https://variety.com/v/film/feed/"},
-    {"name": "Deadline", "url": "https://deadline.com/", "weight": 0.94,
+    {"name": "Deadline", "url": "https://deadline.com/", "weight": 0.93,
      "rss": "https://deadline.com/feed/"},
-    {"name": "Deadline Film", "url": "https://deadline.com/v/film/", "weight": 0.95,
-     "rss": "https://deadline.com/v/film/feed/"},
     {"name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/", "weight": 0.94,
      "rss": "https://www.hollywoodreporter.com/feed/"},
-    {"name": "IndieWire", "url": "https://www.indiewire.com/", "weight": 0.88,
+    {"name": "IndieWire", "url": "https://www.indiewire.com/", "weight": 0.90,
      "rss": "https://www.indiewire.com/feed/"},
+    {"name": "BBC", "url": "https://www.bbc.com/news/entertainment_and_arts", "weight": 0.92,
+     "rss": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"},
     {"name": "TheWrap", "url": "https://www.thewrap.com/", "weight": 0.84,
      "rss": "https://www.thewrap.com/feed/"},
 ]
 
 CATEGORY_KEYWORDS = {
-    "breaking_news": ["breaking", "announces", "announcement", "confirmed", "official", "dies", "death", "retires"],
-    "movie_news": ["movie", "film", "sequel", "remake", "production", "casting", "release"],
-    "actors_directors": ["actor", "actress", "director", "star", "cast", "starring", "joins"],
-    "upcoming_movies": ["upcoming", "release date", "in talks", "development", "greenlight"],
-    "trailers_first_look": ["trailer", "teaser", "first look", "poster", "footage", "clip"],
-    "box_office": ["box office", "gross", "opening", "million", "billion", "earnings"],
-    "awards_festivals": ["oscar", "academy awards", "golden globe", "bafta", "cannes", "venice", "sundance", "festival"],
-    "streaming": ["netflix", "hbo", "hbo max", "disney+", "prime video", "apple tv", "streaming", "paramount+"],
-    "controversy": ["controversy", "controversial", "backlash", "dispute", "lawsuit", "feud", "scandal"],
+    "movie_news": ["movie", "film", "sequel", "prequel", "remake", "production", "shooting", "wraps"],
+    "actors_directors": ["actor", "actress", "director", "star", "cast", "starring", "joins", "cast in"],
+    "upcoming_movies": ["upcoming", "release date", "in talks", "development", "greenlight", "set to star"],
+    "trailers_first_look": ["trailer", "teaser", "first look", "poster", "footage", "clip", "official trailer"],
+    "box_office": ["box office", "gross", "opening weekend", "domestic gross", "worldwide gross", "earnings"],
+    "awards_festivals": ["oscar", "academy awards", "golden globe", "bafta", "cannes", "venice", "sundance", "emmy"],
+    "streaming": ["netflix", "hbo", "disney+", "prime video", "apple tv", "streaming series", "limited series"],
+    "breaking_news": ["breaking", "announces", "confirmed", "official"],
+    "controversy": ["lawsuit", "scandal", "backlash"],
 }
 
-CINEMA_POSITIVE = [
-    "movie", "film", "cinema", "director", "actor", "actress", "cast", "casting",
-    "trailer", "teaser", "box office", "oscar", "festival", "premiere", "sequel",
-    "remake", "screenplay", "hollywood", "studio", "netflix", "disney", "marvel",
-    "warner", "paramount", "universal", "sony pictures", "a24", "feature",
-    "documentary", "animation", "series", "showrunner", "screenwriter",
+# Strong cinema signals (need enough hits)
+CORE_CINEMA = [
+    "movie", "film", "cinema", "feature film", "box office", "trailer", "teaser",
+    "director", "actor", "actress", "cast", "casting", "starring", "sequel",
+    "prequel", "remake", "screenplay", "screenwriter", "cinematograph",
+    "hollywood", "premiere", "theatrical", "release date", "opening weekend",
+    "oscar", "academy award", "festival", "sundance", "cannes", "venice",
+    "netflix film", "limited series", "tv series", "miniseries", "showrunner",
+    "studio", "warner bros", "paramount", "universal pictures", "sony pictures",
+    "a24", "marvel", "dc comics", "lucasfilm", "pixar", "animation",
 ]
 
-NON_CINEMA_NEGATIVE = [
+WEAK_ONLY = [  # alone not enough
+    "series", "show", "streaming", "hollywood", "celebrity", "star",
+]
+
+HARD_REJECT = [
     "little league", "soccer", "football match", "nba", "nfl", "mlb", "tennis",
-    "recipe", "cooking", "masterchef", "weather", "election", "congress",
-    "stock market", "crypto", "bitcoin", "iphone review",
+    "ufc", "wwe", "recipe", "cooking", "masterchef", "weather", "election",
+    "congress", "senate", "stock market", "crypto", "bitcoin", "iphone",
+    "android", "podcast only", "music album", "billboard chart", "grammy",
+    "real housewives", "bachelor", "celebrity gossip only", "tiktok trend",
+    "vertical drama", "skills hub", "film academy programme", "film academy program",
+    "education programme", "education program", "training hub",
+    "prince harry", "meghan markle", "royal family", "politics",
+    "boatbuilders",  # avoid niche craft docs unless strongly film-newsy
 ]
 
 BREAKING_SIGNALS = [
-    "dies", "dead", "passes away", "retired", "retires", "breaking",
-    "exclusive", "officially announces", "confirms", "cast as",
-    "box office record", "opens to", "first look", "trailer drops",
-    "wins oscar", "wins academy",
+    "dies", "dead at", "passes away", "retired from acting", "retires from",
+    "box office record", "opens to $", "official trailer", "first look",
+    "wins oscar", "wins academy", "cast as", "to star in", "directed by",
 ]
 
 KNOWN_ENTITIES = [
@@ -106,26 +124,32 @@ KNOWN_ENTITIES = [
     "netflix", "disney", "hbo", "warner bros", "paramount", "universal",
     "a24", "scorsese", "spielberg", "tarantino", "denis villeneuve",
     "greta gerwig", "oppenheimer", "dune", "avatar", "mission impossible",
-    "oscar", "cannes", "venice", "sundance", "bafta",
+    "oscar", "cannes", "venice", "sundance", "bafta", "ryan gosling",
+    "margot robbie", "zendaya", "timothee chalamet",
 ]
 
 DEFAULT_CATEGORY_WEIGHTS = {
-    "movie_news": 30,
-    "breaking_news": 0,
-    "actors_directors": 20,
+    "movie_news": 28,
+    "actors_directors": 22,
     "upcoming_movies": 15,
-    "trailers_first_look": 10,
-    "box_office": 10,
-    "awards_festivals": 5,
+    "trailers_first_look": 12,
+    "box_office": 12,
+    "awards_festivals": 6,
     "streaming": 5,
+    "breaking_news": 0,
     "controversy": 0,
-    "short_analysis": 5,
+    "short_analysis": 0,
 }
 
 HEADLINE_STOPWORDS = {
     "the", "a", "an", "of", "to", "and", "for", "in", "on", "with", "from",
     "new", "news", "first", "look", "film", "movie", "report", "says",
     "exclusive", "official", "announces",
+}
+
+PREFERRED_CATEGORIES = {
+    "movie_news", "actors_directors", "upcoming_movies",
+    "trailers_first_look", "box_office", "awards_festivals", "streaming",
 }
 
 
@@ -162,20 +186,17 @@ def parse_date(value: str | None) -> datetime:
     if not value:
         return datetime.now(timezone.utc)
     try:
-        dt = parsedate_to_datetime(value)
-        return dt.astimezone(timezone.utc)
+        return parsedate_to_datetime(value).astimezone(timezone.utc)
     except Exception:
         try:
-            dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
-            return dt.astimezone(timezone.utc)
+            return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
         except Exception:
             return datetime.now(timezone.utc)
 
 
 def normalize_url(url: str) -> str:
     parsed = urlparse(url.strip())
-    clean = parsed._replace(fragment="", query="").geturl()
-    return clean.rstrip("/")
+    return parsed._replace(fragment="", query="").geturl().rstrip("/")
 
 
 def strip_html(value: str) -> str:
@@ -194,8 +215,7 @@ def token_set(text: str) -> set[str]:
 
 
 def story_fingerprint(title: str) -> str:
-    tokens = sorted(token_set(title))
-    key = " ".join(tokens[:12])
+    key = " ".join(sorted(token_set(title))[:12])
     return hashlib.sha256(key.encode("utf-8")).hexdigest()[:16]
 
 
@@ -209,6 +229,37 @@ def extract_entities(text: str) -> list[str]:
     return found[:12]
 
 
+def is_cinema_relevant(title: str, description: str) -> bool:
+    """Strict gate: real film/series/actor/box-office news only."""
+    text = f"{title} {description}".lower()
+    if any(bad in text for bad in HARD_REJECT):
+        return False
+    core_hits = sum(1 for k in CORE_CINEMA if k in text)
+    if core_hits >= 2:
+        return True
+    if core_hits >= 1 and any(k in text for k in [
+        "box office", "trailer", "director", "actor", "actress", "sequel",
+        "cast in", "starring", "release date", "oscar", "netflix",
+    ]):
+        return True
+    return False
+
+
+def detect_breaking(title: str, description: str) -> bool:
+    text = f"{title} {description}".lower()
+    return any(sig in text for sig in BREAKING_SIGNALS)
+
+
+def classify_category(text: str) -> str:
+    lower = text.lower()
+    scores = {
+        cat: sum(lower.count(k) for k in kws)
+        for cat, kws in CATEGORY_KEYWORDS.items()
+    }
+    best = max(scores, key=scores.get)
+    return best if scores[best] > 0 else "movie_news"
+
+
 def load_history() -> dict[str, Any]:
     default = {
         "version": HISTORY_VERSION,
@@ -219,12 +270,10 @@ def load_history() -> dict[str, Any]:
         "entity_memory": {},
         "category_stats": {},
         "time_stats": {},
-        "strategy": {
-            "exploration_rate": 0.30,
-            "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy(),
-        },
+        "strategy": {"exploration_rate": 0.30, "category_weights": DEFAULT_CATEGORY_WEIGHTS.copy()},
         "weekly_reports": [],
         "analytics_snapshots": [],
+        "channel_branding_applied": False,
     }
     if not HISTORY_FILE.exists():
         return default
@@ -237,8 +286,6 @@ def load_history() -> dict[str, Any]:
         data.setdefault(k, v if not isinstance(v, dict) else v.copy())
     data["strategy"].setdefault("exploration_rate", 0.30)
     data["strategy"].setdefault("category_weights", DEFAULT_CATEGORY_WEIGHTS.copy())
-    data.setdefault("entity_memory", {})
-    data.setdefault("seen_story_ids", [])
     return data
 
 
@@ -248,7 +295,6 @@ def save_history(history: dict[str, Any]) -> None:
     history["seen_news_ids"] = history.get("seen_news_ids", [])[-2000:]
     history["seen_urls"] = history.get("seen_urls", [])[-2000:]
     history["seen_story_ids"] = history.get("seen_story_ids", [])[-2000:]
-    history["analytics_snapshots"] = history.get("analytics_snapshots", [])[-180:]
     history["weekly_reports"] = history.get("weekly_reports", [])[-52:]
     em = history.get("entity_memory", {})
     if len(em) > 400:
@@ -266,8 +312,7 @@ def rss_entries(xml_text: str) -> list[dict[str, str]]:
             for child in node:
                 tag = child.tag.split("}")[-1].lower()
                 if tag == "link":
-                    href = child.attrib.get("href")
-                    fields["link"] = href or (child.text or "")
+                    fields["link"] = child.attrib.get("href") or (child.text or "")
                 else:
                     fields[tag] = child.text or child.attrib.get("href", "")
             if fields.get("title") and fields.get("link"):
@@ -275,24 +320,11 @@ def rss_entries(xml_text: str) -> list[dict[str, str]]:
     return items
 
 
-def is_cinema_relevant(title: str, description: str) -> bool:
-    text = f"{title} {description}".lower()
-    if any(neg in text for neg in NON_CINEMA_NEGATIVE):
-        return False
-    return any(pos in text for pos in CINEMA_POSITIVE)
-
-
-def detect_breaking(title: str, description: str) -> bool:
-    text = f"{title} {description}".lower()
-    return any(sig in text for sig in BREAKING_SIGNALS)
-
-
 def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
     try:
         response = requests.get(
-            source["rss"],
-            timeout=20,
-            headers={"User-Agent": "NoirRoomsBot/2.1 (+Telegram cinema news bot)"},
+            source["rss"], timeout=20,
+            headers={"User-Agent": "NoirRoomsBot/2.2 (+cinema news)"},
         )
         response.raise_for_status()
         raw_items = rss_entries(response.text)
@@ -301,7 +333,7 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
         return []
 
     result = []
-    for item in raw_items[:25]:
+    for item in raw_items[:22]:
         title = strip_html(item.get("title", ""))
         url = normalize_url(item.get("link", ""))
         description = strip_html(
@@ -311,37 +343,23 @@ def fetch_feed(source: dict[str, Any]) -> list[NewsItem]:
             continue
         if not is_cinema_relevant(title, description):
             continue
-
-        published = item.get("pubdate") or item.get("published") or item.get("updated")
-        published_dt = parse_date(published)
-        result.append(
-            NewsItem(
-                id=stable_id(source["name"], url, title),
-                source=source["name"],
-                source_weight=float(source["weight"]),
-                url=url,
-                title=title,
-                published_at=published_dt.isoformat(),
-                discovered_at=now_iso(),
-                category=classify_category(title + " " + description),
-                description=description[:800],
-                story_id=story_fingerprint(title),
-                is_breaking=detect_breaking(title, description),
-                entities=extract_entities(title + " " + description),
-                multi_source_names=[source["name"]],
-            )
-        )
+        published_dt = parse_date(item.get("pubdate") or item.get("published") or item.get("updated"))
+        result.append(NewsItem(
+            id=stable_id(source["name"], url, title),
+            source=source["name"],
+            source_weight=float(source["weight"]),
+            url=url,
+            title=title,
+            published_at=published_dt.isoformat(),
+            discovered_at=now_iso(),
+            category=classify_category(title + " " + description),
+            description=description[:800],
+            story_id=story_fingerprint(title),
+            is_breaking=detect_breaking(title, description),
+            entities=extract_entities(title + " " + description),
+            multi_source_names=[source["name"]],
+        ))
     return result
-
-
-def classify_category(text: str) -> str:
-    lower = text.lower()
-    scores = {
-        category: sum(lower.count(k) for k in keywords)
-        for category, keywords in CATEGORY_KEYWORDS.items()
-    }
-    best = max(scores, key=scores.get)
-    return best if scores[best] > 0 else "movie_news"
 
 
 def hours_old(item: NewsItem) -> float:
@@ -369,21 +387,23 @@ def freshness_score(item: NewsItem) -> float:
 
 def interest_score(item: NewsItem) -> float:
     text = f"{item.title} {item.description}".lower()
-    score = 45.0
-    high_interest = [
+    score = 40.0
+    high = [
         "marvel", "dc", "batman", "superman", "star wars", "harry potter",
         "nolan", "spielberg", "tarantino", "scorsese", "netflix", "disney",
         "hbo", "oppenheimer", "avengers", "spider-man", "james bond",
         "oscar", "trailer", "box office", "christopher nolan", "tom cruise",
-        "villeneuve", "dune",
+        "villeneuve", "dune", "sequel", "casting", "release date",
     ]
-    score += min(30, sum(5 for k in high_interest if k in text))
-    if item.category in {"actors_directors", "trailers_first_look", "breaking_news"}:
-        score += 12
-    if item.is_breaking:
+    score += min(35, sum(5 for k in high if k in text))
+    if item.category in PREFERRED_CATEGORIES:
         score += 10
-    if "exclusive" in text:
+    if item.category in {"actors_directors", "trailers_first_look", "box_office"}:
         score += 8
+    if item.is_breaking:
+        score += 8
+    if "exclusive" in text:
+        score += 5
     return min(score, 100.0)
 
 
@@ -411,13 +431,13 @@ def entity_penalty(item: NewsItem, history: dict[str, Any]) -> float:
             last = datetime.fromisoformat(rec.get("last_seen", ""))
             hours = (now - last).total_seconds() / 3600
             count = int(rec.get("count", 0))
-            if hours < 24 and count >= 1:
-                penalty *= 0.72
-            elif hours < 72 and count >= 2:
-                penalty *= 0.85
+            if hours < 18 and count >= 1:
+                penalty *= 0.65
+            elif hours < 48 and count >= 2:
+                penalty *= 0.80
         except Exception:
             continue
-    return max(0.45, penalty)
+    return max(0.40, penalty)
 
 
 def score_news(item: NewsItem, history: dict[str, Any]) -> NewsItem:
@@ -426,7 +446,6 @@ def score_news(item: NewsItem, history: dict[str, Any]) -> NewsItem:
     item.audience_interest = interest_score(item)
     item.potential_engagement = engagement_score(item, history)
 
-    ms_boost = 0.0
     if item.multi_source_count >= 3:
         ms_boost = 12.0
         item.verification_confidence = min(0.95, 0.55 + 0.15 * item.multi_source_count)
@@ -434,18 +453,21 @@ def score_news(item: NewsItem, history: dict[str, Any]) -> NewsItem:
         ms_boost = 7.0
         item.verification_confidence = 0.72
     else:
+        ms_boost = 0.0
         item.verification_confidence = 0.50 + (item.source_weight - 0.8) * 0.5
 
     base = (
         0.22 * item.freshness
-        + 0.22 * item.credibility
-        + 0.18 * item.audience_interest
-        + 0.25 * item.potential_engagement
+        + 0.20 * item.credibility
+        + 0.25 * item.audience_interest
+        + 0.20 * item.potential_engagement
         + 0.13 * (item.verification_confidence * 100)
     )
     base += ms_boost
     if item.is_breaking:
-        base += 8.0
+        base += 6.0
+    if item.category not in PREFERRED_CATEGORIES:
+        base *= 0.75
     base *= entity_penalty(item, history)
     item.score = round(min(base, 100.0), 2)
     return item
@@ -461,18 +483,18 @@ def similarity(a: str, b: str) -> float:
 def cluster_stories(items: list[NewsItem]) -> list[NewsItem]:
     clusters: dict[str, list[NewsItem]] = {}
     for item in sorted(items, key=lambda x: (x.source_weight, x.freshness), reverse=True):
-        matched_key = None
+        matched = None
         for key, group in clusters.items():
             rep = group[0]
             if item.story_id == rep.story_id or similarity(item.title, rep.title) >= 0.62:
-                matched_key = key
+                matched = key
                 break
-        if matched_key is None:
+        if matched is None:
             clusters[item.story_id or item.id] = [item]
         else:
-            clusters[matched_key].append(item)
+            clusters[matched].append(item)
 
-    result: list[NewsItem] = []
+    result = []
     for group in clusters.values():
         group_sorted = sorted(group, key=lambda x: (x.source_weight, -hours_old(x)), reverse=True)
         rep = group_sorted[0]
@@ -498,24 +520,28 @@ def deduplicate(items: list[NewsItem], history: dict[str, Any]) -> list[NewsItem
     seen_urls = {normalize_url(x) for x in history.get("seen_urls", [])}
     seen_stories = set(history.get("seen_story_ids", []))
     output: list[NewsItem] = []
-
     for item in sorted(items, key=lambda x: x.score, reverse=True):
         if item.id in seen_ids or normalize_url(item.url) in seen_urls:
             continue
         if item.story_id and item.story_id in seen_stories:
             continue
-        duplicate = False
+        # Hard quality gate
+        if item.audience_interest < MIN_INTEREST_SCORE:
+            continue
+        if item.category not in PREFERRED_CATEGORIES:
+            continue
+        dup = False
         for kept in output:
             if normalize_url(item.url) == normalize_url(kept.url):
-                duplicate = True
+                dup = True
                 break
             if item.story_id and item.story_id == kept.story_id:
-                duplicate = True
+                dup = True
                 break
             if similarity(item.title, kept.title) >= 0.68:
-                duplicate = True
+                dup = True
                 break
-        if not duplicate:
+        if not dup:
             output.append(item)
     return output
 
@@ -541,28 +567,20 @@ def select_candidates(items: list[NewsItem], history: dict[str, Any]) -> list[Ne
 
     for item in selected:
         item.score = round(item.score * (0.70 + 0.30 * (weights.get(item.category, 5) / 30)), 2)
-
     return sorted(selected, key=lambda x: (x.is_breaking, x.score), reverse=True)[:CANDIDATE_LIMIT]
 
 
 def groq_generate(prompt: str, max_tokens: int = 2500, temperature: float = 0.35, retries: int = 3) -> str:
-    """Groq call with backoff. Avoid burning quota on repeated 400 JSON failures."""
     last_exc: Exception | None = None
     for attempt in range(retries):
         try:
             response = requests.post(
                 "https://api.groq.com/openai/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {GROQ_API_KEY}",
-                    "Content-Type": "application/json",
-                },
+                headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"},
                 json={
                     "model": MODEL,
                     "messages": [
-                        {
-                            "role": "system",
-                            "content": "You output only valid compact JSON. No markdown. No extra text.",
-                        },
+                        {"role": "system", "content": "Output only valid compact JSON. No markdown."},
                         {"role": "user", "content": prompt},
                     ],
                     "temperature": temperature,
@@ -573,61 +591,46 @@ def groq_generate(prompt: str, max_tokens: int = 2500, temperature: float = 0.35
             )
             if response.status_code == 429:
                 wait = min(45, (2 ** attempt) + random.uniform(0.5, 2.0))
-                print(f"[RATE] 429 — sleep {wait:.1f}s ({attempt + 1}/{retries})")
+                print(f"[RATE] 429 — sleep {wait:.1f}s")
                 time.sleep(wait)
                 continue
             if response.status_code == 400:
-                body_preview = response.text[:280].replace("\n", " ")
-                print(f"[WARN] Groq 400: {body_preview}")
-                # JSON mode failures rarely fix themselves by retrying the same prompt
+                print(f"[WARN] Groq 400: {response.text[:260].replace(chr(10), ' ')}")
                 if attempt >= 1:
                     response.raise_for_status()
-                time.sleep(1.2)
+                time.sleep(1.0)
                 continue
-            if response.status_code >= 400:
-                print(f"[WARN] Groq HTTP {response.status_code}: {response.text[:280]}")
             response.raise_for_status()
-            data = response.json()
-            return data["choices"][0]["message"]["content"].strip()
+            return response.json()["choices"][0]["message"]["content"].strip()
         except requests.exceptions.RequestException as exc:
             last_exc = exc
-            wait = min(20, (2 ** attempt) + random.uniform(0.3, 1.2))
-            print(f"[WARN] request error: {exc} — retry {wait:.1f}s")
-            time.sleep(wait)
-    raise last_exc or RuntimeError("Groq failed after retries")
+            time.sleep(min(15, (2 ** attempt) + 0.5))
+    raise last_exc or RuntimeError("Groq failed")
 
 
 def ai_editorial(item: NewsItem) -> dict[str, Any]:
     sources_line = ", ".join(item.multi_source_names) if item.multi_source_names else item.source
-    multi_note = (
-        f"Sources ({item.multi_source_count}): {sources_line}."
-        if item.multi_source_count > 1
-        else f"Single source: {item.source}."
-    )
+    prompt = f"""You are Persian editor of NOIR ROOMS — a channel ONLY about movies, TV series, actors, directors, trailers, and box office.
 
-    # Keep prompt compact so JSON mode finishes reliably
-    prompt = f"""Persian cinema editor for Telegram channel NOIR ROOMS.
+HARD RULES:
+- Use ONLY facts from TITLE + DESCRIPTION.
+- Never invent names, dates, numbers, cast, directors.
+- Natural Persian, cinematic, not dry, not clickbait.
+- If story is NOT clearly about a film/series/actor/director/trailer/box office → publish=false.
+- Reject industry bureaucracy, education programs, pure celebrity lifestyle, music, sports.
 
-RULES:
-- Use ONLY facts from TITLE + DESCRIPTION below.
-- Never invent names, dates, numbers, quotes, cast, directors.
-- Omit unsupported details.
-- Natural Persian, no clickbait, no machine-translation tone.
-
-{multi_note}
-confidence_prior={item.verification_confidence:.2f} breaking={item.is_breaking}
-
-SOURCE: {item.source}
+Sources ({item.multi_source_count}): {sources_line}
+Category: {item.category}
 TITLE: {item.title}
 DESCRIPTION:
 {item.description[:700]}
 
-Return compact JSON:
+Return JSON:
 {{
-  "hooks": ["hook1", "hook2"],
-  "hook": "best Persian hook max 14 words",
+  "hook": "Persian hook max 14 words",
+  "hooks": ["alt1", "alt2"],
   "headline": "Persian headline",
-  "summary": "2 short Persian paragraphs, only supported facts",
+  "summary": "2 short Persian paragraphs",
   "key_facts": ["fact1", "fact2"],
   "cta": "",
   "hashtags": ["#سینما", "#فیلم"],
@@ -636,77 +639,80 @@ Return compact JSON:
   "publish": true,
   "reason": "short"
 }}
-
-Set publish=false if not clearly cinema/TV news or facts are weak.
 """
-    raw = groq_generate(prompt, max_tokens=2500, temperature=0.35, retries=3)
+    raw = groq_generate(prompt, max_tokens=2500, temperature=0.32, retries=3)
     data = json.loads(raw)
-
-    data.setdefault("hooks", [])
-    data.setdefault("hook", "")
-    data.setdefault("headline", "")
-    data.setdefault("summary", "")
-    data.setdefault("key_facts", [])
-    data.setdefault("cta", "")
-    data.setdefault("hashtags", ["#سینما", "#فیلم"])
-    data.setdefault("supported_claims", [])
-    data.setdefault("confidence", "medium")
-    data.setdefault("publish", False)
-    data.setdefault("reason", "")
-
+    for k, v in {
+        "hook": "", "hooks": [], "headline": "", "summary": "", "key_facts": [],
+        "cta": "", "hashtags": ["#سینما", "#فیلم"], "supported_claims": [],
+        "confidence": "medium", "publish": False, "reason": "",
+    }.items():
+        data.setdefault(k, v)
     if data.get("hooks") and not data.get("hook"):
         data["hook"] = data["hooks"][0]
-
     if data.get("confidence") == "low":
         data["publish"] = False
     if not data.get("summary") or not data.get("hook"):
         data["publish"] = False
-        data["reason"] = data.get("reason") or "missing core fields"
-
+        data["reason"] = data.get("reason") or "missing fields"
     return data
 
 
 def format_post(item: NewsItem, edited: dict[str, Any]) -> str:
     lines = [
-        edited["hook"].strip(),
-        "",
-        f"🎬 {edited['headline'].strip()}",
-        "",
+        edited["hook"].strip(), "",
+        f"🎬 {edited['headline'].strip()}", "",
         edited["summary"].strip(),
     ]
     facts = [str(x).strip() for x in edited.get("key_facts", []) if str(x).strip()]
     if facts:
-        lines += ["", "📌 نکات مهم:"]
-        lines += [f"• {x}" for x in facts[:4]]
+        lines += ["", "📌 نکات مهم:"] + [f"• {x}" for x in facts[:4]]
     if item.multi_source_count >= 2:
         lines += ["", f"✅ تأیید چندمنبعی: {', '.join(item.multi_source_names[:4])}"]
     cta = edited.get("cta", "").strip()
     if cta:
         lines += ["", cta]
-    hashtags = [str(x).strip() for x in edited.get("hashtags", []) if str(x).strip()]
-    if hashtags:
-        lines += ["", " ".join(hashtags[:6])]
+    tags = [str(x).strip() for x in edited.get("hashtags", []) if str(x).strip()]
+    if tags:
+        lines += ["", " ".join(tags[:6])]
     lines += ["", f"🔗 منبع: {item.source}", item.url]
     return "\n".join(lines)
+
+
+async def maybe_brand_channel(bot: Bot, history: dict[str, Any]) -> None:
+    """Set channel title/description if env provided and not yet applied."""
+    if history.get("channel_branding_applied"):
+        return
+    if not SET_CHANNEL_TITLE and not SET_CHANNEL_DESCRIPTION:
+        return
+    try:
+        if SET_CHANNEL_TITLE:
+            await bot.set_chat_title(chat_id=CHANNEL_ID, title=SET_CHANNEL_TITLE[:128])
+            print(f"[BRAND] title set: {SET_CHANNEL_TITLE[:60]}")
+        if SET_CHANNEL_DESCRIPTION:
+            await bot.set_chat_description(
+                chat_id=CHANNEL_ID,
+                description=SET_CHANNEL_DESCRIPTION[:255],
+            )
+            print(f"[BRAND] description set ({len(SET_CHANNEL_DESCRIPTION)} chars)")
+        history["channel_branding_applied"] = True
+    except Exception as exc:
+        print(
+            f"[BRAND] failed (need admin + can_change_info): {exc}\n"
+            "  → In Telegram: Channel → Administrators → Bot → enable 'Change channel info'"
+        )
 
 
 async def publish(bot: Bot, item: NewsItem, edited: dict[str, Any]) -> dict[str, Any]:
     text = format_post(item, edited)
     message = await bot.send_message(
-        chat_id=CHANNEL_ID,
-        text=text,
-        disable_web_page_preview=False,
+        chat_id=CHANNEL_ID, text=text, disable_web_page_preview=False,
     )
     return {
         "telegram_message_id": message.message_id,
         "published_at": now_iso(),
         "text": text,
-        "analytics": {
-            "views": None,
-            "forwards": None,
-            "reactions": None,
-            "source": "unavailable_via_bot_api",
-        },
+        "analytics": {"views": None, "forwards": None, "reactions": None, "source": "unavailable_via_bot_api"},
     }
 
 
@@ -717,42 +723,27 @@ def update_entity_memory(history: dict[str, Any], item: NewsItem) -> None:
         rec = em.setdefault(ent, {"count": 0, "last_seen": ts, "categories": []})
         rec["count"] = int(rec.get("count", 0)) + 1
         rec["last_seen"] = ts
-        cats = rec.setdefault("categories", [])
-        if item.category not in cats:
-            cats.append(item.category)
+        if item.category not in rec.setdefault("categories", []):
+            rec["categories"].append(item.category)
 
 
 def record_published(history: dict[str, Any], item: NewsItem, edited: dict[str, Any], result: dict[str, Any]) -> None:
     hour = datetime.now(timezone.utc).hour
     history["posts"].append({
-        "news_id": item.id,
-        "story_id": item.story_id,
-        "source": item.source,
-        "sources": item.multi_source_names,
-        "multi_source_count": item.multi_source_count,
-        "url": item.url,
-        "title": item.title,
-        "category": item.category,
-        "score": item.score,
-        "freshness": item.freshness,
-        "credibility": item.credibility,
-        "audience_interest": item.audience_interest,
-        "potential_engagement": item.potential_engagement,
-        "verification_confidence": item.verification_confidence,
-        "is_breaking": item.is_breaking,
-        "entities": item.entities,
-        "hook": edited.get("hook"),
-        "hooks": edited.get("hooks", []),
-        "confidence": edited.get("confidence"),
-        "supported_claims": edited.get("supported_claims", []),
-        "status": "published",
-        **result,
+        "news_id": item.id, "story_id": item.story_id, "source": item.source,
+        "sources": item.multi_source_names, "multi_source_count": item.multi_source_count,
+        "url": item.url, "title": item.title, "category": item.category,
+        "score": item.score, "freshness": item.freshness, "credibility": item.credibility,
+        "audience_interest": item.audience_interest, "potential_engagement": item.potential_engagement,
+        "verification_confidence": item.verification_confidence, "is_breaking": item.is_breaking,
+        "entities": item.entities, "hook": edited.get("hook"), "hooks": edited.get("hooks", []),
+        "confidence": edited.get("confidence"), "supported_claims": edited.get("supported_claims", []),
+        "status": "published", **result,
     })
     history["seen_news_ids"].append(item.id)
     history["seen_urls"].append(item.url)
     if item.story_id:
         history.setdefault("seen_story_ids", []).append(item.story_id)
-
     stats = history["category_stats"].setdefault(item.category, {
         "published": 0, "avg_views": None, "avg_reactions": None, "samples_with_metrics": 0,
     })
@@ -763,60 +754,24 @@ def record_published(history: dict[str, Any], item: NewsItem, edited: dict[str, 
 
 
 def update_strategy(history: dict[str, Any]) -> None:
-    category_stats = history.get("category_stats", {})
-    observed = []
-    for category, stats in category_stats.items():
-        samples = stats.get("samples_with_metrics", 0)
-        avg_views = stats.get("avg_views")
-        if samples and isinstance(avg_views, (int, float)):
-            observed.append((category, float(avg_views)))
-    if len(observed) < 2:
-        history["strategy"]["exploration_rate"] = 0.30
-        return
-    observed.sort(key=lambda x: x[1], reverse=True)
-    total = sum(max(v, 1.0) for _, v in observed)
-    learned = {c: min(45.0, max(5.0, v / total * 100.0)) for c, v in observed}
-    total_learned = sum(learned.values())
-    if total_learned:
-        for c in learned:
-            learned[c] = round(learned[c] / total_learned * 70.0, 2)
-    base = DEFAULT_CATEGORY_WEIGHTS.copy()
-    for c, v in learned.items():
-        base[c] = v
-    history["strategy"]["category_weights"] = base
     history["strategy"]["exploration_rate"] = 0.30
 
 
 def build_weekly_report(history: dict[str, Any]) -> dict[str, Any]:
     posts = history.get("posts", [])[-100:]
-    category_counts: dict[str, int] = {}
-    for post in posts:
-        category = post.get("category", "unknown")
-        category_counts[category] = category_counts.get(category, 0) + 1
-    best_category = max(category_counts, key=category_counts.get) if category_counts else None
-    metric_posts = [p for p in posts if p.get("analytics", {}).get("views") is not None]
-    best_hook = None
-    if metric_posts:
-        best = max(metric_posts, key=lambda p: p["analytics"]["views"])
-        best_hook = best.get("hook")
+    cats: dict[str, int] = {}
+    for p in posts:
+        c = p.get("category", "unknown")
+        cats[c] = cats.get(c, 0) + 1
     report = {
-        "generated_at": now_iso(),
-        "version": HISTORY_VERSION,
-        "posts": len(posts),
-        "average_views": (
-            sum(p["analytics"]["views"] for p in metric_posts) / len(metric_posts)
-            if metric_posts else None
-        ),
-        "best_category": best_category,
-        "worst_category": min(category_counts, key=category_counts.get) if category_counts else None,
-        "best_hook": best_hook,
+        "generated_at": now_iso(), "version": HISTORY_VERSION, "posts": len(posts),
+        "average_views": None,
+        "best_category": max(cats, key=cats.get) if cats else None,
+        "worst_category": min(cats, key=cats.get) if cats else None,
+        "best_hook": None,
         "top_news": [
-            {
-                "title": p.get("title"),
-                "category": p.get("category"),
-                "score": p.get("score"),
-                "multi_source_count": p.get("multi_source_count", 1),
-            }
+            {"title": p.get("title"), "category": p.get("category"), "score": p.get("score"),
+             "multi_source_count": p.get("multi_source_count", 1)}
             for p in sorted(posts, key=lambda x: x.get("score", 0), reverse=True)[:5]
         ],
         "entity_memory_size": len(history.get("entity_memory", {})),
@@ -828,80 +783,69 @@ def build_weekly_report(history: dict[str, Any]) -> dict[str, Any]:
 
 
 def print_report(report: dict[str, Any]) -> None:
-    print("\n=== NOIR ROOMS V2 REPORT ===")
-    for key in ["posts", "average_views", "best_category", "worst_category", "best_hook", "growth", "entity_memory_size"]:
-        print(f"{key}: {report.get(key)}")
-    print("recommended_strategy:", json.dumps(report.get("recommended_strategy"), ensure_ascii=False))
+    print("\n=== NOIR ROOMS V2.2 REPORT ===")
+    for k in ["posts", "best_category", "entity_memory_size"]:
+        print(f"{k}: {report.get(k)}")
 
 
 async def main() -> None:
     history = load_history()
-    print("NOIR ROOMS V2.1: collecting cinema news...")
+    print("NOIR ROOMS V2.2: strict cinema hourly run...")
+
+    bot = Bot(token=TELEGRAM_TOKEN)
+    await maybe_brand_channel(bot, history)
+
     all_items: list[NewsItem] = []
     for source in SOURCES:
         all_items.extend(fetch_feed(source))
     print(f"Raw collected={len(all_items)}")
 
     clustered = cluster_stories(all_items)
-    print(f"After story clustering={len(clustered)}")
-
     scored = [score_news(x, history) for x in clustered]
     unique = deduplicate(scored, history)
     candidates = select_candidates(unique, history)
     print(
-        f"unique={len(unique)} candidates={len(candidates)} "
+        f"clustered={len(clustered)} unique={len(unique)} candidates={len(candidates)} "
         f"breaking={sum(1 for c in candidates if c.is_breaking)}"
     )
 
     if not candidates:
-        print("No eligible news items.")
+        print("No eligible cinema items after strict filter.")
         save_history(history)
         return
 
-    bot = Bot(token=TELEGRAM_TOKEN)
     published = 0
     ai_attempts = 0
-
     for item in candidates:
-        if published >= PUBLISH_LIMIT:
+        if published >= PUBLISH_LIMIT or ai_attempts >= MAX_AI_ATTEMPTS:
             break
-        if ai_attempts >= MAX_AI_ATTEMPTS:
-            print(f"Reached MAX_AI_ATTEMPTS={MAX_AI_ATTEMPTS}")
-            break
-
         ai_attempts += 1
         try:
             if ai_attempts > 1:
-                time.sleep(2.0 + random.uniform(0.3, 1.2))
+                time.sleep(2.0 + random.uniform(0.2, 1.0))
             edited = ai_editorial(item)
         except Exception as exc:
-            print(f"[WARN] AI failed: {item.title[:70]} | {exc}")
+            print(f"[WARN] AI: {item.title[:60]} | {exc}")
             continue
-
         if not edited.get("publish", False):
-            print(
-                f"[SKIP] {item.title[:70]} | conf={edited.get('confidence')} | "
-                f"{edited.get('reason', '')}"
-            )
+            print(f"[SKIP] {item.title[:60]} | {edited.get('reason', '')}")
             continue
-
         try:
             result = await publish(bot, item, edited)
             record_published(history, item, edited, result)
             published += 1
             print(
                 f"Published #{published}: {item.category} | ms={item.multi_source_count} | "
-                f"breaking={item.is_breaking} | {item.title[:65]}"
+                f"interest={item.audience_interest:.0f} | {item.title[:55]}"
             )
         except Exception as exc:
             print(f"[ERROR] Telegram: {exc}")
             break
 
     update_strategy(history)
-    report = build_weekly_report(history)
-    print_report(report)
+    print_report(build_weekly_report(history))
     save_history(history)
-    print(f"Done V2.1 published={published} ai_attempts={ai_attempts}")
+    print(f"Done V2.2 published={published} ai_attempts={ai_attempts}")
 
 
 if __name__ == "__main__":
