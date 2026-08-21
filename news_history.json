@@ -922,6 +922,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8637977df40c5078c4eac497",
+      "story_id": "db739dc16b0cdbc2",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647",
+      "title": "Netflix Sets Theatrical and Streaming Dates for Peter Berg’s World War II Drama ‘The Mosquito Bowl’ (EXCLUSIVE)",
+      "category": "streaming",
+      "score": 30.8,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "netflix sets theatrical",
+        "streaming dates",
+        "peter berg",
+        "world war",
+        "drama",
+        "the mosquito bowl",
+        "berg",
+        "lone survivor",
+        "deepwater horizon",
+        "variety"
+      ],
+      "hook": "دستورالعمل‌های جنگ جهانی دوم در سینما باز می‌شود",
+      "hooks": [
+        "یک داستان واقعی و شگفت‌انگیز از جنگ",
+        "فیلمی که تاریخ را در پرده نشان می‌دهد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در 30 اکتبر در سینماهای آمریکا عرضه می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 24,
+      "published_at": "2026-08-21T19:50:21.369629+00:00",
+      "text": "دستورالعمل‌های جنگ جهانی دوم در سینما باز می‌شود\n\n🎬 پیتربرگ: فیلم جنگ جهانی دوم «Mosquito Bowl» در سینما و نتفلیکس\n\nفیلمی که توسط پیتربرگ ساخته شده و بر اساس یکی از نادرترین وقایع واقعی جنگ جهانی دوم ساخته شده است، در تاریخ 30 اکتبر در سینماهای آمریکا به نمایش در می‌آید. پس از آن، در 25 نوامبر، نسخه‌ی استریم در نتفلیکس منتشر خواهد شد، به‌طوری که مخاطبان می‌توانند در خانه‌ی خود از این ماجرا لذت ببرند.\n\n📌 نکات مهم:\n• فیلم در 30 اکتبر در سینماهای آمریکا عرضه می‌شود\n• در 25 نوامبر در نتفلیکس منتشر می‌شود\n• بر اساس یکی از نادرترین وقایع واقعی جنگ جهانی دوم است\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -943,7 +994,8 @@
     "d8aff6bc2328f57cdca815f2",
     "0b8649c0783a3cc88cc944df",
     "aefded4b5decf72caf6ef254",
-    "0dde88bc0fc440088aab58f0"
+    "0dde88bc0fc440088aab58f0",
+    "8637977df40c5078c4eac497"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -964,7 +1016,8 @@
     "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
     "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
     "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max",
-    "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483"
+    "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483",
+    "https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647"
   ],
   "category_stats": {
     "movie_news": {
@@ -980,7 +1033,7 @@
       "samples_with_metrics": 0
     },
     "streaming": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1024,6 +1077,9 @@
       "published": 1
     },
     "5": {
+      "published": 1
+    },
+    "19": {
       "published": 1
     }
   },
@@ -2142,6 +2198,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T19:50:21.369710+00:00",
+      "version": 2,
+      "posts": 20,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 176,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2162,7 +2276,8 @@
     "e9561d2ac8e70a5b",
     "fc28f6093500da41",
     "872b65c58706b5e6",
-    "ce6529d6359a6c06"
+    "ce6529d6359a6c06",
+    "db739dc16b0cdbc2"
   ],
   "entity_memory": {
     "venice": {
@@ -2559,8 +2674,8 @@
       ]
     },
     "netflix": {
-      "count": 3,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "count": 4,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
       "categories": [
         "streaming",
         "movie_news",
@@ -2603,8 +2718,8 @@
       ]
     },
     "variety": {
-      "count": 2,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "count": 3,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
       "categories": [
         "streaming",
         "actors_directors"
@@ -3337,6 +3452,69 @@
       "last_seen": "2026-08-21T18:02:14.876409+00:00",
       "categories": [
         "trailers_first_look"
+      ]
+    },
+    "netflix sets theatrical": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "streaming dates": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "peter berg": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "world war": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "drama": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "the mosquito bowl": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "berg": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "lone survivor": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "deepwater horizon": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
       ]
     }
   },
