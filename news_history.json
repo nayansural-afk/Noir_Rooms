@@ -768,6 +768,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0b8649c0783a3cc88cc944df",
+      "story_id": "fc28f6093500da41",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
+      "title": "‘Supporting Role’ Director Ana Urushadze Preps ‘Fear of Butterflies,’ a Detective Story With ‘Mysticism and a Touch of Body Horror’ (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 72.49,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "supporting role",
+        "director ana urushadze",
+        "preps",
+        "fear",
+        "butterflies",
+        "detective story with",
+        "mysticism",
+        "touch",
+        "body horror",
+        "georgian",
+        "ana urushadze",
+        "scary mother"
+      ],
+      "hook": "دستگاه ترس در Fear of Butterflies، سرگذشت معمایی و بدن‌زخم",
+      "hooks": [
+        "در Fear of Butterflies، معمایی با بدن‌زخم",
+        "کارگردان آنا اوروشادزه، در حال ساخت داستانی معمایی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آنا اوروشادزه در حال ساخت سومین فیلم خود است"
+      ],
+      "status": "published",
+      "telegram_message_id": 21,
+      "published_at": "2026-08-21T14:08:31.880152+00:00",
+      "text": "دستگاه ترس در Fear of Butterflies، سرگذشت معمایی و بدن‌زخم\n\n🎬 آنا اوروشادزه، کارگردان گرجستانی، در حال ساخت Fear of Butterflies، داستانی معمایی و بدن‌زخم\n\nکارگردان گرجستانی آنا اوروشادزه، برنده جایزه Rotterdam برای فیلم Supporting Role، در حال ساخت سومین فیلم خود، Fear of Butterflies، است. این فیلم، داستانی معمایی با عناصر بدن‌زخم و ماجراجویی است که در آن یک زن جوان در آستانه ۳۰ سالگی، تجربیات عجیب ذهنی و جسمی را تجربه می‌کند.\n\n📌 نکات مهم:\n• آنا اوروشادزه، کارگردان گرجستانی\n• فیلم Supporting Role برنده جایزه Rotterdam و در رقابت جشنواره سارایوو است\n• فیلم Fear of Butterflies در حال ساخت است و سومین فیلم اوست\n• موضوع فیلم: داستان معمایی با عناصر بدن‌زخم و ماجراجویی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -786,7 +839,8 @@
     "75f00634412f4d558f066491",
     "9a219ea59e411411f0abb9d0",
     "0d65506cfafb5e137f4447ca",
-    "d8aff6bc2328f57cdca815f2"
+    "d8aff6bc2328f57cdca815f2",
+    "0b8649c0783a3cc88cc944df"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -804,7 +858,8 @@
     "https://www.bbc.co.uk/news/articles/cr7kddmn97do",
     "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
     "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
-    "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki"
+    "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
+    "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801"
   ],
   "category_stats": {
     "movie_news": {
@@ -814,7 +869,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 3,
+      "published": 4,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -843,7 +898,7 @@
       "published": 4
     },
     "14": {
-      "published": 1
+      "published": 2
     },
     "16": {
       "published": 1
@@ -1808,6 +1863,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T14:08:31.880226+00:00",
+      "version": 2,
+      "posts": 17,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 148,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1825,7 +1938,8 @@
     "e2b34dfd39649b53",
     "74eeb13a0a8ecd25",
     "9d063c4dcece8ceb",
-    "e9561d2ac8e70a5b"
+    "e9561d2ac8e70a5b",
+    "fc28f6093500da41"
   ],
   "entity_memory": {
     "venice": {
@@ -2781,6 +2895,90 @@
       "last_seen": "2026-08-21T11:58:01.591184+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "supporting role": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director ana urushadze": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "preps": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fear": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "butterflies": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "detective story with": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mysticism": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "touch": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "body horror": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "georgian": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ana urushadze": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "scary mother": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
