@@ -973,6 +973,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6608f1f1dd3e66ef952ed268",
+      "story_id": "9b0618ed71c44d2e",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376",
+      "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+      "category": "movie_news",
+      "score": 82.81,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 65.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "christopher nolan",
+        "nolan",
+        "the odyssey",
+        "sets digital",
+        "release dates christopher",
+        "homer",
+        "july",
+        "ultra"
+      ],
+      "hook": "نولان، اوڈیسی: به خانه‌تان می‌آید",
+      "hooks": [
+        "نولان با اوڈیسی، به خانه‌تان می‌آید",
+        "اوڈیسی نولان، در 4K Ultra HD"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «اوڈیسی» در تاریخ 17 نوامبر در قالب دیجیتال و 4K Ultra HD Blu‑ray منتشر می‌شود."
+      ],
+      "status": "published",
+      "telegram_message_id": 25,
+      "published_at": "2026-08-21T20:56:14.881881+00:00",
+      "text": "نولان، اوڈیسی: به خانه‌تان می‌آید\n\n🎬 نولان با اوڈیسی، در 4K Ultra HD و دیجیتال به خانه‌تان می‌آید\n\nفیلم «اوڈیسی» اثر کریستوفر نولان، که بر اساس حماسهٔ هومر ساخته شده، در تاریخ 17 ژوئیه در سینماها به نمایش درآمد.\nاز تاریخ 17 نوامبر، این اثر در قالب دیجیتال و 4K Ultra HD Blu‑ray برای اجاره و خرید در دسترس خواهد بود.\n\n📌 نکات مهم:\n• تاریخ انتشار دیجیتال و 4K Blu‑ray: 17 نوامبر\n• تاریخ نمایش در سینما: 17 ژوئیه\n• سینمایی: «اوڈیسی» اثر کریستوفر نولان\n• سینمایی: بر اساس حماسهٔ هومر\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -995,7 +1044,8 @@
     "0b8649c0783a3cc88cc944df",
     "aefded4b5decf72caf6ef254",
     "0dde88bc0fc440088aab58f0",
-    "8637977df40c5078c4eac497"
+    "8637977df40c5078c4eac497",
+    "6608f1f1dd3e66ef952ed268"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1017,11 +1067,12 @@
     "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
     "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max",
     "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483",
-    "https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647"
+    "https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647",
+    "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 11,
+      "published": 12,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1065,7 +1116,7 @@
       "published": 2
     },
     "20": {
-      "published": 1
+      "published": 2
     },
     "21": {
       "published": 1
@@ -2256,6 +2307,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T20:56:14.881961+00:00",
+      "version": 2,
+      "posts": 21,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 184,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2277,7 +2386,8 @@
     "fc28f6093500da41",
     "872b65c58706b5e6",
     "ce6529d6359a6c06",
-    "db739dc16b0cdbc2"
+    "db739dc16b0cdbc2",
+    "9b0618ed71c44d2e"
   ],
   "entity_memory": {
     "venice": {
@@ -3515,6 +3625,62 @@
       "last_seen": "2026-08-21T19:50:21.369663+00:00",
       "categories": [
         "streaming"
+      ]
+    },
+    "christopher nolan": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nolan": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the odyssey": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets digital": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "release dates christopher": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "homer": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "july": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ultra": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
