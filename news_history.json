@@ -715,6 +715,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d8aff6bc2328f57cdca815f2",
+      "story_id": "e9561d2ac8e70a5b",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
+      "title": "I Want Your Sex review – vampy Olivia Wilde almost saves Gregg Araki’s tame dom-sub romp",
+      "category": "movie_news",
+      "score": 38.36,
+      "freshness": 15.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "sundance",
+        "want your sex",
+        "olivia wilde",
+        "gregg araki",
+        "while sundance",
+        "american",
+        "there",
+        "robert redford",
+        "utah",
+        "alongside",
+        "rachel lambert",
+        "carousel"
+      ],
+      "hook": "آیا فیلم 'I Want Your Sex' واقعاً به‌دست می‌آید؟",
+      "hooks": [
+        "Olivia Wilde در 'I Want Your Sex' به‌جای نجات می‌کوشد",
+        "Gregg Araki با سبک روزگلو در 'I Want Your Sex' بازگشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Olivia Wilde almost saves the film",
+        "Gregg Araki’s return to campy dayglo roots is underwhelming"
+      ],
+      "status": "published",
+      "telegram_message_id": 20,
+      "published_at": "2026-08-21T11:58:01.591152+00:00",
+      "text": "آیا فیلم 'I Want Your Sex' واقعاً به‌دست می‌آید؟\n\n🎬 Olivia Wilde در 'I Want Your Sex' به‌جای نجات می‌کوشد، اما Gregg Araki به‌صورت کم‌اثر باقی می‌ماند\n\nفیلم 'I Want Your Sex' در جشنواره Sundance به نمایش گذاشته شد و به‌عنوان یک رومپ دمو-سب توصیف شد. Olivia Wilde در نقش اصلی بازی می‌کند و تلاش می‌کند فیلم را نجات دهد، اما کارگردان Gregg Araki با بازگشت به سبک روزگلو خود، در نهایت به‌صورت کم‌اثر باقی می‌ماند.\nفیلم در میان نمایش‌های گذشته جشنواره، به‌عنوان یک نمونه از سبک کلاسیک Sundance مطرح شد، اما نقدها نشان داد که اثر کم‌تجربه و کم‌اثر باقی می‌ماند.\n\n📌 نکات مهم:\n• Olivia Wilde در فیلم 'I Want Your Sex' نقش اصلی را بازی می‌کند\n• Gregg Araki کارگردان و نویسنده فیلم است\n• فیلم در جشنواره Sundance نمایش داده شد\n• فیلم به‌عنوان یک رومپ دمو-سب توصیف شد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -732,7 +785,8 @@
     "9804cd53ed99792a82302db1",
     "75f00634412f4d558f066491",
     "9a219ea59e411411f0abb9d0",
-    "0d65506cfafb5e137f4447ca"
+    "0d65506cfafb5e137f4447ca",
+    "d8aff6bc2328f57cdca815f2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -749,11 +803,12 @@
     "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
     "https://www.bbc.co.uk/news/articles/cr7kddmn97do",
     "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
-    "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165"
+    "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
+    "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 10,
+      "published": 11,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -785,7 +840,7 @@
       "published": 2
     },
     "11": {
-      "published": 3
+      "published": 4
     },
     "14": {
       "published": 1
@@ -1695,6 +1750,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T11:58:01.591226+00:00",
+      "version": 2,
+      "posts": 16,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 136,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1711,7 +1824,8 @@
     "dcb2c91443ff1358",
     "e2b34dfd39649b53",
     "74eeb13a0a8ecd25",
-    "9d063c4dcece8ceb"
+    "9d063c4dcece8ceb",
+    "e9561d2ac8e70a5b"
   ],
   "entity_memory": {
     "venice": {
@@ -1722,8 +1836,8 @@
       ]
     },
     "sundance": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
       "categories": [
         "movie_news"
       ]
@@ -2208,8 +2322,8 @@
       ]
     },
     "there": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
       "categories": [
         "movie_news"
       ]
@@ -2597,6 +2711,76 @@
       "last_seen": "2026-08-21T10:15:23.775432+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "want your sex": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "olivia wilde": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gregg araki": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "while sundance": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "robert redford": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "utah": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alongside": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel lambert": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carousel": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
