@@ -870,6 +870,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0dde88bc0fc440088aab58f0",
+      "story_id": "ce6529d6359a6c06",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483",
+      "title": "Comedian Jack Assadourian Jr. Sets Premiere Date For Debut Special ‘Mexican Armenian’ Directed By Jeremiah Watkins – Watch The Trailer",
+      "category": "trailers_first_look",
+      "score": 65.55,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "comedian jack assadourian",
+        "sets premiere date",
+        "for debut special",
+        "mexican armenian",
+        "directed by jeremiah",
+        "watkins",
+        "watch the trailer",
+        "thursday",
+        "september",
+        "assadourian jr",
+        "mexican",
+        "armenian"
+      ],
+      "hook": "جک اسدورین: اولین ویژه‌نامه‌اش، «مکزیکن ارمنی»، در YouTube",
+      "hooks": [
+        "مخرج Jeremiah Watkins در ویژه‌نامه‌ جک اسدورین",
+        "برنامه‌ 17 سپتامبر: جک اسدورین و فرهنگ‌های دوگانه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تاریخ اکران بر روی YouTube اعلام شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 23,
+      "published_at": "2026-08-21T18:02:14.876378+00:00",
+      "text": "جک اسدورین: اولین ویژه‌نامه‌اش، «مکزیکن ارمنی»، در YouTube\n\n🎬 جک اسدورین، اولین ویژه‌نامه‌ خود «مکزیکن ارمنی» را در YouTube معرفی می‌کند\n\nدر خبر انحصاری، کمدی‌نِس جک اسدورین، جونیور، تاریخ اکران ویژه‌نامه‌ خود را اعلام کرد؛ 17 سپتامبر، ساعت 12 ظهر PT، بر روی YouTube.\nاین برنامه، شباهت‌های شگفت‌انگیز میان فرهنگ‌های مکزیکی و ارمنی او را بررسی می‌کند و با قصه‌های خانوادگی و تربیت فرزندان دوفرهنگی، لحظه‌های دلنشین را به نمایش می‌گذارد.\n\n📌 نکات مهم:\n• تاریخ اکران: 17 سپتامبر، 12 ظهر PT\n• مخرج: Jeremiah Watkins\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -890,7 +942,8 @@
     "0d65506cfafb5e137f4447ca",
     "d8aff6bc2328f57cdca815f2",
     "0b8649c0783a3cc88cc944df",
-    "aefded4b5decf72caf6ef254"
+    "aefded4b5decf72caf6ef254",
+    "0dde88bc0fc440088aab58f0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -910,7 +963,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
     "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
     "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
-    "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max"
+    "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max",
+    "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483"
   ],
   "category_stats": {
     "movie_news": {
@@ -932,7 +986,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -955,7 +1009,7 @@
       "published": 2
     },
     "18": {
-      "published": 1
+      "published": 2
     },
     "20": {
       "published": 1
@@ -2030,6 +2084,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T18:02:14.876448+00:00",
+      "version": 2,
+      "posts": 19,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 167,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2049,7 +2161,8 @@
     "9d063c4dcece8ceb",
     "e9561d2ac8e70a5b",
     "fc28f6093500da41",
-    "872b65c58706b5e6"
+    "872b65c58706b5e6",
+    "ce6529d6359a6c06"
   ],
   "entity_memory": {
     "venice": {
@@ -2347,10 +2460,11 @@
       ]
     },
     "september": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "trailers_first_look"
       ]
     },
     "san sebastian": {
@@ -3144,6 +3258,83 @@
     "trailer": {
       "count": 1,
       "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "comedian jack assadourian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sets premiere date": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "for debut special": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mexican armenian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "directed by jeremiah": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "watkins": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "watch the trailer": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "assadourian jr": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mexican": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "armenian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
       "categories": [
         "trailers_first_look"
       ]
