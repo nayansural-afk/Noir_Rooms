@@ -612,6 +612,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9a219ea59e411411f0abb9d0",
+      "story_id": "74eeb13a0a8ecd25",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
+      "title": "Amazon MGM Studios Unveils Teaser for Kunal Kemmu’s ‘Vibe’ (EXCLUSIVE)",
+      "category": "trailers_first_look",
+      "score": 72.25,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "amazon",
+        "studios unveils teaser",
+        "kunal kemmu",
+        "vibe",
+        "studios",
+        "hardik",
+        "kemmu",
+        "bugs",
+        "sparsh shrivastava"
+      ],
+      "hook": "دو دوست عادی، قهرمانان ناآماده در 'ویب'",
+      "hooks": [
+        "کامیاب‌ترین شوخی‌های اکشن در یک فیلم",
+        "دو نفر، یک ماموریت، هیجان بی‌پایان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تیزر هاریک و بگز را به‌عنوان قهرمانان ناآماده معرفی می‌کند."
+      ],
+      "status": "published",
+      "telegram_message_id": 18,
+      "published_at": "2026-08-21T08:05:50.691800+00:00",
+      "text": "دو دوست عادی، قهرمانان ناآماده در 'ویب'\n\n🎬 Amazon MGM Studios معرفی تیزر جدید: 'ویب' اثر کنال کموم\n\nAmazon MGM Studios با انتشار تیزر جدید، فیلم 'ویب' را معرفی کرده است. این اثر کمدی اکشن، توسط کنال کموم نوشته و کارگردانی شده است.\nداستان دو دوست عادی، هاریک و بگز، که به‌طور ناخواسته به آخرین خط دفاع کشور تبدیل می‌شوند. در تیزر، آن‌ها به‌عنوان قهرمانان ناآماده نشان داده می‌شوند و هیچ آموزش یا آمادگی خاصی ندارند.\n\n📌 نکات مهم:\n• Amazon MGM Studios تیزر 'ویب' را منتشر کرد.\n• فیلم 'ویب' کمدی اکشن است که توسط کنال کموم نوشته و کارگردانی شده و هاریک و بگز را به‌عنوان قهرمانان ناآماده نشان می‌دهد.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -627,7 +677,8 @@
     "e923d0db739cecbd3c016aca",
     "05ef33d04a0147d2644ac815",
     "9804cd53ed99792a82302db1",
-    "75f00634412f4d558f066491"
+    "75f00634412f4d558f066491",
+    "9a219ea59e411411f0abb9d0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -642,7 +693,8 @@
     "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
     "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
     "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
-    "https://www.bbc.co.uk/news/articles/cr7kddmn97do"
+    "https://www.bbc.co.uk/news/articles/cr7kddmn97do",
+    "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782"
   ],
   "category_stats": {
     "movie_news": {
@@ -662,11 +714,17 @@
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
+    },
+    "trailers_first_look": {
+      "published": 1,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
     }
   },
   "time_stats": {
     "8": {
-      "published": 1
+      "published": 2
     },
     "10": {
       "published": 1
@@ -1466,6 +1524,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T08:05:50.691873+00:00",
+      "version": 2,
+      "posts": 14,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 117,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1480,7 +1596,8 @@
     "1cf45af28b7c50c4",
     "402069b4ca4b1e00",
     "dcb2c91443ff1358",
-    "e2b34dfd39649b53"
+    "e2b34dfd39649b53",
+    "74eeb13a0a8ecd25"
   ],
   "entity_memory": {
     "venice": {
@@ -2239,6 +2356,69 @@
       "last_seen": "2026-08-21T05:51:24.539242+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "amazon": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "studios unveils teaser": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "kunal kemmu": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "vibe": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "studios": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "hardik": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "kemmu": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "bugs": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sparsh shrivastava": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
       ]
     }
   },
