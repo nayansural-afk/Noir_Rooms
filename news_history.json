@@ -514,6 +514,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9804cd53ed99792a82302db1",
+      "story_id": "dcb2c91443ff1358",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
+      "title": "Upcoming Jenna Ortega Projects From ‘Klara And The Sun’ To ‘The Gallerist’",
+      "category": "movie_news",
+      "score": 49.09,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "upcoming jenna ortega",
+        "projects from",
+        "klara and the",
+        "the gallerist",
+        "wednesday",
+        "jenna ortega",
+        "season",
+        "tim burton",
+        "in october",
+        "taika waititi",
+        "klara"
+      ],
+      "hook": "جنیه اورتیه در پروژه‌های آینده‌اش، از «کلارا و خورشید» تا «گالریست»",
+      "hooks": [
+        "جنیه اورتیه در صحنه‌های جدید، از «کلارا و خورشید» تا «گالریست»",
+        "پروژه‌های آینده جنیه اورتیه: «کلارا و خورشید»، «گالریست» و سه‌ام فصل «دوشنبه»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جنیه اورتیه در فیلم «کلارا و خورشید» نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 16,
+      "published_at": "2026-08-21T03:32:16.082414+00:00",
+      "text": "جنیه اورتیه در پروژه‌های آینده‌اش، از «کلارا و خورشید» تا «گالریست»\n\n🎬 جنیه اورتیه در مسیرهای سینمایی: «کلارا و خورشید»، «گالریست» و فصل سوم «دوشنبه»\n\nجنیه اورتیه، ستاره سریال «دوشنبه»، در فصل سوم این سریال که توسط تیم برتون کارگردانی می‌شود، حضور دارد.\n\nاو همچنین در فیلم «کلارا و خورشید» که توسط تایکا ویتی کارگردانی شده، نقش دوست مصنوعی را بازی می‌کند و در سال ۲۰۲۷ در یک فیلم دیگر حضور خواهد داشت. علاوه بر این، او در فیلم «گالریست» نیز نقش دارد که در این سال به نمایش در می‌آید.\n\n📌 نکات مهم:\n• جنیه اورتیه در فصل سوم «دوشنبه» کار می‌کند\n• در فیلم «کلارا و خورشید» نقش دوست مصنوعی را بازی می‌کند\n• فیلم «گالریست» در این سال در حال تولید است\n• یک فیلم دیگر در سال ۲۰۲۷ برنامه‌ریزی شده است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -527,7 +579,8 @@
     "8adfb0b8fc05598da0cd090e",
     "855ff45303bf3228d5d390ac",
     "e923d0db739cecbd3c016aca",
-    "05ef33d04a0147d2644ac815"
+    "05ef33d04a0147d2644ac815",
+    "9804cd53ed99792a82302db1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -540,11 +593,12 @@
     "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927",
     "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
     "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
-    "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324"
+    "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
+    "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 8,
+      "published": 9,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -588,6 +642,9 @@
       "published": 1
     },
     "23": {
+      "published": 1
+    },
+    "3": {
       "published": 1
     }
   },
@@ -1242,6 +1299,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T03:32:16.082489+00:00",
+      "version": 2,
+      "posts": 12,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 106,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1254,7 +1369,8 @@
     "283454c87d00b568",
     "6f637e69e3aa8be4",
     "1cf45af28b7c50c4",
-    "402069b4ca4b1e00"
+    "402069b4ca4b1e00",
+    "dcb2c91443ff1358"
   ],
   "entity_memory": {
     "venice": {
@@ -1650,10 +1766,11 @@
       ]
     },
     "netflix": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
       "categories": [
-        "streaming"
+        "streaming",
+        "movie_news"
       ]
     },
     "jessica simpson doc": {
@@ -1921,6 +2038,83 @@
       "last_seen": "2026-08-20T23:02:29.434979+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "upcoming jenna ortega": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "projects from": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "klara and the": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the gallerist": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jenna ortega": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "season": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tim burton": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in october": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "taika waititi": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "klara": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
