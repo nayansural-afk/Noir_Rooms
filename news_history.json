@@ -1127,6 +1127,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3a20de97c915dec52d59181c",
+      "story_id": "dcaba01ddfb8cefa",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
+      "title": "Bruce Campbell Clarifies He’s “Tapped Out” Of The ‘Evil Dead’ Franchise, Didn’t Want Ash To Be “Borderline Geezer”",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "bruce campbell clarifies",
+        "tapped out",
+        "of the",
+        "evil dead",
+        "franchise",
+        "didn",
+        "want ash to",
+        "borderline geezer",
+        "bruce campbell",
+        "on thursday",
+        "sam raimi",
+        "starz"
+      ],
+      "hook": "برک بامپ به‌طور رسمی از نقش آش خداحافظی کرد",
+      "hooks": [
+        "آش در Evil Dead، برک بامپ اعلام کرد پایان",
+        "برک بامپ: خداحافظی از نقش آش در Evil Dead"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "برک بامپ از بازی در نقش آش در Evil Dead خداحافظی کرده"
+      ],
+      "status": "published",
+      "telegram_message_id": 28,
+      "published_at": "2026-08-21T23:55:18.531200+00:00",
+      "text": "برک بامپ به‌طور رسمی از نقش آش خداحافظی کرد\n\n🎬 برک بامپ: خداحافظی از نقش آش در Evil Dead\n\nبرک بامپ، بازیگر مشهور نقش آش در فیلم ترسناک کلاسیک سال 1981، اعلام کرد که از بازی در این نقش خداحافظی کرده است.\nاو در ادامه اشاره کرد که در طول سه فصل سریال Starz 'Ash vs Evil Dead' نقش را بازی کرده و اکنون تماماً از این فرنچایز خارج است.\n\n📌 نکات مهم:\n• برک بامپ از بازی در نقش آش در Evil Dead خداحافظی کرده\n• او اعلام کرد که تماماً از فرنچایز Evil Dead خارج است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1152,7 +1205,8 @@
     "8637977df40c5078c4eac497",
     "6608f1f1dd3e66ef952ed268",
     "fb7978475406b70f0a49b3dd",
-    "3451c82f476c390983de54db"
+    "3451c82f476c390983de54db",
+    "3a20de97c915dec52d59181c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1177,7 +1231,8 @@
     "https://variety.com/2026/film/awards/mosquito-bowl-release-date-netflix-peter-berg-1236839647",
     "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376",
     "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868",
-    "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193"
+    "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193",
+    "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967"
   ],
   "category_stats": {
     "movie_news": {
@@ -1187,7 +1242,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 5,
+      "published": 6,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1231,7 +1286,7 @@
       "published": 2
     },
     "23": {
-      "published": 1
+      "published": 2
     },
     "3": {
       "published": 1
@@ -2593,6 +2648,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T23:55:18.531291+00:00",
+      "version": 2,
+      "posts": 24,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 218,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2617,7 +2730,8 @@
     "db739dc16b0cdbc2",
     "9b0618ed71c44d2e",
     "81eb68c641431b74",
-    "506b588f96a6e2a2"
+    "506b588f96a6e2a2",
+    "dcaba01ddfb8cefa"
   ],
   "entity_memory": {
     "venice": {
@@ -4064,6 +4178,90 @@
     "this morning": {
       "count": 1,
       "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bruce campbell clarifies": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tapped out": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "of the": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "evil dead": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "franchise": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "didn": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "want ash to": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "borderline geezer": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bruce campbell": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on thursday": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sam raimi": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starz": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
       "categories": [
         "actors_directors"
       ]
