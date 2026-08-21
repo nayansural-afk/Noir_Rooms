@@ -821,6 +821,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "aefded4b5decf72caf6ef254",
+      "story_id": "872b65c58706b5e6",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max",
+      "title": "‘The Pitt’ Season 3 Teases Robby’s Return in First Look and Trailer",
+      "category": "trailers_first_look",
+      "score": 41.37,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "the pitt",
+        "season",
+        "teases robby",
+        "return",
+        "first look",
+        "trailer the emmy",
+        "january the",
+        "trailer"
+      ],
+      "hook": "رابی باز می‌گردد؛ فصل سوم The Pitt در HBO Max",
+      "hooks": [
+        "بازگشت رابی در The Pitt فصل سوم",
+        "فصل سوم The Pitt با اولین نگاه و تریلری نوظهور"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال برنده جایزه امی"
+      ],
+      "status": "published",
+      "telegram_message_id": 22,
+      "published_at": "2026-08-21T16:04:25.501496+00:00",
+      "text": "رابی باز می‌گردد؛ فصل سوم The Pitt در HBO Max\n\n🎬 The Pitt فصل سوم: رابی باز می‌گردد، اولین نگاه و تریلری در HBO Max\n\nسریال برنده جایزه امی، The Pitt، در فصل سوم به بازگشت رابی می‌پردازد. اولین نگاه و تریلری که در HBO Max در ژانویه منتشر می‌شود، هیجان‌انگیز است.\n\nاین سریال در ژانویه به نمایش در می‌آید و با تریلری که حاوی لحظات جدید و جذاب است، مخاطبان را به خود جذب می‌کند.\n\n📌 نکات مهم:\n• سریال The Pitt فصل سوم\n• بازگشت رابی\n• اولین نگاه و تریلری\n• در HBO Max در ژانویه\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -840,7 +889,8 @@
     "9a219ea59e411411f0abb9d0",
     "0d65506cfafb5e137f4447ca",
     "d8aff6bc2328f57cdca815f2",
-    "0b8649c0783a3cc88cc944df"
+    "0b8649c0783a3cc88cc944df",
+    "aefded4b5decf72caf6ef254"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -859,7 +909,8 @@
     "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
     "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
     "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
-    "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801"
+    "https://variety.com/2026/film/global/supporting-role-ana-urushadze-fear-of-butterflies-1236839801",
+    "https://www.thewrap.com/creative-content/tv-shows/the-pitt-season-3-first-look-pictures-teaser-trailer-hbo-max"
   ],
   "category_stats": {
     "movie_news": {
@@ -881,7 +932,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -901,7 +952,7 @@
       "published": 2
     },
     "16": {
-      "published": 1
+      "published": 2
     },
     "18": {
       "published": 1
@@ -1921,6 +1972,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T16:04:25.501573+00:00",
+      "version": 2,
+      "posts": 18,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 156,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1939,7 +2048,8 @@
     "74eeb13a0a8ecd25",
     "9d063c4dcece8ceb",
     "e9561d2ac8e70a5b",
-    "fc28f6093500da41"
+    "fc28f6093500da41",
+    "872b65c58706b5e6"
   ],
   "entity_memory": {
     "venice": {
@@ -2653,10 +2763,11 @@
       ]
     },
     "season": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "trailers_first_look"
       ]
     },
     "tim burton": {
@@ -2979,6 +3090,62 @@
       "last_seen": "2026-08-21T14:08:31.880185+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "the pitt": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "teases robby": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "return": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "first look": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer the emmy": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "january the": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
       ]
     }
   },
