@@ -662,6 +662,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0d65506cfafb5e137f4447ca",
+      "story_id": "9d063c4dcece8ceb",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
+      "title": "Cameron Diaz’s Netflix Action-Comedy ‘Bad Day’ Gets December Release and First Look",
+      "category": "actors_directors",
+      "score": 45.04,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "cameron diaz",
+        "netflix action",
+        "comedy",
+        "bad day",
+        "gets december release",
+        "first look ed",
+        "neill",
+        "danielle brooks",
+        "jake szymanski"
+      ],
+      "hook": "کامرون دیاز در کمیک اکشن 'Bad Day' با نیفلیکس",
+      "hooks": [
+        "کامرون دیاز در 'Bad Day' نیفلیکس",
+        "فیلم اکشن-کمدی 'Bad Day' در دسامبر",
+        "کامرون دیاز در نیفلیکس",
+        "دسامبر، نیفلیکس، 'Bad Day'",
+        "کامرون دیاز در 'Bad Day' نیفلیکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در دسامبر منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 19,
+      "published_at": "2026-08-21T10:15:23.775399+00:00",
+      "text": "کامرون دیاز در کمیک اکشن 'Bad Day' با نیفلیکس\n\n🎬 کامرون دیاز در فیلم اکشن-کمدی 'Bad Day' نیفلیکس، در دسامبر منتشر می‌شود\n\nفیلم اکشن-کمدی 'Bad Day' با بازی کمرون دیاز و اد او'نیل و دانیل برکز، در نیفلیکس در ماه دسامبر عرضه می‌شود.\nسینمایی که توسط جیک زیمنسکی کارگردانی شده، اولین نگاه به فیلم را در این ماه منتشر کرده است.\n\n📌 نکات مهم:\n• کامرون دیاز در نقش اصلی\n• فیلم در نیفلیکس در دسامبر منتشر می‌شود\n• کارگردان جیک زیمنسکی\n• اد او'نیل و دانیل برکز هم‌نقش دارند\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -678,7 +731,8 @@
     "05ef33d04a0147d2644ac815",
     "9804cd53ed99792a82302db1",
     "75f00634412f4d558f066491",
-    "9a219ea59e411411f0abb9d0"
+    "9a219ea59e411411f0abb9d0",
+    "0d65506cfafb5e137f4447ca"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -694,7 +748,8 @@
     "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
     "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
     "https://www.bbc.co.uk/news/articles/cr7kddmn97do",
-    "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782"
+    "https://variety.com/2026/film/news/amazon-mgm-studios-kunal-kemmu-vibe-teaser-1236839782",
+    "https://www.hollywoodreporter.com/movies/movie-news/bad-day-cameron-diaz-netflix-release-first-look-1236678165"
   ],
   "category_stats": {
     "movie_news": {
@@ -704,7 +759,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -727,7 +782,7 @@
       "published": 2
     },
     "10": {
-      "published": 1
+      "published": 2
     },
     "11": {
       "published": 3
@@ -1582,6 +1637,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T10:15:23.775476+00:00",
+      "version": 2,
+      "posts": 15,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 126,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1597,7 +1710,8 @@
     "402069b4ca4b1e00",
     "dcb2c91443ff1358",
     "e2b34dfd39649b53",
-    "74eeb13a0a8ecd25"
+    "74eeb13a0a8ecd25",
+    "9d063c4dcece8ceb"
   ],
   "entity_memory": {
     "venice": {
@@ -1993,11 +2107,12 @@
       ]
     },
     "netflix": {
-      "count": 2,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "count": 3,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
       "categories": [
         "streaming",
-        "movie_news"
+        "movie_news",
+        "actors_directors"
       ]
     },
     "jessica simpson doc": {
@@ -2419,6 +2534,69 @@
       "last_seen": "2026-08-21T08:05:50.691832+00:00",
       "categories": [
         "trailers_first_look"
+      ]
+    },
+    "cameron diaz": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "netflix action": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "comedy": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bad day": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gets december release": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "first look ed": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "neill": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "danielle brooks": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jake szymanski": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
