@@ -566,6 +566,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "75f00634412f4d558f066491",
+      "story_id": "e2b34dfd39649b53",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cr7kddmn97do",
+      "title": "Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94",
+      "category": "movie_news",
+      "score": 63.98,
+      "freshness": 40.0,
+      "credibility": 92.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "actress phyllida law",
+        "emma",
+        "sophie thompson",
+        "dame emma",
+        "sophie"
+      ],
+      "hook": "دختران سینما، مادرشان فوت کرد: فیلدا لا در 94 سالگی",
+      "hooks": [
+        "فیلدا لا، مادر دو ستاره سینما، درگذشت",
+        "در 94 سالگی، فیلدا لا، مادر امّا و سافی، جان داد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلدا لا در سن 94 سالگی درگذشت",
+        "فیلدا لا در فیلم 1996 'Emma' با دخترانش حضور داشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 17,
+      "published_at": "2026-08-21T05:51:24.539203+00:00",
+      "text": "دختران سینما، مادرشان فوت کرد: فیلدا لا در 94 سالگی\n\n🎬 فیلدا لا، مادر دو ستاره سینما، درگذشت\n\nفیلدا لا، بازیگر برجسته بریتانیایی، درگذشت. او در سن 94 سالگی درگذشت.\nلا نه تنها در نقش‌های خود، بلکه در کنار دخترانش، امّا و سافی، در فیلم‌های مختلف حضور داشت، از جمله فیلم 1996 به نام 'Emma'.\n\n📌 نکات مهم:\n• درگذشت در سن 94 سالگی\n• در فیلم‌های مشترک با دخترانش، از جمله 'Emma' 1996\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cr7kddmn97do",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -580,7 +626,8 @@
     "855ff45303bf3228d5d390ac",
     "e923d0db739cecbd3c016aca",
     "05ef33d04a0147d2644ac815",
-    "9804cd53ed99792a82302db1"
+    "9804cd53ed99792a82302db1",
+    "75f00634412f4d558f066491"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -594,11 +641,12 @@
     "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757",
     "https://www.theguardian.com/film/2026/aug/17/beatles-film-recreates-iconic-abbey-road-album-cover-sam-mendes",
     "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324",
-    "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows"
+    "https://deadline.com/lists/jenna-ortega-upcoming-movies-tv-shows",
+    "https://www.bbc.co.uk/news/articles/cr7kddmn97do"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 9,
+      "published": 10,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -645,6 +693,9 @@
       "published": 1
     },
     "3": {
+      "published": 1
+    },
+    "5": {
       "published": 1
     }
   },
@@ -1357,6 +1408,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-21T05:51:24.539284+00:00",
+      "version": 2,
+      "posts": 13,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
+          "category": "movie_news",
+          "score": 77.71,
+          "multi_source_count": 1
+        },
+        {
+          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
+          "category": "movie_news",
+          "score": 75.69,
+          "multi_source_count": 1
+        },
+        {
+          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 72.6,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 108,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -1370,7 +1479,8 @@
     "6f637e69e3aa8be4",
     "1cf45af28b7c50c4",
     "402069b4ca4b1e00",
-    "dcb2c91443ff1358"
+    "dcb2c91443ff1358",
+    "e2b34dfd39649b53"
   ],
   "entity_memory": {
     "venice": {
@@ -1549,8 +1659,8 @@
       ]
     },
     "sophie": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
       "categories": [
         "movie_news"
       ]
@@ -1563,15 +1673,15 @@
       ]
     },
     "emma": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
       "categories": [
         "movie_news"
       ]
     },
     "sophie thompson": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
       "categories": [
         "movie_news"
       ]
@@ -2113,6 +2223,20 @@
     "klara": {
       "count": 1,
       "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actress phyllida law": {
+      "count": 1,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dame emma": {
+      "count": 1,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
       "categories": [
         "movie_news"
       ]
