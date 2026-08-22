@@ -1180,6 +1180,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c218b24cca03d4b9bce9dfd6",
+      "story_id": "50c2ebd7270bfbe3",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
+      "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+      "category": "movie_news",
+      "score": 78.98,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "movies",
+        "shows to watch",
+        "before",
+        "avengers",
+        "doomsday",
+        "marvel cinematic universe",
+        "doctor doom",
+        "anthony russo",
+        "joe russo",
+        "december",
+        "phase"
+      ],
+      "hook": "قبل از Avengers: Doomsday، 15 فیلم و سریال ضروری را ببینید",
+      "hooks": [
+        "15 اثر کلیدی پیش از دیدن Avengers: Doomsday",
+        "قبل از Doomsday، 15 فیلم کلیدی را نادیده نگیرید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Avengers: Doomsday در فاز 6 MCU قرار دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 29,
+      "published_at": "2026-08-22T03:09:50.438353+00:00",
+      "text": "قبل از Avengers: Doomsday، 15 فیلم و سریال ضروری را ببینید\n\n🎬 15 فیلم و سریال ضروری پیش از دیدن Avengers: Doomsday\n\nAvengers: Doomsday با همکاری رُسِس برادران، در تاریخ 18 دسامبر در فاز 6 MCU منتشر می‌شود و تهدیدی وجودی از Doctor Doom را به نمایش می‌گذارد.\n\nاین مقاله فهرستی از 15 فیلم و سریال کلیدی را ارائه می‌دهد که پیش از دیدن این اثر باید دیده شوند.\n\n📌 نکات مهم:\n• 15 فیلم و سریال ضروری پیش از Avengers: Doomsday\n• Avengers: Doomsday در تاریخ 18 دسامبر منتشر می‌شود\n• نویسندگان: Anthony Russo و Joe Russo\n• مخالف Doctor Doom در فاز 6 MCU\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1206,7 +1258,8 @@
     "6608f1f1dd3e66ef952ed268",
     "fb7978475406b70f0a49b3dd",
     "3451c82f476c390983de54db",
-    "3a20de97c915dec52d59181c"
+    "3a20de97c915dec52d59181c",
+    "c218b24cca03d4b9bce9dfd6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1232,11 +1285,12 @@
     "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376",
     "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868",
     "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193",
-    "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967"
+    "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
+    "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 13,
+      "published": 14,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1289,7 +1343,7 @@
       "published": 2
     },
     "3": {
-      "published": 1
+      "published": 2
     },
     "5": {
       "published": 1
@@ -2706,6 +2760,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-22T03:09:50.438433+00:00",
+      "version": 2,
+      "posts": 25,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 230,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2731,7 +2843,8 @@
     "9b0618ed71c44d2e",
     "81eb68c641431b74",
     "506b588f96a6e2a2",
-    "dcaba01ddfb8cefa"
+    "dcaba01ddfb8cefa",
+    "50c2ebd7270bfbe3"
   ],
   "entity_memory": {
     "venice": {
@@ -4264,6 +4377,90 @@
       "last_seen": "2026-08-21T23:55:18.531231+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movies": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shows to watch": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "before": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "avengers": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marvel cinematic universe": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doctor doom": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony russo": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joe russo": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "december": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phase": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
