@@ -1284,6 +1284,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f13929aa8ff86f5ec3d73845",
+      "story_id": "be52f3d65e96e0bb",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
+      "title": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "paramount",
+        "paramount slams mark",
+        "ruffalo merger attack",
+        "antisemitic",
+        "says company does",
+        "tolerate prejudice",
+        "any kind",
+        "friday",
+        "mark ruffalo",
+        "david",
+        "larry ellison",
+        "david ellison"
+      ],
+      "hook": "پراموئیت، واکنش شدید به ادعاهای مارک رافالو",
+      "hooks": [
+        "پراموئیت، رد ادعاهای نژادپرستانه مارک رافالو",
+        "پراموئیت، اعلام عدم تحمل تبعیض نژادی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پراموئیت اعلام کرد که تبعیض نژادی را تحمل نمی‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 31,
+      "published_at": "2026-08-22T07:46:52.849802+00:00",
+      "text": "پراموئیت، واکنش شدید به ادعاهای مارک رافالو\n\n🎬 پراموئیت، واکنش شدید به ادعاهای مارک رافالو درباره اریسون‌ها\n\nپراموئیت در پاسخ به مقاله‌ای که مارک رافالو در آن به دو میلیاردر دایو و لری اریسون اشاره کرد، بی‌تردید واکنش نشان داد.\nشرکت اعلام کرد که هر گونه تبعیض نژادی و استفاده از تمپلیت‌های نژادپرستانه را تحمل نمی‌کند و از ادعاهای رافالو انتقاد شد.\n\n📌 نکات مهم:\n• پراموئیت واکنش شدید به ادعاهای مارک رافالو\n• شرکت اعلام کرد که تبعیض نژادی را تحمل نمی‌کند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1312,7 +1365,8 @@
     "3451c82f476c390983de54db",
     "3a20de97c915dec52d59181c",
     "c218b24cca03d4b9bce9dfd6",
-    "1aff962451bd7592faacf0ac"
+    "1aff962451bd7592faacf0ac",
+    "f13929aa8ff86f5ec3d73845"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1340,7 +1394,8 @@
     "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193",
     "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
     "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
-    "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049"
+    "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
+    "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552"
   ],
   "category_stats": {
     "movie_news": {
@@ -1350,7 +1405,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 7,
+      "published": 8,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1406,6 +1461,9 @@
       "published": 1
     },
     "22": {
+      "published": 1
+    },
+    "7": {
       "published": 1
     }
   },
@@ -2930,6 +2988,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-22T07:46:52.849885+00:00",
+      "version": 2,
+      "posts": 27,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 253,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2957,7 +3073,8 @@
     "506b588f96a6e2a2",
     "dcaba01ddfb8cefa",
     "50c2ebd7270bfbe3",
-    "3ab08910089fa76b"
+    "3ab08910089fa76b",
+    "be52f3d65e96e0bb"
   ],
   "entity_memory": {
     "venice": {
@@ -4649,6 +4766,90 @@
     "rest": {
       "count": 1,
       "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paramount": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paramount slams mark": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ruffalo merger attack": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "antisemitic": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says company does": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tolerate prejudice": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "any kind": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "friday": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mark ruffalo": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "larry ellison": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david ellison": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
