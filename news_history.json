@@ -1232,6 +1232,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1aff962451bd7592faacf0ac",
+      "story_id": "3ab08910089fa76b",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
+      "title": "Rose McGowan, Anna Paquin Call Out “Profoundly Sad” Mistreatment Of Child Stars While Paying Tribute To Hayden Panettiere",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "rose",
+        "anna paquin call",
+        "profoundly sad",
+        "mistreatment of child",
+        "stars while paying",
+        "tribute to hayden",
+        "panettiere as hollywood",
+        "hayden panettiere",
+        "on friday",
+        "anna paquin",
+        "rest"
+      ],
+      "hook": "مرداد هانید پانتیری: یادبود و انتقاد از رفتار با ستارگان کودک",
+      "hooks": [
+        "حسرت و انتقاد: دو ستاره بزرگ درباره هانید پانتیری",
+        "مراسم یادبود هانید پانتیری و انتقاد از صنعت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "رِوز مک‌گوارن و آنا پاکین به رفتار نگران‌کننده صنعت با ستارگان کودک اشاره کردند"
+      ],
+      "status": "published",
+      "telegram_message_id": 30,
+      "published_at": "2026-08-22T05:05:35.212349+00:00",
+      "text": "مرداد هانید پانتیری: یادبود و انتقاد از رفتار با ستارگان کودک\n\n🎬 رِوز مک‌گوارن و آنا پاکین: یادبود هانید پانتیری و انتقاد از رفتار با ستارگان کودک\n\nدر حالی که هالیوود به یاد هانید پانتیری، بازیگر محبوب، رفته، دو ستاره بزرگ، رِوز مک‌گوارن و آنا پاکین، در روز جمعه یادبود او را نوشتند.\nدر کنار این، آن‌ها به رفتار «بسیار ناراحت‌کننده» صنعت با ستارگان کودک اشاره کردند و خواستار تغییرات شدید شدند.\n\n📌 نکات مهم:\n• رِوز مک‌گوارن و آنا پاکین یادبود هانید پانتیری نوشتند\n• آن‌ها به رفتار نگران‌کننده صنعت با ستارگان کودک اشاره کردند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1259,7 +1311,8 @@
     "fb7978475406b70f0a49b3dd",
     "3451c82f476c390983de54db",
     "3a20de97c915dec52d59181c",
-    "c218b24cca03d4b9bce9dfd6"
+    "c218b24cca03d4b9bce9dfd6",
+    "1aff962451bd7592faacf0ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1286,7 +1339,8 @@
     "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868",
     "https://variety.com/2026/film/news/harry-potter-jessie-cave-onlyfans-embarrassing-saved-me-1236840193",
     "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
-    "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus"
+    "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
+    "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049"
   ],
   "category_stats": {
     "movie_news": {
@@ -1296,7 +1350,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 6,
+      "published": 7,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1346,7 +1400,7 @@
       "published": 2
     },
     "5": {
-      "published": 1
+      "published": 2
     },
     "19": {
       "published": 1
@@ -2818,6 +2872,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-22T05:05:35.212429+00:00",
+      "version": 2,
+      "posts": 26,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 241,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -2844,7 +2956,8 @@
     "81eb68c641431b74",
     "506b588f96a6e2a2",
     "dcaba01ddfb8cefa",
-    "50c2ebd7270bfbe3"
+    "50c2ebd7270bfbe3",
+    "3ab08910089fa76b"
   ],
   "entity_memory": {
     "venice": {
@@ -4461,6 +4574,83 @@
       "last_seen": "2026-08-22T03:09:50.438385+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "rose": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anna paquin call": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "profoundly sad": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mistreatment of child": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stars while paying": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tribute to hayden": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "panettiere as hollywood": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hayden panettiere": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on friday": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anna paquin": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rest": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
