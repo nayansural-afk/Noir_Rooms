@@ -3916,6 +3916,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-23T07:50:10.158411+00:00",
+      "version": 2,
+      "posts": 27,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 253,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
