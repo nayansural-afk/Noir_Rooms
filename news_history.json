@@ -1386,6 +1386,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3f25cf5054f917b2a5714648",
+      "story_id": "afaa4188f4ff1fdd",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327",
+      "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second",
+      "category": "box_office",
+      "score": 70.84,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "china box office",
+        "once upon",
+        "time",
+        "middle east",
+        "stays",
+        "debuts",
+        "second dirty monkeys",
+        "china",
+        "artisan gateway",
+        "directed",
+        "wen muye",
+        "dying"
+      ],
+      "hook": "فلم 'Once Upon a Time in the Middle East' در چین صدرنشین باقی ماند",
+      "hooks": [
+        "در هفته دوم، 'Once Upon a Time in the Middle East' 298.8 میلیون ریان کسب کرد",
+        "'V' در چین در دومین هفته خود رونق گرفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فلم در هفته دوم 298.8 میلیون ریان کسب کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 33,
+      "published_at": "2026-08-24T09:31:43.341481+00:00",
+      "text": "فلم 'Once Upon a Time in the Middle East' در چین صدرنشین باقی ماند\n\n🎬 فلم 'Once Upon a Time in the Middle East' در چین در هفته دوم 298.8 میلیون ریان کسب کرد\n\nفلم 'Once Upon a Time in the Middle East'، ساخته Wen Muye، در هفته دوم خود در بازار چین صدرنشین باقی ماند. در بازه‌ی 21 تا 23 اوت، این فیلم 298.8 میلیون ریان (43.9 میلیون دلار) کسب کرد و به عنوان برترین فیلم در چین شناخته شد.\n\n📌 نکات مهم:\n• فلم در هفته دوم 298.8 میلیون ریان در چین کسب کرد\n• فلم در صدر جدول فروش چین باقی ماند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1416,7 +1469,8 @@
     "c218b24cca03d4b9bce9dfd6",
     "1aff962451bd7592faacf0ac",
     "f13929aa8ff86f5ec3d73845",
-    "845be7158b1009eef5e0edbf"
+    "845be7158b1009eef5e0edbf",
+    "3f25cf5054f917b2a5714648"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1446,7 +1500,8 @@
     "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
     "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
     "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
-    "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526"
+    "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
+    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327"
   ],
   "category_stats": {
     "movie_news": {
@@ -1469,6 +1524,12 @@
     },
     "trailers_first_look": {
       "published": 3,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
+    },
+    "box_office": {
+      "published": 1,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1516,6 +1577,9 @@
     },
     "7": {
       "published": 1
+    },
+    "9": {
+      "published": 1
     }
   },
   "strategy": {
@@ -1534,64 +1598,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-20T20:00:43.111266+00:00",
-      "version": 2,
-      "posts": 9,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "actors_directors",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 71,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-20T21:58:46.569819+00:00",
       "version": 2,
@@ -4549,6 +4555,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-24T09:31:43.341564+00:00",
+      "version": 2,
+      "posts": 29,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 272,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4578,7 +4642,8 @@
     "50c2ebd7270bfbe3",
     "3ab08910089fa76b",
     "be52f3d65e96e0bb",
-    "794912b6a38ac1ad"
+    "794912b6a38ac1ad",
+    "afaa4188f4ff1fdd"
   ],
   "entity_memory": {
     "venice": {
@@ -5028,10 +5093,11 @@
       ]
     },
     "directed": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "count": 2,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
       "categories": [
-        "streaming"
+        "streaming",
+        "box_office"
       ]
     },
     "joe pearlman": {
@@ -6412,6 +6478,83 @@
       "last_seen": "2026-08-24T08:09:58.436320+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "china box office": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "once upon": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "time": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "middle east": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "stays": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "debuts": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "second dirty monkeys": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "china": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "artisan gateway": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "wen muye": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "dying": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
       ]
     }
   },
