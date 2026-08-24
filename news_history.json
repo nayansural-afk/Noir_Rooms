@@ -1489,6 +1489,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "85a81c9cce8c835c1439ca00",
+      "story_id": "5f493017e909ad1a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771",
+      "title": "Dianne Wiest & Ciarán Hinds To Star In Comedy-Drama ‘This Old Love Of Mine’, WestEnd Launches Sales Ahead Of TIFF Market",
+      "category": "actors_directors",
+      "score": 72.88,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "dianne wiest",
+        "hinds to star",
+        "in comedy",
+        "drama",
+        "this old love",
+        "of mine",
+        "launches sales ahead",
+        "market",
+        "hannah",
+        "her sisters",
+        "hinds"
+      ],
+      "hook": "دو ستاره اوسکار در کمیک-درام جدید، 'این عشق قدیمی من'",
+      "hooks": [
+        "دانیه ویست و کیارن هیندز در فیلم جدید 'این عشق قدیمی من'",
+        "فروش جهانی فیلم 'این عشق قدیمی من' در بازار TIFF"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دانیه ویست و کیارن هیندز در نقش اصلی"
+      ],
+      "status": "published",
+      "telegram_message_id": 35,
+      "published_at": "2026-08-24T18:03:02.342216+00:00",
+      "text": "دو ستاره اوسکار در کمیک-درام جدید، 'این عشق قدیمی من'\n\n🎬 دانیه ویست و کیارن هیندز در کمیک-درام 'این عشق قدیمی من'؛ فروش جهانی در بازار TIFF\n\nدانیه ویست، برنده دو جایزه اسکار، و کیارن هیندز، نامزد اسکار، در کمیک-درام 'این عشق قدیمی من' ایفای نقش می‌کنند.\nفیلم توسط کارگردان تری لوین ساخته شده و توسط شرکت WestEnd Films برای فروش جهانی در بازار TIFF آماده شده است.\n\n📌 نکات مهم:\n• دانیه ویست و کیارن هیندز در نقش اصلی\n• کارگردان تری لوین\n• WestEnd Films در حال فروش جهانی\n• فیلم کمیک-درام 'این عشق قدیمی من'\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1521,7 +1573,8 @@
     "f13929aa8ff86f5ec3d73845",
     "845be7158b1009eef5e0edbf",
     "3f25cf5054f917b2a5714648",
-    "8846874c05d732379d771280"
+    "8846874c05d732379d771280",
+    "85a81c9cce8c835c1439ca00"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1553,7 +1606,8 @@
     "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
     "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
     "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327",
-    "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565"
+    "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565",
+    "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771"
   ],
   "category_stats": {
     "movie_news": {
@@ -1563,7 +1617,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 8,
+      "published": 9,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1604,7 +1658,7 @@
       "published": 2
     },
     "18": {
-      "published": 2
+      "published": 3
     },
     "20": {
       "published": 2
@@ -1650,64 +1704,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-20T23:02:29.435031+00:00",
-      "version": 2,
-      "posts": 11,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 95,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T03:32:16.082489+00:00",
       "version": 2,
@@ -4665,6 +4661,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-24T18:03:02.342292+00:00",
+      "version": 2,
+      "posts": 31,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 291,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4696,7 +4750,8 @@
     "be52f3d65e96e0bb",
     "794912b6a38ac1ad",
     "afaa4188f4ff1fdd",
-    "574a9b7ddd085b8a"
+    "574a9b7ddd085b8a",
+    "5f493017e909ad1a"
   ],
   "entity_memory": {
     "venice": {
@@ -5009,8 +5064,8 @@
       ]
     },
     "oscar": {
-      "count": 2,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "count": 3,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors",
         "movie_news"
@@ -5904,10 +5959,11 @@
       ]
     },
     "drama": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "count": 2,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
-        "streaming"
+        "streaming",
+        "actors_directors"
       ]
     },
     "the mosquito bowl": {
@@ -6671,6 +6727,76 @@
       "last_seen": "2026-08-24T11:14:44.602629+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "dianne wiest": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hinds to star": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in comedy": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this old love": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "of mine": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "launches sales ahead": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "market": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hannah": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "her sisters": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hinds": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
