@@ -1337,6 +1337,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "845be7158b1009eef5e0edbf",
+      "story_id": "794912b6a38ac1ad",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
+      "title": "Busan Film Festival Sets 23 Titles for Vision Korea, Vision Asia Sections",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "busan film festival",
+        "sets",
+        "titles",
+        "vision korea",
+        "vision asia sections",
+        "busan",
+        "korean",
+        "asia"
+      ],
+      "hook": "فستیوال بین‌المللی فیلم بوسان، 23 عنوان جدید در Vision Korea و Vision Asia",
+      "hooks": [
+        "بوسان 2026: 12 فیلم مستقل کره‌ای و 11 اثر از خلاقان نوظهور آسیا",
+        "فستیوال بوسان: Vision Korea و Vision Asia با 23 عنوان تازه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال بوسان 2026 انتخاب 12 فیلم مستقل کره‌ای در Vision Korea",
+        "Vision Asia شامل 11 فیلم از کارگردانان نوظهور آسیا"
+      ],
+      "status": "published",
+      "telegram_message_id": 32,
+      "published_at": "2026-08-24T08:09:58.436291+00:00",
+      "text": "فستیوال بین‌المللی فیلم بوسان، 23 عنوان جدید در Vision Korea و Vision Asia\n\n🎬 فستیوال بوسان 2026: 23 عنوان جدید در Vision Korea و Vision Asia\n\nفستیوال فیلم بوسان در سال 2026، بخش Vision Korea را با 12 فیلم مستقل کره‌ای پر کرده است. بخش Vision Asia نیز 11 فیلم از کارگردانان نوظهور سراسر آسیا را معرفی کرده است.\\n\\nاین انتخاب‌ها، در حالی که هنوز برنامه اصلی رقابت اعلام نشده، نشان‌دهنده تمایل فستیوال به ترویج هنرهای نوظهور در منطقه است.\n\n📌 نکات مهم:\n• فستیوال بوسان 2026 انتخاب 12 فیلم مستقل کره‌ای در Vision Korea\n• Vision Asia شامل 11 فیلم از کارگردانان نوظهور آسیا\n• در مجموع 23 عنوان در دو بخش Vision Korea و Vision Asia\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1366,7 +1415,8 @@
     "3a20de97c915dec52d59181c",
     "c218b24cca03d4b9bce9dfd6",
     "1aff962451bd7592faacf0ac",
-    "f13929aa8ff86f5ec3d73845"
+    "f13929aa8ff86f5ec3d73845",
+    "845be7158b1009eef5e0edbf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1395,11 +1445,12 @@
     "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967",
     "https://deadline.com/gallery/15-things-to-watch-before-avengers-doomsday-marvel-disney-plus",
     "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
-    "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552"
+    "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
+    "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 14,
+      "published": 15,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1425,7 +1476,7 @@
   },
   "time_stats": {
     "8": {
-      "published": 2
+      "published": 3
     },
     "10": {
       "published": 2
@@ -1483,64 +1534,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-20T18:01:18.807075+00:00",
-      "version": 2,
-      "posts": 8,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "actors_directors",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        },
-        {
-          "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 66,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-20T20:00:43.111266+00:00",
       "version": 2,
@@ -4498,6 +4491,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-24T08:09:58.436356+00:00",
+      "version": 2,
+      "posts": 28,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 261,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4526,7 +4577,8 @@
     "dcaba01ddfb8cefa",
     "50c2ebd7270bfbe3",
     "3ab08910089fa76b",
-    "be52f3d65e96e0bb"
+    "be52f3d65e96e0bb",
+    "794912b6a38ac1ad"
   ],
   "entity_memory": {
     "venice": {
@@ -6304,6 +6356,62 @@
       "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "busan film festival": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "titles": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vision korea": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vision asia sections": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "busan": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korean": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "asia": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
