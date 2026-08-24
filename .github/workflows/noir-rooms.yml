@@ -2,8 +2,12 @@ name: Noir Rooms — Cinema News
 
 on:
   schedule:
-    # Every hour (UTC). One post per run.
-    - cron: "0 * * * *"
+    # 5 posts/day UTC — quality over volume
+    - cron: "0 5 * * *"
+    - cron: "0 9 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 17 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:
