@@ -1541,6 +1541,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6c16fdbf4fed9d448d6a07e3",
+      "story_id": "ed22375f4e91b6d6",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008",
+      "title": "James Lew, Stuntman and ‘Hot Shots! Part Deux’ Actor, Dies at 73",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "james lew",
+        "stuntman",
+        "hot shots",
+        "part deux",
+        "actor",
+        "dies",
+        "john carpenter",
+        "rush hour"
+      ],
+      "hook": "مرداد جیمز لو، ستن‌مان و بازیگر، در سن 73 درگذشت",
+      "hooks": [
+        "ستفاده از مهارت‌های جیمز لو در فیلم‌های جان کارپینر",
+        "جیمز لو در سه فیلم Rush Hour حضور داشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیمز لو در سن 73 درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 36,
+      "published_at": "2026-08-24T21:06:29.794411+00:00",
+      "text": "مرداد جیمز لو، ستن‌مان و بازیگر، در سن 73 درگذشت\n\n🎬 جیمز لو، ستن‌مان و بازیگر «Hot Shots! Part Deux»، در سن 73 درگذشت\n\nجیمز لو، ستن‌مان و بازیگر معروف، در سن 73 سالگی درگذشت. او در فیلم Hot Shots! Part Deux نقش داشت و با جان کارپینر در سه فیلم همکاری کرده بود.\n\nدر طول نیم قرن فعالیت، در سه فیلم Rush Hour حضور یافت و به عنوان یکی از ستن‌مانان برجسته در صنعت سینما شناخته شد.\n\n📌 نکات مهم:\n• جیمز لو در سن 73 درگذشت\n• او ستن‌مان و بازیگر فیلم Hot Shots! Part Deux بود\n• با جان کارپینر در سه فیلم همکاری کرد\n• در سه فیلم Rush Hour حضور داشت\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1574,7 +1622,8 @@
     "845be7158b1009eef5e0edbf",
     "3f25cf5054f917b2a5714648",
     "8846874c05d732379d771280",
-    "85a81c9cce8c835c1439ca00"
+    "85a81c9cce8c835c1439ca00",
+    "6c16fdbf4fed9d448d6a07e3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1607,11 +1656,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
     "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327",
     "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565",
-    "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771"
+    "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771",
+    "https://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 16,
+      "published": 17,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1664,7 +1714,7 @@
       "published": 2
     },
     "21": {
-      "published": 2
+      "published": 3
     },
     "23": {
       "published": 2
@@ -1704,64 +1754,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T03:32:16.082489+00:00",
-      "version": 2,
-      "posts": 12,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 106,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T05:51:24.539284+00:00",
       "version": 2,
@@ -4719,6 +4711,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-24T21:06:29.794486+00:00",
+      "version": 2,
+      "posts": 32,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 299,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4751,7 +4801,8 @@
     "794912b6a38ac1ad",
     "afaa4188f4ff1fdd",
     "574a9b7ddd085b8a",
-    "5f493017e909ad1a"
+    "5f493017e909ad1a",
+    "ed22375f4e91b6d6"
   ],
   "entity_memory": {
     "venice": {
@@ -6797,6 +6848,62 @@
       "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "james lew": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stuntman": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hot shots": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "part deux": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dies": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john carpenter": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rush hour": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
