@@ -1439,6 +1439,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8846874c05d732379d771280",
+      "story_id": "574a9b7ddd085b8a",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565",
+      "title": "Venice Adds Gaza Doc ‘Naza’ to Competition",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "venice adds gaza",
+        "naza",
+        "competition directed",
+        "no other land",
+        "yuval abraham",
+        "rachel szor",
+        "israeli",
+        "palestinian",
+        "gaza"
+      ],
+      "hook": "سینمای مستند نازا در مسابقه ونیز",
+      "hooks": [
+        "مستند نازا در جشنواره ونیز",
+        "نظرات در مورد قتل‌های نظامی اسرائیل"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'نازا' در رقابت جشنواره ونیز قرار گرفته"
+      ],
+      "status": "published",
+      "telegram_message_id": 34,
+      "published_at": "2026-08-24T11:14:44.602597+00:00",
+      "text": "سینمای مستند نازا در مسابقه ونیز\n\n🎬 مستند 'نازا' در رقابت جشنواره ونیز معرفی شد\n\nمستند 'نازا' که توسط یوال ابراهام و راچل سزار از گروه 'No Other Land' ساخته شد، به بررسی قتل‌های نظامی اسرائیل بر ساکنان فلسطینی در غزه می‌پردازد. این فیلم در رقابت جشنواره ونیز قرار گرفته و به مخاطبان فرصتی برای درک عمیق‌تری از این بحران می‌دهد.\n\n📌 نکات مهم:\n• مستند 'نازا' در رقابت جشنواره ونیز قرار گرفته\n• سینمای 'No Other Land' با کارگردانی یوال ابراهام و راچل سزار\n• مستند به بررسی قتل‌های نظامی اسرائیل بر فلسطینیان در غزه می‌پردازد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1470,7 +1520,8 @@
     "1aff962451bd7592faacf0ac",
     "f13929aa8ff86f5ec3d73845",
     "845be7158b1009eef5e0edbf",
-    "3f25cf5054f917b2a5714648"
+    "3f25cf5054f917b2a5714648",
+    "8846874c05d732379d771280"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1501,11 +1552,12 @@
     "https://deadline.com/2026/08/rose-mcgowan-anna-paquin-child-stars-hayden-panettiere-1237048049",
     "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552",
     "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-2026-vision-korea-vision-asia-sections-1236679526",
-    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327"
+    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327",
+    "https://www.hollywoodreporter.com/movies/movie-news/venice-adds-gaza-doc-naza-to-competition-line-up-1236679565"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 15,
+      "published": 16,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1543,7 +1595,7 @@
       "published": 2
     },
     "11": {
-      "published": 4
+      "published": 5
     },
     "14": {
       "published": 2
@@ -1598,64 +1650,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-20T21:58:46.569819+00:00",
-      "version": 2,
-      "posts": 10,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "actors_directors",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 83,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-20T23:02:29.435031+00:00",
       "version": 2,
@@ -4613,6 +4607,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-24T11:14:44.602673+00:00",
+      "version": 2,
+      "posts": 30,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 281,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4643,12 +4695,13 @@
     "3ab08910089fa76b",
     "be52f3d65e96e0bb",
     "794912b6a38ac1ad",
-    "afaa4188f4ff1fdd"
+    "afaa4188f4ff1fdd",
+    "574a9b7ddd085b8a"
   ],
   "entity_memory": {
     "venice": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "count": 2,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
       "categories": [
         "movie_news"
       ]
@@ -6555,6 +6608,69 @@
       "last_seen": "2026-08-24T09:31:43.341515+00:00",
       "categories": [
         "box_office"
+      ]
+    },
+    "venice adds gaza": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "naza": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "competition directed": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "no other land": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yuval abraham": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel szor": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israeli": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "palestinian": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gaza": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
