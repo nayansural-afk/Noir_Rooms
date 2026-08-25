@@ -1795,6 +1795,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "67042a314978f08b2fd14a5c",
+      "story_id": "787e02890b3eec6d",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663",
+      "title": "Dolly Parton, Iconic Singer/Songwriter and ‘9 to 5’ Star, Dies at 80",
+      "category": "actors_directors",
+      "score": 69.2,
+      "freshness": 92.0,
+      "credibility": 90.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "dolly parton",
+        "iconic singer",
+        "songwriter",
+        "star",
+        "dies",
+        "the best little",
+        "whorehouse",
+        "texas",
+        "steel magnolias",
+        "nashville"
+      ],
+      "hook": "دولی پارتون، ستارهٔ 9 تا 5، درگذشت در سن 80 سالگی",
+      "hooks": [
+        "دولی پارتون، خوانندهٔ نمادین، درگذشت در سن 80 سالگی",
+        "ستارهٔ فیلم‌های محبوب، درگذشت در نشن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دولی پارتون درگذشت در سن 80 سالگی در نشن"
+      ],
+      "status": "published",
+      "telegram_message_id": 41,
+      "published_at": "2026-08-25T21:01:36.130889+00:00",
+      "text": "دولی پارتون، ستارهٔ 9 تا 5، درگذشت در سن 80 سالگی\n\n🎬 دولی پارتون، ستارهٔ 9 تا 5، درگذشت در سن 80 سالگی\n\nدولی پارتون، خواننده و بازیگر نمادین، درگذشت. او در فیلم‌های «بهترین خانه کوچک» و «ستیل مانگلیاس» نقش‌های برجسته‌ای داشت.\nدولی در نشن، در آرامش، درگذشت. او به عنوان ستارهٔ 9 تا 5 شناخته می‌شد.\n\n📌 نکات مهم:\n• دولی پارتون درگذشت\n• او در سن 80 سالگی درگذشت\n• او در فیلم‌های «بهترین خانه کوچک» و «ستیل مانگلیاس» حضور داشت\n• او در نشن درگذشت\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1833,7 +1883,8 @@
     "7bc4c42c3fbe6cf1d71e8a0e",
     "c64bff0b6fd53459d3fe2c51",
     "ce3253e38ad1e7a1ba93e719",
-    "263415c4beb8af85c6a2353c"
+    "263415c4beb8af85c6a2353c",
+    "67042a314978f08b2fd14a5c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1871,7 +1922,8 @@
     "https://www.bbc.co.uk/news/articles/cg7k9rp10l0o",
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186",
     "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582",
-    "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963"
+    "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963",
+    "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663"
   ],
   "category_stats": {
     "movie_news": {
@@ -1881,7 +1933,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 9,
+      "published": 10,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1928,7 +1980,7 @@
       "published": 2
     },
     "21": {
-      "published": 3
+      "published": 4
     },
     "23": {
       "published": 2
@@ -1974,64 +2026,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T14:08:31.880226+00:00",
-      "version": 2,
-      "posts": 17,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 148,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T16:04:25.501573+00:00",
       "version": 2,
@@ -4989,6 +4983,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-25T21:01:36.130960+00:00",
+      "version": 2,
+      "posts": 37,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 346,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5026,7 +5078,8 @@
     "f4078794dc847fcb",
     "56f85d7420483b8f",
     "3892d1ee42fad0a8",
-    "38f84a29af11fa2f"
+    "38f84a29af11fa2f",
+    "787e02890b3eec6d"
   ],
   "entity_memory": {
     "venice": {
@@ -7113,10 +7166,11 @@
       ]
     },
     "dies": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "count": 2,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "actors_directors"
       ]
     },
     "john carpenter": {
@@ -7397,6 +7451,69 @@
       "last_seen": "2026-08-25T18:02:02.340694+00:00",
       "categories": [
         "movie_news"
+      ]
+    },
+    "dolly parton": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "iconic singer": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "songwriter": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the best little": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "whorehouse": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "texas": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "steel magnolias": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nashville": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
       ]
     }
   },
