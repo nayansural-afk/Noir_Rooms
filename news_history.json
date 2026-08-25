@@ -1738,6 +1738,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "263415c4beb8af85c6a2353c",
+      "story_id": "38f84a29af11fa2f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Variety Film",
+        "Deadline"
+      ],
+      "multi_source_count": 3,
+      "url": "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963",
+      "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+      "category": "movie_news",
+      "score": 95.05,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "paul thomas anderson",
+        "cameron winter",
+        "carnegie hall",
+        "concert movie acquired",
+        "janus films",
+        "criterion janus films",
+        "criterion",
+        "north american",
+        "geese",
+        "december",
+        "getting killed",
+        "criterion acquire paul",
+        "thomas anderson",
+        "cameron winter concert",
+        "film the"
+      ],
+      "hook": "فیلم کنسرت پاتامان در کارنگی هال به 35mm می‌آید",
+      "hooks": [
+        "فیلم کنسرت 35mm در کارنگی هال",
+        "پاتامان و کمرون وین در کارنگی هال"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم کنسرت در کارنگی هال ضبط شد و توسط جانوس فیلم و کرایتر به‌دست آمده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 40,
+      "published_at": "2026-08-25T18:02:02.340664+00:00",
+      "text": "فیلم کنسرت پاتامان در کارنگی هال به 35mm می‌آید\n\n🎬 جانوس فیلم و کرایتر فیلم کنسرت پاتامان در کارنگی هال را به‌دست آوردند\n\nفیلم کنسرتی که پل توماس اندرسن در سال گذشته در کارنگی هال ضبط کرده، اکنون در دست جانوس فیلم و کرایتر است. این اثر با حضور کمرون وین، سرآهنگ‌نواز گروه Geese، در اجراهای تک‌نفرهٔ او در کارنگی هال به‌صورت 35mm در تاریخ 20 نوامبر به نمایش می‌رسد.\n\n📌 نکات مهم:\n• فیلم توسط پل توماس اندرسن در کارنگی هال ضبط شد\n• کمرون وین در اجرا حضور داشت\n• فیلم توسط جانوس فیلم و کرایتر به‌دست آمده است\n• روند 35mm در تاریخ 20 نوامبر آغاز می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Variety Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1775,7 +1832,8 @@
     "6c16fdbf4fed9d448d6a07e3",
     "7bc4c42c3fbe6cf1d71e8a0e",
     "c64bff0b6fd53459d3fe2c51",
-    "ce3253e38ad1e7a1ba93e719"
+    "ce3253e38ad1e7a1ba93e719",
+    "263415c4beb8af85c6a2353c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1812,11 +1870,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008",
     "https://www.bbc.co.uk/news/articles/cg7k9rp10l0o",
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186",
-    "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582"
+    "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582",
+    "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 19,
+      "published": 20,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1863,7 +1922,7 @@
       "published": 2
     },
     "18": {
-      "published": 3
+      "published": 4
     },
     "20": {
       "published": 2
@@ -1915,64 +1974,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T11:58:01.591226+00:00",
-      "version": 2,
-      "posts": 16,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 136,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T14:08:31.880226+00:00",
       "version": 2,
@@ -4930,6 +4931,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-25T18:02:02.340748+00:00",
+      "version": 2,
+      "posts": 36,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 337,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4966,7 +5025,8 @@
     "ed22375f4e91b6d6",
     "f4078794dc847fcb",
     "56f85d7420483b8f",
-    "3892d1ee42fad0a8"
+    "3892d1ee42fad0a8",
+    "38f84a29af11fa2f"
   ],
   "entity_memory": {
     "venice": {
@@ -6577,8 +6637,8 @@
       ]
     },
     "december": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "count": 2,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
       "categories": [
         "movie_news"
       ]
@@ -7237,6 +7297,104 @@
     "jennifer peedom": {
       "count": 1,
       "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paul thomas anderson": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cameron winter": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carnegie hall": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "concert movie acquired": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "janus films": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "criterion janus films": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "criterion": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north american": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "geese": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "getting killed": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "criterion acquire paul": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thomas anderson": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cameron winter concert": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film the": {
+      "count": 1,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
       "categories": [
         "movie_news"
       ]
