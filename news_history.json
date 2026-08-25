@@ -1686,6 +1686,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ce3253e38ad1e7a1ba93e719",
+      "story_id": "3892d1ee42fad0a8",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582",
+      "title": "Tom Hiddleston Thriller ‘Tenzing’ To Open Zurich Film Festival",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "tom hiddleston thriller",
+        "tenzing",
+        "to open zurich",
+        "film festival mount",
+        "everest",
+        "tom hiddleston",
+        "willem dafoe",
+        "zurich film festival",
+        "september",
+        "the apple original",
+        "films",
+        "jennifer peedom"
+      ],
+      "hook": "تنسینگ: تریلر هیجان‌انگیز، توم هیدلستون در صدر جشنواره زوریخ",
+      "hooks": [
+        "تنسینگ با توم هیدلستون، آغاز جشنواره زوریخ",
+        "تنسینگ: ماجرا در کوهستان، توم هیدلستون و ویلم دافو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تنسینگ در جشنواره فیلم زوریخ افتتاح می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 39,
+      "published_at": "2026-08-25T15:27:42.109825+00:00",
+      "text": "تنسینگ: تریلر هیجان‌انگیز، توم هیدلستون در صدر جشنواره زوریخ\n\n🎬 تنسینگ: توم هیدلستون در صدر جشنواره فیلم زوریخ\n\nفیلم تریلر کوهستانی 'تنسینگ' با بازی توم هیدلستون و ویلم دافو، در تاریخ ۲۴ سپتامبر، نسخه‌ی ۲۲ جشنواره فیلم زوریخ را افتتاح می‌کند.\nاین اثر، ساخته‌ی جنیفر پیدم، بر اساس زندگی واقعی تنزینگ نروگی، قهرمان کوهستانی هیمالیا، ساخته شده و توسط Apple Original Films تولید شده است.\n\n📌 نکات مهم:\n• تنسینگ در جشنواره فیلم زوریخ افتتاح می‌شود\n• توم هیدلستون و ویلم دافو در نقش‌های اصلی بازی می‌کنند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1722,7 +1774,8 @@
     "85a81c9cce8c835c1439ca00",
     "6c16fdbf4fed9d448d6a07e3",
     "7bc4c42c3fbe6cf1d71e8a0e",
-    "c64bff0b6fd53459d3fe2c51"
+    "c64bff0b6fd53459d3fe2c51",
+    "ce3253e38ad1e7a1ba93e719"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1758,11 +1811,12 @@
     "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771",
     "https://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008",
     "https://www.bbc.co.uk/news/articles/cg7k9rp10l0o",
-    "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186"
+    "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186",
+    "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 18,
+      "published": 19,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1840,6 +1894,9 @@
     },
     "6": {
       "published": 1
+    },
+    "15": {
+      "published": 1
     }
   },
   "strategy": {
@@ -1858,64 +1915,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T10:15:23.775476+00:00",
-      "version": 2,
-      "posts": 15,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 126,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T11:58:01.591226+00:00",
       "version": 2,
@@ -4873,6 +4872,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-25T15:27:42.109904+00:00",
+      "version": 2,
+      "posts": 35,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        },
+        {
+          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
+          "category": "movie_news",
+          "score": 78.98,
+          "multi_source_count": 1
+        }
+      ],
+      "entity_memory_size": 323,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -4908,7 +4965,8 @@
     "5f493017e909ad1a",
     "ed22375f4e91b6d6",
     "f4078794dc847fcb",
-    "56f85d7420483b8f"
+    "56f85d7420483b8f",
+    "3892d1ee42fad0a8"
   ],
   "entity_memory": {
     "venice": {
@@ -5206,8 +5264,8 @@
       ]
     },
     "september": {
-      "count": 2,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "count": 3,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
       "categories": [
         "movie_news",
         "trailers_first_look"
@@ -7104,6 +7162,83 @@
       "last_seen": "2026-08-25T10:17:06.308742+00:00",
       "categories": [
         "box_office"
+      ]
+    },
+    "tom hiddleston thriller": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tenzing": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to open zurich": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival mount": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "everest": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tom hiddleston": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "willem dafoe": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zurich film festival": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the apple original": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jennifer peedom": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
