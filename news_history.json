@@ -1845,6 +1845,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2698dcf844efb2dd671d926a",
+      "story_id": "49a2f0e9cf582090",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon",
+      "title": "The Last Sunrise review – Amazon’s soapy YA romance is thankless and bland",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "the last sunrise",
+        "amazon",
+        "another",
+        "carlson young",
+        "anna todd",
+        "after",
+        "todd",
+        "one direction",
+        "every year after",
+        "the summer",
+        "turned pretty",
+        "nothing"
+      ],
+      "hook": "آتش‌زده‌ی آخرین طلوع: رمان YA بی‌روح در آمازون",
+      "hooks": [
+        "آخرین طلوع: رمان YA بی‌روح در آمازون",
+        "رمان YA بی‌روح در آمازون: آخرین طلوع"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «آخرین طلوع» بی‌روح و خالی از جذابیت است"
+      ],
+      "status": "published",
+      "telegram_message_id": 42,
+      "published_at": "2026-08-26T07:34:26.213132+00:00",
+      "text": "آتش‌زده‌ی آخرین طلوع: رمان YA بی‌روح در آمازون\n\n🎬 نقد «آخرین طلوع»: رمان YA آمازون بی‌روح و خالی از جذابیت\n\nفیلم «آخرین طلوع» در سال 2025 بر اساس رمان یکسان اثر آنا تود ساخته شد و در مجموعه‌ی «رومانس» آمازون قرار دارد. کارگردان فیلم کارلنس یانگ است و به‌عنوان رمان YA با سبک سافه و بی‌روح نقد می‌شود.\n\nنقدگران فیلم را به‌عنوان رمان YA بی‌روح و خالی از جذابیت توصیف کرده‌اند و اشاره کرده‌اند که فیلم از مکان‌های آفتابی بهره‌مند نیست و به‌جای جذابیت، به‌دست‌کاری‌های کم‌هزینه در قالب درام می‌پردازد.\n\n📌 نکات مهم:\n• فیلم «آخرین طلوع» در سال 2025 بر اساس رمان یکسان اثر آنا تود ساخته شد\n• کارگردان فیلم کارلنس یانگ است\n• فیلم در مجموعه‌ی «رومانس» آمازون قرار دارد\n• فیلم به‌عنوان رمان YA با سبک سافه و بی‌روح نقد شد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1884,7 +1936,8 @@
     "c64bff0b6fd53459d3fe2c51",
     "ce3253e38ad1e7a1ba93e719",
     "263415c4beb8af85c6a2353c",
-    "67042a314978f08b2fd14a5c"
+    "67042a314978f08b2fd14a5c",
+    "2698dcf844efb2dd671d926a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -1923,11 +1976,12 @@
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-insidious-uk-ireland-box-office-1236842186",
     "https://deadline.com/2026/08/tom-hiddleston-tenzing-zurich-film-festival-1237049582",
     "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963",
-    "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663"
+    "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663",
+    "https://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 20,
+      "published": 21,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -1998,7 +2052,7 @@
       "published": 1
     },
     "7": {
-      "published": 1
+      "published": 2
     },
     "9": {
       "published": 1
@@ -2026,64 +2080,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T16:04:25.501573+00:00",
-      "version": 2,
-      "posts": 18,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        },
-        {
-          "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 72.6,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 156,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T18:02:14.876448+00:00",
       "version": 2,
@@ -5041,6 +5037,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-26T07:34:26.213222+00:00",
+      "version": 2,
+      "posts": 38,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 356,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5079,7 +5133,8 @@
     "56f85d7420483b8f",
     "3892d1ee42fad0a8",
     "38f84a29af11fa2f",
-    "787e02890b3eec6d"
+    "787e02890b3eec6d",
+    "49a2f0e9cf582090"
   ],
   "entity_memory": {
     "venice": {
@@ -5846,10 +5901,11 @@
       ]
     },
     "amazon": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "count": 2,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
       "categories": [
-        "trailers_first_look"
+        "trailers_first_look",
+        "movie_news"
       ]
     },
     "studios unveils teaser": {
@@ -6445,8 +6501,8 @@
       ]
     },
     "after": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "count": 2,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
       "categories": [
         "movie_news"
       ]
@@ -7514,6 +7570,76 @@
       "last_seen": "2026-08-25T21:01:36.130914+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "the last sunrise": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "another": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carlson young": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anna todd": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "todd": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "one direction": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "every year after": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the summer": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "turned pretty": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nothing": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
