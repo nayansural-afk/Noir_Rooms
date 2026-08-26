@@ -1949,6 +1949,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "64b2afe41116aa24ca96bcf9",
+      "story_id": "3e378a06a3b7b9a3",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
+      "title": "De Gaulle: Résistance review – a galloping bromance for Churchill and France’s wartime hero",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "de gaulle",
+        "churchill",
+        "france",
+        "this",
+        "gallic",
+        "bir hakeim",
+        "perhaps",
+        "englishman",
+        "julian jackson",
+        "certain idea",
+        "the life",
+        "charles"
+      ],
+      "hook": "بیوگرافی شجاعانه در قالب فیلم‌سازی فرانسوی",
+      "hooks": [
+        "سفر در زمان با دک گالوا، در قالب فیلم‌سازی کلاسیک",
+        "نقش شجاعانه دک گالوا در فیلم دو بخش"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم به صورت خنده‌دار و با لحن کلاسیک 60ها ساخته شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 44,
+      "published_at": "2026-08-26T16:37:13.976875+00:00",
+      "text": "بیوگرافی شجاعانه در قالب فیلم‌سازی فرانسوی\n\n🎬 دک گالوا: بررسی بیوگرافی در قالب فیلم‌سازی فرانسوی\n\nفیلم «دک گالوا» به کارگردانی آنتونین بودری، بر اساس کتاب زندگی دک گالوا اثر جولیان جکسون ساخته شده است. این اولین بخش از دو بخش، با لحن خنده‌دار و لایه‌ای از فیلم‌های جنگ کلاسیک 60ها، به پایان در بیرهکیم می‌رسد و شخصیت دک گالوا را توسط سیمون ابکارین بازی می‌کند.\n\nفیلم با دیدی خنده‌دار و همدلانه، به تصویر می‌کشد که چگونه دک گالوا در لندن به عنوان پناهنده‌ی بلندپرواز، در برابر چالش‌های جنگ مقاومت می‌کند.\n\n📌 نکات مهم:\n• فیلم به کارگردانی آنتونین بودری است\n• بر اساس کتاب زندگی دک گالوا اثر جولیان جکسون\n• اولین بخش از دو بخش است\n• پایان در بیرهکیم می‌رسد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -1990,7 +2042,8 @@
     "263415c4beb8af85c6a2353c",
     "67042a314978f08b2fd14a5c",
     "2698dcf844efb2dd671d926a",
-    "22dc7a023a828952457e3381"
+    "22dc7a023a828952457e3381",
+    "64b2afe41116aa24ca96bcf9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2031,11 +2084,12 @@
     "https://deadline.com/2026/08/cameron-winter-paul-thomas-anderson-janus-films-criterion-1237049963",
     "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663",
     "https://www.theguardian.com/film/2026/aug/26/the-last-sunrise-movie-review-amazon",
-    "https://deadline.com/2026/08/emory-cohen-to-star-thick-joshua-ryan-dietz-1237051021"
+    "https://deadline.com/2026/08/emory-cohen-to-star-thick-joshua-ryan-dietz-1237051021",
+    "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 21,
+      "published": 22,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2079,7 +2133,7 @@
       "published": 2
     },
     "16": {
-      "published": 2
+      "published": 3
     },
     "18": {
       "published": 4
@@ -2134,64 +2188,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T20:56:14.881961+00:00",
-      "version": 2,
-      "posts": 21,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        },
-        {
-          "title": "Michaël R. Roskam’s WWII Feature ‘Le Faux Soir’ To Close San Sebastián Film Festival",
-          "category": "movie_news",
-          "score": 75.69,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 184,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-21T21:56:27.157766+00:00",
       "version": 2,
@@ -5149,6 +5145,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-26T16:37:13.976960+00:00",
+      "version": 2,
+      "posts": 40,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
+          "category": "actors_directors",
+          "score": 82.4,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 378,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5189,7 +5243,8 @@
     "38f84a29af11fa2f",
     "787e02890b3eec6d",
     "49a2f0e9cf582090",
-    "5c03976cbb416544"
+    "5c03976cbb416544",
+    "3e378a06a3b7b9a3"
   ],
   "entity_memory": {
     "venice": {
@@ -7765,6 +7820,90 @@
       "last_seen": "2026-08-26T15:49:05.157956+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "de gaulle": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "churchill": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "france": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "this": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gallic": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bir hakeim": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "perhaps": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "englishman": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "julian jackson": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "certain idea": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the life": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "charles": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
