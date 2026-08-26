@@ -1,10 +1,10 @@
 """
-NOIR ROOMS V2.2 — Cinema-focused hourly publisher
+NOIR ROOMS V2.2 — Cinema-focused publisher
 
-- Hourly GitHub Actions schedule (external)
+- GitHub Actions schedule (external)
 - Strict relevance: movies, series, actors, directors, trailers, box office
 - Story clustering, multi-source, content memory, fact-checked Persian posts
-- Optional channel title/description update (needs can_change_info)
+- Telegram publish with retries + higher timeouts
 
 Secrets: TELEGRAM_TOKEN, GROQ_API_KEY
 Env: CHANNEL_ID, PUBLISH_LIMIT, MIN_INTEREST_SCORE,
@@ -31,6 +31,8 @@ from urllib.parse import urlparse
 
 import requests
 from telegram import Bot
+from telegram.error import NetworkError, RetryAfter, TimedOut
+from telegram.request import HTTPXRequest
 
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 GROQ_API_KEY = os.environ["GROQ_API_KEY"]
@@ -42,15 +44,14 @@ PUBLISH_LIMIT = max(1, int(os.environ.get("PUBLISH_LIMIT", str(POSTS_PER_RUN))))
 MAX_AI_ATTEMPTS = max(1, int(os.environ.get("MAX_AI_ATTEMPTS", "4")))
 MIN_INTEREST_SCORE = float(os.environ.get("MIN_INTEREST_SCORE", "58"))
 
-# Optional branding — only applied when non-empty
 SET_CHANNEL_TITLE = os.environ.get("SET_CHANNEL_TITLE", "").strip()
 SET_CHANNEL_DESCRIPTION = os.environ.get("SET_CHANNEL_DESCRIPTION", "").strip()
 
 HISTORY_FILE = Path("news_history.json")
 MODEL = "openai/gpt-oss-20b"
 HISTORY_VERSION = 2
+TELEGRAM_SEND_RETRIES = 4
 
-# Prefer film-focused feeds first
 SOURCES = [
     {"name": "Variety Film", "url": "https://variety.com/v/film/", "weight": 0.96,
      "rss": "https://variety.com/v/film/feed/"},
@@ -84,7 +85,6 @@ CATEGORY_KEYWORDS = {
     "controversy": ["lawsuit", "scandal", "backlash"],
 }
 
-# Strong cinema signals (need enough hits)
 CORE_CINEMA = [
     "movie", "film", "cinema", "feature film", "box office", "trailer", "teaser",
     "director", "actor", "actress", "cast", "casting", "starring", "sequel",
@@ -96,10 +96,6 @@ CORE_CINEMA = [
     "a24", "marvel", "dc comics", "lucasfilm", "pixar", "animation",
 ]
 
-WEAK_ONLY = [  # alone not enough
-    "series", "show", "streaming", "hollywood", "celebrity", "star",
-]
-
 HARD_REJECT = [
     "little league", "soccer", "football match", "nba", "nfl", "mlb", "tennis",
     "ufc", "wwe", "recipe", "cooking", "masterchef", "weather", "election",
@@ -109,7 +105,7 @@ HARD_REJECT = [
     "vertical drama", "skills hub", "film academy programme", "film academy program",
     "education programme", "education program", "training hub",
     "prince harry", "meghan markle", "royal family", "politics",
-    "boatbuilders",  # avoid niche craft docs unless strongly film-newsy
+    "boatbuilders",
 ]
 
 BREAKING_SIGNALS = [
@@ -230,7 +226,6 @@ def extract_entities(text: str) -> list[str]:
 
 
 def is_cinema_relevant(title: str, description: str) -> bool:
-    """Strict gate: real film/series/actor/box-office news only."""
     text = f"{title} {description}".lower()
     if any(bad in text for bad in HARD_REJECT):
         return False
@@ -525,7 +520,6 @@ def deduplicate(items: list[NewsItem], history: dict[str, Any]) -> list[NewsItem
             continue
         if item.story_id and item.story_id in seen_stories:
             continue
-        # Hard quality gate
         if item.audience_interest < MIN_INTEREST_SCORE:
             continue
         if item.category not in PREFERRED_CATEGORIES:
@@ -680,7 +674,6 @@ def format_post(item: NewsItem, edited: dict[str, Any]) -> str:
 
 
 async def maybe_brand_channel(bot: Bot, history: dict[str, Any]) -> None:
-    """Set channel title/description if env provided and not yet applied."""
     if history.get("channel_branding_applied"):
         return
     if not SET_CHANNEL_TITLE and not SET_CHANNEL_DESCRIPTION:
@@ -704,16 +697,41 @@ async def maybe_brand_channel(bot: Bot, history: dict[str, Any]) -> None:
 
 
 async def publish(bot: Bot, item: NewsItem, edited: dict[str, Any]) -> dict[str, Any]:
+    """Send to Telegram with retries on timeout / transient network errors."""
     text = format_post(item, edited)
-    message = await bot.send_message(
-        chat_id=CHANNEL_ID, text=text, disable_web_page_preview=False,
-    )
-    return {
-        "telegram_message_id": message.message_id,
-        "published_at": now_iso(),
-        "text": text,
-        "analytics": {"views": None, "forwards": None, "reactions": None, "source": "unavailable_via_bot_api"},
-    }
+    last_exc: Exception | None = None
+    for attempt in range(1, TELEGRAM_SEND_RETRIES + 1):
+        try:
+            message = await bot.send_message(
+                chat_id=CHANNEL_ID,
+                text=text,
+                disable_web_page_preview=False,
+            )
+            return {
+                "telegram_message_id": message.message_id,
+                "published_at": now_iso(),
+                "text": text,
+                "analytics": {
+                    "views": None,
+                    "forwards": None,
+                    "reactions": None,
+                    "source": "unavailable_via_bot_api",
+                },
+            }
+        except RetryAfter as exc:
+            wait = float(getattr(exc, "retry_after", 5)) + 1.0
+            print(f"[TG] flood wait {wait:.0f}s (attempt {attempt}/{TELEGRAM_SEND_RETRIES})")
+            await asyncio.sleep(wait)
+            last_exc = exc
+        except (TimedOut, NetworkError) as exc:
+            wait = min(20.0, 2.0 ** attempt + random.uniform(0.3, 1.5))
+            print(f"[TG] {type(exc).__name__}: retry in {wait:.1f}s ({attempt}/{TELEGRAM_SEND_RETRIES})")
+            await asyncio.sleep(wait)
+            last_exc = exc
+        except Exception as exc:
+            # Non-transient errors: fail fast
+            raise
+    raise last_exc or RuntimeError("Telegram send failed after retries")
 
 
 def update_entity_memory(history: dict[str, Any], item: NewsItem) -> None:
@@ -790,9 +808,15 @@ def print_report(report: dict[str, Any]) -> None:
 
 async def main() -> None:
     history = load_history()
-    print("NOIR ROOMS V2.2: strict cinema hourly run...")
+    print("NOIR ROOMS V2.2: strict cinema run (TG retry enabled)...")
 
-    bot = Bot(token=TELEGRAM_TOKEN)
+    request = HTTPXRequest(
+        connect_timeout=30.0,
+        read_timeout=60.0,
+        write_timeout=60.0,
+        pool_timeout=30.0,
+    )
+    bot = Bot(token=TELEGRAM_TOKEN, request=request)
     await maybe_brand_channel(bot, history)
 
     all_items: list[NewsItem] = []
@@ -839,8 +863,9 @@ async def main() -> None:
                 f"interest={item.audience_interest:.0f} | {item.title[:55]}"
             )
         except Exception as exc:
-            print(f"[ERROR] Telegram: {exc}")
-            break
+            print(f"[ERROR] Telegram after retries: {exc}")
+            # Do not break — try next candidate if AI budget remains
+            continue
 
     update_strategy(history)
     print_report(build_weekly_report(history))
