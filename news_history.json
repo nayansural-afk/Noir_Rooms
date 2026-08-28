@@ -2319,6 +2319,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "da22f05afbd72b965da2024c",
+      "story_id": "726ea82e102e9780",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050",
+      "title": "Dan Stevens Hopes Prime Video’s ‘RoboCop’ Series “Preserves” Elements Of “Extreme Violence & Also Satire”",
+      "category": "streaming",
+      "score": 57.36,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "dan stevens hopes",
+        "prime video",
+        "series",
+        "preserves",
+        "elements of",
+        "extreme violence",
+        "also satire",
+        "dan stevens",
+        "stevens"
+      ],
+      "hook": "دانیل استیونز: انتظار دارد رباتک، خشونت و طنز را حفظ کند",
+      "hooks": [
+        "دانیل استیونز: رباتک باید خشونت و طنز را حفظ کند",
+        "استیونز: رباتک باید عناصر خشونت و طنز را حفظ کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دانیل استیونز در مصاحبه گفته است رباتک باید خشونت و طنز را حفظ کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 51,
+      "published_at": "2026-08-28T21:59:10.237911+00:00",
+      "text": "دانیل استیونز: انتظار دارد رباتک، خشونت و طنز را حفظ کند\n\n🎬 دانیل استیونز: رباتک باید خشونت و طنز را حفظ کند\n\nدر مصاحبه‌ای تازه، دانیل استیونز نقش قهرمان اصلی در سریال رباتک پلتفرم Prime Video را به عهده گرفته است. او تأکید می‌کند که این سریال باید دو عنصر اصلی فیلم‌های اصلی را حفظ کند: خشونت شدید و طنز سیاه.\nاستیونز امیدوار است که این ترکیب، تجربه‌ای نوآورانه و در عین حال وفادار به ریشه‌های رباتک ارائه دهد. او مشتاقانه منتظر دیدن این نمایش در آینده نزدیک است.\n\n📌 نکات مهم:\n• دانیل استیونز در سریال رباتک نقش قهرمان اصلی را بازی می‌کند\n• استیونز انتظار دارد رباتک خشونت شدید و طنز را حفظ کند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2367,7 +2416,8 @@
     "d4d753d94e00a3a21602c55a",
     "8cf678f88fb152c23e45108e",
     "28f792b8cf82b6b8fd19826e",
-    "8d79bc2bf6a7b840605160e5"
+    "8d79bc2bf6a7b840605160e5",
+    "da22f05afbd72b965da2024c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2415,7 +2465,8 @@
     "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
     "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
     "https://deadline.com/2026/08/james-walsh-dead-1237062176",
-    "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies"
+    "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
+    "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050"
   ],
   "category_stats": {
     "movie_news": {
@@ -2431,7 +2482,7 @@
       "samples_with_metrics": 0
     },
     "streaming": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2472,7 +2523,7 @@
       "published": 2
     },
     "21": {
-      "published": 7
+      "published": 8
     },
     "23": {
       "published": 2
@@ -2524,64 +2575,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T09:03:48.010930+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T10:55:26.438905+00:00",
       "version": 2,
@@ -5539,6 +5532,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T21:59:10.237998+00:00",
+      "version": 2,
+      "posts": 47,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5586,9 +5637,74 @@
     "c4328274b5eb0d6a",
     "bd2b8ec61b9fca50",
     "e410aec2939f7923",
-    "14258a9c724fca6a"
+    "14258a9c724fca6a",
+    "726ea82e102e9780"
   ],
   "entity_memory": {
+    "prime video": {
+      "count": 2,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "actors_directors",
+        "streaming"
+      ]
+    },
+    "dan stevens hopes": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "series": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "preserves": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "elements of": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "extreme violence": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "also satire": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "dan stevens": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "stevens": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:59:10.237943+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
     "hollywood": {
       "count": 3,
       "last_seen": "2026-08-28T21:50:29.427584+00:00",
@@ -8181,13 +8297,6 @@
         "actors_directors"
       ]
     },
-    "prime video": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "hurst": {
       "count": 1,
       "last_seen": "2026-08-20T23:02:29.434979+00:00",
@@ -8347,62 +8456,6 @@
       "last_seen": "2026-08-20T18:01:18.807034+00:00",
       "categories": [
         "streaming"
-      ]
-    },
-    "director joe pearlman": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "jessica simpson": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "joe pearlman": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "simpson": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "billy zane": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin chapman": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lee among cast": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in creature feature": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
