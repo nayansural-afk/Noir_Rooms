@@ -2159,6 +2159,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8cf678f88fb152c23e45108e",
+      "story_id": "bd2b8ec61b9fca50",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
+      "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "dark comedy",
+        "buddy",
+        "thriller",
+        "colony",
+        "john boorman doc",
+        "hit theaters",
+        "specialty preview new",
+        "idiots",
+        "finding emily",
+        "korean",
+        "train",
+        "busan"
+      ],
+      "hook": "کمدی تاریک ‘بادی’ و ترسناک ‘کولونی’ در هفته آخر تابستان",
+      "hooks": [
+        "دوران محدود سینما: بادی، کولونی، مستند بومران",
+        "سینماهای محدود: کمدی، ترسناک، مستند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم کمدی ‘بادی’ در هفته آخر تابستان"
+      ],
+      "status": "published",
+      "telegram_message_id": 48,
+      "published_at": "2026-08-28T21:21:10.497968+00:00",
+      "text": "کمدی تاریک ‘بادی’ و ترسناک ‘کولونی’ در هفته آخر تابستان\n\n🎬 کمدی تاریک 'بادی' و ترسناک 'کولونی' در هفته آخر تابستان در سینماهای محدود\n\nفیلم کمدی ‘بادی’ در هفته آخر تابستان به همراه ‘Idiots’ و ‘Finding Emily’ در نمایش‌های محدود حضور دارد. ترسناک ‘کولونی’ از کارگردان Train to Busan و فیلم ابرقهرمانی ‘Legend of the White Dragon’ نیز در همین هفته در سینماهای محدود به نمایش می‌رسند. مستندهای جان بومران، ‘Boorman and the Devil’ و ‘The Cycle of Love’ در نمایش ویژه تخصصی حضور دارند.\n\n📌 نکات مهم:\n• فیلم کمدی ‘بادی’ در هفته آخر تابستان\n• ترسناک ‘کولونی’ از کارگردان Train to Busan\n• مستند ‘Boorman and the Devil’ در نمایش ویژه تخصصی\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2204,7 +2257,8 @@
     "64b2afe41116aa24ca96bcf9",
     "76172f1da880c81808f13ed2",
     "08bc043ccddb8c6c3855d633",
-    "d4d753d94e00a3a21602c55a"
+    "d4d753d94e00a3a21602c55a",
+    "8cf678f88fb152c23e45108e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2249,11 +2303,12 @@
     "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
     "https://deadline.com/2026/08/tommy-davidson-tichina-arnold-search-party-wheres-paw-paw-1237051833",
     "https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555",
-    "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093"
+    "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
+    "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 24,
+      "published": 25,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2306,7 +2361,7 @@
       "published": 2
     },
     "21": {
-      "published": 4
+      "published": 5
     },
     "23": {
       "published": 2
@@ -2358,64 +2413,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T03:09:50.438433+00:00",
-      "version": 2,
-      "posts": 25,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 230,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T05:05:35.212429+00:00",
       "version": 2,
@@ -5373,6 +5370,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T21:21:10.498067+00:00",
+      "version": 2,
+      "posts": 44,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5417,9 +5472,94 @@
     "3e378a06a3b7b9a3",
     "05b0e4c58ec3ca24",
     "020abce902c32112",
-    "c4328274b5eb0d6a"
+    "c4328274b5eb0d6a",
+    "bd2b8ec61b9fca50"
   ],
   "entity_memory": {
+    "busan": {
+      "count": 2,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korean": {
+      "count": 2,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dark comedy": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "buddy": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thriller": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "colony": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john boorman doc": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hit theaters": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "specialty preview new": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "idiots": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "finding emily": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "train": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:21:10.498004+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 5,
       "last_seen": "2026-08-28T02:19:52.075677+00:00",
@@ -6610,20 +6750,6 @@
       ]
     },
     "vision asia sections": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "busan": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "korean": {
       "count": 1,
       "last_seen": "2026-08-24T08:09:58.436320+00:00",
       "categories": [
@@ -8161,76 +8287,6 @@
     "john irvin": {
       "count": 1,
       "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "british": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tinker tailor soldier": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hamburger hill": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dogs": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "raw deal john": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "irvin": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "raw deal": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "august": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "claire evans": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sundance prizewinner luke": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
       "categories": [
         "movie_news"
       ]
