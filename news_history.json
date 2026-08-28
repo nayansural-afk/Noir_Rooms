@@ -2212,6 +2212,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "28f792b8cf82b6b8fd19826e",
+      "story_id": "e410aec2939f7923",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/james-walsh-dead-1237062176",
+      "title": "James Walsh Dies: Tony-Winning Broadway Producer Of ‘The Heidi Chronicles’ & ‘I’m Not Rappaport’ Was 89",
+      "category": "actors_directors",
+      "score": 72.62,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "james walsh dies",
+        "tony",
+        "winning broadway producer",
+        "the heidi chronicles",
+        "not rappaport",
+        "james walsh",
+        "broadway",
+        "tony award",
+        "judd hirsch",
+        "pulitzer",
+        "thursday"
+      ],
+      "hook": "وفات جیمز والش، تولیدکننده برتر تئاتر برادوی",
+      "hooks": [
+        "تولیدکننده برادوی، جیمز والش، درگذشت",
+        "جیمز والش، ۸۹ ساله، از عفونت جان باخت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیمز والش تولیدکنندهٔ برندهٔ جایزهٔ تونی «I’m Not Rappaport» و Pulitzer «The Heidi Chronicles»"
+      ],
+      "status": "published",
+      "telegram_message_id": 49,
+      "published_at": "2026-08-28T21:48:29.146101+00:00",
+      "text": "وفات جیمز والش، تولیدکننده برتر تئاتر برادوی\n\n🎬 جیمز والش، تولیدکننده برادوی برنده تونی، درگذشت\n\nجیمز والش، ۸۹ ساله، درگذشت از عفونت خون در نیویورک.\nوالش در دهه‌های ۱۹۸۰ و ۱۹۹۰، تولیدکنندهٔ برتر تئاتر بود؛ او برندهٔ جایزهٔ تونی برای نمایش «I’m Not Rappaport» در سال ۱۹۸۶ و برندهٔ جایزهٔ Pulitzer برای «The Heidi Chronicles» در سال ۱۹۸۹ بود.\n\n📌 نکات مهم:\n• جیمز والش ۸۹ ساله درگذشت از عفونت خون\n• تولیدکنندهٔ برندهٔ جایزهٔ تونی «I’m Not Rappaport» و Pulitzer «The Heidi Chronicles»\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/james-walsh-dead-1237062176",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2258,7 +2310,8 @@
     "76172f1da880c81808f13ed2",
     "08bc043ccddb8c6c3855d633",
     "d4d753d94e00a3a21602c55a",
-    "8cf678f88fb152c23e45108e"
+    "8cf678f88fb152c23e45108e",
+    "28f792b8cf82b6b8fd19826e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2304,7 +2357,8 @@
     "https://deadline.com/2026/08/tommy-davidson-tichina-arnold-search-party-wheres-paw-paw-1237051833",
     "https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555",
     "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
-    "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088"
+    "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
+    "https://deadline.com/2026/08/james-walsh-dead-1237062176"
   ],
   "category_stats": {
     "movie_news": {
@@ -2314,7 +2368,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 12,
+      "published": 13,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2361,7 +2415,7 @@
       "published": 2
     },
     "21": {
-      "published": 5
+      "published": 6
     },
     "23": {
       "published": 2
@@ -2413,64 +2467,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T05:05:35.212429+00:00",
-      "version": 2,
-      "posts": 26,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 241,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T07:46:52.849885+00:00",
       "version": 2,
@@ -5428,6 +5424,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T21:48:29.146197+00:00",
+      "version": 2,
+      "posts": 45,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5473,9 +5527,96 @@
     "05b0e4c58ec3ca24",
     "020abce902c32112",
     "c4328274b5eb0d6a",
-    "bd2b8ec61b9fca50"
+    "bd2b8ec61b9fca50",
+    "e410aec2939f7923"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 4,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "thursday": {
+      "count": 2,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "trailers_first_look",
+        "actors_directors"
+      ]
+    },
+    "james walsh dies": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tony": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winning broadway producer": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the heidi chronicles": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "not rappaport": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james walsh": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tony award": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "judd hirsch": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pulitzer": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:48:29.146136+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "busan": {
       "count": 2,
       "last_seen": "2026-08-28T21:21:10.498004+00:00",
@@ -6480,14 +6621,6 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 3,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "drama": {
       "count": 2,
       "last_seen": "2026-08-24T18:03:02.342246+00:00",
@@ -7380,13 +7513,6 @@
         "trailers_first_look"
       ]
     },
-    "thursday": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
     "assadourian jr": {
       "count": 1,
       "last_seen": "2026-08-21T18:02:14.876409+00:00",
@@ -8217,76 +8343,6 @@
     "phyllida law": {
       "count": 1,
       "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emma thompson": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jacky leggo": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "born": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "glasgow": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bristol old vic": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatre": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eric thompson": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bafta": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john irvin": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
       "categories": [
         "movie_news"
       ]
