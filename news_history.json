@@ -2108,6 +2108,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d4d753d94e00a3a21602c55a",
+      "story_id": "c4328274b5eb0d6a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
+      "title": "‘In A Holidaze’ Film Adaptation Of Christina Lauren’s Novel Sets Release Date At Netflix",
+      "category": "movie_news",
+      "score": 76.78,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "holidaze",
+        "film adaptation of",
+        "christina lauren",
+        "novel sets release",
+        "date at netflix",
+        "christmas",
+        "written",
+        "tiffany paulsen",
+        "winter spring summer",
+        "fall"
+      ],
+      "hook": "فلم 'In A Holidaze' در نِت‌فلیکس، تعطیلات را می‌سازد!",
+      "hooks": [
+        "نِت‌فلیکس با 'In A Holidaze' به جشنوارهٔ تعطیلات می‌پیوندد",
+        "فردی بی‌هدف، اشتباه عاشقانه، و تعطیلاتی که تغییر می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فلم در تاریخ ۲ دسامبر در نِت‌فلیکس منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 47,
+      "published_at": "2026-08-28T02:19:52.075645+00:00",
+      "text": "فلم 'In A Holidaze' در نِت‌فلیکس، تعطیلات را می‌سازد!\n\n🎬 نِت‌فلیکس اعلام می‌کند: 'In A Holidaze' در ۲ دسامبر منتشر می‌شود\n\nنِت‌فلیکس نسخهٔ فیلمی از رمان کریستینا لورن 'In A Holidaze' را به نمایش می‌گذارد. این اثر در تاریخ ۲ دسامبر در پلتفرم خود به نمایش در می‌آید.\nسینمایی که توسط تیمی از تِیفانی پالسن نوشته و کارگردانی شده، داستان یک جوان بی‌هدف را دنبال می‌کند که پس از یک اشتباه عاشقانهٔ بزرگ، در تعطیلات گیر می‌خورد.\n\n📌 نکات مهم:\n• تاریخ انتشار: ۲ دسامبر ۲۰۲۴\n• نویسنده و کارگردان: تِیفانی پالسن\n• سینمایی بر اساس رمان کریستینا لورن\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2152,7 +2203,8 @@
     "22dc7a023a828952457e3381",
     "64b2afe41116aa24ca96bcf9",
     "76172f1da880c81808f13ed2",
-    "08bc043ccddb8c6c3855d633"
+    "08bc043ccddb8c6c3855d633",
+    "d4d753d94e00a3a21602c55a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2196,11 +2248,12 @@
     "https://deadline.com/2026/08/emory-cohen-to-star-thick-joshua-ryan-dietz-1237051021",
     "https://www.theguardian.com/film/2026/aug/26/de-gaulle-resistance-review-a-galloping-bromance-for-churchill-and-frances-wartime-hero",
     "https://deadline.com/2026/08/tommy-davidson-tichina-arnold-search-party-wheres-paw-paw-1237051833",
-    "https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555"
+    "https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555",
+    "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 23,
+      "published": 24,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2284,6 +2337,9 @@
     },
     "1": {
       "published": 1
+    },
+    "2": {
+      "published": 1
     }
   },
   "strategy": {
@@ -2302,64 +2358,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-21T23:55:18.531291+00:00",
-      "version": 2,
-      "posts": 24,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Film and TV Spending Dropped In New Mexico. But There’s a Silver Lining",
-          "category": "movie_news",
-          "score": 77.71,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 218,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T03:09:50.438433+00:00",
       "version": 2,
@@ -5317,6 +5315,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T02:19:52.075729+00:00",
+      "version": 2,
+      "posts": 43,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        },
+        {
+          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
+          "category": "movie_news",
+          "score": 82.81,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5360,117 +5416,85 @@
     "5c03976cbb416544",
     "3e378a06a3b7b9a3",
     "05b0e4c58ec3ca24",
-    "020abce902c32112"
+    "020abce902c32112",
+    "c4328274b5eb0d6a"
   ],
   "entity_memory": {
-    "venice": {
-      "count": 2,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+    "netflix": {
+      "count": 5,
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
-        "movie_news"
+        "streaming",
+        "movie_news",
+        "actors_directors"
       ]
     },
-    "sundance": {
-      "count": 2,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sundance prizewinner luke": {
+    "holidaze": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "lorentzen": {
+    "film adaptation of": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "documentary": {
+    "christina lauren": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "boatbuilders": {
+    "novel sets release": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "boarded": {
+    "date at netflix": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "metfilm sales ahead": {
+    "christmas": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "venice world premiere": {
+    "written": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "sales": {
+    "tiffany paulsen": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "luke lorentzen": {
+    "winter spring summer": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "maine": {
+    "fall": {
       "count": 1,
-      "last_seen": "2026-08-20T11:23:32.924338+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bafta": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john irvin": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "british": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tinker tailor soldier": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
       ]
@@ -5483,1970 +5507,12 @@
         "actors_directors"
       ]
     },
-    "hamburger hill": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dogs": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "raw deal john": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "irvin": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "raw deal": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "august": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "claire evans": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:31:44.237235+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phyllida law": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sophie": {
-      "count": 2,
-      "last_seen": "2026-08-21T05:51:24.539242+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emma thompson": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emma": {
-      "count": 2,
-      "last_seen": "2026-08-21T05:51:24.539242+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sophie thompson": {
-      "count": 2,
-      "last_seen": "2026-08-21T05:51:24.539242+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jacky leggo": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "born": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "glasgow": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bristol old vic": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatre": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eric thompson": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roskam": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "feature": {
-      "count": 2,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "le faux soir": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to close san": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film festival san": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "belgian": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "september": {
-      "count": 3,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "san sebastian": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 3,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "billy zane": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin chapman": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lee among cast": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in creature feature": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "wekiwa": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from oscar winner": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "richard": {
-      "count": 2,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anderson": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "titanic": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "person": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "interest": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix": {
-      "count": 4,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "jessica simpson doc": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "netflix from": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "robbie williams": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "director joe pearlman": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "jessica simpson": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "variety": {
-      "count": 3,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming",
-        "actors_directors"
-      ]
-    },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "streaming",
-        "box_office"
-      ]
-    },
-    "joe pearlman": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "simpson": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "spending dropped in": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new mexico": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "but there": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "silver lining as": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "there": {
-      "count": 2,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beatles": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abbey road": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "social": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sam mendes": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "london": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "footage": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sunday": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harris dickinson": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john lennon": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barry keoghan": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ringo starr": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paul mescal": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dave bautista officially": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cast": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kratos": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series the": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "guardians": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "galaxy": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ryan hurst": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "prime video": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hurst": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series dave bautista": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amazon prime video": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bautista": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "upcoming jenna ortega": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "projects from": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "klara and the": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the gallerist": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "wednesday": {
       "count": 2,
       "last_seen": "2026-08-28T01:30:28.075561+00:00",
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "jenna ortega": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "season": {
-      "count": 2,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "tim burton": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in october": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "taika waititi": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "klara": {
-      "count": 1,
-      "last_seen": "2026-08-21T03:32:16.082448+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actress phyllida law": {
-      "count": 1,
-      "last_seen": "2026-08-21T05:51:24.539242+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dame emma": {
-      "count": 1,
-      "last_seen": "2026-08-21T05:51:24.539242+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "amazon": {
-      "count": 2,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
-    "studios unveils teaser": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kunal kemmu": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "vibe": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "studios": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "hardik": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kemmu": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "bugs": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sparsh shrivastava": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "cameron diaz": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix action": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "comedy": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bad day": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gets december release": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "first look ed": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "neill": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "danielle brooks": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jake szymanski": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "want your sex": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "olivia wilde": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gregg araki": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "while sundance": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "robert redford": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "utah": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alongside": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel lambert": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carousel": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "supporting role": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director ana urushadze": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "preps": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fear": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "butterflies": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "detective story with": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mysticism": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "touch": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "body horror": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "georgian": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ana urushadze": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "scary mother": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hbo": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "the pitt": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "teases robby": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "return": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "first look": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer the emmy": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "january the": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "comedian jack assadourian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sets premiere date": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "for debut special": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "mexican armenian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "directed by jeremiah": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "watkins": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "watch the trailer": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "thursday": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "assadourian jr": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "mexican": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "armenian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "netflix sets theatrical": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "streaming dates": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "peter berg": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "world war": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "drama": {
-      "count": 2,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "streaming",
-        "actors_directors"
-      ]
-    },
-    "the mosquito bowl": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "berg": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "lone survivor": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "deepwater horizon": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "christopher nolan": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "nolan": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "the odyssey": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "sets digital": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "release dates christopher": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "homer": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "july": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ultra": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle pfeiffer clarifies": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "never said": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "retiring": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the most ridiculous": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thing": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the madison": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "margo": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "got money troubles": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle pfeiffer": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "after": {
-      "count": 2,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harry potter": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star jessie cave": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says it was": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "embarrassing": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "join": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bills": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "it has saved": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lavender brown": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "small part": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "years ago": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jessie cave": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this morning": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bruce campbell clarifies": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tapped out": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of the": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "evil dead": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "franchise": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "didn": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "want ash to": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "borderline geezer": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bruce campbell": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on thursday": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sam raimi": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starz": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "movies": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shows to watch": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "before": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doomsday": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marvel cinematic universe": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doctor doom": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony russo": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joe russo": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "december": {
-      "count": 2,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phase": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rose": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anna paquin call": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "profoundly sad": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mistreatment of child": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stars while paying": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tribute to hayden": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "panettiere as hollywood": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hayden panettiere": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on friday": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anna paquin": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rest": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paramount": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paramount slams mark": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ruffalo merger attack": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "antisemitic": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says company does": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tolerate prejudice": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "any kind": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "friday": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mark ruffalo": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "david": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "larry ellison": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "david ellison": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "busan film festival": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sets": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "titles": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vision korea": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vision asia sections": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "busan": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "korean": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asia": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "china box office": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "once upon": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "time": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "middle east": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "stays": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "debuts": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "second dirty monkeys": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "china": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "artisan gateway": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "wen muye": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "dying": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "venice adds gaza": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "naza": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "competition directed": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "no other land": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yuval abraham": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israeli": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "palestinian": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gaza": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dianne wiest": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hinds to star": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in comedy": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this old love": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of mine": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "launches sales ahead": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "market": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hannah": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "her sisters": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hinds": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james lew": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stuntman": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hot shots": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "part deux": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actor": {
-      "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "dies": {
@@ -7457,184 +5523,472 @@
         "actors_directors"
       ]
     },
-    "john carpenter": {
+    "andrea eastman": {
       "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the godfather": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "casting director": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "former hollywood agent": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "santa barbara": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "entering": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eastman": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "international creative management": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pioneering": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "agent": {
+      "count": 1,
+      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "feature": {
+      "count": 2,
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "rush hour": {
+    "tommy davidson": {
       "count": 1,
-      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "nigerian": {
+    "tichina arnold to": {
       "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "ogogo": {
+    "lead family comedy": {
       "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "taiwo hassan": {
+    "search party": {
       "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "yoruba": {
+    "where": {
       "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "spider-man": {
+    "paw paw": {
       "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "universal": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "spider": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "brand new day": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "extend battle atop": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "ireland box office": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "insidious": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "makes strong debut": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "sony": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "tom hiddleston thriller": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "tenzing": {
+    "in living color": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "to open zurich": {
+    "proud family": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "film festival mount": {
+    "tichina arnold": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "everest": {
+    "martin": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "tom hiddleston": {
+    "everybody hates chris": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-27T11:54:42.670418+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "willem dafoe": {
+    "de gaulle": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "zurich film festival": {
+    "churchill": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "the apple original": {
+    "france": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "films": {
+    "this": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
       "categories": [
         "movie_news"
       ]
     },
-    "jennifer peedom": {
+    "gallic": {
       "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bir hakeim": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "perhaps": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "englishman": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "julian jackson": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "certain idea": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the life": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "charles": {
+      "count": 1,
+      "last_seen": "2026-08-26T16:37:13.976906+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "richard": {
+      "count": 2,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emory cohen to": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star in joshua": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ryan dietz": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thick": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dark comedy taking": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on modern masculinity": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emory cohen": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marty supreme": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joshua ryan dietz": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "california": {
+      "count": 1,
+      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amazon": {
+      "count": 2,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "after": {
+      "count": 2,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the last sunrise": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "another": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carlson young": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anna todd": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "todd": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "one direction": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "every year after": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the summer": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "turned pretty": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nothing": {
+      "count": 1,
+      "last_seen": "2026-08-26T07:34:26.213165+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dolly parton": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "iconic singer": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "songwriter": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the best little": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "whorehouse": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "texas": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "steel magnolias": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nashville": {
+      "count": 1,
+      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "december": {
+      "count": 2,
+      "last_seen": "2026-08-25T18:02:02.340694+00:00",
       "categories": [
         "movie_news"
       ]
@@ -7737,438 +6091,2148 @@
         "movie_news"
       ]
     },
-    "dolly parton": {
+    "september": {
+      "count": 3,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "tom hiddleston thriller": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tenzing": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to open zurich": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival mount": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "everest": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tom hiddleston": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "willem dafoe": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zurich film festival": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the apple original": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jennifer peedom": {
+      "count": 1,
+      "last_seen": "2026-08-25T15:27:42.109854+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christopher nolan": {
+      "count": 2,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "nolan": {
+      "count": 2,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "the odyssey": {
+      "count": 2,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "spider-man": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "universal": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "spider": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "brand new day": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "extend battle atop": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "ireland box office": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "insidious": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "makes strong debut": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "sony": {
+      "count": 1,
+      "last_seen": "2026-08-25T10:17:06.308742+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "nigerian": {
+      "count": 1,
+      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ogogo": {
+      "count": 1,
+      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "taiwo hassan": {
+      "count": 1,
+      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yoruba": {
+      "count": 1,
+      "last_seen": "2026-08-25T06:03:45.313059+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james lew": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stuntman": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hot shots": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "part deux": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john carpenter": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rush hour": {
+      "count": 1,
+      "last_seen": "2026-08-24T21:06:29.794442+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 3,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "drama": {
+      "count": 2,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
+      "categories": [
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "dianne wiest": {
+      "count": 1,
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "iconic singer": {
+    "hinds to star": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "songwriter": {
+    "in comedy": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "star": {
+    "this old love": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "the best little": {
+    "of mine": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "whorehouse": {
+    "launches sales ahead": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "texas": {
+    "market": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "steel magnolias": {
+    "hannah": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "nashville": {
+    "her sisters": {
       "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "the last sunrise": {
+    "hinds": {
       "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "another": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carlson young": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anna todd": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "todd": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "one direction": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "every year after": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the summer": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "turned pretty": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nothing": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emory cohen to": {
-      "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "star in joshua": {
+    "venice": {
+      "count": 2,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice adds gaza": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "naza": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "competition directed": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "no other land": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yuval abraham": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel szor": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israeli": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "palestinian": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gaza": {
+      "count": 1,
+      "last_seen": "2026-08-24T11:14:44.602629+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "directed": {
+      "count": 2,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "streaming",
+        "box_office"
+      ]
+    },
+    "china box office": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "once upon": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "time": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "middle east": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "stays": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "debuts": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "second dirty monkeys": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "china": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "artisan gateway": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "wen muye": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "dying": {
+      "count": 1,
+      "last_seen": "2026-08-24T09:31:43.341515+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "busan film festival": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "titles": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vision korea": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vision asia sections": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "busan": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korean": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "asia": {
+      "count": 1,
+      "last_seen": "2026-08-24T08:09:58.436320+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount": {
+      "count": 1,
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "ryan dietz": {
+    "paramount slams mark": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "thick": {
+    "ruffalo merger attack": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "dark comedy taking": {
+    "antisemitic": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "on modern masculinity": {
+    "says company does": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "emory cohen": {
+    "tolerate prejudice": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "marty supreme": {
+    "any kind": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "joshua ryan dietz": {
+    "friday": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "california": {
+    "mark ruffalo": {
       "count": 1,
-      "last_seen": "2026-08-26T15:49:05.157956+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "de gaulle": {
+    "david": {
       "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "churchill": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "france": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gallic": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bir hakeim": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "perhaps": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "englishman": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "julian jackson": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "certain idea": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the life": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "charles": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tommy davidson": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tichina arnold to": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead family comedy": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "search party": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "where": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paw paw": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in living color": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "proud family": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tichina arnold": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "martin": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everybody hates chris": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andrea eastman": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "the godfather": {
+    "larry ellison": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "casting director": {
+    "david ellison": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T07:46:52.849835+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "former hollywood agent": {
+    "rose": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "santa barbara": {
+    "anna paquin call": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "entering": {
+    "profoundly sad": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "eastman": {
+    "mistreatment of child": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "international creative management": {
+    "stars while paying": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "pioneering": {
+    "tribute to hayden": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
       ]
     },
-    "agent": {
+    "panettiere as hollywood": {
       "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
+      ]
+    },
+    "hayden panettiere": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on friday": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anna paquin": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rest": {
+      "count": 1,
+      "last_seen": "2026-08-22T05:05:35.212382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movies": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shows to watch": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "before": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "avengers": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marvel cinematic universe": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doctor doom": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony russo": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joe russo": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phase": {
+      "count": 1,
+      "last_seen": "2026-08-22T03:09:50.438385+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bruce campbell clarifies": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tapped out": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "of the": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "evil dead": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "franchise": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "didn": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "want ash to": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "borderline geezer": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bruce campbell": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on thursday": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sam raimi": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starz": {
+      "count": 1,
+      "last_seen": "2026-08-21T23:55:18.531231+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "harry potter": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star jessie cave": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says it was": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "embarrassing": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "join": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bills": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "it has saved": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lavender brown": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "small part": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "years ago": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jessie cave": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this morning": {
+      "count": 1,
+      "last_seen": "2026-08-21T22:56:51.340820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michelle pfeiffer clarifies": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "never said": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "retiring": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the most ridiculous": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thing": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the madison": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "margo": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "got money troubles": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "michelle pfeiffer": {
+      "count": 1,
+      "last_seen": "2026-08-21T21:56:27.157719+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets digital": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "release dates christopher": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "homer": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "july": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ultra": {
+      "count": 1,
+      "last_seen": "2026-08-21T20:56:14.881916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "variety": {
+      "count": 3,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "netflix sets theatrical": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "streaming dates": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "peter berg": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "world war": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "the mosquito bowl": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "berg": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "lone survivor": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "deepwater horizon": {
+      "count": 1,
+      "last_seen": "2026-08-21T19:50:21.369663+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "comedian jack assadourian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sets premiere date": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "for debut special": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mexican armenian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "directed by jeremiah": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "watkins": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "watch the trailer": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "assadourian jr": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mexican": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "armenian": {
+      "count": 1,
+      "last_seen": "2026-08-21T18:02:14.876409+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "season": {
+      "count": 2,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "the pitt": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "teases robby": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "return": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "first look": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer the emmy": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "january the": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer": {
+      "count": 1,
+      "last_seen": "2026-08-21T16:04:25.501530+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "supporting role": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director ana urushadze": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "preps": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fear": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "butterflies": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "detective story with": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mysticism": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "touch": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "body horror": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "georgian": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ana urushadze": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "scary mother": {
+      "count": 1,
+      "last_seen": "2026-08-21T14:08:31.880185+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sundance": {
+      "count": 2,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "there": {
+      "count": 2,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "want your sex": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "olivia wilde": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gregg araki": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "while sundance": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "robert redford": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "utah": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alongside": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel lambert": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carousel": {
+      "count": 1,
+      "last_seen": "2026-08-21T11:58:01.591184+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cameron diaz": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "netflix action": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "comedy": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bad day": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gets december release": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "first look ed": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "neill": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "danielle brooks": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jake szymanski": {
+      "count": 1,
+      "last_seen": "2026-08-21T10:15:23.775432+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "studios unveils teaser": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "kunal kemmu": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "vibe": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "studios": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "hardik": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "kemmu": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "bugs": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sparsh shrivastava": {
+      "count": 1,
+      "last_seen": "2026-08-21T08:05:50.691832+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sophie": {
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emma": {
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sophie thompson": {
+      "count": 2,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actress phyllida law": {
+      "count": 1,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dame emma": {
+      "count": 1,
+      "last_seen": "2026-08-21T05:51:24.539242+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "upcoming jenna ortega": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "projects from": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "klara and the": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the gallerist": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jenna ortega": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tim burton": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in october": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "taika waititi": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "klara": {
+      "count": 1,
+      "last_seen": "2026-08-21T03:32:16.082448+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dave bautista officially": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kratos": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series the": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "guardians": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "galaxy": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ryan hurst": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "prime video": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hurst": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series dave bautista": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amazon prime video": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bautista": {
+      "count": 1,
+      "last_seen": "2026-08-20T23:02:29.434979+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "beatles": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abbey road": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "social": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sam mendes": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "footage": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sunday": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harris dickinson": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john lennon": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "barry keoghan": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ringo starr": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paul mescal": {
+      "count": 1,
+      "last_seen": "2026-08-20T21:58:46.569758+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spending dropped in": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new mexico": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "but there": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "silver lining as": {
+      "count": 1,
+      "last_seen": "2026-08-20T20:00:43.111232+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jessica simpson doc": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "netflix from": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "robbie williams": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "director joe pearlman": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "jessica simpson": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "joe pearlman": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "simpson": {
+      "count": 1,
+      "last_seen": "2026-08-20T18:01:18.807034+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "billy zane": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kevin chapman": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lee among cast": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in creature feature": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wekiwa": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from oscar winner": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anderson": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "titanic": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "person": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "interest": {
+      "count": 1,
+      "last_seen": "2026-08-20T16:04:53.294014+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "roskam": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "le faux soir": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to close san": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival san": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "belgian": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "san sebastian": {
+      "count": 1,
+      "last_seen": "2026-08-20T14:10:38.471488+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phyllida law": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emma thompson": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jacky leggo": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "born": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "glasgow": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bristol old vic": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatre": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eric thompson": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:38:23.779423+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john irvin": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tinker tailor soldier": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hamburger hill": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dogs": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "raw deal john": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "irvin": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "raw deal": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "august": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "claire evans": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:31:44.237235+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sundance prizewinner luke": {
+      "count": 1,
+      "last_seen": "2026-08-20T11:23:32.924338+00:00",
+      "categories": [
+        "movie_news"
       ]
     }
   },
