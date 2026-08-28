@@ -2368,6 +2368,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "aee114ec3f7aa3f617e28236",
+      "story_id": "73dfc9970acd0330",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
+      "title": "Farewell, Dr Frank-N-Furter: why Tim Curry’s Rocky Horror Show will go on",
+      "category": "actors_directors",
+      "score": 38.91,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "farewell",
+        "dr frank",
+        "furter",
+        "tim curry",
+        "rocky horror show",
+        "the rocky horror",
+        "picture show",
+        "stephen king",
+        "clowns",
+        "over",
+        "curry",
+        "tony"
+      ],
+      "hook": "دست‌و‌دست به دکتر فرانک-ن-فرتر",
+      "hooks": [
+        "دست‌و‌دست به دکتر فرانک-ن-فرتر",
+        "مراسم وداع برای تام کری"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نقش او در «روکی هورر پیکچر شُو» او را به نماد سینمای زیرزمینی دهه هفتاد تبدیل کرد",
+        "تام کری پیشگام در بحث هویت ترنس و فلوئیدیتی جنسیتی بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 52,
+      "published_at": "2026-08-28T22:00:25.617873+00:00",
+      "text": "دست‌و‌دست به دکتر فرانک-ن-فرتر\n\n🎬 تام کری، ستارهٔ «روکی هورر»، درگذشت\n\nتام کری، بازیگر و خوانندهٔ چند جانبه، درگذشت و در سن 80 سالگی، نقش او در فیلم «روکی هورر پیکچر شُو» او را به نماد سینمای زیرزمینی دهه هفتاد و پروتو-پانک تبدیل کرد. او در فیلم «ایت» اثر استیفن کینگ نیز حضور داشت و پس از زخم مغزی و 50 سال فعالیت در عرصهٔ هنر، به عنوان پیشگام در بحث هویت ترنس و فلوئیدیتی جنسیتی شناخته می‌شود.\n\n📌 نکات مهم:\n• تام کری در سن 80 سالگی درگذشت\n• نقش او در «روکی هورر پیکچر شُو» او را به نماد سینمای زیرزمینی دهه هفتاد تبدیل کرد\n• او در فیلم «ایت» اثر استیفن کینگ حضور داشت\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2417,7 +2470,8 @@
     "8cf678f88fb152c23e45108e",
     "28f792b8cf82b6b8fd19826e",
     "8d79bc2bf6a7b840605160e5",
-    "da22f05afbd72b965da2024c"
+    "da22f05afbd72b965da2024c",
+    "aee114ec3f7aa3f617e28236"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2466,7 +2520,8 @@
     "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
     "https://deadline.com/2026/08/james-walsh-dead-1237062176",
     "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
-    "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050"
+    "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050",
+    "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show"
   ],
   "category_stats": {
     "movie_news": {
@@ -2476,7 +2531,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 14,
+      "published": 15,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2538,7 +2593,7 @@
       "published": 1
     },
     "22": {
-      "published": 1
+      "published": 2
     },
     "7": {
       "published": 2
@@ -2575,64 +2630,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T10:55:26.438905+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T11:49:31.237557+00:00",
       "version": 2,
@@ -5590,6 +5587,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T22:00:25.617972+00:00",
+      "version": 2,
+      "posts": 48,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5638,9 +5693,94 @@
     "bd2b8ec61b9fca50",
     "e410aec2939f7923",
     "14258a9c724fca6a",
-    "726ea82e102e9780"
+    "726ea82e102e9780",
+    "73dfc9970acd0330"
   ],
   "entity_memory": {
+    "tony": {
+      "count": 2,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "farewell": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dr frank": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "furter": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tim curry": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rocky horror show": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the rocky horror": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "picture show": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stephen king": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "clowns": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "over": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "curry": {
+      "count": 1,
+      "last_seen": "2026-08-28T22:00:25.617908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "prime video": {
       "count": 2,
       "last_seen": "2026-08-28T21:59:10.237943+00:00",
@@ -5821,13 +5961,6 @@
       ]
     },
     "james walsh dies": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tony": {
       "count": 1,
       "last_seen": "2026-08-28T21:48:29.146136+00:00",
       "categories": [
@@ -8379,83 +8512,6 @@
       "last_seen": "2026-08-20T21:58:46.569758+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "john lennon": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barry keoghan": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ringo starr": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paul mescal": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spending dropped in": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new mexico": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "but there": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "silver lining as": {
-      "count": 1,
-      "last_seen": "2026-08-20T20:00:43.111232+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jessica simpson doc": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "netflix from": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "robbie williams": {
-      "count": 1,
-      "last_seen": "2026-08-20T18:01:18.807034+00:00",
-      "categories": [
-        "streaming"
       ]
     }
   },
