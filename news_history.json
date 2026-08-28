@@ -2264,6 +2264,61 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8d79bc2bf6a7b840605160e5",
+      "story_id": "14258a9c724fca6a",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "BBC"
+      ],
+      "multi_source_count": 2,
+      "url": "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
+      "title": "Actor Peter Cullen, voice of Optimus Prime and Eeyore, dies aged 85",
+      "category": "actors_directors",
+      "score": 59.19,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "actor peter cullen",
+        "optimus prime",
+        "eeyore",
+        "montreal",
+        "knight rider",
+        "predator",
+        "canadian",
+        "peter cullen",
+        "winnie",
+        "pooh",
+        "transformers",
+        "cullen",
+        "hollywood"
+      ],
+      "hook": "مرداد، صدای اوپتیمس پرایم، درگذشت",
+      "hooks": [
+        "سایه‌ی صوتی در دنیای سینما، رفت",
+        "یک صدای بی‌نظیر، از بین رفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پیت کولن درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 50,
+      "published_at": "2026-08-28T21:50:29.427549+00:00",
+      "text": "مرداد، صدای اوپتیمس پرایم، درگذشت\n\n🎬 پیت کولن، صدای اوپتیمس پرایم و اییور، درگذشت\n\nپیت کولن، بازیگر و صدابردار کانادایی، در سن 85 سالگی درگذشت.\nاو در طول دوران حرفه‌ای خود، صداهای برجسته‌ای از جمله KARR در Knight Rider، هیولای Predator، اییور در سری‌الشهری Disney و اوپتیمس پرایم در Transformers را به ارمغان آورد.\n\n📌 نکات مهم:\n• پیت کولن در مونترال به دنیا آمد\n• او صدای KARR در Knight Rider بود\n• صدای هیولای Predator را داشت\n• صدای اییور در سری‌الشهری Winnie the Pooh بود\n\n✅ تأیید چندمنبعی: The Guardian, BBC\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2311,7 +2366,8 @@
     "08bc043ccddb8c6c3855d633",
     "d4d753d94e00a3a21602c55a",
     "8cf678f88fb152c23e45108e",
-    "28f792b8cf82b6b8fd19826e"
+    "28f792b8cf82b6b8fd19826e",
+    "8d79bc2bf6a7b840605160e5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2358,7 +2414,8 @@
     "https://variety.com/2026/biz/news/andrea-eastman-dead-godfather-1236845555",
     "https://deadline.com/2026/08/in-a-holidaze-movie-release-date-netflix-christina-lauren-1237061093",
     "https://deadline.com/2026/08/indie-films-opening-buddy-colony-boorman-and-the-devil-1237062088",
-    "https://deadline.com/2026/08/james-walsh-dead-1237062176"
+    "https://deadline.com/2026/08/james-walsh-dead-1237062176",
+    "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies"
   ],
   "category_stats": {
     "movie_news": {
@@ -2368,7 +2425,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 13,
+      "published": 14,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2415,7 +2472,7 @@
       "published": 2
     },
     "21": {
-      "published": 6
+      "published": 7
     },
     "23": {
       "published": 2
@@ -2467,64 +2524,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T07:46:52.849885+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T09:03:48.010930+00:00",
       "version": 2,
@@ -5482,6 +5481,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-28T21:50:29.427672+00:00",
+      "version": 2,
+      "posts": 46,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 413,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5528,9 +5585,109 @@
     "020abce902c32112",
     "c4328274b5eb0d6a",
     "bd2b8ec61b9fca50",
-    "e410aec2939f7923"
+    "e410aec2939f7923",
+    "14258a9c724fca6a"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 3,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "disney": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor peter cullen": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "optimus prime": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eeyore": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "montreal": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "knight rider": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "predator": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "canadian": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peter cullen": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winnie": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pooh": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "transformers": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cullen": {
+      "count": 1,
+      "last_seen": "2026-08-28T21:50:29.427584+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 4,
       "last_seen": "2026-08-28T21:48:29.146136+00:00",
@@ -5778,14 +5935,6 @@
       "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 2,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "wednesday": {
@@ -8254,97 +8403,6 @@
       "last_seen": "2026-08-20T16:04:53.294014+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "wekiwa": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from oscar winner": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anderson": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "titanic": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "person": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "interest": {
-      "count": 1,
-      "last_seen": "2026-08-20T16:04:53.294014+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "roskam": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "le faux soir": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to close san": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film festival san": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "belgian": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "san sebastian": {
-      "count": 1,
-      "last_seen": "2026-08-20T14:10:38.471488+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phyllida law": {
-      "count": 1,
-      "last_seen": "2026-08-20T11:38:23.779423+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
