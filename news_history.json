@@ -2421,6 +2421,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1f1e3fe107557765c2428bab",
+      "story_id": "b562975b30780d54",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198",
+      "title": "Kartik Aaryan’s ‘Captain India’ Sets September London Shoot (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 52.83,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "kartik aaryan",
+        "captain india",
+        "sets september london",
+        "shoot",
+        "london",
+        "september",
+        "october",
+        "shimit amin",
+        "chak de",
+        "india",
+        "series"
+      ],
+      "hook": "کارتیک آریان در لندن، فیلم‌سازی «کاپیتان هند» آغاز شد",
+      "hooks": [
+        "سینما در لندن: کارتیک آریان در نقش کاپیتان هند",
+        "شکارگردی شیمیت امین در فیلم «کاپیتان هند»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کارتیک آریان در نقش اصلی فیلم «کاپیتان هند»"
+      ],
+      "status": "published",
+      "telegram_message_id": 53,
+      "published_at": "2026-08-29T05:07:48.161284+00:00",
+      "text": "کارتیک آریان در لندن، فیلم‌سازی «کاپیتان هند» آغاز شد\n\n🎬 کارتیک آریان در لندن، فیلم‌سازی «کاپیتان هند» آغاز شد\n\nفیلم «کاپیتان هند» که در آن کارتیک آریان نقش اصلی را بازی می‌کند، در سپتامبر 2024 در لندن شروع به فیلم‌برداری می‌کند و انتظار می‌رود تا پایان اکتبر تکمیل شود.\nسینماکار شیمیت امین، که برای فیلم «چاک دی! هند» شناخته شده است، این پروژه را هدایت می‌کند و تولیدکننده‌ی آن، شرکت T‑Series است.\n\n📌 نکات مهم:\n• کارتیک آریان در نقش اصلی «کاپیتان هند»\n• فیلم‌برداری در لندن سپتامبر 2024\n• شیکمت امین کارگردان\n• تولید توسط T‑Series\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2471,7 +2523,8 @@
     "28f792b8cf82b6b8fd19826e",
     "8d79bc2bf6a7b840605160e5",
     "da22f05afbd72b965da2024c",
-    "aee114ec3f7aa3f617e28236"
+    "aee114ec3f7aa3f617e28236",
+    "1f1e3fe107557765c2428bab"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2521,7 +2574,8 @@
     "https://deadline.com/2026/08/james-walsh-dead-1237062176",
     "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
     "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050",
-    "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show"
+    "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
+    "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198"
   ],
   "category_stats": {
     "movie_news": {
@@ -2531,7 +2585,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 15,
+      "published": 16,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2587,7 +2641,7 @@
       "published": 2
     },
     "5": {
-      "published": 2
+      "published": 3
     },
     "19": {
       "published": 1
@@ -2630,64 +2684,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T11:49:31.237557+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T13:45:04.058483+00:00",
       "version": 2,
@@ -5645,6 +5641,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-29T05:07:48.161375+00:00",
+      "version": 2,
+      "posts": 49,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5694,9 +5748,91 @@
     "e410aec2939f7923",
     "14258a9c724fca6a",
     "726ea82e102e9780",
-    "73dfc9970acd0330"
+    "73dfc9970acd0330",
+    "b562975b30780d54"
   ],
   "entity_memory": {
+    "series": {
+      "count": 2,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "september": {
+      "count": 4,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look",
+        "actors_directors"
+      ]
+    },
+    "london": {
+      "count": 2,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "kartik aaryan": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "captain india": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sets september london": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shoot": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "october": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shimit amin": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chak de": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "india": {
+      "count": 1,
+      "last_seen": "2026-08-29T05:07:48.161310+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "tony": {
       "count": 2,
       "last_seen": "2026-08-28T22:00:25.617908+00:00",
@@ -5790,13 +5926,6 @@
       ]
     },
     "dan stevens hopes": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "series": {
       "count": 1,
       "last_seen": "2026-08-28T21:59:10.237943+00:00",
       "categories": [
@@ -6768,14 +6897,6 @@
       "last_seen": "2026-08-25T18:02:02.340694+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "september": {
-      "count": 3,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
       ]
     },
     "tom hiddleston thriller": {
@@ -8449,69 +8570,6 @@
       "last_seen": "2026-08-20T23:02:29.434979+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "bautista": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "beatles": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abbey road": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "social": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sam mendes": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "london": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "footage": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sunday": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harris dickinson": {
-      "count": 1,
-      "last_seen": "2026-08-20T21:58:46.569758+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
