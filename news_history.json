@@ -2632,6 +2632,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "91655d6ada3a01a88bf450db",
+      "story_id": "a3fe0cb7154d67a0",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise",
+      "title": "Anne Hathaway to Star in ‘Days of Thunder 2’ With Tom Cruise",
+      "category": "actors_directors",
+      "score": 28.01,
+      "freshness": 92.0,
+      "credibility": 84.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "tom cruise",
+        "paramount",
+        "anne hathaway",
+        "star",
+        "days",
+        "thunder",
+        "with tom cruise",
+        "june"
+      ],
+      "hook": "آنا هاثاوی و تام کرایس در 'روزهای طوفان ۲'",
+      "hooks": [
+        "سفر هیجان‌انگیز در 'روزهای طوفان ۲' با آنا هاثاوی",
+        "تام کرایس و آنا هاثاوی، دوباره در صحنه‌های مسابقه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آنا هاثاوی در 'روزهای طوفان ۲' نقش دارد",
+        "تام کرایس در 'روزهای طوفان ۲' نقش دارد",
+        "پراماون فیلم را در ژوئن ۲۰۲۸ به نمایش می‌گذارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 57,
+      "published_at": "2026-08-29T20:08:53.286736+00:00",
+      "text": "آنا هاثاوی و تام کرایس در 'روزهای طوفان ۲'\n\n🎬 آنا هاثاوی و تام کرایس در 'روزهای طوفان ۲'، در ژوئن ۲۰۲۸ به سینما می‌آیند\n\nپراماون فیلم 'روزهای طوفان ۲' را به نمایش می‌گذارد. در این نسخه جدید، آنا هاثاوی و تام کرایس در نقش‌های اصلی حضور دارند.\nسینماهای بزرگ در ژوئن ۲۰۲۸ این فیلم را به نمایش خواهند گذاشت. این ادامهٔ سریال کلاسیک، انتظار زیادی را برانگیخته است.\n\n📌 نکات مهم:\n• آنا هاثاوی در 'روزهای طوفان ۲' نقش دارد\n• تام کرایس در 'روزهای طوفان ۲' نقش دارد\n• پراماون فیلم را در ژوئن ۲۰۲۸ به نمایش می‌گذارد\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2686,7 +2736,8 @@
     "1f1e3fe107557765c2428bab",
     "157586cb5c093d4061185a5b",
     "69d07c0ea92340f2f51eba53",
-    "821e138c7537153e13432c79"
+    "821e138c7537153e13432c79",
+    "91655d6ada3a01a88bf450db"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2740,7 +2791,8 @@
     "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198",
     "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2",
     "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
-    "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516"
+    "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516",
+    "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise"
   ],
   "category_stats": {
     "movie_news": {
@@ -2750,7 +2802,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 18,
+      "published": 19,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2800,7 +2852,7 @@
       "published": 4
     },
     "20": {
-      "published": 2
+      "published": 3
     },
     "21": {
       "published": 8
@@ -2861,64 +2913,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T16:56:30.125965+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T17:51:38.400915+00:00",
       "version": 2,
@@ -5876,6 +5870,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-29T20:08:53.286825+00:00",
+      "version": 2,
+      "posts": 53,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 402,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5929,12 +5981,62 @@
     "b562975b30780d54",
     "9c12472ff7276346",
     "0776aea4670ed131",
-    "39be2c5deadf16ec"
+    "39be2c5deadf16ec",
+    "a3fe0cb7154d67a0"
   ],
   "entity_memory": {
     "paramount": {
+      "count": 3,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tom cruise": {
       "count": 2,
-      "last_seen": "2026-08-29T17:03:12.362193+00:00",
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "days": {
+      "count": 2,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thunder": {
+      "count": 2,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anne hathaway": {
+      "count": 2,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 2,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "with tom cruise": {
+      "count": 1,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "june": {
+      "count": 1,
+      "last_seen": "2026-08-29T20:08:53.286766+00:00",
       "categories": [
         "actors_directors"
       ]
@@ -5947,28 +6049,7 @@
         "actors_directors"
       ]
     },
-    "tom cruise": {
-      "count": 1,
-      "last_seen": "2026-08-29T17:03:12.362193+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "anne hathaway joins": {
-      "count": 1,
-      "last_seen": "2026-08-29T17:03:12.362193+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "days": {
-      "count": 1,
-      "last_seen": "2026-08-29T17:03:12.362193+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thunder": {
       "count": 1,
       "last_seen": "2026-08-29T17:03:12.362193+00:00",
       "categories": [
@@ -5990,13 +6071,6 @@
       ]
     },
     "date": {
-      "count": 1,
-      "last_seen": "2026-08-29T17:03:12.362193+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anne hathaway": {
       "count": 1,
       "last_seen": "2026-08-29T17:03:12.362193+00:00",
       "categories": [
@@ -7182,13 +7256,6 @@
       ]
     },
     "songwriter": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
       "count": 1,
       "last_seen": "2026-08-25T21:01:36.130914+00:00",
       "categories": [
@@ -8742,20 +8809,6 @@
       ]
     },
     "kemmu": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "bugs": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sparsh shrivastava": {
       "count": 1,
       "last_seen": "2026-08-21T08:05:50.691832+00:00",
       "categories": [
