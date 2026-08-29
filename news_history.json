@@ -2473,6 +2473,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "157586cb5c093d4061185a5b",
+      "story_id": "9c12472ff7276346",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2",
+      "title": "Shailene Woodley Explains Why She Was Cut From ‘Amazing Spider-Man 2’: ‘That Was a Fun Phone Call’",
+      "category": "actors_directors",
+      "score": 68.89,
+      "freshness": 92.0,
+      "credibility": 84.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "spider-man",
+        "shailene woodley explains",
+        "why she was",
+        "cut from",
+        "amazing spider",
+        "that was",
+        "fun phone call",
+        "mary jane",
+        "spider"
+      ],
+      "hook": "شایلین وودلی: چرا از 'Amazing Spider-Man 2' حذف شد؟",
+      "hooks": [
+        "شایلین وودلی در مورد حذفش توضیح داد",
+        "تماس تلفنی با او خوشحال‌کننده بود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "شایلین وودلی در مورد حذفش توضیح داد"
+      ],
+      "status": "published",
+      "telegram_message_id": 54,
+      "published_at": "2026-08-29T09:04:42.452575+00:00",
+      "text": "شایلین وودلی: چرا از 'Amazing Spider-Man 2' حذف شد؟\n\n🎬 شایلین وودلی: چرا از نقش مری جین در 'Amazing Spider-Man 2' حذف شد؟\n\nشایلین وودلی در مورد حذفش از نقش مری جین در فیلم 'Amazing Spider-Man 2' توضیح داد.\\n\\n او گفت تماس تلفنی با او خوشحال‌کننده بود.\n\n📌 نکات مهم:\n• شایلین وودلی برای نقش مری جین در 'Amazing Spider-Man 2' انتخاب شد اما حذف شد\n• او گفت تماس تلفنی با او خوشحال‌کننده بود\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2524,7 +2573,8 @@
     "8d79bc2bf6a7b840605160e5",
     "da22f05afbd72b965da2024c",
     "aee114ec3f7aa3f617e28236",
-    "1f1e3fe107557765c2428bab"
+    "1f1e3fe107557765c2428bab",
+    "157586cb5c093d4061185a5b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2575,7 +2625,8 @@
     "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
     "https://deadline.com/2026/08/dan-stevens-prime-video-robocop-series-violence-satire-1237062050",
     "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
-    "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198"
+    "https://variety.com/2026/film/news/kartik-aaryan-captain-india-september-london-shoot-1236846198",
+    "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2"
   ],
   "category_stats": {
     "movie_news": {
@@ -2585,7 +2636,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 16,
+      "published": 17,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2653,7 +2704,7 @@
       "published": 2
     },
     "9": {
-      "published": 1
+      "published": 2
     },
     "6": {
       "published": 1
@@ -2684,64 +2735,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T13:45:04.058483+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T14:54:34.301590+00:00",
       "version": 2,
@@ -5699,6 +5692,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-29T09:04:42.452670+00:00",
+      "version": 2,
+      "posts": 50,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5749,9 +5800,75 @@
     "14258a9c724fca6a",
     "726ea82e102e9780",
     "73dfc9970acd0330",
-    "b562975b30780d54"
+    "b562975b30780d54",
+    "9c12472ff7276346"
   ],
   "entity_memory": {
+    "spider-man": {
+      "count": 2,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "spider": {
+      "count": 2,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "shailene woodley explains": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "why she was": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cut from": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amazing spider": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "that was": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fun phone call": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mary jane": {
+      "count": 1,
+      "last_seen": "2026-08-29T09:04:42.452610+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "series": {
       "count": 2,
       "last_seen": "2026-08-29T05:07:48.161310+00:00",
@@ -7000,21 +7117,7 @@
         "box_office"
       ]
     },
-    "spider-man": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "universal": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "spider": {
       "count": 1,
       "last_seen": "2026-08-25T10:17:06.308742+00:00",
       "categories": [
@@ -8517,55 +8620,6 @@
       ]
     },
     "kratos": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series the": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "guardians": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "galaxy": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ryan hurst": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hurst": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series dave bautista": {
-      "count": 1,
-      "last_seen": "2026-08-20T23:02:29.434979+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amazon prime video": {
       "count": 1,
       "last_seen": "2026-08-20T23:02:29.434979+00:00",
       "categories": [
