@@ -2883,6 +2883,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "55315619cdbc026c857eb3f3",
+      "story_id": "16db7b17cfdc329c",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
+      "title": "Sandra Bullock Seemingly Drops Hint That Olivia Rodrigo and Stevie Nicks Have Music in ‘Practical Magic 2’",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "warner bros",
+        "sandra bullock seemingly",
+        "drops hint that",
+        "olivia rodrigo",
+        "stevie nicks have",
+        "music",
+        "practical magic",
+        "will olivia rodrigo",
+        "stevie nicks",
+        "star sandra bullock",
+        "instagram story sunday",
+        "along"
+      ],
+      "hook": "سندر بُلک به‌نظر می‌رسد او‌ویلیو رودریگو و استیوی نیکس را در 'پریکتیکل میجیک ۲' معرفی می‌کند",
+      "hooks": [
+        "آیا او‌ویلیو رودریگو و استیوی نیکس در موسیقی فیلم حضور خواهند داشت؟",
+        "سندر بُلک در استوری اینستاگرام، آهنگ‌سرایان را به‌دنبال می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سندر بُلک اشاره کرد که او‌ویلیو رودریگو و استیوی نیکس در 'پریکتیکل میجیک ۲' حضور دارند"
+      ],
+      "status": "published",
+      "telegram_message_id": 62,
+      "published_at": "2026-08-30T20:08:46.663256+00:00",
+      "text": "سندر بُلک به‌نظر می‌رسد او‌ویلیو رودریگو و استیوی نیکس را در 'پریکتیکل میجیک ۲' معرفی می‌کند\n\n🎬 سندر بُلک به‌نظر می‌رسد او‌ویلیو رودریگو و استیوی نیکس را در 'پریکتیکل میجیک ۲' معرفی می‌کند\n\nسندر بُلک در صبح یکشنبه، در استوری اینستاگرام خود، اشاره‌ای به حضور او‌ویلیو رودریگو و استیوی نیکس در فیلم «پریکتیکل میجیک ۲» کرد. ویدیویی از دو هنرمند در حال اجرا به اشتراک گذاشته شد و او‌ویلیو رودریگو و استیوی نیکس را با صدای «فرشته‌ای» توصیف کرد.\n\n📌 نکات مهم:\n• سندر بُلک در استوری اینستاگرام اشاره کرد\n• ویدیوی اجرای او‌ویلیو رودریگو و استیوی نیکس در استوری به اشتراک گذاشته شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2942,7 +2995,8 @@
     "abc7315c09bbf9a963515388",
     "534a81e58612ef8791bbcdda",
     "89c4c6411c052c9645f08a5f",
-    "f0cb417d745b4ff23ba8a224"
+    "f0cb417d745b4ff23ba8a224",
+    "55315619cdbc026c857eb3f3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3001,7 +3055,8 @@
     "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
     "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699",
     "https://variety.com/2026/film/news/sea-of-glass-review-1236846714",
-    "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008"
+    "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
+    "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948"
   ],
   "category_stats": {
     "movie_news": {
@@ -3011,7 +3066,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 21,
+      "published": 22,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3061,7 +3116,7 @@
       "published": 4
     },
     "20": {
-      "published": 3
+      "published": 4
     },
     "21": {
       "published": 8
@@ -3122,64 +3177,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T22:54:20.385559+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T23:49:09.678336+00:00",
       "version": 2,
@@ -6137,6 +6134,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-30T20:08:46.663345+00:00",
+      "version": 2,
+      "posts": 58,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6195,9 +6250,94 @@
     "ae008ddb3a26e860",
     "40859b9dfba3c8ff",
     "0f22b10a108ff21e",
-    "d417b13b4e466f44"
+    "d417b13b4e466f44",
+    "16db7b17cfdc329c"
   ],
   "entity_memory": {
+    "warner bros": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sandra bullock seemingly": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "drops hint that": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olivia rodrigo": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stevie nicks have": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "music": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "practical magic": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will olivia rodrigo": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stevie nicks": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star sandra bullock": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "instagram story sunday": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "along": {
+      "count": 1,
+      "last_seen": "2026-08-30T20:08:46.663289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "the world is": {
       "count": 1,
       "last_seen": "2026-08-30T17:03:04.803806+00:00",
@@ -8944,90 +9084,6 @@
       "categories": [
         "movie_news",
         "trailers_first_look"
-      ]
-    },
-    "hbo": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "the pitt": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "teases robby": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "return": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "first look": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer the emmy": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "january the": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer": {
-      "count": 1,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "supporting role": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director ana urushadze": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "preps": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fear": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
