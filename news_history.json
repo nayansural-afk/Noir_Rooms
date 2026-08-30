@@ -2784,6 +2784,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "89c4c6411c052c9645f08a5f",
+      "story_id": "0f22b10a108ff21e",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/sea-of-glass-review-1236846714",
+      "title": "‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "glass",
+        "review",
+        "widow",
+        "coastal healing retreat",
+        "turns into",
+        "stately",
+        "moody greek tragedy",
+        "there",
+        "greek",
+        "amid",
+        "alexis alexiou"
+      ],
+      "hook": "ساحل، غم و تراژدی یونانی در 'دریای شیشه'",
+      "hooks": [
+        "یک زن بیوه در ساحل، درگیر تراژدی یونانی",
+        "سرد داستان و شدت احساسی در 'دریای شیشه'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم با روایت ساده و شدت احساسی برجسته است"
+      ],
+      "status": "published",
+      "telegram_message_id": 60,
+      "published_at": "2026-08-30T13:03:19.512786+00:00",
+      "text": "ساحل، غم و تراژدی یونانی در 'دریای شیشه'\n\n🎬 دریای شیشه: تراژدی یونانی با شدت احساسی و روایت ساده\n\nفیلم 'دریای شیشه' توسط نویسنده-کارگردان الکس آلیسوی، سومین اثر او، در ساحلی یونانی روایت می‌شود. داستان در مورد یک زن بیوه است که در ساحل به دنبال شفا و آرامش می‌گردد.\nفیلم با روایت ساده و شدت احساسی، در برابر طوفان‌های عاطفی و تراژدی‌های یونانی، به تماشاگران تجربه‌ای متفاوت می‌دهد. موج‌های یونانی در پس‌زمینه، حس واقعی‌گری را تقویت می‌کند.\n\n📌 نکات مهم:\n• فیلم 'دریای شیشه' توسط الکس آلیسوی ساخته شده\n• سومین اثر او و روایت ساده و احساسی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sea-of-glass-review-1236846714",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2841,7 +2893,8 @@
     "821e138c7537153e13432c79",
     "91655d6ada3a01a88bf450db",
     "abc7315c09bbf9a963515388",
-    "534a81e58612ef8791bbcdda"
+    "534a81e58612ef8791bbcdda",
+    "89c4c6411c052c9645f08a5f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2898,7 +2951,8 @@
     "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516",
     "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise",
     "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
-    "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699"
+    "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699",
+    "https://variety.com/2026/film/news/sea-of-glass-review-1236846714"
   ],
   "category_stats": {
     "movie_news": {
@@ -2908,7 +2962,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 19,
+      "published": 20,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2997,7 +3051,7 @@
       "published": 1
     },
     "13": {
-      "published": 1
+      "published": 2
     },
     "17": {
       "published": 1
@@ -3019,64 +3073,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T20:56:01.056400+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T21:50:04.028500+00:00",
       "version": 2,
@@ -6034,6 +6030,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-30T13:03:19.512879+00:00",
+      "version": 2,
+      "posts": 56,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6090,9 +6144,88 @@
     "39be2c5deadf16ec",
     "a3fe0cb7154d67a0",
     "ae008ddb3a26e860",
-    "40859b9dfba3c8ff"
+    "40859b9dfba3c8ff",
+    "0f22b10a108ff21e"
   ],
   "entity_memory": {
+    "there": {
+      "count": 3,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "glass": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "review": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "widow": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "coastal healing retreat": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "turns into": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stately": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "moody greek tragedy": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "greek": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amid": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alexis alexiou": {
+      "count": 1,
+      "last_seen": "2026-08-30T13:03:19.512815+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "amazon": {
       "count": 3,
       "last_seen": "2026-08-30T09:04:47.190287+00:00",
@@ -8845,83 +8978,6 @@
       "last_seen": "2026-08-21T14:08:31.880185+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "scary mother": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sundance": {
-      "count": 2,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "there": {
-      "count": 2,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "want your sex": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "olivia wilde": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gregg araki": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "while sundance": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "robert redford": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "utah": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alongside": {
-      "count": 1,
-      "last_seen": "2026-08-21T11:58:01.591184+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
