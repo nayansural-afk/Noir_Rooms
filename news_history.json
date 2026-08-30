@@ -2682,6 +2682,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "abc7315c09bbf9a963515388",
+      "story_id": "ae008ddb3a26e860",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
+      "title": "Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?",
+      "category": "movie_news",
+      "score": 32.08,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tom cruise",
+        "oscar",
+        "hollywood",
+        "silicon valley",
+        "the social reckoning",
+        "artificial",
+        "olivia colman",
+        "rocky",
+        "jeremy allen white",
+        "they",
+        "mark zuckerberg",
+        "meta"
+      ],
+      "hook": "تکنولوژی در سینما: آیا سیلیکون ولی آماده است؟",
+      "hooks": [
+        "مگول‌های فناوری در صحنه‌ی فیلمسازی",
+        "سفر بزرگ‌تکنولوژی به هالیوود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "The Social Reckoning یک فیلم پیش‌رو است"
+      ],
+      "status": "published",
+      "telegram_message_id": 58,
+      "published_at": "2026-08-30T05:07:51.464070+00:00",
+      "text": "تکنولوژی در سینما: آیا سیلیکون ولی آماده است؟\n\n🎬 تکنولوژی بزرگ به هالیوود می‌رود: آیا سیلیکون ولی آماده‌ی نمایش است؟\n\nفیلم‌های پیش‌رو «The Social Reckoning» و «Artificial» در انتظار هستند و مگول‌های فناوری موضوعی برای درام می‌شوند. \nسینما در حال استعمار شدن توسط امپراتوری‌های فناوری است؛ پروژه‌های دیگر شکست خورده و در همین حال بازیگران مطرحی چون تام کریس، اولیویا کلمن و بازگشت رکی در بهترین فیلم‌های پاییز ۲۰۲۶ مطرح می‌شوند.\n\n📌 نکات مهم:\n• فیلم‌های پیش‌رو: The Social Reckoning و Artificial\n• صنعت فیلم در حال استعمار شدن توسط امپراتوری‌های فناوری است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2737,7 +2789,8 @@
     "157586cb5c093d4061185a5b",
     "69d07c0ea92340f2f51eba53",
     "821e138c7537153e13432c79",
-    "91655d6ada3a01a88bf450db"
+    "91655d6ada3a01a88bf450db",
+    "abc7315c09bbf9a963515388"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2792,11 +2845,12 @@
     "https://www.thewrap.com/creative-content/movies/shailene-woodley-explains-why-she-was-cut-from-amazing-spider-man-2",
     "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
     "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516",
-    "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise"
+    "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise",
+    "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 25,
+      "published": 26,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -2864,7 +2918,7 @@
       "published": 2
     },
     "5": {
-      "published": 3
+      "published": 4
     },
     "19": {
       "published": 1
@@ -2913,64 +2967,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T17:51:38.400915+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T19:04:15.705057+00:00",
       "version": 2,
@@ -5928,6 +5924,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-30T05:07:51.464160+00:00",
+      "version": 2,
+      "posts": 54,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -5982,18 +6036,100 @@
     "9c12472ff7276346",
     "0776aea4670ed131",
     "39be2c5deadf16ec",
-    "a3fe0cb7154d67a0"
+    "a3fe0cb7154d67a0",
+    "ae008ddb3a26e860"
   ],
   "entity_memory": {
-    "paramount": {
+    "tom cruise": {
       "count": 3,
-      "last_seen": "2026-08-29T20:08:53.286766+00:00",
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
       "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 6,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "hollywood": {
+      "count": 4,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news",
         "actors_directors"
       ]
     },
-    "tom cruise": {
-      "count": 2,
+    "silicon valley": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the social reckoning": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "artificial": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "olivia colman": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rocky": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jeremy allen white": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "they": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mark zuckerberg": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "meta": {
+      "count": 1,
+      "last_seen": "2026-08-30T05:07:51.464102+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount": {
+      "count": 3,
       "last_seen": "2026-08-29T20:08:53.286766+00:00",
       "categories": [
         "actors_directors"
@@ -6110,15 +6246,6 @@
       "last_seen": "2026-08-29T17:03:12.362193+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 5,
-      "last_seen": "2026-08-29T13:03:07.461669+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "venice": {
@@ -6490,14 +6617,6 @@
       "last_seen": "2026-08-28T21:59:10.237943+00:00",
       "categories": [
         "streaming"
-      ]
-    },
-    "hollywood": {
-      "count": 3,
-      "last_seen": "2026-08-28T21:50:29.427584+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "disney": {
@@ -8750,69 +8869,6 @@
       "last_seen": "2026-08-21T10:15:23.775432+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "neill": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "danielle brooks": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jake szymanski": {
-      "count": 1,
-      "last_seen": "2026-08-21T10:15:23.775432+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "studios unveils teaser": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kunal kemmu": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "vibe": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "studios": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "hardik": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kemmu": {
-      "count": 1,
-      "last_seen": "2026-08-21T08:05:50.691832+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
