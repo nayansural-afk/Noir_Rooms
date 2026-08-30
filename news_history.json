@@ -2836,6 +2836,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f0cb417d745b4ff23ba8a224",
+      "story_id": "d417b13b4e466f44",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
+      "title": "‘The World Is a Lot Right Now’: Watch Kane Parsons and ‘It Ends’ Director Alex Ullom Try to Explain the Liminal Horror Craze",
+      "category": "actors_directors",
+      "score": 56.65,
+      "freshness": 65.0,
+      "credibility": 90.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": false,
+      "entities": [
+        "the world is",
+        "lot right now",
+        "watch kane parsons",
+        "it ends",
+        "director alex ullom",
+        "explain",
+        "liminal horror craze"
+      ],
+      "hook": "دنیای امروز، ترس‌های جوانان را می‌پرسد",
+      "hooks": [
+        "کین پارسونز و الکس اولوم، راز ترس‌های جوانان را فاش می‌کنند",
+        "ترس‌های لیمینال: چرا جوانان به هارر می‌چسبند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جوانان به هارر لیمینال می‌چسبند تا دنیای فراواقعی را توضیح دهند."
+      ],
+      "status": "published",
+      "telegram_message_id": 61,
+      "published_at": "2026-08-30T17:03:04.803770+00:00",
+      "text": "دنیای امروز، ترس‌های جوانان را می‌پرسد\n\n🎬 کین پارسونز و الکس اولوم: چرا هارر لیمینال برای جوانان جذاب است\n\nدر این ویدئو، کین پارسونز و الکس اولوم، دو کارگردان هارر نسل Z، به بررسی دلایل علاقه‌ی جوانان به این ژانر می‌پردازند.\nآنها توضیح می‌دهند که هارر لیمینال به عنوان وسیله‌ای برای توضیح دنیای فراواقعی و پیچیده‌ی امروز، برای مخاطبان جوان جذاب است.\n\n📌 نکات مهم:\n• کین پارسونز و الکس اولوم، دو کارگردان هارر نسل Z، در ویدئو بحث می‌کنند.\n• آنها توضیح می‌دهند که هارر لیمینال به عنوان وسیله‌ای برای توضیح دنیای فراواقعی، برای جوانان جذاب است.\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2894,7 +2941,8 @@
     "91655d6ada3a01a88bf450db",
     "abc7315c09bbf9a963515388",
     "534a81e58612ef8791bbcdda",
-    "89c4c6411c052c9645f08a5f"
+    "89c4c6411c052c9645f08a5f",
+    "f0cb417d745b4ff23ba8a224"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -2952,7 +3000,8 @@
     "https://www.thewrap.com/creative-content/movies/anne-hathaway-to-star-days-of-thunder-2-tom-cruise",
     "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
     "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699",
-    "https://variety.com/2026/film/news/sea-of-glass-review-1236846714"
+    "https://variety.com/2026/film/news/sea-of-glass-review-1236846714",
+    "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008"
   ],
   "category_stats": {
     "movie_news": {
@@ -2962,7 +3011,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 20,
+      "published": 21,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3054,7 +3103,7 @@
       "published": 2
     },
     "17": {
-      "published": 1
+      "published": 2
     }
   },
   "strategy": {
@@ -3073,64 +3122,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T21:50:04.028500+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-22T22:54:20.385559+00:00",
       "version": 2,
@@ -6088,6 +6079,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-30T17:03:04.803865+00:00",
+      "version": 2,
+      "posts": 57,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6145,9 +6194,59 @@
     "a3fe0cb7154d67a0",
     "ae008ddb3a26e860",
     "40859b9dfba3c8ff",
-    "0f22b10a108ff21e"
+    "0f22b10a108ff21e",
+    "d417b13b4e466f44"
   ],
   "entity_memory": {
+    "the world is": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lot right now": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "watch kane parsons": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "it ends": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director alex ullom": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "explain": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "liminal horror craze": {
+      "count": 1,
+      "last_seen": "2026-08-30T17:03:04.803806+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "there": {
       "count": 3,
       "last_seen": "2026-08-30T13:03:19.512815+00:00",
@@ -8925,55 +9024,6 @@
       ]
     },
     "fear": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "butterflies": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "detective story with": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mysticism": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "touch": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "body horror": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "georgian": {
-      "count": 1,
-      "last_seen": "2026-08-21T14:08:31.880185+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ana urushadze": {
       "count": 1,
       "last_seen": "2026-08-21T14:08:31.880185+00:00",
       "categories": [
