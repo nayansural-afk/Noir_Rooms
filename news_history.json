@@ -2985,6 +2985,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3902ddfd3f1d9fe6b9f01eff",
+      "story_id": "6b47f2bdc1494f6f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
+      "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Continues Dominance",
+      "category": "box_office",
+      "score": 72.25,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "china box office",
+        "once upon",
+        "time",
+        "middle east",
+        "continues dominance dirty",
+        "monkeys",
+        "china",
+        "artisan gateway",
+        "directed",
+        "wen muye",
+        "dying",
+        "survive"
+      ],
+      "hook": "سینمای چین، «یکبار در زمان شرق» همچنان برتر است",
+      "hooks": [
+        "در چین، فیلم «یکبار در زمان شرق» در صدر بکس آفیس",
+        "سینمای چین: «یکبار در زمان شرق» در صدر بکس آفیس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در صدر بکس آفیس چین برای سه هفته پشت سر هم"
+      ],
+      "status": "published",
+      "telegram_message_id": 64,
+      "published_at": "2026-08-31T09:04:39.311678+00:00",
+      "text": "سینمای چین، «یکبار در زمان شرق» همچنان برتر است\n\n🎬 سینمای چین: «یکبار در زمان شرق» در صدر بکس آفیس برای سه هفته پشت سر هم\n\nفیلم «یکبار در زمان شرق» از شرکت Dirty Monkeys، کمدی-درام جنگی، در هفته سوم پشت سر هم در صدر بکس آفیس چین باقی ماند. در بازه 28 تا 30 آگوست، درآمد 174.4 میلیون یوان (25.6 میلیون دلار) ثبت شد. این اثر توسط وِن موئی، کارگردان فیلم «Dying to Survive»، و تولیدکننده نینگ ساخته شد.\n\n📌 نکات مهم:\n• درآمد 174.4 میلیون یوان در بازه 28-30 آگوست\n• فیلم در صدر بکس آفیس چین برای سه هفته پشت سر هم\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3046,7 +3099,8 @@
     "89c4c6411c052c9645f08a5f",
     "f0cb417d745b4ff23ba8a224",
     "55315619cdbc026c857eb3f3",
-    "ede5deaa33d6c245962582dd"
+    "ede5deaa33d6c245962582dd",
+    "3902ddfd3f1d9fe6b9f01eff"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3107,7 +3161,8 @@
     "https://variety.com/2026/film/news/sea-of-glass-review-1236846714",
     "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
     "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
-    "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959"
+    "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
+    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114"
   ],
   "category_stats": {
     "movie_news": {
@@ -3135,7 +3190,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 3,
+      "published": 4,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3191,7 +3246,7 @@
       "published": 2
     },
     "9": {
-      "published": 3
+      "published": 4
     },
     "6": {
       "published": 1
@@ -3228,64 +3283,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T03:31:59.941289+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T05:18:21.427008+00:00",
       "version": 2,
@@ -6243,6 +6240,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-31T09:04:39.311773+00:00",
+      "version": 2,
+      "posts": 60,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6303,9 +6358,95 @@
     "0f22b10a108ff21e",
     "d417b13b4e466f44",
     "16db7b17cfdc329c",
-    "7faf059a0df3b83f"
+    "7faf059a0df3b83f",
+    "6b47f2bdc1494f6f"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 3,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "streaming",
+        "box_office"
+      ]
+    },
+    "china box office": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "once upon": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "time": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "middle east": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "china": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "artisan gateway": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "wen muye": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "dying": {
+      "count": 2,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "continues dominance dirty": {
+      "count": 1,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "monkeys": {
+      "count": 1,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "survive": {
+      "count": 1,
+      "last_seen": "2026-08-31T09:04:39.311711+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "north american": {
       "count": 2,
       "last_seen": "2026-08-31T05:08:02.301634+00:00",
@@ -8438,42 +8579,6 @@
         "movie_news"
       ]
     },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "streaming",
-        "box_office"
-      ]
-    },
-    "china box office": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "once upon": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "time": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "middle east": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "stays": {
       "count": 1,
       "last_seen": "2026-08-24T09:31:43.341515+00:00",
@@ -8489,34 +8594,6 @@
       ]
     },
     "second dirty monkeys": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "china": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "artisan gateway": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "wen muye": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "dying": {
       "count": 1,
       "last_seen": "2026-08-24T09:31:43.341515+00:00",
       "categories": [
@@ -9112,27 +9189,6 @@
       ]
     },
     "comedian jack assadourian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sets premiere date": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "for debut special": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "mexican armenian": {
       "count": 1,
       "last_seen": "2026-08-21T18:02:14.876409+00:00",
       "categories": [
