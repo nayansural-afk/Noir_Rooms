@@ -3038,6 +3038,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7f8937d0dbc54d45fe68afbb",
+      "story_id": "1614c15d3f4af21e",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
+      "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "first look at",
+        "sumo",
+        "spirit weighs nothing",
+        "documentary with rare",
+        "access to giants",
+        "of the ring",
+        "venice film festival",
+        "thunderous",
+        "erik shirai",
+        "japanese"
+      ],
+      "hook": "سومو: روح بی‌وزن، دسترسی نادر به قهرمانان میدان",
+      "hooks": [
+        "دستاوردی بی‌نظیر در سینمای ونیز",
+        "سومو در دوربین: پشت صحنهٔ قهرمانان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'سومو: روح بی‌وزن' در جشنواره فیلم ونیز به نمایش گذاشته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 65,
+      "published_at": "2026-08-31T13:03:34.792903+00:00",
+      "text": "سومو: روح بی‌وزن، دسترسی نادر به قهرمانان میدان\n\n🎬 سومو: روح بی‌وزن – مستندی با دسترسی نادر به قهرمانان میدان در جشنواره ونیز\n\nمستند 'سومو: روح بی‌وزن' در جشنواره فیلم ونیز به نمایش گذاشته می‌شود، با دسترسی نادر به داخل رینگ و سالن تمرین قهرمانان سومو. کارگردان این اثر، ایرک شیراي، با دیدی عمیق، لحظه‌های حساس و تلاش‌های این ورزش‌کاران را به تصویر می‌کشد.\n\n📌 نکات مهم:\n• مستند 'سومو: روح بی‌وزن' در جشنواره فیلم ونیز به نمایش گذاشته می‌شود\n• کارگردان مستند: ایرک شیراي\n• دسترسی نادر به داخل رینگ و سالن تمرین قهرمانان سومو\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3100,7 +3152,8 @@
     "f0cb417d745b4ff23ba8a224",
     "55315619cdbc026c857eb3f3",
     "ede5deaa33d6c245962582dd",
-    "3902ddfd3f1d9fe6b9f01eff"
+    "3902ddfd3f1d9fe6b9f01eff",
+    "7f8937d0dbc54d45fe68afbb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3162,11 +3215,12 @@
     "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
     "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
     "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
-    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114"
+    "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
+    "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 27,
+      "published": 28,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3261,7 +3315,7 @@
       "published": 1
     },
     "13": {
-      "published": 2
+      "published": 3
     },
     "17": {
       "published": 2
@@ -3283,64 +3337,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T05:18:21.427008+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T07:50:10.158411+00:00",
       "version": 2,
@@ -6298,6 +6294,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-31T13:03:34.793017+00:00",
+      "version": 2,
+      "posts": 61,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6359,9 +6413,88 @@
     "d417b13b4e466f44",
     "16db7b17cfdc329c",
     "7faf059a0df3b83f",
-    "6b47f2bdc1494f6f"
+    "6b47f2bdc1494f6f",
+    "1614c15d3f4af21e"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 4,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "first look at": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sumo": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spirit weighs nothing": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary with rare": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "access to giants": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "of the ring": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice film festival": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thunderous": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "erik shirai": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "japanese": {
+      "count": 1,
+      "last_seen": "2026-08-31T13:03:34.792943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "directed": {
       "count": 3,
       "last_seen": "2026-08-31T09:04:39.311711+00:00",
@@ -6993,14 +7126,6 @@
       "last_seen": "2026-08-29T17:03:12.362193+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "venice": {
-      "count": 3,
-      "last_seen": "2026-08-29T13:03:07.461669+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "no other land": {
@@ -9123,76 +9248,6 @@
       "last_seen": "2026-08-21T20:56:14.881916+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "ultra": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "netflix sets theatrical": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "streaming dates": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "peter berg": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "world war": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "the mosquito bowl": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "berg": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "lone survivor": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "deepwater horizon": {
-      "count": 1,
-      "last_seen": "2026-08-21T19:50:21.369663+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "comedian jack assadourian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
