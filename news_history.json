@@ -3142,6 +3142,62 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0b8fa80f3a3b8cc39efe2144",
+      "story_id": "5294264c051b0b0b",
+      "source": "Variety",
+      "sources": [
+        "Variety",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491",
+      "title": "‘Big Mistakes’ Season 2 Casts Lorenzo de Moor, Poorna Jagannathan",
+      "category": "actors_directors",
+      "score": 79.16,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "big mistakes",
+        "season",
+        "casts lorenzo",
+        "moor",
+        "poorna jagannathan",
+        "both lorenzo",
+        "dan levy",
+        "taylor ortega",
+        "laurie metcalf",
+        "jack innanen",
+        "boran kuzum",
+        "adds poorna jagannathan",
+        "lorenzo de moor",
+        "as recurring for"
+      ],
+      "hook": "دوباره به دنیای 'خطاهای بزرگ' باز می‌گردیم",
+      "hooks": [
+        "نویسندگان جدید در فصل دوم 'خطاهای بزرگ'",
+        "لورنزو و پورنا در نقش‌های تکراری به سریال می‌پیوندند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "لورنزو د مور و پورنا جگانتان به نقش‌های تکراری در فصل دوم 'خطاهای بزرگ' می‌پیوندند"
+      ],
+      "status": "published",
+      "telegram_message_id": 67,
+      "published_at": "2026-08-31T20:08:42.251133+00:00",
+      "text": "دوباره به دنیای 'خطاهای بزرگ' باز می‌گردیم\n\n🎬 لورنزو د مور و پورنا جگانتان به 'خطاهای بزرگ' فصل دوم می‌پیوندند\n\nسریال کمیک Netflix 'خطاهای بزرگ' در فصل دوم در حال تولید است و دو بازیگر جدید، لورنزو د مور و پورنا جگانتان، به نقش‌های تکراری اضافه می‌شوند.\nآنها به جمع ستارگان بازگشتی دانی لِیوی، تیلور اورتگا، لوری متکلف، جک ایننن، بوران کوزوم و ابی کوین می‌پیوندند و الیزابت پرکینز نیز در این فصل حضور دارد.\n\n📌 نکات مهم:\n• لورنزو د مور و پورنا جگانتان به نقش‌های تکراری در فصل دوم 'خطاهای بزرگ' می‌پیوندند\n• فصل دوم در حال تولید است و شامل ستارگان بازگشتی دانی لِیوی، تیلور اورتگا، لوری متکلف، جک ایننن، بوران کوزوم و ابی کوین می‌شود\n\n✅ تأیید چندمنبعی: Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3206,7 +3262,8 @@
     "ede5deaa33d6c245962582dd",
     "3902ddfd3f1d9fe6b9f01eff",
     "7f8937d0dbc54d45fe68afbb",
-    "d9f6f5b61cd09e683db47b06"
+    "d9f6f5b61cd09e683db47b06",
+    "0b8fa80f3a3b8cc39efe2144"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3270,7 +3327,8 @@
     "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
     "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
     "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
-    "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788"
+    "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
+    "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491"
   ],
   "category_stats": {
     "movie_news": {
@@ -3280,7 +3338,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 22,
+      "published": 23,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3330,7 +3388,7 @@
       "published": 4
     },
     "20": {
-      "published": 4
+      "published": 5
     },
     "21": {
       "published": 8
@@ -3391,64 +3449,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T09:03:58.138630+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T10:56:38.471578+00:00",
       "version": 2,
@@ -6406,6 +6406,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-31T20:08:42.251228+00:00",
+      "version": 2,
+      "posts": 63,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6469,9 +6527,117 @@
     "7faf059a0df3b83f",
     "6b47f2bdc1494f6f",
     "1614c15d3f4af21e",
-    "5481597aeac99068"
+    "5481597aeac99068",
+    "5294264c051b0b0b"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 6,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "big mistakes": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "season": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "casts lorenzo": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "moor": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "poorna jagannathan": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "both lorenzo": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dan levy": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "taylor ortega": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "laurie metcalf": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jack innanen": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "boran kuzum": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "adds poorna jagannathan": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lorenzo de moor": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "as recurring for": {
+      "count": 1,
+      "last_seen": "2026-08-31T20:08:42.251165+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 7,
       "last_seen": "2026-08-31T17:03:08.501558+00:00",
@@ -7862,15 +8028,6 @@
         "movie_news"
       ]
     },
-    "netflix": {
-      "count": 5,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "holidaze": {
       "count": 1,
       "last_seen": "2026-08-28T02:19:52.075677+00:00",
@@ -9205,104 +9362,6 @@
       "last_seen": "2026-08-21T22:56:51.340820+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "star jessie cave": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says it was": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "embarrassing": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "join": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bills": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "it has saved": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lavender brown": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "small part": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "years ago": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jessie cave": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this morning": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michelle pfeiffer clarifies": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "never said": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "retiring": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
