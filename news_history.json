@@ -3090,6 +3090,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d9f6f5b61cd09e683db47b06",
+      "story_id": "5481597aeac99068",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
+      "title": "Barunson E&A Boards ‘Satan’s Slaves: Origin’; Franchise Prequel Billed As Joko Anwar’s Most Ambitious Production",
+      "category": "movie_news",
+      "score": 61.55,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "barunson",
+        "boards",
+        "satan",
+        "slaves",
+        "origin",
+        "franchise prequel billed",
+        "as joko anwar",
+        "most ambitious production",
+        "korean",
+        "bong joon ho",
+        "parasite"
+      ],
+      "hook": "بارونسون E&A، فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت",
+      "hooks": [
+        "جکو انوار، با «اسطوره‌های شیطان: منشأ»، به‌دنبال بزرگترین تولید ژانری است",
+        "بارونسون E&A، «اسطوره‌های شیطان: منشأ» را به‌عنوان پیش‌سری بزرگ معرفی می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "بارونسون E&A فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت"
+      ],
+      "status": "published",
+      "telegram_message_id": 66,
+      "published_at": "2026-08-31T17:03:08.501528+00:00",
+      "text": "بارونسون E&A، فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت\n\n🎬 بارونسون E&A فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت\n\nبارونسون E&A، استودیوی کره‌ای که پشت فیلم «پارازیت» برنده اسکار است، فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت.\nاین فیلم، پیش‌سری از مجموعه ترسناک «اسطوره‌های شیطان» و کارگردانی اندونزیایی جکو انوار، به‌عنوان یکی از بزرگترین تولیدات ژانری در تاریخ معرفی می‌شود.\n\n📌 نکات مهم:\n• بارونسون E&A فروش جهانی «اسطوره‌های شیطان: منشأ» را بر عهده گرفت\n• فیلم توسط جکو انوار کارگردانی می‌شود و به‌عنوان یکی از بزرگترین تولیدات ژانری معرفی شده است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3153,7 +3205,8 @@
     "55315619cdbc026c857eb3f3",
     "ede5deaa33d6c245962582dd",
     "3902ddfd3f1d9fe6b9f01eff",
-    "7f8937d0dbc54d45fe68afbb"
+    "7f8937d0dbc54d45fe68afbb",
+    "d9f6f5b61cd09e683db47b06"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3216,11 +3269,12 @@
     "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
     "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
     "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
-    "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032"
+    "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
+    "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 28,
+      "published": 29,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3318,7 +3372,7 @@
       "published": 3
     },
     "17": {
-      "published": 2
+      "published": 3
     }
   },
   "strategy": {
@@ -3337,64 +3391,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T07:50:10.158411+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T09:03:58.138630+00:00",
       "version": 2,
@@ -6352,6 +6348,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-31T17:03:08.501619+00:00",
+      "version": 2,
+      "posts": 62,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6414,9 +6468,96 @@
     "16db7b17cfdc329c",
     "7faf059a0df3b83f",
     "6b47f2bdc1494f6f",
-    "1614c15d3f4af21e"
+    "1614c15d3f4af21e",
+    "5481597aeac99068"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 7,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "korean": {
+      "count": 3,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "barunson": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boards": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "satan": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "slaves": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "origin": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "franchise prequel billed": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "as joko anwar": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "most ambitious production": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bong joon ho": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "parasite": {
+      "count": 1,
+      "last_seen": "2026-08-31T17:03:08.501558+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "venice": {
       "count": 4,
       "last_seen": "2026-08-31T13:03:34.792943+00:00",
@@ -6926,15 +7067,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 6,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "hollywood": {
@@ -7654,13 +7786,6 @@
       ]
     },
     "busan": {
-      "count": 2,
-      "last_seen": "2026-08-28T21:21:10.498004+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "korean": {
       "count": 2,
       "last_seen": "2026-08-28T21:21:10.498004+00:00",
       "categories": [
@@ -9176,76 +9301,6 @@
     "retiring": {
       "count": 1,
       "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the most ridiculous": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thing": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the madison": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "margo": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "got money troubles": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle pfeiffer": {
-      "count": 1,
-      "last_seen": "2026-08-21T21:56:27.157719+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sets digital": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "release dates christopher": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "homer": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "july": {
-      "count": 1,
-      "last_seen": "2026-08-21T20:56:14.881916+00:00",
       "categories": [
         "movie_news"
       ]
