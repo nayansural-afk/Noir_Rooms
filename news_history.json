@@ -2936,6 +2936,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ede5deaa33d6c245962582dd",
+      "story_id": "7faf059a0df3b83f",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
+      "title": "Hollywood Cliffhanger: Can U.S. Summer Box Office Ring Up All-Time Record $4.8 Billion?",
+      "category": "box_office",
+      "score": 56.75,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": false,
+      "entities": [
+        "hollywood cliffhanger",
+        "summer box office",
+        "ring up all",
+        "time record",
+        "billion",
+        "currently",
+        "rentrak",
+        "north american",
+        "friday"
+      ],
+      "hook": "آیا تابستان آمریکا رکورد 4.8 میلیارد دلار را می‌گیرد؟",
+      "hooks": [
+        "نزدیک به رکورد 4.8 میلیارد دلار در بکس آفیس آمریکا",
+        "بکس آفیس تابستانی آمریکا در آستانه رکورد 4.8 میلیارد دلار"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "بکس آفیس آمریکا در اول جمعه مه 4.598 میلیارد دلار است"
+      ],
+      "status": "published",
+      "telegram_message_id": 63,
+      "published_at": "2026-08-31T05:08:02.301604+00:00",
+      "text": "آیا تابستان آمریکا رکورد 4.8 میلیارد دلار را می‌گیرد؟\n\n🎬 آمریکا نزدیک به رکورد 4.8 میلیارد دلار در بکس آفیس تابستانی\n\nدر تابستان جاری، بکس آفیس داخلی آمریکا به 4.598 میلیارد دلار رسیده است که به‌طور رسمی دومین بالاترین تابستان در تاریخ بکس آفیس آمریکاست، پس از تابستان 2013 که رکورد 4.756 میلیارد دلار را ثبت کرده بود.\nاگر روند جاری ادامه یابد، احتمالاً این تابستان می‌تواند رکورد 4.8 میلیارد دلار را بشکند و تاریخ جدیدی در بکس آفیس آمریکا بنویسد.\n\n📌 نکات مهم:\n• بکس آفیس آمریکا در اول جمعه مه 4.598 میلیارد دلار\n• رکورد تابستان 2013 4.756 میلیارد دلار\n• هدف 4.8 میلیارد دلار برای تابستان جاری\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -2996,7 +3045,8 @@
     "534a81e58612ef8791bbcdda",
     "89c4c6411c052c9645f08a5f",
     "f0cb417d745b4ff23ba8a224",
-    "55315619cdbc026c857eb3f3"
+    "55315619cdbc026c857eb3f3",
+    "ede5deaa33d6c245962582dd"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3056,7 +3106,8 @@
     "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699",
     "https://variety.com/2026/film/news/sea-of-glass-review-1236846714",
     "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008",
-    "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948"
+    "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948",
+    "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959"
   ],
   "category_stats": {
     "movie_news": {
@@ -3084,7 +3135,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3128,7 +3179,7 @@
       "published": 2
     },
     "5": {
-      "published": 4
+      "published": 5
     },
     "19": {
       "published": 1
@@ -3177,64 +3228,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-22T23:49:09.678336+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T03:31:59.941289+00:00",
       "version": 2,
@@ -6192,6 +6185,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-08-31T05:08:02.301693+00:00",
+      "version": 2,
+      "posts": 59,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
+          "category": "actors_directors",
+          "score": 86.89,
+          "multi_source_count": 3
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6251,9 +6302,75 @@
     "40859b9dfba3c8ff",
     "0f22b10a108ff21e",
     "d417b13b4e466f44",
-    "16db7b17cfdc329c"
+    "16db7b17cfdc329c",
+    "7faf059a0df3b83f"
   ],
   "entity_memory": {
+    "north american": {
+      "count": 2,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "friday": {
+      "count": 2,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "actors_directors",
+        "box_office"
+      ]
+    },
+    "hollywood cliffhanger": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "summer box office": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "ring up all": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "time record": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "billion": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "currently": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "rentrak": {
+      "count": 1,
+      "last_seen": "2026-08-31T05:08:02.301634+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "warner bros": {
       "count": 1,
       "last_seen": "2026-08-30T20:08:46.663289+00:00",
@@ -7953,13 +8070,6 @@
         "movie_news"
       ]
     },
-    "north american": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "geese": {
       "count": 1,
       "last_seen": "2026-08-25T18:02:02.340694+00:00",
@@ -8497,13 +8607,6 @@
         "actors_directors"
       ]
     },
-    "friday": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "mark ruffalo": {
       "count": 1,
       "last_seen": "2026-08-22T07:46:52.849835+00:00",
@@ -9033,56 +9136,6 @@
       "count": 1,
       "last_seen": "2026-08-21T18:02:14.876409+00:00",
       "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "directed by jeremiah": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "watkins": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "watch the trailer": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "assadourian jr": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "mexican": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "armenian": {
-      "count": 1,
-      "last_seen": "2026-08-21T18:02:14.876409+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "season": {
-      "count": 2,
-      "last_seen": "2026-08-21T16:04:25.501530+00:00",
-      "categories": [
-        "movie_news",
         "trailers_first_look"
       ]
     }
