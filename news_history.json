@@ -3303,6 +3303,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3512a27549a4b92e9e4d6a1a",
+      "story_id": "f8586274b951fccd",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/gaming/news/zynga-poker-ads-keegan-michael-key-righteous-gemstones-director-1236847722",
+      "title": "‘Zynga Poker’ Teams With Keegan-Michael Key, ‘Righteous Gemstones’ Director Jody Hill for New ‘Inner Winner’ Ad Spots (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 72.62,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "zynga poker",
+        "teams with keegan",
+        "michael key",
+        "righteous gemstones",
+        "director jody hill",
+        "inner winner",
+        "ad spots",
+        "keegan",
+        "jody hill",
+        "the righteous gemstones"
+      ],
+      "hook": "پیشنهاد جدید زینگا پوکر با کیگان-مایکل کی",
+      "hooks": [
+        "آواز درون خود را در بازی پوکر بشنوید",
+        "کیگان-مایکل کی، صدا درون شما، در زینگا پوکر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "زینگا پوکر کمپین تبلیغاتی جدیدی با حضور کیگان-مایکل کی و کارگردانی جودی هیل راه‌اندازی کرده است."
+      ],
+      "status": "published",
+      "telegram_message_id": 70,
+      "published_at": "2026-09-01T13:05:45.982327+00:00",
+      "text": "پیشنهاد جدید زینگا پوکر با کیگان-مایکل کی\n\n🎬 زینگا پوکر با همکاری کیگان-مایکل کی و جودی هیل، تبلیغ جدید «Inner Winner» را رونمایی می‌کند\n\nزینگا پوکر، بازی موبایل رایگان پوکر، کمپین تبلیغاتی تازه‌ای را معرفی کرده است که در آن کیگان-مایکل کی نقش «Inner Winner» را ایفا می‌کند.\nاین تبلیغات توسط جودی هیل، کارگردان سریال «Righteous Gemstones»، ساخته شده و صدای مطمئن درون شما را به‌عنوان راهنمایی برای گرفتن شانس در بازی نشان می‌دهد.\n\n📌 نکات مهم:\n• زینگا پوکر\n• کیگان-مایکل کی در نقش Inner Winner\n• جودی هیل کارگردان تبلیغات\n• کمپین تبلیغاتی جدید\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/gaming/news/zynga-poker-ads-keegan-michael-key-righteous-gemstones-director-1236847722",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3370,7 +3420,8 @@
     "d9f6f5b61cd09e683db47b06",
     "0b8fa80f3a3b8cc39efe2144",
     "e1a31170ef2335dfc9b02c24",
-    "31a63869355a70c5300a7b49"
+    "31a63869355a70c5300a7b49",
+    "3512a27549a4b92e9e4d6a1a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3437,7 +3488,8 @@
     "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
     "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491",
     "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559",
-    "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323"
+    "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323",
+    "https://variety.com/2026/gaming/news/zynga-poker-ads-keegan-michael-key-righteous-gemstones-director-1236847722"
   ],
   "category_stats": {
     "movie_news": {
@@ -3447,7 +3499,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 23,
+      "published": 24,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3536,7 +3588,7 @@
       "published": 1
     },
     "13": {
-      "published": 3
+      "published": 4
     },
     "17": {
       "published": 3
@@ -3558,64 +3610,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T13:47:08.632554+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T14:57:18.726128+00:00",
       "version": 2,
@@ -6573,6 +6567,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-01T13:05:45.982426+00:00",
+      "version": 2,
+      "posts": 66,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6639,9 +6691,80 @@
     "5481597aeac99068",
     "5294264c051b0b0b",
     "c3ab8402f741d696",
-    "4b76dee561768e6f"
+    "4b76dee561768e6f",
+    "f8586274b951fccd"
   ],
   "entity_memory": {
+    "zynga poker": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "teams with keegan": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michael key": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "righteous gemstones": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director jody hill": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "inner winner": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ad spots": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "keegan": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jody hill": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the righteous gemstones": {
+      "count": 1,
+      "last_seen": "2026-09-01T13:05:45.982361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "amazon": {
       "count": 4,
       "last_seen": "2026-09-01T09:08:23.087250+00:00",
@@ -9403,76 +9526,6 @@
       "last_seen": "2026-08-22T05:05:35.212382+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "mistreatment of child": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stars while paying": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tribute to hayden": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "panettiere as hollywood": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hayden panettiere": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on friday": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anna paquin": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rest": {
-      "count": 1,
-      "last_seen": "2026-08-22T05:05:35.212382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "movies": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
