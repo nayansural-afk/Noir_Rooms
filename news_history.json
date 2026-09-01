@@ -3198,6 +3198,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e1a31170ef2335dfc9b02c24",
+      "story_id": "c3ab8402f741d696",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559",
+      "title": "Marty Nadler Dies: Comic & Longtime Garry Marshall Collaborator On Sitcoms & Films Was 80",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marty nadler dies",
+        "comic",
+        "longtime garry marshall",
+        "collaborator on sitcoms",
+        "films was",
+        "marty nadler",
+        "garry marshall",
+        "happy days",
+        "laverne",
+        "shirley",
+        "august",
+        "margate"
+      ],
+      "hook": "ماتری نادلر، همکار گاری مارشل، درگذشت",
+      "hooks": [
+        "کاتالوگ کارهای او در هپی دیز و لورن و شیلری",
+        "ماتری نادلر، نویسنده و تهیه‌کننده، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ماتری نادلر درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 68,
+      "published_at": "2026-09-01T05:13:53.577402+00:00",
+      "text": "ماتری نادلر، همکار گاری مارشل، درگذشت\n\n🎬 ماتری نادلر، همکار طولانی‌مدت گاری مارشل، درگذشت\n\nماتری نادلر، نویسنده و تهیه‌کنندهٔ کمدی، درگذشت. او در 26 اوت در مارگیت، فلوریدا، 80 ساله بود.\n\nاو با گاری مارشل در سریال‌های محبوب هپی دیز و لورن و شیلری و در بسیاری از فیلم‌های او همکاری داشت. بر اساس گزارش، او به علت عوارض گراویس مایاسثنی درگذشت.\n\n📌 نکات مهم:\n• ماتری نادلر 80 ساله بود\n• درگذشت در 26 اوت در مارگیت، فلوریدا\n• کار با گاری مارشل در هپی دیز و لورن و شیلری\n• دلیل مرگ: عوارض گراویس مایاسثنی\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3263,7 +3316,8 @@
     "3902ddfd3f1d9fe6b9f01eff",
     "7f8937d0dbc54d45fe68afbb",
     "d9f6f5b61cd09e683db47b06",
-    "0b8fa80f3a3b8cc39efe2144"
+    "0b8fa80f3a3b8cc39efe2144",
+    "e1a31170ef2335dfc9b02c24"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3328,11 +3382,12 @@
     "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-odyssey-spider-man-1236847114",
     "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
     "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
-    "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491"
+    "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491",
+    "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 29,
+      "published": 30,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3400,7 +3455,7 @@
       "published": 2
     },
     "5": {
-      "published": 5
+      "published": 6
     },
     "19": {
       "published": 1
@@ -3449,64 +3504,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T10:56:38.471578+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T11:50:46.793674+00:00",
       "version": 2,
@@ -6464,6 +6461,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-01T05:13:53.577509+00:00",
+      "version": 2,
+      "posts": 64,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6528,9 +6583,94 @@
     "6b47f2bdc1494f6f",
     "1614c15d3f4af21e",
     "5481597aeac99068",
-    "5294264c051b0b0b"
+    "5294264c051b0b0b",
+    "c3ab8402f741d696"
   ],
   "entity_memory": {
+    "marty nadler dies": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "comic": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "longtime garry marshall": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "collaborator on sitcoms": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films was": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marty nadler": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "garry marshall": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "happy days": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "laverne": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shirley": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "august": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "margate": {
+      "count": 1,
+      "last_seen": "2026-09-01T05:13:53.577453+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 6,
       "last_seen": "2026-08-31T20:08:42.251165+00:00",
@@ -9276,90 +9416,6 @@
     "bruce campbell clarifies": {
       "count": 1,
       "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tapped out": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of the": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "evil dead": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "franchise": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "didn": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "want ash to": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "borderline geezer": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bruce campbell": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on thursday": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sam raimi": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starz": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "harry potter": {
-      "count": 1,
-      "last_seen": "2026-08-21T22:56:51.340820+00:00",
       "categories": [
         "actors_directors"
       ]
