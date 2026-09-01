@@ -3251,6 +3251,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "31a63869355a70c5300a7b49",
+      "story_id": "4b76dee561768e6f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323",
+      "title": "KiKi Layne & Luke Hemsworth Join Amazon MGM Actioner ‘Deadlocked’",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "layne",
+        "luke hemsworth join",
+        "amazon",
+        "actioner",
+        "deadlocked",
+        "vought rising",
+        "luke hemsworth",
+        "westworld",
+        "studios",
+        "deadline",
+        "character",
+        "jamie foxx"
+      ],
+      "hook": "KiKi Layne و Luke Hemsworth در فیلم Deadlocked شرکت می‌کنند",
+      "hooks": [
+        "KiKi Layne و Luke Hemsworth در Deadlocked، فیلم اکشن جدید Amazon MGM",
+        "Jamie Foxx و Sasha Calle هم در Deadlocked حضور دارند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Deadlocked is an action film featuring KiKi Layne and Luke Hemsworth"
+      ],
+      "status": "published",
+      "telegram_message_id": 69,
+      "published_at": "2026-09-01T09:08:23.087216+00:00",
+      "text": "KiKi Layne و Luke Hemsworth در فیلم Deadlocked شرکت می‌کنند\n\n🎬 KiKi Layne و Luke Hemsworth در Deadlocked حضور پیدا می‌کنند\n\nفیلم Deadlocked، یک اکشن جدید از Amazon MGM Studios، با حضور KiKi Layne و Luke Hemsworth به صحنه می‌آید. این دو بازیگر، که در سری‌های Vought Rising و Westworld شناخته شده‌اند، در کنار Jamie Foxx و Sasha Calle نقش‌های خود را ایفا می‌کنند.\nسینمای Deadlocked، که توسط Nikhil Bhat کارگردانی می‌شود، داستان یک سرباز سابق متألم را دنبال می‌کند که در حین خدمت به عنوان هیئت‌جمهور، مجبور به مواجهه با گذشته‌اش می‌شود. جزئیات شخصیت‌ها هنوز در اسرار نگه داشته شده است.\n\n📌 نکات مهم:\n• KiKi Layne و Luke Hemsworth در فیلم Deadlocked شرکت می‌کنند\n• فیلم Deadlocked توسط Nikhil Bhat کارگردانی می‌شود\n• Deadlocked در Amazon MGM Studios تولید می‌شود\n• Jamie Foxx و Sasha Calle نیز در فیلم حضور دارند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3317,7 +3369,8 @@
     "7f8937d0dbc54d45fe68afbb",
     "d9f6f5b61cd09e683db47b06",
     "0b8fa80f3a3b8cc39efe2144",
-    "e1a31170ef2335dfc9b02c24"
+    "e1a31170ef2335dfc9b02c24",
+    "31a63869355a70c5300a7b49"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3383,11 +3436,12 @@
     "https://deadline.com/2026/08/sumo-spirit-weighs-nothing-clip-director-erik-shirai-interview-1237063032",
     "https://deadline.com/2026/08/joko-anwar-satans-slaves-origin-barunson-rapi-films-1237061788",
     "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491",
-    "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559"
+    "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559",
+    "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 30,
+      "published": 31,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3467,7 +3521,7 @@
       "published": 2
     },
     "9": {
-      "published": 4
+      "published": 5
     },
     "6": {
       "published": 1
@@ -3504,64 +3558,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T11:50:46.793674+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T13:47:08.632554+00:00",
       "version": 2,
@@ -6519,6 +6515,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-01T09:08:23.087312+00:00",
+      "version": 2,
+      "posts": 65,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6584,9 +6638,95 @@
     "1614c15d3f4af21e",
     "5481597aeac99068",
     "5294264c051b0b0b",
-    "c3ab8402f741d696"
+    "c3ab8402f741d696",
+    "4b76dee561768e6f"
   ],
   "entity_memory": {
+    "amazon": {
+      "count": 4,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "studios": {
+      "count": 2,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "layne": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luke hemsworth join": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actioner": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "deadlocked": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vought rising": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luke hemsworth": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "westworld": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "deadline": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "character": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jamie foxx": {
+      "count": 1,
+      "last_seen": "2026-09-01T09:08:23.087250+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "marty nadler dies": {
       "count": 1,
       "last_seen": "2026-09-01T05:13:53.577453+00:00",
@@ -7303,14 +7443,6 @@
         "actors_directors"
       ]
     },
-    "amazon": {
-      "count": 3,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
     "who iz": {
       "count": 1,
       "last_seen": "2026-08-30T09:04:47.190287+00:00",
@@ -7354,13 +7486,6 @@
       ]
     },
     "following": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studios": {
       "count": 1,
       "last_seen": "2026-08-30T09:04:47.190287+00:00",
       "categories": [
@@ -9348,76 +9473,6 @@
       "last_seen": "2026-08-22T03:09:50.438385+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "shows to watch": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "before": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doomsday": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marvel cinematic universe": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doctor doom": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony russo": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joe russo": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phase": {
-      "count": 1,
-      "last_seen": "2026-08-22T03:09:50.438385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bruce campbell clarifies": {
-      "count": 1,
-      "last_seen": "2026-08-21T23:55:18.531231+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
