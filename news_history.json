@@ -3406,6 +3406,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6d1148afd6eb8a6fb7518175",
+      "story_id": "fc6022fe22a07274",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537",
+      "title": "‘Avengers: Secret Wars’ Adds Noah Jupe to Cast",
+      "category": "actors_directors",
+      "score": 53.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "avengers",
+        "secret wars",
+        "adds noah jupe",
+        "cast noah jupe",
+        "marvel cinematic universe",
+        "hamnet",
+        "quiet place",
+        "anthony",
+        "joe russo",
+        "kevin feige",
+        "doomsday"
+      ],
+      "hook": "نوآ جیوپ به تیم 'آواترز: جنگ مخفی' می‌پیوندد",
+      "hooks": [
+        "نوآ جیوپ در MCU حضور پیدا می‌کند",
+        "آواترز: جنگ مخفی با حضور نوآ جیوپ"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نوآ جیوپ در 'آواترز: جنگ مخفی' نقش مخفی دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 72,
+      "published_at": "2026-09-01T20:16:37.411219+00:00",
+      "text": "نوآ جیوپ به تیم 'آواترز: جنگ مخفی' می‌پیوندد\n\n🎬 نوآ جیوپ به بازیگران 'آواترز: جنگ مخفی' می‌پیوندد\n\nنوآ جیوپ، ستارهٔ فیلم‌های «هامنت» و «آ جایگاه سکوت»، در نقش مخفی در «آواترز: جنگ مخفی» حضور پیدا می‌کند.\n\nاین فیلم، که توسط برادران آنتونی و جو روسو کارگردانی و توسط کیوان فیگه تولید می‌شود، ادامهٔ «آواترز: روزگار پایان» است.\n\n📌 نکات مهم:\n• نوآ جیوپ در 'آواترز: جنگ مخفی' نقش مخفی دارد\n• فیلم توسط برادران روسو کارگردانی و کیوان فیگه تولید می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3475,7 +3528,8 @@
     "e1a31170ef2335dfc9b02c24",
     "31a63869355a70c5300a7b49",
     "3512a27549a4b92e9e4d6a1a",
-    "0af2e11ef06cedea095ac64d"
+    "0af2e11ef06cedea095ac64d",
+    "6d1148afd6eb8a6fb7518175"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3544,7 +3598,8 @@
     "https://deadline.com/2026/08/marty-nadler-dead-happy-days-writer-1237063559",
     "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323",
     "https://variety.com/2026/gaming/news/zynga-poker-ads-keegan-michael-key-righteous-gemstones-director-1236847722",
-    "https://deadline.com/2026/09/kit-connor-diana-silvers-preppy-film-janicza-bravo-1237063592"
+    "https://deadline.com/2026/09/kit-connor-diana-silvers-preppy-film-janicza-bravo-1237063592",
+    "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537"
   ],
   "category_stats": {
     "movie_news": {
@@ -3554,7 +3609,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 25,
+      "published": 26,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3604,7 +3659,7 @@
       "published": 4
     },
     "20": {
-      "published": 5
+      "published": 6
     },
     "21": {
       "published": 8
@@ -3665,64 +3720,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T15:53:38.439303+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T16:58:38.534460+00:00",
       "version": 2,
@@ -6680,6 +6677,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-01T20:16:37.411326+00:00",
+      "version": 2,
+      "posts": 68,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6748,12 +6803,90 @@
     "c3ab8402f741d696",
     "4b76dee561768e6f",
     "f8586274b951fccd",
-    "4502ec0c68d1778d"
+    "4502ec0c68d1778d",
+    "fc6022fe22a07274"
   ],
   "entity_memory": {
     "marvel": {
+      "count": 2,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "avengers": {
       "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "secret wars": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "adds noah jupe": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast noah jupe": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marvel cinematic universe": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hamnet": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "quiet place": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anthony": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joe russo": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kevin feige": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-09-01T20:16:37.411253+00:00",
       "categories": [
         "actors_directors"
       ]
@@ -9505,83 +9638,6 @@
       "last_seen": "2026-08-24T11:14:44.602629+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "competition directed": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stays": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "debuts": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "second dirty monkeys": {
-      "count": 1,
-      "last_seen": "2026-08-24T09:31:43.341515+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "busan film festival": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sets": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "titles": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vision korea": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vision asia sections": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asia": {
-      "count": 1,
-      "last_seen": "2026-08-24T08:09:58.436320+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount slams mark": {
-      "count": 1,
-      "last_seen": "2026-08-22T07:46:52.849835+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
