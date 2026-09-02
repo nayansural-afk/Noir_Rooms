@@ -3564,6 +3564,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ed4e8c04860c15f0d3b84729",
+      "story_id": "f7478d0117605db4",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
+      "title": "‘Spider-Man: Brand New Day’ Stays in Full Swing Atop U.K., Ireland Box Office as ‘The Odyssey’ Continues Voyage",
+      "category": "box_office",
+      "score": 73.84,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 86.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "christopher nolan",
+        "nolan",
+        "spider-man",
+        "universal",
+        "spider",
+        "brand new day",
+        "stays",
+        "full swing atop",
+        "ireland box office",
+        "the odyssey",
+        "continues voyage sony",
+        "ireland"
+      ],
+      "hook": "اسپایدرمن برتر بازارهای بریتانیا و ایرلند",
+      "hooks": [
+        "سینمای سوپر هیرو در صدر فروش",
+        "سفر نیاکان در صدر بازار"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فروش 125.5 میلیون دلار پس از 27 روز"
+      ],
+      "status": "published",
+      "telegram_message_id": 75,
+      "published_at": "2026-09-02T13:05:45.232986+00:00",
+      "text": "اسپایدرمن برتر بازارهای بریتانیا و ایرلند\n\n🎬 اسپایدرمن: روز نو، برتر بازارهای بریتانیا و ایرلند\n\nسینمای سوپر هیرو اسپایدرمن: روز نو، در پنج هفتهٔ متوالی در صدر فروش‌های بریتانیا و ایرلند باقی مانده است. در 27 روز پس از انتشار، مجموع فروش فیلم 125.5 میلیون دلار رسید و در کنار آن، فیلم اودیسهٔ نیکولن در جای دوم باقی ماند.\n\n📌 نکات مهم:\n• اسپایدرمن: روز نو در صدر فروش‌های بریتانیا و ایرلند برای هفتهٔ پنجم\n• فروش 125.5 میلیون دلار پس از 27 روز\n• فیلمنامهٔ اودیسه در جای دوم در هفت‌امین هفته\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3636,7 +3689,8 @@
     "0af2e11ef06cedea095ac64d",
     "6d1148afd6eb8a6fb7518175",
     "fb65faab94383beffe7a4735",
-    "e12f8276f732b8f2b3b03038"
+    "e12f8276f732b8f2b3b03038",
+    "ed4e8c04860c15f0d3b84729"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3708,7 +3762,8 @@
     "https://deadline.com/2026/09/kit-connor-diana-silvers-preppy-film-janicza-bravo-1237063592",
     "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537",
     "https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386",
-    "https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069"
+    "https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069",
+    "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104"
   ],
   "category_stats": {
     "movie_news": {
@@ -3736,7 +3791,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 4,
+      "published": 5,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3807,7 +3862,7 @@
       "published": 1
     },
     "13": {
-      "published": 4
+      "published": 5
     },
     "17": {
       "published": 4
@@ -3829,64 +3884,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T19:03:14.945185+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T20:54:59.049826+00:00",
       "version": 2,
@@ -6844,6 +6841,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-02T13:05:45.233083+00:00",
+      "version": 2,
+      "posts": 71,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 404,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6915,9 +6970,99 @@
     "4502ec0c68d1778d",
     "fc6022fe22a07274",
     "c4343398b357da0d",
-    "addcdd76feca447b"
+    "addcdd76feca447b",
+    "f7478d0117605db4"
   ],
   "entity_memory": {
+    "spider-man": {
+      "count": 3,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "spider": {
+      "count": 3,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "christopher nolan": {
+      "count": 3,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "nolan": {
+      "count": 3,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "the odyssey": {
+      "count": 3,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "universal": {
+      "count": 2,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "brand new day": {
+      "count": 2,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "ireland box office": {
+      "count": 2,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "stays": {
+      "count": 1,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "full swing atop": {
+      "count": 1,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "continues voyage sony": {
+      "count": 1,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "ireland": {
+      "count": 1,
+      "last_seen": "2026-09-02T13:05:45.233018+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "london": {
       "count": 3,
       "last_seen": "2026-09-02T09:08:19.139460+00:00",
@@ -8436,22 +8581,6 @@
         "awards_festivals"
       ]
     },
-    "spider-man": {
-      "count": 2,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "spider": {
-      "count": 2,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
     "shailene woodley explains": {
       "count": 1,
       "last_seen": "2026-08-29T09:04:42.452610+00:00",
@@ -9663,52 +9792,7 @@
         "movie_news"
       ]
     },
-    "christopher nolan": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "nolan": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "the odyssey": {
-      "count": 2,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "universal": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "brand new day": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "extend battle atop": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "ireland box office": {
       "count": 1,
       "last_seen": "2026-08-25T10:17:06.308742+00:00",
       "categories": [
@@ -9720,34 +9804,6 @@
       "last_seen": "2026-08-25T10:17:06.308742+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "makes strong debut": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "sony": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "nigerian": {
-      "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ogogo": {
-      "count": 1,
-      "last_seen": "2026-08-25T06:03:45.313059+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
