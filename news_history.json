@@ -3617,6 +3617,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4e78306dd8154d4c868678b0",
+      "story_id": "ff24348ba6cea024",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455",
+      "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+      "category": "movie_news",
+      "score": 89.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "always lalisa",
+        "doc about",
+        "lisa sets imax",
+        "theatrical and streaming",
+        "release dates always",
+        "lalisa",
+        "lisa",
+        "trafalgar releasing",
+        "october",
+        "premium",
+        "sony music vision",
+        "directed"
+      ],
+      "hook": "سینمایی که لیسا را به صحنه می‌آورد",
+      "hooks": [
+        "دستاوردی برای هواداران K‑Pop",
+        "سینمایی که به IMAX می‌رسد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سینما در IMAX و سینماهای جهانی"
+      ],
+      "status": "published",
+      "telegram_message_id": 76,
+      "published_at": "2026-09-02T17:05:11.647344+00:00",
+      "text": "سینمایی که لیسا را به صحنه می‌آورد\n\n🎬 سینمای 'Always Lalisa': مستند درباره لیسا در IMAX و یوتیوب پریمیوم\n\nمستند 'Always Lalisa' که سرنوشت سال مهمی در زندگی لیسا را دنبال می‌کند، از 12 اکتبر در IMAX و سینماهای جهانی به نمایش درمی‌آید. بعد از پایان نمایش محدود، در سال آینده فقط در YouTube Premium پخش خواهد شد.\n\nاین پروژه توسط سوزی کیم کارگردانی شده و توسط Sony Music Vision اعلام شد، و با همکاری Trafalgar Releasing در سینماها حضور خواهد داشت.\n\n📌 نکات مهم:\n• افتتاح در IMAX و سینماهای جهانی از 12 اکتبر\n• پخش در YouTube Premium در سال آینده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3690,7 +3743,8 @@
     "6d1148afd6eb8a6fb7518175",
     "fb65faab94383beffe7a4735",
     "e12f8276f732b8f2b3b03038",
-    "ed4e8c04860c15f0d3b84729"
+    "ed4e8c04860c15f0d3b84729",
+    "4e78306dd8154d4c868678b0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3763,11 +3817,12 @@
     "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537",
     "https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386",
     "https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069",
-    "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104"
+    "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
+    "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 32,
+      "published": 33,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3865,7 +3920,7 @@
       "published": 5
     },
     "17": {
-      "published": 4
+      "published": 5
     }
   },
   "strategy": {
@@ -3884,64 +3939,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T20:54:59.049826+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T21:49:44.045676+00:00",
       "version": 2,
@@ -6899,6 +6896,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-02T17:05:11.647441+00:00",
+      "version": 2,
+      "posts": 72,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6971,9 +7026,97 @@
     "fc6022fe22a07274",
     "c4343398b357da0d",
     "addcdd76feca447b",
-    "f7478d0117605db4"
+    "f7478d0117605db4",
+    "ff24348ba6cea024"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 4,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "streaming",
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "october": {
+      "count": 2,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "always lalisa": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doc about": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lisa sets imax": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatrical and streaming": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "release dates always": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lalisa": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lisa": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "trafalgar releasing": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "premium": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sony music vision": {
+      "count": 1,
+      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "spider-man": {
       "count": 3,
       "last_seen": "2026-09-02T13:05:45.233018+00:00",
@@ -7896,14 +8039,6 @@
         "movie_news"
       ]
     },
-    "directed": {
-      "count": 3,
-      "last_seen": "2026-08-31T09:04:39.311711+00:00",
-      "categories": [
-        "streaming",
-        "box_office"
-      ]
-    },
     "china box office": {
       "count": 2,
       "last_seen": "2026-08-31T09:04:39.311711+00:00",
@@ -8669,13 +8804,6 @@
       ]
     },
     "shoot": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "october": {
       "count": 1,
       "last_seen": "2026-08-29T05:07:48.161310+00:00",
       "categories": [
@@ -9734,76 +9862,6 @@
       "last_seen": "2026-08-25T15:27:42.109854+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "film festival mount": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everest": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom hiddleston": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "willem dafoe": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zurich film festival": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the apple original": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "films": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jennifer peedom": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "extend battle atop": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "insidious": {
-      "count": 1,
-      "last_seen": "2026-08-25T10:17:06.308742+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
