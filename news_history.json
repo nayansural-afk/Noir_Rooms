@@ -3459,6 +3459,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fb65faab94383beffe7a4735",
+      "story_id": "c4343398b357da0d",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386",
+      "title": "Eva Longoria & Eugenio Derbez To Star In ‘Marcelo In The Real World’",
+      "category": "actors_directors",
+      "score": 45.35,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "eva longoria",
+        "eugenio derbez to",
+        "star in",
+        "marcelo in the",
+        "real world",
+        "eugenio derbez",
+        "marcelo",
+        "lucia puenzo",
+        "produced",
+        "zeta studios",
+        "elefantec global",
+        "francisco"
+      ],
+      "hook": "Eva Longoria و Eugenio Derbez در فیلم «Marcelo in the Real World»",
+      "hooks": [
+        "Lucia Puenzo در کارگردانی، با حضور ستارگان بین‌المللی",
+        "سینمای آمریکای لاتین در قالب ادبیات فرانسیسکو X. ستورک"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Eva Longoria و Eugenio Derbez در فیلم «Marcelo in the Real World»"
+      ],
+      "status": "published",
+      "telegram_message_id": 73,
+      "published_at": "2026-09-02T05:13:39.521172+00:00",
+      "text": "Eva Longoria و Eugenio Derbez در فیلم «Marcelo in the Real World»\n\n🎬 Eva Longoria و Eugenio Derbez در نقش‌های اصلی «Marcelo in the Real World»\n\nفیلم «Marcelo in the Real World» با حضور Eva Longoria و Eugenio Derbez در حال ساخت است. کارگردان Lucia Puenzo این اثر را بر اساس رمان Francisco X. Stork خلق کرده است.\nسینما در اویرویا آغاز می‌شود و بازیگران دیگری چون Àstrid Bergès-Frisbey، Mathew Borrero و Ema Giménez Zapiola نیز در نقش‌های جانبی حضور دارند.\n\n📌 نکات مهم:\n• Eva Longoria و Eugenio Derbez در نقش‌های اصلی فیلم\n• کارگردانی توسط Lucia Puenzo\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3529,7 +3581,8 @@
     "31a63869355a70c5300a7b49",
     "3512a27549a4b92e9e4d6a1a",
     "0af2e11ef06cedea095ac64d",
-    "6d1148afd6eb8a6fb7518175"
+    "6d1148afd6eb8a6fb7518175",
+    "fb65faab94383beffe7a4735"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3599,7 +3652,8 @@
     "https://deadline.com/2026/08/deadlocked-movie-adds-kiki-layne-luke-hemsworth-1237063323",
     "https://variety.com/2026/gaming/news/zynga-poker-ads-keegan-michael-key-righteous-gemstones-director-1236847722",
     "https://deadline.com/2026/09/kit-connor-diana-silvers-preppy-film-janicza-bravo-1237063592",
-    "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537"
+    "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537",
+    "https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386"
   ],
   "category_stats": {
     "movie_news": {
@@ -3609,7 +3663,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 26,
+      "published": 27,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3671,7 +3725,7 @@
       "published": 2
     },
     "5": {
-      "published": 6
+      "published": 7
     },
     "19": {
       "published": 1
@@ -3720,64 +3774,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T16:58:38.534460+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T17:51:20.064593+00:00",
       "version": 2,
@@ -6735,6 +6731,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-02T05:13:39.521303+00:00",
+      "version": 2,
+      "posts": 69,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -6804,9 +6858,94 @@
     "4b76dee561768e6f",
     "f8586274b951fccd",
     "4502ec0c68d1778d",
-    "fc6022fe22a07274"
+    "fc6022fe22a07274",
+    "c4343398b357da0d"
   ],
   "entity_memory": {
+    "star in": {
+      "count": 2,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eva longoria": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eugenio derbez to": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marcelo in the": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "real world": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eugenio derbez": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marcelo": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lucia puenzo": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "produced": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zeta studios": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "elefantec global": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "francisco": {
+      "count": 1,
+      "last_seen": "2026-09-02T05:13:39.521210+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "marvel": {
       "count": 2,
       "last_seen": "2026-09-01T20:16:37.411253+00:00",
@@ -6899,13 +7038,6 @@
       ]
     },
     "diana silvers to": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star in": {
       "count": 1,
       "last_seen": "2026-09-01T17:05:38.114993+00:00",
       "categories": [
@@ -9561,83 +9693,6 @@
       "last_seen": "2026-08-24T18:03:02.342246+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "hinds to star": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in comedy": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this old love": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of mine": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "launches sales ahead": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "market": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hannah": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "her sisters": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hinds": {
-      "count": 1,
-      "last_seen": "2026-08-24T18:03:02.342246+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "venice adds gaza": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "naza": {
-      "count": 1,
-      "last_seen": "2026-08-24T11:14:44.602629+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
