@@ -3670,6 +3670,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0126beacd3c6f5bb1278d3f8",
+      "story_id": "54139978a8bab0e8",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584",
+      "title": "Margot Robbie-Narrated ‘Galapagos: The Last Eden’ Trailer Unveiled Ahead of Venice Immersive Bow (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 58.21,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "margot robbie",
+        "narrated",
+        "galapagos",
+        "the last eden",
+        "trailer unveiled ahead",
+        "venice immersive bow",
+        "venice film festival",
+        "immersive",
+        "directed",
+        "anthony geffen",
+        "atlantic studios"
+      ],
+      "hook": "مارتو رابینز در تریلر گالاپاکوس، آخرین بهشت",
+      "hooks": [
+        "نقاب آخرین بهشت در گالاپاکوس با مارتو رابینز",
+        "تجربه غوطه‌ور در گالاپاکوس، روایت مارتو رابینز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ریلر گالاپاکوس: آخرین بهشت پیش از نمایش در جشنواره ونیز منتشر شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 77,
+      "published_at": "2026-09-02T20:17:12.426188+00:00",
+      "text": "مارتو رابینز در تریلر گالاپاکوس، آخرین بهشت\n\n🎬 ریلر گالاپاکوس: آخرین بهشت، با روایت مارتو رابینز، در جشنواره ونیز معرفی شد\n\nریلر جدید فیلم غوطه‌ور گالاپاکوس: آخرین بهشت، که توسط مارتو رابینز روایت می‌شود، پیش از نمایش در بخش Immersive جشنواره ونیز منتشر شد.\nاین اثر، کارگردان آن آنتونی گفِن و تولیدکننده آتلانتیك استودیوز است و در انگلستان ساخته شده و به زبان انگلیسی ارائه می‌شود.\n\n📌 نکات مهم:\n• ریلر گالاپاکوس: آخرین بهشت توسط مارتو رابینز روایت شد\n• کارگردان آنتونی گفِن و تولیدکننده آتلانتیك استودیوز\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3744,7 +3797,8 @@
     "fb65faab94383beffe7a4735",
     "e12f8276f732b8f2b3b03038",
     "ed4e8c04860c15f0d3b84729",
-    "4e78306dd8154d4c868678b0"
+    "4e78306dd8154d4c868678b0",
+    "0126beacd3c6f5bb1278d3f8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3818,11 +3872,12 @@
     "https://deadline.com/2026/09/eva-longoria-eugenio-derbez-marcelo-in-the-real-world-1237064386",
     "https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069",
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
-    "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455"
+    "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455",
+    "https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 33,
+      "published": 34,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3878,7 +3933,7 @@
       "published": 4
     },
     "20": {
-      "published": 6
+      "published": 7
     },
     "21": {
       "published": 8
@@ -3939,64 +3994,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T21:49:44.045676+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T22:53:33.588434+00:00",
       "version": 2,
@@ -6954,6 +6951,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-02T20:17:12.426283+00:00",
+      "version": 2,
+      "posts": 73,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7027,15 +7082,94 @@
     "c4343398b357da0d",
     "addcdd76feca447b",
     "f7478d0117605db4",
-    "ff24348ba6cea024"
+    "ff24348ba6cea024",
+    "54139978a8bab0e8"
   ],
   "entity_memory": {
     "directed": {
-      "count": 4,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
+      "count": 5,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
       "categories": [
         "streaming",
         "box_office",
+        "movie_news"
+      ]
+    },
+    "venice": {
+      "count": 5,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "venice film festival": {
+      "count": 2,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "margot robbie": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "narrated": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "galapagos": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the last eden": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "trailer unveiled ahead": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice immersive bow": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "immersive": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony geffen": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "atlantic studios": {
+      "count": 1,
+      "last_seen": "2026-09-02T20:17:12.426218+00:00",
+      "categories": [
         "movie_news"
       ]
     },
@@ -7961,14 +8095,6 @@
         "movie_news"
       ]
     },
-    "venice": {
-      "count": 4,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "first look at": {
       "count": 1,
       "last_seen": "2026-08-31T13:03:34.792943+00:00",
@@ -8005,13 +8131,6 @@
       ]
     },
     "of the ring": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice film festival": {
       "count": 1,
       "last_seen": "2026-08-31T13:03:34.792943+00:00",
       "categories": [
@@ -9797,69 +9916,6 @@
     "criterion": {
       "count": 1,
       "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "geese": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "getting killed": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "criterion acquire paul": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thomas anderson": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cameron winter concert": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film the": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom hiddleston thriller": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tenzing": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to open zurich": {
-      "count": 1,
-      "last_seen": "2026-08-25T15:27:42.109854+00:00",
       "categories": [
         "movie_news"
       ]
