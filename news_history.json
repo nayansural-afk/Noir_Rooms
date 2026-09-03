@@ -3723,6 +3723,61 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "50d5f5ece4d8fac721cbfbda",
+      "story_id": "5c00ead07a4a1f8c",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949",
+      "title": "Carla Jeffery, Disney’s ‘Zombies’ Actress, Dies at 33",
+      "category": "actors_directors",
+      "score": 79.33,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "carla jeffery",
+        "zombies",
+        "actress",
+        "dies",
+        "jeffery",
+        "curb your enthusiasm",
+        "southland",
+        "disney channel",
+        "bree",
+        "sept",
+        "alexanders talent",
+        "instagram",
+        "carla"
+      ],
+      "hook": "کرم‌کرم، بازیگر 'زومبی‌ها' درگذشت",
+      "hooks": [
+        "کرم‌کرم، بازیگر Disney 'زومبی‌ها' درگذشت، نقش‌های تکراری در سریال‌ها",
+        "کرم‌کرم، ستاره Disney 'زومبی‌ها' درگذشت، حضور در 'کرب یور اینثوسایزم' و 'سوتلند'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کرم‌کرم در سن 33 سالگی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 78,
+      "published_at": "2026-09-03T05:40:03.202968+00:00",
+      "text": "کرم‌کرم، بازیگر 'زومبی‌ها' درگذشت\n\n🎬 کرم‌کرم، بازیگر Disney 'زومبی‌ها' درگذشت\n\nکرم‌کرم، بازیگر مشهور در سریال Disney 'زومبی‌ها'، در سن 33 سالگی درگذشت.\nاو نقش‌های تکراری در سریال‌های 'کرب یور اینثوسایزم' و 'سوتلند' داشت.\n\n📌 نکات مهم:\n• کرم‌کرم در سن 33 سالگی درگذشت\n• نقش‌های تکراری در 'کرب یور اینثوسایزم' و 'سوتلند' داشت\n\n✅ تأیید چندمنبعی: The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3798,7 +3853,8 @@
     "e12f8276f732b8f2b3b03038",
     "ed4e8c04860c15f0d3b84729",
     "4e78306dd8154d4c868678b0",
-    "0126beacd3c6f5bb1278d3f8"
+    "0126beacd3c6f5bb1278d3f8",
+    "50d5f5ece4d8fac721cbfbda"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3873,7 +3929,8 @@
     "https://variety.com/2026/film/news/trisha-krishnan-panorama-studios-tamil-film-1236849069",
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
     "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455",
-    "https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584"
+    "https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584",
+    "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949"
   ],
   "category_stats": {
     "movie_news": {
@@ -3883,7 +3940,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 27,
+      "published": 28,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -3945,7 +4002,7 @@
       "published": 2
     },
     "5": {
-      "published": 7
+      "published": 8
     },
     "19": {
       "published": 1
@@ -3994,64 +4051,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T22:53:33.588434+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-23T23:49:01.236997+00:00",
       "version": 2,
@@ -7009,6 +7008,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-03T05:40:03.203066+00:00",
+      "version": 2,
+      "posts": 74,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7083,9 +7140,109 @@
     "addcdd76feca447b",
     "f7478d0117605db4",
     "ff24348ba6cea024",
-    "54139978a8bab0e8"
+    "54139978a8bab0e8",
+    "5c00ead07a4a1f8c"
   ],
   "entity_memory": {
+    "disney": {
+      "count": 2,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dies": {
+      "count": 4,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "carla jeffery": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zombies": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actress": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jeffery": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "curb your enthusiasm": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "southland": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "disney channel": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bree": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sept": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alexanders talent": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "instagram": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "carla": {
+      "count": 1,
+      "last_seen": "2026-09-03T05:40:03.203000+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "directed": {
       "count": 5,
       "last_seen": "2026-09-02T20:17:12.426218+00:00",
@@ -9091,13 +9248,6 @@
         "streaming"
       ]
     },
-    "disney": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:50:29.427584+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "actor peter cullen": {
       "count": 1,
       "last_seen": "2026-08-28T21:50:29.427584+00:00",
@@ -9402,14 +9552,6 @@
     },
     "wednesday": {
       "count": 2,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "dies": {
-      "count": 3,
       "last_seen": "2026-08-28T01:30:28.075561+00:00",
       "categories": [
         "movie_news",
@@ -9834,90 +9976,6 @@
       "last_seen": "2026-08-25T21:01:36.130914+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "whorehouse": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "texas": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "steel magnolias": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nashville": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "december": {
-      "count": 2,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paul thomas anderson": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cameron winter": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carnegie hall": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "concert movie acquired": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "janus films": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "criterion janus films": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "criterion": {
-      "count": 1,
-      "last_seen": "2026-08-25T18:02:02.340694+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
