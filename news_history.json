@@ -3778,6 +3778,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0f49c3c2a1918ad5764a5de3",
+      "story_id": "ca0be7e2d15dbcb7",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650",
+      "title": "Ena Sendijarevic’s Witch Hunt Drama’ ‘The Possessed’ Rounds Out Cast as Trio of Rising Stars Join Ariane Labed (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "ena sendijarevic",
+        "witch hunt drama",
+        "the possessed",
+        "rounds out cast",
+        "trio",
+        "rising stars join",
+        "ariane labed",
+        "bosnian",
+        "dutch",
+        "suzy bemba",
+        "khalil gharbia",
+        "min park"
+      ],
+      "hook": "در جستجوی جادو: 'The Possessed' با ستارگان نوظهور",
+      "hooks": [
+        "سازماندهی جادو: بازیگران نوظهور در 'The Possessed'",
+        "یک دنیای جادویی: 'The Possessed' با ستارگان نوظهور"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Ena Sendijarević یک نویسنده/کارگردان بوسنی-هولندی است",
+        "فیلم 'The Possessed' تکمیل‌کردن فاز انتخاب بازیگران را پشت سر گذاشته"
+      ],
+      "status": "published",
+      "telegram_message_id": 79,
+      "published_at": "2026-09-03T09:08:50.093013+00:00",
+      "text": "در جستجوی جادو: 'The Possessed' با ستارگان نوظهور\n\n🎬 'The Possessed' با ستارگان نوظهور، در مسیر فیلمبرداری\n\nسینمای بوسنی-هولند با نویسنده/کارگردان Ena Sendijarević، فیلم سوم خود 'The Possessed' را به‌دست آورد. این فیلم در حال آماده‌سازی برای فیلمبرداری اصلی است.\nسه ستاره نوظهور Suzy Bemba، Khalil Gharbia و Ji-Min Park، که در جشنواره‌ها و تلویزیون‌های معتبر حضور داشته‌اند، به این پروژه پیوسته‌اند.\n\n📌 نکات مهم:\n• سینمای بوسنی-هولند، نویسنده/کارگردان Ena Sendijarević\n• سه ستاره نوظهور Suzy Bemba، Khalil Gharbia و Ji-Min Park در 'The Possessed'\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -3854,7 +3908,8 @@
     "ed4e8c04860c15f0d3b84729",
     "4e78306dd8154d4c868678b0",
     "0126beacd3c6f5bb1278d3f8",
-    "50d5f5ece4d8fac721cbfbda"
+    "50d5f5ece4d8fac721cbfbda",
+    "0f49c3c2a1918ad5764a5de3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -3930,7 +3985,8 @@
     "https://variety.com/2026/film/box-office/spider-man-brand-new-day-odyssey-coyote-acme-uk-ireland-box-office-1236849104",
     "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455",
     "https://variety.com/2026/film/festivals/margot-robbie-galapagos-last-eden-trailer-venice-immersive-1236849584",
-    "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949"
+    "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949",
+    "https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650"
   ],
   "category_stats": {
     "movie_news": {
@@ -3940,7 +3996,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 28,
+      "published": 29,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4014,7 +4070,7 @@
       "published": 2
     },
     "9": {
-      "published": 6
+      "published": 7
     },
     "6": {
       "published": 1
@@ -4051,64 +4107,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-23T23:49:01.236997+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-24T03:34:28.840937+00:00",
       "version": 2,
@@ -7066,6 +7064,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-03T09:08:50.093110+00:00",
+      "version": 2,
+      "posts": 75,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7141,9 +7197,94 @@
     "f7478d0117605db4",
     "ff24348ba6cea024",
     "54139978a8bab0e8",
-    "5c00ead07a4a1f8c"
+    "5c00ead07a4a1f8c",
+    "ca0be7e2d15dbcb7"
   ],
   "entity_memory": {
+    "ena sendijarevic": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "witch hunt drama": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the possessed": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rounds out cast": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "trio": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rising stars join": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ariane labed": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bosnian": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dutch": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "suzy bemba": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "khalil gharbia": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "min park": {
+      "count": 1,
+      "last_seen": "2026-09-03T09:08:50.093043+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "disney": {
       "count": 2,
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
@@ -9892,90 +10033,6 @@
       "last_seen": "2026-08-26T07:34:26.213165+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "carlson young": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anna todd": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "todd": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "one direction": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "every year after": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the summer": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "turned pretty": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nothing": {
-      "count": 1,
-      "last_seen": "2026-08-26T07:34:26.213165+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dolly parton": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "iconic singer": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "songwriter": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the best little": {
-      "count": 1,
-      "last_seen": "2026-08-25T21:01:36.130914+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
