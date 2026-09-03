@@ -3938,6 +3938,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ba0e76a90a48144e430c4e42",
+      "story_id": "37088d86ec308156",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970",
+      "title": "Inde Navarrette To Star In ‘The Waffle House Index’ Movie From Apple & Plan B",
+      "category": "movie_news",
+      "score": 61.18,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "inde navarrette to",
+        "star in",
+        "the waffle house",
+        "index",
+        "movie from apple",
+        "plan",
+        "after",
+        "rogue",
+        "inde navarrette",
+        "apple original films",
+        "louis paxton"
+      ],
+      "hook": "نویسنده جدید، اندی نواررت، در فیلم 'The Waffle House Index' نقش‌آفرینی می‌کند",
+      "hooks": [
+        "اندی نواررت در نقش جدیدی در 'The Waffle House Index'",
+        "پروژه‌ای از اپل و پلان بی با اندی نواررت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "اندی نواررت نقش Rogue را در X-Men بازی کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 82,
+      "published_at": "2026-09-03T20:15:53.397067+00:00",
+      "text": "نویسنده جدید، اندی نواررت، در فیلم 'The Waffle House Index' نقش‌آفرینی می‌کند\n\n🎬 اندی نواررت در نقش اصلی فیلم 'The Waffle House Index' از اپل و پلان بی\n\nاندی نواررت پس از ایفای نقش Rogue در فیلم آینده X-Men، در پروژه جدید 'The Waffle House Index' حضور دارد.\nApple Original Films و Plan B در پشت صحنه این فیلم حضور دارند و لویی پاکسن در پروژه نقش دارد.\n\n📌 نکات مهم:\n• اندی نواررت در نقش اصلی 'The Waffle House Index' است\n• Apple Original Films و Plan B در تولید این فیلم مشارکت دارند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4017,7 +4068,8 @@
     "50d5f5ece4d8fac721cbfbda",
     "0f49c3c2a1918ad5764a5de3",
     "43ae3246ba43230689912393",
-    "5e93a6e7b0492f39e575ed99"
+    "5e93a6e7b0492f39e575ed99",
+    "ba0e76a90a48144e430c4e42"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4096,11 +4148,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949",
     "https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650",
     "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247",
-    "https://deadline.com/2026/09/zero-intention-of-living-quietly-exclusive-clip-telluride-1237066492"
+    "https://deadline.com/2026/09/zero-intention-of-living-quietly-exclusive-clip-telluride-1237066492",
+    "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 34,
+      "published": 35,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4156,7 +4209,7 @@
       "published": 4
     },
     "20": {
-      "published": 7
+      "published": 8
     },
     "21": {
       "published": 8
@@ -4217,64 +4270,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-24T08:03:34.354731+00:00",
-      "version": 2,
-      "posts": 27,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 253,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-24T08:09:58.436356+00:00",
       "version": 2,
@@ -7232,6 +7227,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-03T20:15:53.397164+00:00",
+      "version": 2,
+      "posts": 78,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7310,9 +7363,88 @@
     "5c00ead07a4a1f8c",
     "ca0be7e2d15dbcb7",
     "b2811ac7ed06aa70",
-    "d6e696d75105e7e6"
+    "d6e696d75105e7e6",
+    "37088d86ec308156"
   ],
   "entity_memory": {
+    "star in": {
+      "count": 3,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "inde navarrette to": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the waffle house": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "index": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movie from apple": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plan": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "after": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rogue": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "inde navarrette": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "apple original films": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "louis paxton": {
+      "count": 1,
+      "last_seen": "2026-09-03T20:15:53.397099+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "telluride first look": {
       "count": 1,
       "last_seen": "2026-09-03T17:05:06.406985+00:00",
@@ -8001,13 +8133,6 @@
       "last_seen": "2026-09-02T09:08:19.139460+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "star in": {
-      "count": 2,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "eva longoria": {
@@ -10073,76 +10198,6 @@
     "lead family comedy": {
       "count": 1,
       "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "search party": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "where": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paw paw": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in living color": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "proud family": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tichina arnold": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "martin": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everybody hates chris": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "de gaulle": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "churchill": {
-      "count": 1,
-      "last_seen": "2026-08-26T16:37:13.976906+00:00",
       "categories": [
         "movie_news"
       ]
