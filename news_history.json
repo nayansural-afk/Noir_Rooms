@@ -4042,6 +4042,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "26576c88b6fd6c7289612c36",
+      "story_id": "04baf3411cb172cb",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529",
+      "title": "AR Content, Vertigo, Blumhouse Atomic Monster Set Remake of Genre-Bending, Satirical French Horror ‘Vincent Must Die’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "content",
+        "vertigo",
+        "blumhouse atomic monster",
+        "set remake",
+        "genre",
+        "bending",
+        "satirical french horror",
+        "vincent must die",
+        "french belgian",
+        "castang",
+        "cannes film festival"
+      ],
+      "hook": "آر کانتنت و بلمهاوس، هولناک فرانسوی را بازنویسی می‌کنند",
+      "hooks": [
+        "سریال جدید: ‘وینسنت باید بمیرند’ بازسازی می‌شود",
+        "فیلمنامه‌نویس جانسون-مکگلدرک، دوباره به سینما می‌پیوندد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این پروژه توسط دیوید لِسلی جانسون‑مکگلدرک نوشته و کارگردانی می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 84,
+      "published_at": "2026-09-04T09:08:12.870684+00:00",
+      "text": "آر کانتنت و بلمهاوس، هولناک فرانسوی را بازنویسی می‌کنند\n\n🎬 آر کانتنت، بلمهاوس و ورتیگو، هولناک فرانسوی را بازنویسی می‌کنند\n\nآر کانتنت، ورتیگو و بلمهاوس آتومیک مونستر، در حال ساخت نسخه‌ی بازسازی فیلم ترسناک فرانسوی ‘وینسنت باید بمیرند’ هستند. این پروژه توسط نویسنده و کارگردان دیوید لِسلی جانسون‑مکگلدرک هدایت می‌شود و تولیدکنندگان آن، الکساندر رودنیانسکی و روي لی، تجربه‌ی فراوانی در زمینه‌ی هالیوود دارند.\n\n📌 نکات مهم:\n• ‘وینسنت باید بمیرند’ نسخه‌ی بازسازی توسط AR Content، Vertigo و Blumhouse Atomic Monster است\n• فیلم اصلی توسط ستافان کستانگ در سال 2023 در بخش Directors’ Fortnight جشنواره کن عرضه شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4123,7 +4176,8 @@
     "43ae3246ba43230689912393",
     "5e93a6e7b0492f39e575ed99",
     "ba0e76a90a48144e430c4e42",
-    "92dd8fe8ac7dcd02ceb3a548"
+    "92dd8fe8ac7dcd02ceb3a548",
+    "26576c88b6fd6c7289612c36"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4204,11 +4258,12 @@
     "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247",
     "https://deadline.com/2026/09/zero-intention-of-living-quietly-exclusive-clip-telluride-1237066492",
     "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970",
-    "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699"
+    "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699",
+    "https://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 35,
+      "published": 36,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4288,7 +4343,7 @@
       "published": 2
     },
     "9": {
-      "published": 7
+      "published": 8
     },
     "6": {
       "published": 1
@@ -4325,64 +4380,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-24T09:31:43.341564+00:00",
-      "version": 2,
-      "posts": 29,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 272,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-24T11:14:44.602673+00:00",
       "version": 2,
@@ -7340,6 +7337,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-04T09:08:12.870771+00:00",
+      "version": 2,
+      "posts": 80,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7420,9 +7475,94 @@
     "b2811ac7ed06aa70",
     "d6e696d75105e7e6",
     "37088d86ec308156",
-    "a63c4cb81d4dad18"
+    "a63c4cb81d4dad18",
+    "04baf3411cb172cb"
   ],
   "entity_memory": {
+    "cannes": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "content": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vertigo": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blumhouse atomic monster": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "set remake": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "genre": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bending": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "satirical french horror": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vincent must die": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "french belgian": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "castang": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cannes film festival": {
+      "count": 1,
+      "last_seen": "2026-09-04T09:08:12.870712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 8,
       "last_seen": "2026-09-04T05:13:51.921706+00:00",
@@ -10171,91 +10311,6 @@
       "last_seen": "2026-08-28T02:19:52.075677+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "christina lauren": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "novel sets release": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "date at netflix": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christmas": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "written": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tiffany paulsen": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "winter spring summer": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fall": {
-      "count": 1,
-      "last_seen": "2026-08-28T02:19:52.075677+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wednesday": {
-      "count": 2,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "andrea eastman": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the godfather": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "casting director": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
