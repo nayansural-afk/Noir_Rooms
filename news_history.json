@@ -4148,6 +4148,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "dae617b52dd02dc86f6d2baf",
+      "story_id": "233fa81d47133cd7",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120",
+      "title": "Richard O’Sullivan Dies: British Sitcom Star Known For ‘Man About House’ & ‘Robin’s Nest’ Was 82",
+      "category": "actors_directors",
+      "score": 71.5,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "richard",
+        "sullivan dies",
+        "british sitcom star",
+        "known for",
+        "man about house",
+        "robin",
+        "nest",
+        "sullivan",
+        "british",
+        "brinsworth house",
+        "royal variety charity",
+        "twickenham"
+      ],
+      "hook": "سکوتی در سینمای بریتانیا: ریچارد اوسلون درگذشت",
+      "hooks": [
+        "ریچارد اوسلون، ستاره کمدی بریتانیایی، درگذشت",
+        "دوران آخر زندگی ریچارد اوسلون، ستاره 'Man About House'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ریچارد اوسلون درگذشت و سن او 82 سال بود",
+        "او در سریال‌های 'Man About House' و 'Robin's Nest' نقش داشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 86,
+      "published_at": "2026-09-04T17:05:22.995210+00:00",
+      "text": "سکوتی در سینمای بریتانیا: ریچارد اوسلون درگذشت\n\n🎬 ریچارد اوسلون، ستاره کمدی بریتانیایی، درگذشت؛ 82 ساله\n\nریچارد اوسلون، بازیگر مشهور سریال‌های کمدی بریتانیا، در سن 82 سالگی در خانه مراقبت برینسورث در تویکنغهام، لندن، درگذشت. او به خاطر لبخند چالش‌برانگیز و نقش‌های برجسته‌اش در سریال‌های 'Man About House' و 'Robin's Nest' شناخته می‌شد.\n\nدوران زندگی او در دنیای کمدی بریتانیایی، به‌عنوان یکی از چهره‌های شناخته‌شده در دهه 1970، هنوز در خاطره‌های مخاطبان باقی مانده است.\n\n📌 نکات مهم:\n• ریچارد اوسلون در سن 82 سالگی در خانه مراقبت برینسورث درگذشت\n• او به خاطر سریال‌های 'Man About House' و 'Robin's Nest' شناخته شد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4231,7 +4284,8 @@
     "ba0e76a90a48144e430c4e42",
     "92dd8fe8ac7dcd02ceb3a548",
     "26576c88b6fd6c7289612c36",
-    "126ce596ab9765323ca91bcf"
+    "126ce596ab9765323ca91bcf",
+    "dae617b52dd02dc86f6d2baf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4314,7 +4368,8 @@
     "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970",
     "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699",
     "https://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529",
-    "https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945"
+    "https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945",
+    "https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120"
   ],
   "category_stats": {
     "movie_news": {
@@ -4324,7 +4379,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 32,
+      "published": 33,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4416,7 +4471,7 @@
       "published": 7
     },
     "17": {
-      "published": 6
+      "published": 7
     }
   },
   "strategy": {
@@ -4435,64 +4490,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-24T18:03:02.342292+00:00",
-      "version": 2,
-      "posts": 31,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 291,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-24T21:06:29.794486+00:00",
       "version": 2,
@@ -7450,6 +7447,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-04T17:05:22.995321+00:00",
+      "version": 2,
+      "posts": 82,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7532,9 +7587,94 @@
     "37088d86ec308156",
     "a63c4cb81d4dad18",
     "04baf3411cb172cb",
-    "b4f1d1a14d9d4d89"
+    "b4f1d1a14d9d4d89",
+    "233fa81d47133cd7"
   ],
   "entity_memory": {
+    "british": {
+      "count": 2,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "richard": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sullivan dies": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "british sitcom star": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "known for": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "man about house": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robin": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nest": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sullivan": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "brinsworth house": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "royal variety charity": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "twickenham": {
+      "count": 1,
+      "last_seen": "2026-09-04T17:05:22.995245+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "september": {
       "count": 5,
       "last_seen": "2026-09-04T13:05:23.168941+00:00",
@@ -7905,13 +8045,6 @@
       ]
     },
     "claims his space": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
       "count": 1,
       "last_seen": "2026-09-03T17:05:06.406985+00:00",
       "categories": [
@@ -10290,83 +10423,6 @@
       "categories": [
         "trailers_first_look",
         "actors_directors"
-      ]
-    },
-    "james walsh dies": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "winning broadway producer": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the heidi chronicles": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "not rappaport": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james walsh": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tony award": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "judd hirsch": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pulitzer": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:48:29.146136+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "busan": {
-      "count": 2,
-      "last_seen": "2026-08-28T21:21:10.498004+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dark comedy": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:21:10.498004+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
