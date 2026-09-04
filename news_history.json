@@ -3989,6 +3989,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "92dd8fe8ac7dcd02ceb3a548",
+      "story_id": "a63c4cb81d4dad18",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699",
+      "title": "Nicole Kidman Wanted To Star In A ‘Dune’ Film But Denis Villeneuve “Never Asks” To Work Together: “I’m Obsessed”",
+      "category": "actors_directors",
+      "score": 81.94,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "denis villeneuve",
+        "dune",
+        "oscar",
+        "nicole kidman wanted",
+        "to star in",
+        "film but denis",
+        "villeneuve",
+        "never asks",
+        "to work together",
+        "obsessed",
+        "although nicole kidman",
+        "the oscar"
+      ],
+      "hook": "نیکول کِدمان: آرزو داشت در دُن ایفای نقش کند، ولی ویلنویو درخواست نکرد.",
+      "hooks": [
+        "ویلنویو هیچ‌وقت از نیکول کِدمان درخواست نکرد، او فقط می‌خواست تماشا کند.",
+        "نیکول کِدمان در دُن نقش نداشت؛ او فقط می‌خواست فیلم را ببیند."
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نیکول کِدمان اظهار ناراحتی کرد که ویلنویو هرگز او را برای نقش در دُن دعوت نکرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 83,
+      "published_at": "2026-09-04T05:13:51.921670+00:00",
+      "text": "نیکول کِدمان: آرزو داشت در دُن ایفای نقش کند، ولی ویلنویو درخواست نکرد.\n\n🎬 نیکول کِدمان: چرا در دُن نقش نداشت و فقط می‌خواست تماشا کند\n\nنیکول کِدمان، برنده جایزه اسکار، اعلام کرد که آرزو داشت در سه‌تایی دُن بازی کند، اما هیچ‌وقت از او درخواست نکرد.\nاو گفت که به جای بازی، فقط می‌خواهد فیلم را تماشا کند و از این فرصت غیبتش ناراضی است.\n\n📌 نکات مهم:\n• نیکول کِدمان می‌خواست در دُن بازی کند\n• ویلنویو هیچ‌وقت او را دعوت نکرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4069,7 +4122,8 @@
     "0f49c3c2a1918ad5764a5de3",
     "43ae3246ba43230689912393",
     "5e93a6e7b0492f39e575ed99",
-    "ba0e76a90a48144e430c4e42"
+    "ba0e76a90a48144e430c4e42",
+    "92dd8fe8ac7dcd02ceb3a548"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4149,7 +4203,8 @@
     "https://variety.com/2026/film/global/ena-sendijarevic-the-possessed-ariane-labed-cast-1236849650",
     "https://variety.com/2026/film/global/lesley-manville-winter-of-the-crow-trailer-us-release-date-1236850247",
     "https://deadline.com/2026/09/zero-intention-of-living-quietly-exclusive-clip-telluride-1237066492",
-    "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970"
+    "https://deadline.com/2026/09/inde-navarrette-the-waffle-house-index-movie-1237066970",
+    "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699"
   ],
   "category_stats": {
     "movie_news": {
@@ -4159,7 +4214,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 30,
+      "published": 31,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4221,7 +4276,7 @@
       "published": 2
     },
     "5": {
-      "published": 8
+      "published": 9
     },
     "19": {
       "published": 1
@@ -4270,64 +4325,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-24T08:09:58.436356+00:00",
-      "version": 2,
-      "posts": 28,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 261,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-24T09:31:43.341564+00:00",
       "version": 2,
@@ -7285,6 +7282,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-04T05:13:51.921780+00:00",
+      "version": 2,
+      "posts": 79,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7364,9 +7419,96 @@
     "ca0be7e2d15dbcb7",
     "b2811ac7ed06aa70",
     "d6e696d75105e7e6",
-    "37088d86ec308156"
+    "37088d86ec308156",
+    "a63c4cb81d4dad18"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 8,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "denis villeneuve": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dune": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nicole kidman wanted": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to star in": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "film but denis": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "villeneuve": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "never asks": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to work together": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "obsessed": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "although nicole kidman": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the oscar": {
+      "count": 1,
+      "last_seen": "2026-09-04T05:13:51.921706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star in": {
       "count": 3,
       "last_seen": "2026-09-03T20:15:53.397099+00:00",
@@ -8710,15 +8852,6 @@
       "last_seen": "2026-08-31T20:08:42.251165+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 7,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "korean": {
@@ -10123,83 +10256,6 @@
       "last_seen": "2026-08-28T01:30:28.075561+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "former hollywood agent": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "santa barbara": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "entering": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eastman": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "international creative management": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pioneering": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "agent": {
-      "count": 1,
-      "last_seen": "2026-08-28T01:30:28.075561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "feature": {
-      "count": 2,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tommy davidson": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tichina arnold to": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead family comedy": {
-      "count": 1,
-      "last_seen": "2026-08-27T11:54:42.670418+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
