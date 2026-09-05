@@ -4347,6 +4347,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0cffb399781f9eb482da7125",
+      "story_id": "fea894035dbf9eb4",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270",
+      "title": "Loco Films Boards Venice Title ‘Guria’ As Drama Is Selected To Be Georgia’s Oscar Entry + First Trailer",
+      "category": "movie_news",
+      "score": 64.84,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 65.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "oscar",
+        "venice",
+        "loco films boards",
+        "venice title",
+        "guria",
+        "as drama is",
+        "selected to be",
+        "georgia",
+        "oscar entry",
+        "first trailer",
+        "loco films",
+        "georgian"
+      ],
+      "hook": "گوریای گرجستان، دروازهٔ اوکراینی به اسکار",
+      "hooks": [
+        "گوریای گرجستان در ونیز، انتخاب برای اسکار",
+        "Loco Films، فروش گوریای گرجستان، تریلر تازه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Loco Films حق فروش گوریای گرجستان را به‌دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 90,
+      "published_at": "2026-09-05T13:04:47.268753+00:00",
+      "text": "گوریای گرجستان، دروازهٔ اوکراینی به اسکار\n\n🎬 گوریای گرجستان در ونیز؛ Loco Films به‌دنبال فروش و تریلر جدید\n\nفیلم درام گوریای کارگردان لووان کوگوشویلی، در بخش Spotlight جشنواره ونیز به نمایش گذاشته می‌شود. Loco Films حق فروش را به‌دست آورد و اولین تریلر را منتشر کرد، در حالی که گوریای گرجستان به‌عنوان نامزد اسکار انتخاب شد.\n\n📌 نکات مهم:\n• Loco Films حق فروش گوریای گرجستان را به‌دست آورد\n• گوریای گرجستان به‌عنوان نامزد اسکار 99ه‌م انتخاب شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4434,7 +4487,8 @@
     "dae617b52dd02dc86f6d2baf",
     "e6296465f3d969f587bf7fb8",
     "e0ac2f04b9ae2162df210efa",
-    "2d131fa309f2777b95d03404"
+    "2d131fa309f2777b95d03404",
+    "0cffb399781f9eb482da7125"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4521,11 +4575,12 @@
     "https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120",
     "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
     "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
-    "https://www.bbc.co.uk/news/articles/ceq8r5gjygno"
+    "https://www.bbc.co.uk/news/articles/ceq8r5gjygno",
+    "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 38,
+      "published": 39,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4620,7 +4675,7 @@
       "published": 1
     },
     "13": {
-      "published": 7
+      "published": 8
     },
     "17": {
       "published": 7
@@ -4642,64 +4697,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-25T15:27:42.109904+00:00",
-      "version": 2,
-      "posts": 35,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 323,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-25T18:02:02.340748+00:00",
       "version": 2,
@@ -7657,6 +7654,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-05T13:04:47.268893+00:00",
+      "version": 2,
+      "posts": 86,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7743,9 +7798,97 @@
     "233fa81d47133cd7",
     "ee34523d4fcbc5c7",
     "844e4aba3d6320eb",
-    "415eb860fa871f7c"
+    "415eb860fa871f7c",
+    "fea894035dbf9eb4"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 9,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "venice": {
+      "count": 6,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "loco films boards": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice title": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "guria": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "as drama is": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "selected to be": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "georgia": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oscar entry": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first trailer": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "loco films": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "georgian": {
+      "count": 1,
+      "last_seen": "2026-09-05T13:04:47.268815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "disney": {
       "count": 3,
       "last_seen": "2026-09-05T09:07:42.987643+00:00",
@@ -8182,15 +8325,6 @@
       "last_seen": "2026-09-04T09:08:12.870712+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 8,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "denis villeneuve": {
@@ -8657,14 +8791,6 @@
         "streaming",
         "box_office",
         "movie_news"
-      ]
-    },
-    "venice": {
-      "count": 5,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "venice film festival": {
@@ -10513,77 +10639,6 @@
       "last_seen": "2026-08-28T22:00:25.617908+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "the rocky horror": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "picture show": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stephen king": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "clowns": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "curry": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "prime video": {
-      "count": 2,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "actors_directors",
-        "streaming"
-      ]
-    },
-    "dan stevens hopes": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "preserves": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "elements of": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "extreme violence": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
       ]
     }
   },
