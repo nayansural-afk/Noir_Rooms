@@ -4452,6 +4452,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1f06314be5b496e6957d6a40",
+      "story_id": "45450923f1f695fb",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835",
+      "title": "John Malkovich Returning to Israel With ‘The Music Critic’",
+      "category": "movie_news",
+      "score": 51.32,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "john malkovich returning",
+        "israel with",
+        "the music critic",
+        "tel aviv",
+        "april"
+      ],
+      "hook": "جانی مارکویچ به اسرائیل بازمی‌گردد، در 'نقد‌کننده موسیقی'",
+      "hooks": [
+        "مارکویچ در تل‌آویو، در نقش 'نقد‌کننده موسیقی'",
+        "نقد‌کننده موسیقی: بازگشت مارکویچ به تل‌آویو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جانی مارکویچ در تل‌آویو در آوریل در نقش 'نقد‌کننده موسیقی' حضور خواهد یافت"
+      ],
+      "status": "published",
+      "telegram_message_id": 92,
+      "published_at": "2026-09-05T20:16:10.797224+00:00",
+      "text": "جانی مارکویچ به اسرائیل بازمی‌گردد، در 'نقد‌کننده موسیقی'\n\n🎬 جانی مارکویچ به تل‌آویو بازمی‌گردد؛ در نقش 'نقد‌کننده موسیقی'\n\nجانی مارکویچ، نامزد دو بار جایزه اسکار، در آوریل به تل‌آویو بازمی‌گردد.\nاو در نقش اصلی در نمایش هزل‌آمیز و تئاتری-موسیقی به نام 'نقد‌کننده موسیقی' حضور خواهد داشت.\n\n📌 نکات مهم:\n• جانی مارکویچ دو بار نامزد جایزه اسکار است\n• در آوریل به تل‌آویو بازمی‌گردد و در نمایش 'نقد‌کننده موسیقی' نقش اصلی دارد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4541,7 +4587,8 @@
     "e0ac2f04b9ae2162df210efa",
     "2d131fa309f2777b95d03404",
     "0cffb399781f9eb482da7125",
-    "f703adacbb322c68999fec33"
+    "f703adacbb322c68999fec33",
+    "1f06314be5b496e6957d6a40"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4630,11 +4677,12 @@
     "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
     "https://www.bbc.co.uk/news/articles/ceq8r5gjygno",
     "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270",
-    "https://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more"
+    "https://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more",
+    "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 40,
+      "published": 41,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4690,7 +4738,7 @@
       "published": 4
     },
     "20": {
-      "published": 9
+      "published": 10
     },
     "21": {
       "published": 8
@@ -4751,64 +4799,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-25T21:01:36.130960+00:00",
-      "version": 2,
-      "posts": 37,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 346,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-26T07:34:26.213222+00:00",
       "version": 2,
@@ -7766,6 +7756,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-05T20:16:10.797322+00:00",
+      "version": 2,
+      "posts": 88,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7854,9 +7902,54 @@
     "844e4aba3d6320eb",
     "415eb860fa871f7c",
     "fea894035dbf9eb4",
-    "7c4bc26ffa0ce78a"
+    "7c4bc26ffa0ce78a",
+    "45450923f1f695fb"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 10,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "john malkovich returning": {
+      "count": 1,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israel with": {
+      "count": 1,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the music critic": {
+      "count": 1,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tel aviv": {
+      "count": 1,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "april": {
+      "count": 1,
+      "last_seen": "2026-09-05T20:16:10.797256+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "venice": {
       "count": 7,
       "last_seen": "2026-09-05T17:04:57.438369+00:00",
@@ -7940,15 +8033,6 @@
       "last_seen": "2026-09-05T17:04:57.438369+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 9,
-      "last_seen": "2026-09-05T13:04:47.268815+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "loco films boards": {
@@ -10656,42 +10740,6 @@
     "fun phone call": {
       "count": 1,
       "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mary jane": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series": {
-      "count": 2,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "streaming",
-        "actors_directors"
-      ]
-    },
-    "kartik aaryan": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "captain india": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sets september london": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
       "categories": [
         "actors_directors"
       ]
