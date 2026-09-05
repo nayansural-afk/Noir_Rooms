@@ -4299,6 +4299,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2d131fa309f2777b95d03404",
+      "story_id": "415eb860fa871f7c",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+      "category": "movie_news",
+      "score": 71.98,
+      "freshness": 65.0,
+      "credibility": 92.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "beautiful",
+        "carla jeffery",
+        "jeffery",
+        "bree",
+        "disney channel",
+        "zombies"
+      ],
+      "hook": "کارگردان دیزنی Carla Jeffery درگذشت",
+      "hooks": [
+        "کارگردان دیزنی Carla Jeffery درگذشت",
+        "کارگردان دیزنی Carla Jeffery درگذشت در سن ۳۳ سالگی",
+        "کارگردان دیزنی Carla Jeffery درگذشت، بازیگر بریکه بری"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کارگردان دیزنی Carla Jeffery درگذشت در سن ۳۳ سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 89,
+      "published_at": "2026-09-05T09:07:42.987609+00:00",
+      "text": "کارگردان دیزنی Carla Jeffery درگذشت\n\n🎬 کارگردان دیزنی Carla Jeffery درگذشت\n\nکارگردان دیزنی Carla Jeffery درگذشت.\n\nاو در سال ۲۰۱۸ در فیلم «Zombies» به عنوان بریکه بری ایفای نقش کرد و در دو ادامه‌نامهٔ آن حضور داشت.\n\n📌 نکات مهم:\n• کارگردان دیزنی Carla Jeffery درگذشت در سن ۳۳ سالگی\n• شخصیت بریکه بری در فیلم «Zombies» 2018 و دو ادامه‌نامهٔ آن\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/ceq8r5gjygno",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4385,7 +4433,8 @@
     "126ce596ab9765323ca91bcf",
     "dae617b52dd02dc86f6d2baf",
     "e6296465f3d969f587bf7fb8",
-    "e0ac2f04b9ae2162df210efa"
+    "e0ac2f04b9ae2162df210efa",
+    "2d131fa309f2777b95d03404"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4471,11 +4520,12 @@
     "https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945",
     "https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120",
     "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
-    "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival"
+    "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+    "https://www.bbc.co.uk/news/articles/ceq8r5gjygno"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 37,
+      "published": 38,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4555,7 +4605,7 @@
       "published": 2
     },
     "9": {
-      "published": 8
+      "published": 9
     },
     "6": {
       "published": 1
@@ -4592,64 +4642,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-25T10:17:06.308800+00:00",
-      "version": 2,
-      "posts": 34,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 312,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-25T15:27:42.109904+00:00",
       "version": 2,
@@ -7607,6 +7599,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-05T09:07:42.987711+00:00",
+      "version": 2,
+      "posts": 85,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 401,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7692,9 +7742,65 @@
     "b4f1d1a14d9d4d89",
     "233fa81d47133cd7",
     "ee34523d4fcbc5c7",
-    "844e4aba3d6320eb"
+    "844e4aba3d6320eb",
+    "415eb860fa871f7c"
   ],
   "entity_memory": {
+    "disney": {
+      "count": 3,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "carla jeffery": {
+      "count": 2,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "zombies": {
+      "count": 2,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "jeffery": {
+      "count": 2,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "disney channel": {
+      "count": 2,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "bree": {
+      "count": 2,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "beautiful": {
+      "count": 1,
+      "last_seen": "2026-09-05T09:07:42.987643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "october": {
       "count": 3,
       "last_seen": "2026-09-05T05:12:51.176822+00:00",
@@ -8487,13 +8593,6 @@
         "actors_directors"
       ]
     },
-    "disney": {
-      "count": 2,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "dies": {
       "count": 4,
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
@@ -8502,28 +8601,7 @@
         "actors_directors"
       ]
     },
-    "carla jeffery": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zombies": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "actress": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jeffery": {
       "count": 1,
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
       "categories": [
@@ -8538,20 +8616,6 @@
       ]
     },
     "southland": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "disney channel": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bree": {
       "count": 1,
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
       "categories": [
@@ -10516,13 +10580,6 @@
       ]
     },
     "extreme violence": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "also satire": {
       "count": 1,
       "last_seen": "2026-08-28T21:59:10.237943+00:00",
       "categories": [
