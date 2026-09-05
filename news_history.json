@@ -4400,6 +4400,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f703adacbb322c68999fec33",
+      "story_id": "7c4bc26ffa0ce78a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more",
+      "title": "‘Primetime’ Venice Film Festival Red Carpet Photos: Robert Pattinson, Merritt Wever, Phoebe Bridgers & More",
+      "category": "movie_news",
+      "score": 50.86,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "primetime",
+        "venice film festival",
+        "red carpet photos",
+        "robert pattinson",
+        "merritt wever",
+        "phoebe bridgers",
+        "more the venice",
+        "film festival",
+        "lance oppenheim",
+        "skyler gisondo",
+        "attending"
+      ],
+      "hook": "رابرٹ پتینسون در جشنواره ونیز، Primetime را رونمایی می‌کند",
+      "hooks": [
+        "Primetime در ونیز، ستارگان در کمر بند",
+        "فیلم جدید رابرٹ پتینسون در جشنواره ونیز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم Primetime در جشنواره ونیز رونمایی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 91,
+      "published_at": "2026-09-05T17:04:57.438339+00:00",
+      "text": "رابرٹ پتینسون در جشنواره ونیز، Primetime را رونمایی می‌کند\n\n🎬 Primetime در جشنواره ونیز رونمایی شد: رابرٹ پتینسون، مریت ویور، فیو بریکرز در صحنه\n\nفیلم Primetime، کارگردان Lance Oppenheim، در جشنواره ونیز به نمایش گذاشته شد. رابرٹ پتینسون، مریت ویور، اسکایلر گیسوندو و فیو بریکرز در نقش‌های اصلی حضور داشتند.\n\nحضور اعضای تیم فیلم، از جمله آلی وینتر، آری آستر، بوکیم وودبین و سوکی واترهاوس، در مراسم رونمایی حضور یافتند.\n\n📌 نکات مهم:\n• فیلم Primetime در جشنواره ونیز رونمایی شد\n• رابرٹ پتینسون، مریت ویور، اسکایلر گیسوندو، فیو بریکرز در نقش اصلی\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4488,7 +4540,8 @@
     "e6296465f3d969f587bf7fb8",
     "e0ac2f04b9ae2162df210efa",
     "2d131fa309f2777b95d03404",
-    "0cffb399781f9eb482da7125"
+    "0cffb399781f9eb482da7125",
+    "f703adacbb322c68999fec33"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4576,11 +4629,12 @@
     "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
     "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
     "https://www.bbc.co.uk/news/articles/ceq8r5gjygno",
-    "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270"
+    "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270",
+    "https://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 39,
+      "published": 40,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4678,7 +4732,7 @@
       "published": 8
     },
     "17": {
-      "published": 7
+      "published": 8
     }
   },
   "strategy": {
@@ -4697,64 +4751,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-25T18:02:02.340748+00:00",
-      "version": 2,
-      "posts": 36,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 337,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-25T21:01:36.130960+00:00",
       "version": 2,
@@ -7712,6 +7708,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-05T17:04:57.438438+00:00",
+      "version": 2,
+      "posts": 87,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7799,22 +7853,100 @@
     "ee34523d4fcbc5c7",
     "844e4aba3d6320eb",
     "415eb860fa871f7c",
-    "fea894035dbf9eb4"
+    "fea894035dbf9eb4",
+    "7c4bc26ffa0ce78a"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 7,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "venice film festival": {
+      "count": 3,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "primetime": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "red carpet photos": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "robert pattinson": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "merritt wever": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phoebe bridgers": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more the venice": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "skyler gisondo": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "attending": {
+      "count": 1,
+      "last_seen": "2026-09-05T17:04:57.438369+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 9,
       "last_seen": "2026-09-05T13:04:47.268815+00:00",
       "categories": [
         "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "venice": {
-      "count": 6,
-      "last_seen": "2026-09-05T13:04:47.268815+00:00",
-      "categories": [
         "movie_news",
         "awards_festivals"
       ]
@@ -8790,13 +8922,6 @@
       "categories": [
         "streaming",
         "box_office",
-        "movie_news"
-      ]
-    },
-    "venice film festival": {
-      "count": 2,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -10567,76 +10692,6 @@
     "sets september london": {
       "count": 1,
       "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shoot": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shimit amin": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chak de": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "india": {
-      "count": 1,
-      "last_seen": "2026-08-29T05:07:48.161310+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tony": {
-      "count": 2,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "farewell": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dr frank": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "furter": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tim curry": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rocky horror show": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
       "categories": [
         "actors_directors"
       ]
