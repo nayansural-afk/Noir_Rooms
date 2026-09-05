@@ -4253,6 +4253,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e0ac2f04b9ae2162df210efa",
+      "story_id": "844e4aba3d6320eb",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
+      "category": "movie_news",
+      "score": 64.51,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "female",
+        "london",
+        "over",
+        "kristy matheson",
+        "october",
+        "continue"
+      ],
+      "hook": "فیلم‌سازان زن هنوز در سینما کنار گذاشته می‌شوند",
+      "hooks": [
+        "نسبت فیلم‌سازی زنان در جشنواره لندن: 43٪، اما فقط دو در گالا",
+        "فیلم‌سازان زن در جشنواره لندن: 43٪، اما در گالا کم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم‌سازان زن هنوز در سینما کنار گذاشته می‌شوند"
+      ],
+      "status": "published",
+      "telegram_message_id": 88,
+      "published_at": "2026-09-05T05:12:51.176793+00:00",
+      "text": "فیلم‌سازان زن هنوز در سینما کنار گذاشته می‌شوند\n\n🎬 فیلم‌سازان زن در جشنواره لندن: 43٪ از فیلم‌ها، اما فقط دو در گالا\n\nدر جشنواره فیلم لندن (LFF) 251 عنوان معرفی شد که 109 فیلم (43٪) توسط فیلم‌سازان زن ساخته شده‌اند.\nبا این حال، فقط دو از 21 فیلم گالا توسط زنان کارگردانی شده‌اند، نشان‌دهنده ادامه فشار بر این دسته از هنرمندان.\n\n📌 نکات مهم:\n• 43٪ از 251 فیلم جشنواره توسط فیلم‌سازان زن ساخته شده‌اند\n• فقط دو از 21 فیلم گالا توسط زنان کارگردانی شده‌اند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4338,7 +4384,8 @@
     "26576c88b6fd6c7289612c36",
     "126ce596ab9765323ca91bcf",
     "dae617b52dd02dc86f6d2baf",
-    "e6296465f3d969f587bf7fb8"
+    "e6296465f3d969f587bf7fb8",
+    "e0ac2f04b9ae2162df210efa"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4423,11 +4470,12 @@
     "https://variety.com/2026/film/global/ar-content-vertigo-blumhouse-atomic-monster-remake-vincent-must-die-1236849529",
     "https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945",
     "https://deadline.com/2026/09/richard-o-sullivan-dead-british-sitcom-star-was-82-1237068120",
-    "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet"
+    "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
+    "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 36,
+      "published": 37,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4495,7 +4543,7 @@
       "published": 2
     },
     "5": {
-      "published": 9
+      "published": 10
     },
     "19": {
       "published": 1
@@ -4544,64 +4592,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-25T06:03:45.313101+00:00",
-      "version": 2,
-      "posts": 33,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        },
-        {
-          "title": "15 Movies & Shows To Watch Before ‘Avengers: Doomsday’",
-          "category": "movie_news",
-          "score": 78.98,
-          "multi_source_count": 1
-        }
-      ],
-      "entity_memory_size": 303,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-25T10:17:06.308800+00:00",
       "version": 2,
@@ -7559,6 +7549,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-05T05:12:51.176903+00:00",
+      "version": 2,
+      "posts": 84,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7643,9 +7691,55 @@
     "04baf3411cb172cb",
     "b4f1d1a14d9d4d89",
     "233fa81d47133cd7",
-    "ee34523d4fcbc5c7"
+    "ee34523d4fcbc5c7",
+    "844e4aba3d6320eb"
   ],
   "entity_memory": {
+    "october": {
+      "count": 3,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 4,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "over": {
+      "count": 2,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "female": {
+      "count": 1,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kristy matheson": {
+      "count": 1,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-09-05T05:12:51.176822+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "like": {
       "count": 1,
       "last_seen": "2026-09-04T20:16:05.086357+00:00",
@@ -8579,14 +8673,6 @@
         "movie_news"
       ]
     },
-    "october": {
-      "count": 2,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "always lalisa": {
       "count": 1,
       "last_seen": "2026-09-02T17:05:11.647376+00:00",
@@ -8744,14 +8830,6 @@
       "last_seen": "2026-09-02T13:05:45.233018+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "london": {
-      "count": 3,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "trisha krishnan toplines": {
@@ -10401,13 +10479,6 @@
         "actors_directors"
       ]
     },
-    "over": {
-      "count": 1,
-      "last_seen": "2026-08-28T22:00:25.617908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "curry": {
       "count": 1,
       "last_seen": "2026-08-28T22:00:25.617908+00:00",
@@ -10456,27 +10527,6 @@
       "last_seen": "2026-08-28T21:59:10.237943+00:00",
       "categories": [
         "streaming"
-      ]
-    },
-    "dan stevens": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "stevens": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:59:10.237943+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "actor peter cullen": {
-      "count": 1,
-      "last_seen": "2026-08-28T21:50:29.427584+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
