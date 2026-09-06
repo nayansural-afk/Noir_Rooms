@@ -4655,6 +4655,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7f3330373df6625ea172477f",
+      "story_id": "bf9820504f384e07",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
+      "title": "Rachael Leigh Cook Praises Letters To Cleo’s Kay Hanley At ‘Josie & the Pussycats’ Anniversary Screening: “I Am Only Half Of This Role”",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "rachael leigh cook",
+        "praises letters to",
+        "cleo",
+        "kay hanley at",
+        "josie",
+        "pussycats",
+        "anniversary screening",
+        "am only half",
+        "of this role",
+        "as rachael leigh",
+        "cook",
+        "during cinespia"
+      ],
+      "hook": "رچل لِی کُک، ستارهٔ Josie، به صدای Kay Hanley تحسین می‌کند",
+      "hooks": [
+        "سکوت در صدا: رچل لِی کُک به Kay Hanley تقدیر می‌کند",
+        "25 سال پس از Josie، رچل لِی کُک به Kay Hanley می‌گوید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "رچل لِی کُک Kay Hanley را تحسین کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 96,
+      "published_at": "2026-09-06T17:04:43.083680+00:00",
+      "text": "رچل لِی کُک، ستارهٔ Josie، به صدای Kay Hanley تحسین می‌کند\n\n🎬 رچل لِی کُک در نمایش 25 ساله Josie & the Pussycats، Kay Hanley را تحسین می‌کند\n\nرچل لِی کُک در نمایش 25 ساله فیلم Josie & the Pussycats در Cinespia، که در قبرستان هالیوود فورِیور برگزار شد، حضور داشت. او به Kay Hanley، صدای اصلی شخصیت Josie و frontwoman گروه Letters to Cleo، تقدیر کرد و گفت که او فقط نیمی از نقش را بازی می‌کند.\n\n📌 نکات مهم:\n• رچل لِی کُک در نمایش 25 ساله Josie & the Pussycats حضور داشت\n• Kay Hanley صدای Josie بود و رچل لِی کُک او را تحسین کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4748,7 +4801,8 @@
     "1f06314be5b496e6957d6a40",
     "9374233bb8e71f813b53ad24",
     "3a72078d5f12b24291a9ccd4",
-    "b915a24bc2f388bc0c0e0cbb"
+    "b915a24bc2f388bc0c0e0cbb",
+    "7f3330373df6625ea172477f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4841,7 +4895,8 @@
     "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835",
     "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
     "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049",
-    "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144"
+    "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144",
+    "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354"
   ],
   "category_stats": {
     "movie_news": {
@@ -4851,7 +4906,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 34,
+      "published": 35,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4943,7 +4998,7 @@
       "published": 9
     },
     "17": {
-      "published": 8
+      "published": 9
     }
   },
   "strategy": {
@@ -4962,64 +5017,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-26T16:37:13.976960+00:00",
-      "version": 2,
-      "posts": 40,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 378,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-27T11:54:42.670473+00:00",
       "version": 2,
@@ -7977,6 +7974,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-06T17:04:43.083783+00:00",
+      "version": 2,
+      "posts": 92,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8069,9 +8124,94 @@
     "45450923f1f695fb",
     "92e777c4a89d89ee",
     "6eaacfc9d84cc445",
-    "46631d644c46e519"
+    "46631d644c46e519",
+    "bf9820504f384e07"
   ],
   "entity_memory": {
+    "rachael leigh cook": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "praises letters to": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cleo": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kay hanley at": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "josie": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pussycats": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anniversary screening": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "am only half": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "of this role": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "as rachael leigh": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cook": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "during cinespia": {
+      "count": 1,
+      "last_seen": "2026-09-06T17:04:43.083712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "san sebastian": {
       "count": 1,
       "last_seen": "2026-09-06T13:05:16.858990+00:00",
@@ -10820,90 +10960,6 @@
       "last_seen": "2026-08-30T05:07:51.464102+00:00",
       "categories": [
         "movie_news",
-        "actors_directors"
-      ]
-    },
-    "silicon valley": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the social reckoning": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "artificial": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "olivia colman": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rocky": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy allen white": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "they": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mark zuckerberg": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "meta": {
-      "count": 1,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount": {
-      "count": 3,
-      "last_seen": "2026-08-29T20:08:53.286766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "days": {
-      "count": 2,
-      "last_seen": "2026-08-29T20:08:53.286766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thunder": {
-      "count": 2,
-      "last_seen": "2026-08-29T20:08:53.286766+00:00",
-      "categories": [
         "actors_directors"
       ]
     }
