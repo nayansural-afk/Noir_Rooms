@@ -4498,6 +4498,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9374233bb8e71f813b53ad24",
+      "story_id": "92e777c4a89d89ee",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "title": "Latcho Drom director Tony Gatlif dies aged 77",
+      "category": "movie_news",
+      "score": 70.01,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "latcho drom",
+        "tony gatlif",
+        "roma",
+        "provence tony gatlif",
+        "french",
+        "gatlif",
+        "wednesday",
+        "arles",
+        "provence",
+        "france",
+        "continue"
+      ],
+      "hook": "کارگردان رما، تونی گاتلیف، درگذشت",
+      "hooks": [
+        "تونی گاتلیف، ستارهٔ رما، درگذشت",
+        "فردیسی از 20 فیلم، درگذشت در آرلس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تونی گاتلیف در حال کار بر روی پروژه تاریخی در آرلس درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 93,
+      "published_at": "2026-09-06T05:13:03.598001+00:00",
+      "text": "کارگردان رما، تونی گاتلیف، درگذشت\n\n🎬 تونی گاتلیف، کارگردان مشهور رما، درگذشت\n\nکارگردان فرانسوی تونی گاتلیف، که بیش از 20 فیلم درباره فرهنگ رما ساخته بود، در سن 77 سالگی در آرلس، پروvence درگذشت.\nاو در حال کار بر روی پروژه تاریخی بود و به‌دلیل مشکل سلامتی جان خود را از دست داد.\n\n📌 نکات مهم:\n• تونی گاتلیف در سن 77 سالگی در آرلس درگذشت\n• او در حال کار بر روی پروژه تاریخی بود\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4588,7 +4639,8 @@
     "2d131fa309f2777b95d03404",
     "0cffb399781f9eb482da7125",
     "f703adacbb322c68999fec33",
-    "1f06314be5b496e6957d6a40"
+    "1f06314be5b496e6957d6a40",
+    "9374233bb8e71f813b53ad24"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4678,11 +4730,12 @@
     "https://www.bbc.co.uk/news/articles/ceq8r5gjygno",
     "https://deadline.com/2026/09/loco-films-venice-guria-georgian-oscar-trailer-1237068270",
     "https://deadline.com/gallery/primetime-venice-film-festival-red-carpet-photos-robert-pattinson-merritt-wever-phoebe-bridgers-more",
-    "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835"
+    "https://www.hollywoodreporter.com/lifestyle/arts/john-malkovich-returning-israel-the-music-critic-1236691835",
+    "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 41,
+      "published": 42,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4750,7 +4803,7 @@
       "published": 2
     },
     "5": {
-      "published": 10
+      "published": 11
     },
     "19": {
       "published": 1
@@ -4799,64 +4852,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-26T07:34:26.213222+00:00",
-      "version": 2,
-      "posts": 38,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 356,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-26T10:55:02.060591+00:00",
       "version": 2,
@@ -7814,6 +7809,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-06T05:13:03.598098+00:00",
+      "version": 2,
+      "posts": 89,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -7903,9 +7956,89 @@
     "415eb860fa871f7c",
     "fea894035dbf9eb4",
     "7c4bc26ffa0ce78a",
-    "45450923f1f695fb"
+    "45450923f1f695fb",
+    "92e777c4a89d89ee"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 2,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "roma": {
+      "count": 2,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "arles": {
+      "count": 2,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "latcho drom": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tony gatlif": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "provence tony gatlif": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "french": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gatlif": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "provence": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "france": {
+      "count": 1,
+      "last_seen": "2026-09-06T05:13:03.598031+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 10,
       "last_seen": "2026-09-05T20:16:10.797256+00:00",
@@ -8198,13 +8331,6 @@
         "movie_news"
       ]
     },
-    "continue": {
-      "count": 1,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "like": {
       "count": 1,
       "last_seen": "2026-09-04T20:16:05.086357+00:00",
@@ -8417,21 +8543,7 @@
         "actors_directors"
       ]
     },
-    "roma": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "southern french": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "arles": {
       "count": 1,
       "last_seen": "2026-09-04T13:05:23.168941+00:00",
       "categories": [
@@ -10686,62 +10798,6 @@
       "last_seen": "2026-08-29T13:03:07.461669+00:00",
       "categories": [
         "awards_festivals"
-      ]
-    },
-    "hamdan ballal": {
-      "count": 1,
-      "last_seen": "2026-08-29T13:03:07.461669+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "israel": {
-      "count": 1,
-      "last_seen": "2026-08-29T13:03:07.461669+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "shailene woodley explains": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "why she was": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cut from": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amazing spider": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "that was": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fun phone call": {
-      "count": 1,
-      "last_seen": "2026-08-29T09:04:42.452610+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
