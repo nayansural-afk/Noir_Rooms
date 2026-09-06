@@ -4708,6 +4708,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5a954743081d9c719cc90d1c",
+      "story_id": "e0f646c35463481b",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425",
+      "title": "Original ‘Practical Magic’ Star Alexandra Artrip Reacts to “Negativity” Surrounding Sequel Recasting",
+      "category": "actors_directors",
+      "score": 72.41,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "original",
+        "practical magic",
+        "star alexandra artrip",
+        "reacts",
+        "negativity",
+        "surrounding sequel recasting",
+        "maisie williams",
+        "joey king",
+        "sandra bullock",
+        "sally owens",
+        "antonia",
+        "kylie"
+      ],
+      "hook": "آلکساندرا آرتیپ واکنش می‌دهد: واکنش منفی به بازیابی بازیگران جدید",
+      "hooks": [
+        "سینمای 'پریکتیکل میجیک ۲' با بازی جدید، واکنش‌های منفی را برمی‌انگیزد",
+        "آلکساندرا آرتیپ درباره تغییر بازیگران در 'پریکتیکل میجیک ۲' اظهار می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آلکساندرا آرتیپ واکنش خود را نسبت به واکنش‌های منفی جامعه نسبت به بازیابی بازیگران جدید اعلام کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 97,
+      "published_at": "2026-09-06T20:16:24.008793+00:00",
+      "text": "آلکساندرا آرتیپ واکنش می‌دهد: واکنش منفی به بازیابی بازیگران جدید\n\n🎬 آلکساندرا آرتیپ واکنش می‌دهد: واکنش‌های منفی به بازیابی بازیگران جدید در 'پریکتیکل میجیک ۲'\n\nآلکساندرا آرتیپ، ستاره اصلی سریال 'پریکتیکل میجیک'، واکنش خود را نسبت به واکنش‌های منفی جامعه نسبت به بازیابی بازیگران جدید در ادامه سریال اعلام کرد.\nدر 'پریکتیکل میجیک ۲'، بازیگران جدید میسی ویلیامز و جوی کینگ به ترتیب نقش دختران آنتونیا و کلای را بر عهده گرفتند، که شخصیت سلی اوونز (سارا بولک) را دنبال می‌کنند.\n\n📌 نکات مهم:\n• آلکساندرا آرتیپ واکنش خود را نسبت به واکنش‌های منفی جامعه نسبت به بازیابی بازیگران جدید اعلام کرد\n• میسی ویلیامز و جوی کینگ در 'پریکتیکل میجیک ۲' نقش دختران آنتونیا و کلای را بر عهده گرفتند\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4802,7 +4854,8 @@
     "9374233bb8e71f813b53ad24",
     "3a72078d5f12b24291a9ccd4",
     "b915a24bc2f388bc0c0e0cbb",
-    "7f3330373df6625ea172477f"
+    "7f3330373df6625ea172477f",
+    "5a954743081d9c719cc90d1c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4896,7 +4949,8 @@
     "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
     "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049",
     "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144",
-    "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354"
+    "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
+    "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425"
   ],
   "category_stats": {
     "movie_news": {
@@ -4906,7 +4960,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 35,
+      "published": 36,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -4956,7 +5010,7 @@
       "published": 4
     },
     "20": {
-      "published": 10
+      "published": 11
     },
     "21": {
       "published": 8
@@ -5017,64 +5071,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-27T11:54:42.670473+00:00",
-      "version": 2,
-      "posts": 41,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature ‘Wekiwa’ From Oscar Winner Richard L. Anderson",
-          "category": "actors_directors",
-          "score": 82.4,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 389,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T01:30:28.075623+00:00",
       "version": 2,
@@ -8032,6 +8028,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-06T20:16:24.008882+00:00",
+      "version": 2,
+      "posts": 93,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8125,9 +8179,94 @@
     "92e777c4a89d89ee",
     "6eaacfc9d84cc445",
     "46631d644c46e519",
-    "bf9820504f384e07"
+    "bf9820504f384e07",
+    "e0f646c35463481b"
   ],
   "entity_memory": {
+    "practical magic": {
+      "count": 2,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "original": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star alexandra artrip": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "reacts": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "negativity": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "surrounding sequel recasting": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maisie williams": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joey king": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sandra bullock": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sally owens": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "antonia": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kylie": {
+      "count": 1,
+      "last_seen": "2026-09-06T20:16:24.008820+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "rachael leigh cook": {
       "count": 1,
       "last_seen": "2026-09-06T17:04:43.083712+00:00",
@@ -10729,13 +10868,6 @@
         "actors_directors"
       ]
     },
-    "practical magic": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "will olivia rodrigo": {
       "count": 1,
       "last_seen": "2026-08-30T20:08:46.663289+00:00",
@@ -10881,85 +11013,6 @@
       "count": 1,
       "last_seen": "2026-08-30T13:03:19.512815+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "amid": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alexis alexiou": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "who iz": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sparks calls for": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theater boycott": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trailer slammed over": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "racist stereotypes sacha": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "baron cohen": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "following": {
-      "count": 1,
-      "last_seen": "2026-08-30T09:04:47.190287+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom cruise": {
-      "count": 3,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 4,
-      "last_seen": "2026-08-30T05:07:51.464102+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     }
