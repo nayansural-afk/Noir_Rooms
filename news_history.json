@@ -4865,6 +4865,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b26c8b3c67fdbeccb1b979a9",
+      "story_id": "ccb4c03691e492ff",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096",
+      "title": "Gary Oldman Claims James Bond Has Been Cast, As He Backs Jack Lowden To Play 007",
+      "category": "actors_directors",
+      "score": 72.49,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "james bond",
+        "gary oldman claims",
+        "james bond has",
+        "been cast",
+        "as he backs",
+        "jack lowden to",
+        "play",
+        "gary oldman",
+        "canada",
+        "global",
+        "oldman",
+        "slow horses"
+      ],
+      "hook": "گاری اولدمان: بازیگر جدید باند 007 اعلام شد",
+      "hooks": [
+        "گاری اولدمان: جک لودن، 007 آینده",
+        "جک لودن، باند 007، با حمایت گاری اولدمان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "گاری اولدمان ادعا می‌کند که نقش 007 انتخاب شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 100,
+      "published_at": "2026-09-07T13:06:41.954805+00:00",
+      "text": "گاری اولدمان: بازیگر جدید باند 007 اعلام شد\n\n🎬 گاری اولدمان: جک لودن، بازیگر جدید 007 را پیشنهاد می‌کند\n\nدر مصاحبه‌ای با شبکه Global کانادا، گاری اولدمان اعلام کرد که نقش 007 به‌طور رسمی انتخاب شده است.\nاو به همکار خود در سری Slow Horses، جک لودن، اشاره کرد و گفت که او در فهرست کوتاه‌فهرست قرار دارد و برای او شانس خوبی وجود دارد.\n\n📌 نکات مهم:\n• گاری اولدمان ادعا می‌کند که نقش 007 انتخاب شده است\n• جک لودن توسط گاری اولدمان برای 007 پیشنهاد شده است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4962,7 +5015,8 @@
     "7f3330373df6625ea172477f",
     "5a954743081d9c719cc90d1c",
     "fa4ee0bf6c01eb6c46210fe7",
-    "80d703e71d237eae920d4a41"
+    "80d703e71d237eae920d4a41",
+    "b26c8b3c67fdbeccb1b979a9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5059,7 +5113,8 @@
     "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
     "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425",
     "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24",
-    "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074"
+    "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074",
+    "https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096"
   ],
   "category_stats": {
     "movie_news": {
@@ -5069,7 +5124,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 36,
+      "published": 37,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5158,7 +5213,7 @@
       "published": 1
     },
     "13": {
-      "published": 9
+      "published": 10
     },
     "17": {
       "published": 9
@@ -5180,64 +5235,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T21:21:10.498067+00:00",
-      "version": 2,
-      "posts": 44,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T21:48:29.146197+00:00",
       "version": 2,
@@ -8195,6 +8192,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-07T13:06:41.954931+00:00",
+      "version": 2,
+      "posts": 96,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8291,9 +8346,94 @@
     "bf9820504f384e07",
     "e0f646c35463481b",
     "f6fa2471e6ba7173",
-    "51afdc69ae705cea"
+    "51afdc69ae705cea",
+    "ccb4c03691e492ff"
   ],
   "entity_memory": {
+    "james bond": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gary oldman claims": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james bond has": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "been cast": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "as he backs": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jack lowden to": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "play": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gary oldman": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "canada": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "global": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "oldman": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "slow horses": {
+      "count": 1,
+      "last_seen": "2026-09-07T13:06:41.954839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 7,
       "last_seen": "2026-09-07T09:08:49.996762+00:00",
@@ -11041,90 +11181,6 @@
       "categories": [
         "actors_directors",
         "box_office"
-      ]
-    },
-    "hollywood cliffhanger": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "summer box office": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "ring up all": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "time record": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "billion": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "currently": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "rentrak": {
-      "count": 1,
-      "last_seen": "2026-08-31T05:08:02.301634+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "warner bros": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sandra bullock seemingly": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "drops hint that": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "olivia rodrigo": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stevie nicks have": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
