@@ -4968,6 +4968,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0d2c6788c487b73a25cb2097",
+      "story_id": "c353645f6f248bc6",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
+      "title": "Bruce Davis Dies: Longtime Academy Of Motion Picture Arts & Sciences Chief Executive Was 83",
+      "category": "actors_directors",
+      "score": 32.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "bruce davis dies",
+        "longtime academy of",
+        "motion picture arts",
+        "sciences chief executive",
+        "bruce davis",
+        "academy",
+        "sciences",
+        "davis",
+        "saturday",
+        "joann",
+        "the hollywood reporter"
+      ],
+      "hook": "وفات براد دیویس، رئیس سابق آکادمی فیلم",
+      "hooks": [
+        "رئیس آکادمی فیلم درگذشت، 83 ساله",
+        "براد دیویس، 20 سال در آکادمی، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Bruce Davis served as chief executive of the Academy of Motion Picture Arts & Sciences for more than 20 years."
+      ],
+      "status": "published",
+      "telegram_message_id": 102,
+      "published_at": "2026-09-07T20:17:03.131525+00:00",
+      "text": "وفات براد دیویس، رئیس سابق آکادمی فیلم\n\n🎬 براد دیویس، رئیس سابق آکادمی هنرهای سینما، درگذشت\n\nبراد دیویس، که بیش از 20 سال به عنوان مدیر اجرایی آکادمی هنرهای سینما خدمت کرده بود، درگذشت. او در سن 83 سالگی پس از مبارزه با لخته خون، در روز شنبه فوت کرد. همسرش، جوان، این خبر را به گزارش هالیوود رپورتور اعلام کرد.\n\n📌 نکات مهم:\n• براد دیویس 83 ساله بود\n• دوره خدمت بیش از 20 سال در آکادمی هنرهای سینما\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5067,7 +5119,8 @@
     "fa4ee0bf6c01eb6c46210fe7",
     "80d703e71d237eae920d4a41",
     "b26c8b3c67fdbeccb1b979a9",
-    "6c24a940ab7efbb566f857da"
+    "6c24a940ab7efbb566f857da",
+    "0d2c6788c487b73a25cb2097"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5166,7 +5219,8 @@
     "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24",
     "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074",
     "https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096",
-    "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990"
+    "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990",
+    "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322"
   ],
   "category_stats": {
     "movie_news": {
@@ -5176,7 +5230,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 37,
+      "published": 38,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5226,7 +5280,7 @@
       "published": 4
     },
     "20": {
-      "published": 11
+      "published": 12
     },
     "21": {
       "published": 8
@@ -5287,64 +5341,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T21:50:29.427672+00:00",
-      "version": 2,
-      "posts": 46,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 413,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T21:59:10.237998+00:00",
       "version": 2,
@@ -8302,6 +8298,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-07T20:17:03.131635+00:00",
+      "version": 2,
+      "posts": 98,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8400,22 +8454,98 @@
     "f6fa2471e6ba7173",
     "51afdc69ae705cea",
     "ccb4c03691e492ff",
-    "fb9feb6eb5760f91"
+    "fb9feb6eb5760f91",
+    "c353645f6f248bc6"
   ],
   "entity_memory": {
+    "bruce davis": {
+      "count": 2,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "davis": {
+      "count": 2,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "academy": {
+      "count": 2,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "motion picture arts": {
+      "count": 2,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "sciences": {
+      "count": 2,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "bruce davis dies": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "longtime academy of": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sciences chief executive": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "saturday": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joann": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the hollywood reporter": {
+      "count": 1,
+      "last_seen": "2026-09-07T20:17:03.131561+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 5,
       "last_seen": "2026-09-07T17:05:06.949171+00:00",
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "bruce davis": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "longtime chief executive": {
@@ -8426,34 +8556,6 @@
       ]
     },
     "film academy": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "davis": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "academy": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "motion picture arts": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sciences": {
       "count": 1,
       "last_seen": "2026-09-07T17:05:06.949171+00:00",
       "categories": [
@@ -11190,48 +11292,6 @@
       "last_seen": "2026-08-31T13:03:34.792943+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "erik shirai": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "japanese": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "china box office": {
-      "count": 2,
-      "last_seen": "2026-08-31T09:04:39.311711+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "once upon": {
-      "count": 2,
-      "last_seen": "2026-08-31T09:04:39.311711+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "time": {
-      "count": 2,
-      "last_seen": "2026-08-31T09:04:39.311711+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "middle east": {
-      "count": 2,
-      "last_seen": "2026-08-31T09:04:39.311711+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
