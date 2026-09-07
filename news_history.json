@@ -4760,6 +4760,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fa4ee0bf6c01eb6c46210fe7",
+      "story_id": "f6fa2471e6ba7173",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24",
+      "title": "Nathan Fielder’s Elizabeth Holmes Doc Hits Theaters in October From A24 — Watch the Trailer Now",
+      "category": "trailers_first_look",
+      "score": 61.24,
+      "freshness": 92.0,
+      "credibility": 84.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "nathan fielder",
+        "elizabeth holmes doc",
+        "hits theaters",
+        "october from",
+        "watch",
+        "trailer now",
+        "you can see",
+        "everything",
+        "fielder",
+        "lance oppenheim",
+        "sunday"
+      ],
+      "hook": "سینمای جدید ناتان فیلدر: مستند درباره الیزابت هولمز",
+      "hooks": [
+        "مستند نوآورانه ناتان فیلدر درباره الیزابت هولمز",
+        "فیلم مستند A24 در اوت: ناتان فیلدر و لانس اوپنهایم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند در اوت در سینماها منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 98,
+      "published_at": "2026-09-07T05:14:28.619403+00:00",
+      "text": "سینمای جدید ناتان فیلدر: مستند درباره الیزابت هولمز\n\n🎬 مستند ناتان فیلدر درباره الیزابت هولمز در سینماهای اوت منتشر می‌شود\n\nمستند جدید ناتان فیلدر و لانس اوپنهایم درباره الیزابت هولمز در اوت در سینماهای آمریکا منتشر می‌شود.\n\nتراکر این مستند در دسترس است و نمایش مخفی در تیلوراید برگزار شد.\n\n📌 نکات مهم:\n• مستند درباره الیزابت هولمز\n• ناتان فیلدر و لانس اوپنهایم به‌عنوان کارگردان\n• توزیع‌کننده A24\n• انتشار در اوت\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4855,7 +4907,8 @@
     "3a72078d5f12b24291a9ccd4",
     "b915a24bc2f388bc0c0e0cbb",
     "7f3330373df6625ea172477f",
-    "5a954743081d9c719cc90d1c"
+    "5a954743081d9c719cc90d1c",
+    "fa4ee0bf6c01eb6c46210fe7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -4950,7 +5003,8 @@
     "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049",
     "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144",
     "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
-    "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425"
+    "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425",
+    "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24"
   ],
   "category_stats": {
     "movie_news": {
@@ -4972,7 +5026,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 5,
+      "published": 6,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5022,7 +5076,7 @@
       "published": 2
     },
     "5": {
-      "published": 11
+      "published": 12
     },
     "19": {
       "published": 1
@@ -5071,64 +5125,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T01:30:28.075623+00:00",
-      "version": 2,
-      "posts": 42,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 399,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T02:19:52.075729+00:00",
       "version": 2,
@@ -8086,6 +8082,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-07T05:14:28.619523+00:00",
+      "version": 2,
+      "posts": 94,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8180,9 +8234,95 @@
     "6eaacfc9d84cc445",
     "46631d644c46e519",
     "bf9820504f384e07",
-    "e0f646c35463481b"
+    "e0f646c35463481b",
+    "f6fa2471e6ba7173"
   ],
   "entity_memory": {
+    "lance oppenheim": {
+      "count": 2,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "nathan fielder": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "elizabeth holmes doc": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "hits theaters": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "october from": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "watch": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer now": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "you can see": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "everything": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "fielder": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sunday": {
+      "count": 1,
+      "last_seen": "2026-09-07T05:14:28.619434+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "practical magic": {
       "count": 2,
       "last_seen": "2026-09-06T20:16:24.008820+00:00",
@@ -8688,13 +8828,6 @@
       ]
     },
     "film festival": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lance oppenheim": {
       "count": 1,
       "last_seen": "2026-09-05T17:04:57.438369+00:00",
       "categories": [
@@ -10934,84 +11067,6 @@
     "director alex ullom": {
       "count": 1,
       "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "explain": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "liminal horror craze": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "there": {
-      "count": 3,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "glass": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "review": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "widow": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "coastal healing retreat": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "turns into": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stately": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "moody greek tragedy": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "greek": {
-      "count": 1,
-      "last_seen": "2026-08-30T13:03:19.512815+00:00",
       "categories": [
         "actors_directors"
       ]
