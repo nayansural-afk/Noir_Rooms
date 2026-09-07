@@ -4812,6 +4812,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "80d703e71d237eae920d4a41",
+      "story_id": "51afdc69ae705cea",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074",
+      "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "netflix officially confirms",
+        "the inbetweeners",
+        "reunion movie as",
+        "production kicks off",
+        "with first look",
+        "at original cast",
+        "in reprised roles",
+        "simon bird",
+        "james buckley",
+        "blake harrison",
+        "joe thomas"
+      ],
+      "hook": "نویسندهٔ Netflix: بازگشت «The Inbetweeners» به دنیای سینما!",
+      "hooks": [
+        "سینمای Netflix با بازیگران اصلی «The Inbetweeners» دوباره درخشان می‌شود",
+        "حضور دوباره‌ی سِیمن بید، جیمز بکلی و دیگران در فیلم جدید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Netflix confirmed production of The Inbetweeners reunion movie"
+      ],
+      "status": "published",
+      "telegram_message_id": 99,
+      "published_at": "2026-09-07T09:08:49.996729+00:00",
+      "text": "نویسندهٔ Netflix: بازگشت «The Inbetweeners» به دنیای سینما!\n\n🎬 Netflix با بازیگران اصلی «The Inbetweeners»، فیلم جدید را رونمایی می‌کند\n\nNetflix به طور رسمی اعلام کرد که فیلمی برای بازگشت «The Inbetweeners» در حال تولید است. تولید با حضور سِیمن بید، جیمز بکلی، بلیک هریسون و جو توماس آغاز شد.\n\nاین خبر پس از ماه‌ها شایعات درباره‌ی بازسازی سریال محبوب، به پایان رسید و هیجان طرفداران را دوباره زنده کرد.\n\n📌 نکات مهم:\n• Netflix officially confirms The Inbetweeners reunion movie\n• Production begins today\n• Original cast reprising roles\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -4908,7 +4961,8 @@
     "b915a24bc2f388bc0c0e0cbb",
     "7f3330373df6625ea172477f",
     "5a954743081d9c719cc90d1c",
-    "fa4ee0bf6c01eb6c46210fe7"
+    "fa4ee0bf6c01eb6c46210fe7",
+    "80d703e71d237eae920d4a41"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5004,11 +5058,12 @@
     "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144",
     "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354",
     "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425",
-    "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24"
+    "https://www.thewrap.com/creative-content/movies/nathan-fielder-elizabeth-holmes-documentary-trailer-release-date-a24",
+    "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 43,
+      "published": 44,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5088,7 +5143,7 @@
       "published": 2
     },
     "9": {
-      "published": 10
+      "published": 11
     },
     "6": {
       "published": 1
@@ -5125,64 +5180,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T02:19:52.075729+00:00",
-      "version": 2,
-      "posts": 43,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        },
-        {
-          "title": "‘The Odyssey’ Sets Digital, 4K Blu-ray Release Dates",
-          "category": "movie_news",
-          "score": 82.81,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T21:21:10.498067+00:00",
       "version": 2,
@@ -8140,6 +8137,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-07T09:08:49.996851+00:00",
+      "version": 2,
+      "posts": 95,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8235,9 +8290,96 @@
     "46631d644c46e519",
     "bf9820504f384e07",
     "e0f646c35463481b",
-    "f6fa2471e6ba7173"
+    "f6fa2471e6ba7173",
+    "51afdc69ae705cea"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 7,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "netflix officially confirms": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the inbetweeners": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reunion movie as": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "production kicks off": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with first look": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "at original cast": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in reprised roles": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "simon bird": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james buckley": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blake harrison": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joe thomas": {
+      "count": 1,
+      "last_seen": "2026-09-07T09:08:49.996762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "lance oppenheim": {
       "count": 2,
       "last_seen": "2026-09-07T05:14:28.619434+00:00",
@@ -10570,15 +10712,6 @@
         "movie_news"
       ]
     },
-    "netflix": {
-      "count": 6,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "big mistakes": {
       "count": 1,
       "last_seen": "2026-08-31T20:08:42.251165+00:00",
@@ -10990,83 +11123,6 @@
     "stevie nicks have": {
       "count": 1,
       "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "music": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "will olivia rodrigo": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stevie nicks": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star sandra bullock": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "instagram story sunday": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "along": {
-      "count": 1,
-      "last_seen": "2026-08-30T20:08:46.663289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the world is": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lot right now": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "watch kane parsons": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "it ends": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director alex ullom": {
-      "count": 1,
-      "last_seen": "2026-08-30T17:03:04.803806+00:00",
       "categories": [
         "actors_directors"
       ]
