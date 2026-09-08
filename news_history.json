@@ -5125,6 +5125,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "56bfa97bbcfa0b58cf5fd218",
+      "story_id": "19b338caa6269ee3",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety",
+        "Deadline"
+      ],
+      "multi_source_count": 4,
+      "url": "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540",
+      "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+      "category": "movie_news",
+      "score": 95.05,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "john turturro",
+        "receive zurich film",
+        "festival",
+        "golden eye award",
+        "the zurich film",
+        "sept",
+        "turturro",
+        "the only living",
+        "pickpocket",
+        "new york",
+        "noah segan",
+        "grateful",
+        "zurich film festival",
+        "honor the",
+        "john turturro to"
+      ],
+      "hook": "جوانترین ستاره، جان تورتررو، برنده جایزه طلایی چشم زوریخ",
+      "hooks": [
+        "جان تورتررو در جشنواره فیلم زوریخ، جایزه طلایی چشم را می‌گیرد",
+        "جشنواره زوریخ، جان تورتررو را برای نقش در 'The Only Living Pickpocket in New York' تقدیر می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جان تورتررو برنده جایزه طلایی چشم در جشنواره فیلم زوریخ"
+      ],
+      "status": "published",
+      "telegram_message_id": 105,
+      "published_at": "2026-09-08T13:06:57.134459+00:00",
+      "text": "جوانترین ستاره، جان تورتررو، برنده جایزه طلایی چشم زوریخ\n\n🎬 جان تورتررو برنده جایزه طلایی چشم در جشنواره فیلم زوریخ\n\nجشنواره فیلم زوریخ در سال 22، از 24 سپتامبر تا 4 اکتبر برگزار می‌شود. جان تورتررو در این جشنواره جایزه طلایی چشم را دریافت خواهد کرد.\nاین جایزه به خاطر نقش او در فیلم 'The Only Living Pickpocket in New York' اعطا می‌شود که توسط نوآ سگان نوشته و کارگردانی شده است.\n\n📌 نکات مهم:\n• جشنواره فیلم زوریخ 22\n• جایزه طلایی چشم برای نقش جان تورتررو در 'The Only Living Pickpocket in New York'\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5227,7 +5285,8 @@
     "6c24a940ab7efbb566f857da",
     "0d2c6788c487b73a25cb2097",
     "e246cb4165f1aca9fde8862d",
-    "2641da5e1bcb7889b0dfa4e5"
+    "2641da5e1bcb7889b0dfa4e5",
+    "56bfa97bbcfa0b58cf5fd218"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5329,11 +5388,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990",
     "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
     "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550",
-    "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634"
+    "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634",
+    "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 45,
+      "published": 46,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5428,7 +5488,7 @@
       "published": 1
     },
     "13": {
-      "published": 10
+      "published": 11
     },
     "17": {
       "published": 10
@@ -5450,64 +5510,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-29T05:07:48.161375+00:00",
-      "version": 2,
-      "posts": 49,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-29T09:04:42.452670+00:00",
       "version": 2,
@@ -8465,6 +8467,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-08T13:06:57.134580+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8566,9 +8626,116 @@
     "fb9feb6eb5760f91",
     "c353645f6f248bc6",
     "95f291d70e648c28",
-    "c4bc446bfab4f6f8"
+    "c4bc446bfab4f6f8",
+    "19b338caa6269ee3"
   ],
   "entity_memory": {
+    "sept": {
+      "count": 2,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "john turturro": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "receive zurich film": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "golden eye award": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the zurich film": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "turturro": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the only living": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pickpocket": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new york": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "noah segan": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "grateful": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zurich film festival": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "honor the": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john turturro to": {
+      "count": 1,
+      "last_seen": "2026-09-08T13:06:57.134495+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "james bond": {
       "count": 2,
       "last_seen": "2026-09-08T09:08:48.743513+00:00",
@@ -10517,13 +10684,6 @@
         "actors_directors"
       ]
     },
-    "sept": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "alexanders talent": {
       "count": 1,
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
@@ -11307,104 +11467,6 @@
       "last_seen": "2026-09-01T05:13:53.577453+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "august": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "margate": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "big mistakes": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "season": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "casts lorenzo": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "moor": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "poorna jagannathan": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "both lorenzo": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dan levy": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "taylor ortega": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "laurie metcalf": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack innanen": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boran kuzum": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "adds poorna jagannathan": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
