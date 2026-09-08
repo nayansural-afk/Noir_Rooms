@@ -5020,6 +5020,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e246cb4165f1aca9fde8862d",
+      "story_id": "95f291d70e648c28",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550",
+      "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary ‘You Can See Everything’",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "tom cruise",
+        "the talk of",
+        "telluride",
+        "secret screening of",
+        "elizabeth holmes documentary",
+        "you can see",
+        "everything",
+        "julie huntsinger",
+        "indeed",
+        "werner herzog theater",
+        "digger"
+      ],
+      "hook": "سکوت در تیلوراید: مستند هولمز در دل تئاتر",
+      "hooks": [
+        "حضور مخفی هولمز در تیلوراید",
+        "دوران شگفت‌انگیز مستند هولمز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'You Can See Everything' در تیلوراید به نمایش گذاشته شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 103,
+      "published_at": "2026-09-08T05:14:43.663692+00:00",
+      "text": "سکوت در تیلوراید: مستند هولمز در دل تئاتر\n\n🎬 مستند 'You Can See Everything' در تیلوراید به نمایش گذاشته شد\n\nدر جشنواره تیلوراید، مدیر جشنواره جولی هانتی‌سنگر با انتخاب مستند دربارهٔ الیزابت هولمز، ریسک بزرگی انجام داد. این فیلم، 'You Can See Everything'، به عنوان پیش‌نمایش مخفی در تئاتر ویرنر هورزگ به نمایش درآمد.\nدر لحظهٔ اعلام فیلم، یکی از تماشاگران با صدای بلند گفت: 'دِیگر!' در حالی که انتظار داشت فیلمی با بازی تام کرایس باشد. این صدا نشان داد که مخاطبان برای محتواهای سینمایی هیجان‌زده‌اند.\n\n📌 نکات مهم:\n• مستند 'You Can See Everything' دربارهٔ الیزابت هولمز است\n• در جشنواره تیلوراید به صورت مخفی در تئاتر ویرنر هورزگ نمایش داده شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5120,7 +5172,8 @@
     "80d703e71d237eae920d4a41",
     "b26c8b3c67fdbeccb1b979a9",
     "6c24a940ab7efbb566f857da",
-    "0d2c6788c487b73a25cb2097"
+    "0d2c6788c487b73a25cb2097",
+    "e246cb4165f1aca9fde8862d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5220,7 +5273,8 @@
     "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074",
     "https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096",
     "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990",
-    "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322"
+    "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
+    "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550"
   ],
   "category_stats": {
     "movie_news": {
@@ -5230,7 +5284,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 38,
+      "published": 39,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5292,7 +5346,7 @@
       "published": 2
     },
     "5": {
-      "published": 12
+      "published": 13
     },
     "19": {
       "published": 1
@@ -5341,64 +5395,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T21:59:10.237998+00:00",
-      "version": 2,
-      "posts": 47,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-28T22:00:25.617972+00:00",
       "version": 2,
@@ -8356,6 +8352,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-08T05:14:43.663794+00:00",
+      "version": 2,
+      "posts": 99,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8455,9 +8509,89 @@
     "51afdc69ae705cea",
     "ccb4c03691e492ff",
     "fb9feb6eb5760f91",
-    "c353645f6f248bc6"
+    "c353645f6f248bc6",
+    "95f291d70e648c28"
   ],
   "entity_memory": {
+    "you can see": {
+      "count": 2,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "trailers_first_look",
+        "actors_directors"
+      ]
+    },
+    "everything": {
+      "count": 2,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "trailers_first_look",
+        "actors_directors"
+      ]
+    },
+    "tom cruise": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the talk of": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "telluride": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "secret screening of": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "elizabeth holmes documentary": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "julie huntsinger": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indeed": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "werner herzog theater": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "digger": {
+      "count": 1,
+      "last_seen": "2026-09-08T05:14:43.663722+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "bruce davis": {
       "count": 2,
       "last_seen": "2026-09-07T20:17:03.131561+00:00",
@@ -8797,20 +8931,6 @@
       ]
     },
     "trailer now": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "you can see": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "everything": {
       "count": 1,
       "last_seen": "2026-09-07T05:14:28.619434+00:00",
       "categories": [
@@ -11227,69 +11347,6 @@
     "most ambitious production": {
       "count": 1,
       "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bong joon ho": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "parasite": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look at": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sumo": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spirit weighs nothing": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "documentary with rare": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "access to giants": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "of the ring": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thunderous": {
-      "count": 1,
-      "last_seen": "2026-08-31T13:03:34.792943+00:00",
       "categories": [
         "movie_news"
       ]
