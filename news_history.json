@@ -5183,6 +5183,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e36a8e56d6c9df673dd96708",
+      "story_id": "edda68d2a0e3eb49",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657",
+      "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "venice",
+        "elon musk",
+        "shift",
+        "self",
+        "driving cars",
+        "myths about mars",
+        "more get examined",
+        "new documentary",
+        "biggest revelations",
+        "musk",
+        "venice film festival"
+      ],
+      "hook": "مستند 4 ساعته درباره ایلان ماسک در جشنواره ونیز",
+      "hooks": [
+        "ایلان ماسک در مستند 4 ساعته، واکنش‌های جشنواره ونیز",
+        "کارگردان آکس‌کد، مستند جدید درباره ماسک، در ونیز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند در جشنواره ونیز با تشویق 4 دقیقه‌ای پذیرفته شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 106,
+      "published_at": "2026-09-08T17:05:53.175750+00:00",
+      "text": "مستند 4 ساعته درباره ایلان ماسک در جشنواره ونیز\n\n🎬 مستند 4 ساعته درباره ایلان ماسک، در جشنواره ونیز با تشویق 4 دقیقه‌ای\n\nمستند «Musk»، که توسط کارگردان برنده جایزه اسکار آکس‌کد ساخته شد، به مدت چهار ساعت به بررسی زندگی و افکار ایلان ماسک می‌پردازد.\nاین فیلم در جشنواره فیلم ونیز با یک تشویق 4 دقیقه‌ای به استقبال رسید و تماشاگران در سالن Palazza del Cinema به وجد آمدند.\n\n📌 نکات مهم:\n• مستند 4 ساعته\n• کارگردان آکس‌کد\n• جشنواره ونیز با تشویق 4 دقیقه‌ای\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5286,7 +5339,8 @@
     "0d2c6788c487b73a25cb2097",
     "e246cb4165f1aca9fde8862d",
     "2641da5e1bcb7889b0dfa4e5",
-    "56bfa97bbcfa0b58cf5fd218"
+    "56bfa97bbcfa0b58cf5fd218",
+    "e36a8e56d6c9df673dd96708"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5389,11 +5443,12 @@
     "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
     "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550",
     "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634",
-    "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540"
+    "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540",
+    "https://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 46,
+      "published": 47,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5491,7 +5546,7 @@
       "published": 11
     },
     "17": {
-      "published": 10
+      "published": 11
     }
   },
   "strategy": {
@@ -5510,64 +5565,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-29T09:04:42.452670+00:00",
-      "version": 2,
-      "posts": 50,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-29T13:03:07.461726+00:00",
       "version": 2,
@@ -8525,6 +8522,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-08T17:05:53.175863+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8627,9 +8682,99 @@
     "c353645f6f248bc6",
     "95f291d70e648c28",
     "c4bc446bfab4f6f8",
-    "19b338caa6269ee3"
+    "19b338caa6269ee3",
+    "edda68d2a0e3eb49"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 9,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "venice film festival": {
+      "count": 5,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "oscar": {
+      "count": 11,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "elon musk": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shift": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "self": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "driving cars": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "myths about mars": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more get examined": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new documentary": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "biggest revelations": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "musk": {
+      "count": 1,
+      "last_seen": "2026-09-08T17:05:53.175783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sept": {
       "count": 2,
       "last_seen": "2026-09-08T13:06:57.134495+00:00",
@@ -9503,23 +9648,6 @@
         "movie_news"
       ]
     },
-    "venice": {
-      "count": 8,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
-      ]
-    },
-    "venice film festival": {
-      "count": 4,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
     "father joe": {
       "count": 1,
       "last_seen": "2026-09-06T09:07:57.443027+00:00",
@@ -9667,15 +9795,6 @@
       "last_seen": "2026-09-06T05:13:03.598031+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 10,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "john malkovich returning": {
@@ -11400,69 +11519,6 @@
       ]
     },
     "marty nadler dies": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "comic": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "longtime garry marshall": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "collaborator on sitcoms": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "films was": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marty nadler": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "garry marshall": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "happy days": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "laverne": {
-      "count": 1,
-      "last_seen": "2026-09-01T05:13:53.577453+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shirley": {
       "count": 1,
       "last_seen": "2026-09-01T05:13:53.577453+00:00",
       "categories": [
