@@ -5072,6 +5072,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2641da5e1bcb7889b0dfa4e5",
+      "story_id": "c4bc446bfab4f6f8",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634",
+      "title": "James Bond Writer Steven Knight Refuses To Deny That 007 Has Been Cast: “I Cannot Speak About This Subject”",
+      "category": "actors_directors",
+      "score": 75.2,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "james bond",
+        "james bond writer",
+        "steven knight refuses",
+        "to deny that",
+        "has been cast",
+        "cannot speak about",
+        "this subject",
+        "after gary oldman",
+        "steven knight",
+        "radio",
+        "today",
+        "tuesday"
+      ],
+      "hook": "نویسنده 007، سرنقش در انتخاب بازیگر، می‌گوید نمی‌تواند حرف بزند.",
+      "hooks": [
+        "سکوت نویسنده، سرنقش در انتخاب بازیگر 007.",
+        "شکاف در گفتار نویسنده، سرنقش 007."
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نایت در مصاحبه BBC Radio 4، از تأیید یا رد انتخاب بازیگر 007 پرهیز کرد."
+      ],
+      "status": "published",
+      "telegram_message_id": 104,
+      "published_at": "2026-09-08T09:08:48.743481+00:00",
+      "text": "نویسنده 007، سرنقش در انتخاب بازیگر، می‌گوید نمی‌تواند حرف بزند.\n\n🎬 نویسنده 007، سرنقش، در برابر سرنقش بازیگر، می‌گوید نمی‌تواند حرف بزند.\n\nنویسنده فیلم 007، استیون نایت، در مصاحبه‌ای با برنامه Today BBC Radio 4، از اعلام انتخاب بازیگر جدید 007 سرنقش کرد. گاری اولدمان گفته بود که بازیگر جدید 007 انتخاب شده است، اما نایت با پاسخ‌های بازیگوشانه، از تأیید یا رد این ادعا پرهیز کرد.\n\n📌 نکات مهم:\n• استیون نایت از تأیید انتخاب بازیگر 007 پرهیز می‌کند.\n• گاری اولدمان ادعا کرد که بازیگر جدید 007 انتخاب شده است.\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5173,7 +5226,8 @@
     "b26c8b3c67fdbeccb1b979a9",
     "6c24a940ab7efbb566f857da",
     "0d2c6788c487b73a25cb2097",
-    "e246cb4165f1aca9fde8862d"
+    "e246cb4165f1aca9fde8862d",
+    "2641da5e1bcb7889b0dfa4e5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5274,7 +5328,8 @@
     "https://deadline.com/2026/09/gary-oldman-james-bond-backs-jack-lowden-1237070096",
     "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990",
     "https://deadline.com/2026/09/bruce-davis-dead-ampas-chief-executive-1237070322",
-    "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550"
+    "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550",
+    "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634"
   ],
   "category_stats": {
     "movie_news": {
@@ -5284,7 +5339,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 39,
+      "published": 40,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5358,7 +5413,7 @@
       "published": 2
     },
     "9": {
-      "published": 11
+      "published": 12
     },
     "6": {
       "published": 1
@@ -5395,64 +5450,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-28T22:00:25.617972+00:00",
-      "version": 2,
-      "posts": 48,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-29T05:07:48.161375+00:00",
       "version": 2,
@@ -8410,6 +8407,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-08T09:08:48.743587+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.85,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8510,9 +8565,94 @@
     "ccb4c03691e492ff",
     "fb9feb6eb5760f91",
     "c353645f6f248bc6",
-    "95f291d70e648c28"
+    "95f291d70e648c28",
+    "c4bc446bfab4f6f8"
   ],
   "entity_memory": {
+    "james bond": {
+      "count": 2,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james bond writer": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "steven knight refuses": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to deny that": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "has been cast": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cannot speak about": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this subject": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "after gary oldman": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "steven knight": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "radio": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "today": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tuesday": {
+      "count": 1,
+      "last_seen": "2026-09-08T09:08:48.743513+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "you can see": {
       "count": 2,
       "last_seen": "2026-09-08T05:14:43.663722+00:00",
@@ -8708,13 +8848,6 @@
       "last_seen": "2026-09-07T17:05:06.949171+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "james bond": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "gary oldman claims": {
@@ -11272,83 +11405,6 @@
       "last_seen": "2026-08-31T20:08:42.251165+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "lorenzo de moor": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "as recurring for": {
-      "count": 1,
-      "last_seen": "2026-08-31T20:08:42.251165+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "korean": {
-      "count": 3,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barunson": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boards": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "satan": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "slaves": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "origin": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "franchise prequel billed": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "as joko anwar": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "most ambitious production": {
-      "count": 1,
-      "last_seen": "2026-08-31T17:03:08.501558+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
