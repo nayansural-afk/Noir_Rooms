@@ -5339,6 +5339,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6d5a90c7bf9f80510a029ee7",
+      "story_id": "a1d6dd3a89ca7ae5",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
+      "title": "Studio TF1 Set to Launch Medical Drama ‘Dr. Seylan & Cindy’ at Unifrance Rendez-Vous in Le Havre",
+      "category": "movie_news",
+      "score": 75.69,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "studio",
+        "launch medical drama",
+        "seylan",
+        "cindy",
+        "unifrance rendez",
+        "vous",
+        "le havre studio",
+        "le havre",
+        "filmed",
+        "auvergne",
+        "alpes",
+        "southeastern france"
+      ],
+      "hook": "دکتر سیلان و سیندی: درام پزشکی جدید در فرانسه",
+      "hooks": [
+        "سریال پزشکی جدید درام در فرانسه",
+        "دکتر سیلان و سیندی: نمایش پزشکی تازه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال 'دکتر سیلان و سیندی' در Unifrance Rendez-Vous رونمایی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 109,
+      "published_at": "2026-09-09T09:08:34.453875+00:00",
+      "text": "دکتر سیلان و سیندی: درام پزشکی جدید در فرانسه\n\n🎬 دستگاه TF1 با سریال پزشکی جدید 'دکتر سیلان و سیندی' در کنفرانس Unifrance رونمایی می‌کند\n\nسریال جدید پزشکی 'دکتر سیلان و سیندی' توسط استودیو TF1 در کنفرانس Unifrance Rendez-Vous در لا هافر معرفی شد.\nاین سریال در منطقه دوِروم در جنوب شرقی فرانسه فیلمبرداری شده و بازیگران ناتاشا لیندینگر و آلیس پل در نقش‌های اصلی حضور دارند.\n\n📌 نکات مهم:\n• سریال پزشکی جدید در فرانسه\n• ناتاشا لیندینگر و آلیس پل بازیگران اصلی\n• فیلمبرداری در دوِروم\n• استودیو TF1 میزبان رونمایی\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5445,7 +5497,8 @@
     "56bfa97bbcfa0b58cf5fd218",
     "e36a8e56d6c9df673dd96708",
     "fa8adea2af6abe41ac99f18c",
-    "4d6aa4dcacca350cd447718e"
+    "4d6aa4dcacca350cd447718e",
+    "6d5a90c7bf9f80510a029ee7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5551,11 +5604,12 @@
     "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540",
     "https://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657",
     "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236",
-    "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876"
+    "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
+    "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 47,
+      "published": 48,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5635,7 +5689,7 @@
       "published": 2
     },
     "9": {
-      "published": 12
+      "published": 13
     },
     "6": {
       "published": 1
@@ -5672,64 +5726,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-29T20:08:53.286825+00:00",
-      "version": 2,
-      "posts": 53,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 402,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-30T05:07:51.464160+00:00",
       "version": 2,
@@ -8687,6 +8683,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-09T09:08:34.453981+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8792,9 +8846,94 @@
     "19b338caa6269ee3",
     "edda68d2a0e3eb49",
     "397b9d3a1243f92c",
-    "b79943e7984101eb"
+    "b79943e7984101eb",
+    "a1d6dd3a89ca7ae5"
   ],
   "entity_memory": {
+    "studio": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "launch medical drama": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seylan": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cindy": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unifrance rendez": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vous": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "le havre studio": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "le havre": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "filmed": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "auvergne": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alpes": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "southeastern france": {
+      "count": 1,
+      "last_seen": "2026-09-09T09:08:34.453907+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "warner bros": {
       "count": 1,
       "last_seen": "2026-09-09T05:14:32.143016+00:00",
@@ -11545,90 +11684,6 @@
     "doomsday": {
       "count": 1,
       "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kit connor": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "diana silvers to": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "preppy killer": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "aggregate": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "janicza bravo directing": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fresh": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cyclops": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "diana silvers": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "booksmart": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "entertainment": {
-      "count": 1,
-      "last_seen": "2026-09-01T17:05:38.114993+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zynga poker": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "teams with keegan": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
       "categories": [
         "actors_directors"
       ]
