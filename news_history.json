@@ -5442,6 +5442,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a7d85b9574e081eb1840ba06",
+      "story_id": "d5cdd5927afd5972",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
+      "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "gail",
+        "first look",
+        "superfan of canadian",
+        "band our lady",
+        "peace speaks her",
+        "piece",
+        "toronto film festival",
+        "the toronto film",
+        "festival",
+        "pretenders",
+        "chrissie hynde",
+        "thai"
+      ],
+      "hook": "سینمایی که عاشق Our Lady Peace را به صحنه می‌آورد",
+      "hooks": [
+        "دستاوردی از عشق واقعی به موسیقی در فیلم 'Gail'",
+        "مستند 'Gail'، روایت یک سوپر فَن از Our Lady Peace"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'Gail' در جشنواره TIFF به نمایش گذاشته می‌شود",
+        "مستند درباره سوپر فَن Our Lady Peace است"
+      ],
+      "status": "published",
+      "telegram_message_id": 111,
+      "published_at": "2026-09-09T17:05:00.979506+00:00",
+      "text": "سینمایی که عاشق Our Lady Peace را به صحنه می‌آورد\n\n🎬 مستند 'Gail' در جشنواره TIFF: داستان یک سوپر فَن Our Lady Peace\n\nمستند 'Gail' در جشنواره فیلم تورنتو به نمایش گذاشته می‌شود و به زندگی یک سوپر فَن از گروه کانادایی Our Lady Peace می‌پردازد. این فیلم در کنار سایر مستندهای موسیقی، به مخاطب نشان می‌دهد چگونه عشق به موسیقی می‌تواند مسیر زندگی را شکل دهد.\n\n📌 نکات مهم:\n• مستند 'Gail' در جشنواره TIFF در روز شنبه به نمایش گذاشته می‌شود\n• مستند درباره سوپر فَن گروه Our Lady Peace است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5550,7 +5604,8 @@
     "fa8adea2af6abe41ac99f18c",
     "4d6aa4dcacca350cd447718e",
     "6d5a90c7bf9f80510a029ee7",
-    "c44b3c9dfde181a8be50922d"
+    "c44b3c9dfde181a8be50922d",
+    "a7d85b9574e081eb1840ba06"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5658,11 +5713,12 @@
     "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236",
     "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
     "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
-    "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638"
+    "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
+    "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 49,
+      "published": 50,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5760,7 +5816,7 @@
       "published": 12
     },
     "17": {
-      "published": 11
+      "published": 12
     }
   },
   "strategy": {
@@ -5779,64 +5835,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-30T09:04:47.190345+00:00",
-      "version": 2,
-      "posts": 55,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-30T13:03:19.512879+00:00",
       "version": 2,
@@ -8794,6 +8792,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-09T17:05:00.979633+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8901,9 +8957,94 @@
     "397b9d3a1243f92c",
     "b79943e7984101eb",
     "a1d6dd3a89ca7ae5",
-    "0c68255ac61afac2"
+    "0c68255ac61afac2",
+    "d5cdd5927afd5972"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 2,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gail": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first look": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "superfan of canadian": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "band our lady": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peace speaks her": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "piece": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "toronto film festival": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the toronto film": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pretenders": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chrissie hynde": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thai": {
+      "count": 1,
+      "last_seen": "2026-09-09T17:05:00.979541+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "law kar": {
       "count": 1,
       "last_seen": "2026-09-09T13:06:29.537894+00:00",
@@ -9317,13 +9458,6 @@
       ]
     },
     "receive zurich film": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
       "count": 1,
       "last_seen": "2026-09-08T13:06:57.134495+00:00",
       "categories": [
@@ -11661,83 +11795,6 @@
     "eugenio derbez to": {
       "count": 1,
       "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marcelo in the": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "real world": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eugenio derbez": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marcelo": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lucia puenzo": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "produced": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zeta studios": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elefantec global": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "francisco": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 2,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
       "categories": [
         "actors_directors"
       ]
