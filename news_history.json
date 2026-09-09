@@ -5391,6 +5391,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c44b3c9dfde181a8be50922d",
+      "story_id": "0c68255ac61afac2",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
+      "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "law kar",
+        "paw hee",
+        "topline sri kishore",
+        "cantonese opera drama",
+        "the grand tribute",
+        "hong kong",
+        "cantonese",
+        "sri kishore",
+        "my indian boyfriend",
+        "south asian"
+      ],
+      "hook": "دو ستاره هانگ‌کوان در اوج‌نواختی سنتی",
+      "hooks": [
+        "سینما هانگ‌کوان: اوج‌نواختی و هنر",
+        "نواختی کنتونی در دل اوج‌نواختی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "قهرمانان در نقش‌های اصلی در \"The Grand Tribute\""
+      ],
+      "status": "published",
+      "telegram_message_id": 110,
+      "published_at": "2026-09-09T13:06:29.537863+00:00",
+      "text": "دو ستاره هانگ‌کوان در اوج‌نواختی سنتی\n\n🎬 قهرمانان هانگ‌کوان در اوج‌نواختی کنتونی\n\nقهرمانان هانگ‌کوان، لَو کار-یینگ و پا هِی-چینگ، در نقش‌های اصلی در فیلم \"The Grand Tribute\" حضور دارند.\nفیلم، در سبک اوج‌نواختی کنتونی ساخته شده و توسط سری کِشور، کارگردان فیلم \"My Indian Boyfriend\"، نوشته و کارگردانی شده است.\n\n📌 نکات مهم:\n• قهرمانان: لَو کار-یینگ و پا هِی-چینگ\n• نویسنده و کارگردان: سری کِشور\n• فیلم قبلی: My Indian Boyfriend (2021)\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5498,7 +5549,8 @@
     "e36a8e56d6c9df673dd96708",
     "fa8adea2af6abe41ac99f18c",
     "4d6aa4dcacca350cd447718e",
-    "6d5a90c7bf9f80510a029ee7"
+    "6d5a90c7bf9f80510a029ee7",
+    "c44b3c9dfde181a8be50922d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5605,11 +5657,12 @@
     "https://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657",
     "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236",
     "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
-    "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468"
+    "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
+    "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 48,
+      "published": 49,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5704,7 +5757,7 @@
       "published": 1
     },
     "13": {
-      "published": 11
+      "published": 12
     },
     "17": {
       "published": 11
@@ -5726,64 +5779,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-30T05:07:51.464160+00:00",
-      "version": 2,
-      "posts": 54,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-30T09:04:47.190345+00:00",
       "version": 2,
@@ -8741,6 +8736,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-09T13:06:29.537964+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8847,9 +8900,80 @@
     "edda68d2a0e3eb49",
     "397b9d3a1243f92c",
     "b79943e7984101eb",
-    "a1d6dd3a89ca7ae5"
+    "a1d6dd3a89ca7ae5",
+    "0c68255ac61afac2"
   ],
   "entity_memory": {
+    "law kar": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paw hee": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "topline sri kishore": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cantonese opera drama": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the grand tribute": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hong kong": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cantonese": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sri kishore": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "my indian boyfriend": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "south asian": {
+      "count": 1,
+      "last_seen": "2026-09-09T13:06:29.537894+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "studio": {
       "count": 1,
       "last_seen": "2026-09-09T09:08:34.453907+00:00",
@@ -11612,76 +11736,6 @@
       ]
     },
     "avengers": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "secret wars": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "adds noah jupe": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cast noah jupe": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel cinematic universe": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hamnet": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "quiet place": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anthony": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joe russo": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin feige": {
-      "count": 1,
-      "last_seen": "2026-09-01T20:16:37.411253+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doomsday": {
       "count": 1,
       "last_seen": "2026-09-01T20:16:37.411253+00:00",
       "categories": [
