@@ -5289,6 +5289,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4d6aa4dcacca350cd447718e",
+      "story_id": "b79943e7984101eb",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
+      "title": "John Mulaney in Talks to Star in ‘Get Smart’ Reboot for Warner Bros.",
+      "category": "actors_directors",
+      "score": 70.16,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "warner bros",
+        "john mulaney",
+        "talks",
+        "star",
+        "get smart",
+        "reboot",
+        "seth grahame",
+        "smith",
+        "mel brooks",
+        "buck henry"
+      ],
+      "hook": "جان مولانِی در گفت‌وگو برای بازی در بازسازی 'گِت سمارت'",
+      "hooks": [
+        "جالب‌ترین اخبار بازیگری جان مولانِی در 'گِت سمارت'",
+        "سکوی جدید: جان مولانِی در نقش اصلی 'گِت سمارت'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جان مولانِی در گفت‌وگو برای بازی در بازسازی 'گِت سمارت'"
+      ],
+      "status": "published",
+      "telegram_message_id": 108,
+      "published_at": "2026-09-09T05:14:32.142984+00:00",
+      "text": "جان مولانِی در گفت‌وگو برای بازی در بازسازی 'گِت سمارت'\n\n🎬 جان مولانِی در گفت‌وگو برای بازی در بازسازی 'گِت سمارت'\n\nدر خبر تازه، بازیگر جان مولانِی در گفت‌وگوهای اولیه برای ایفای نقش در بازسازی فیلم 'گِت سمارت' شرکت می‌کند. این پروژه توسط شرکت وارنر برز در حال توسعه است. در ادامه، سِت گرهام-سِمیت، نویسنده‌ی فیلم، در حال نوشتن متن بر اساس سریال ۱۹۶۰ه‌ام 'گِت سمارت' است. این همکاری ترکیبی از طنز کلاسیک و نوآوری مدرن را به نمایش می‌گذارد.\n\n📌 نکات مهم:\n• جان مولانِی در گفت‌وگو برای بازی در بازسازی 'گِت سمارت'\n• سِت گرهام-سِمیت در حال نوشتن متن بر اساس سریال ۱۹۶۰ه‌ام 'گِت سمارت'\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5394,7 +5444,8 @@
     "2641da5e1bcb7889b0dfa4e5",
     "56bfa97bbcfa0b58cf5fd218",
     "e36a8e56d6c9df673dd96708",
-    "fa8adea2af6abe41ac99f18c"
+    "fa8adea2af6abe41ac99f18c",
+    "4d6aa4dcacca350cd447718e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5499,7 +5550,8 @@
     "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634",
     "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540",
     "https://variety.com/2026/film/festivals/elon-musk-documentary-venice-biggest-revelations-1236843657",
-    "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236"
+    "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236",
+    "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876"
   ],
   "category_stats": {
     "movie_news": {
@@ -5509,7 +5561,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 41,
+      "published": 42,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5571,7 +5623,7 @@
       "published": 2
     },
     "5": {
-      "published": 13
+      "published": 14
     },
     "19": {
       "published": 1
@@ -5620,64 +5672,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-29T17:03:12.362255+00:00",
-      "version": 2,
-      "posts": 52,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 413,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-29T20:08:53.286825+00:00",
       "version": 2,
@@ -8635,6 +8629,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-09T05:14:32.143086+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8739,9 +8791,80 @@
     "c4bc446bfab4f6f8",
     "19b338caa6269ee3",
     "edda68d2a0e3eb49",
-    "397b9d3a1243f92c"
+    "397b9d3a1243f92c",
+    "b79943e7984101eb"
   ],
   "entity_memory": {
+    "warner bros": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "john mulaney": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "talks": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "get smart": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "reboot": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "seth grahame": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "smith": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mel brooks": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "buck henry": {
+      "count": 1,
+      "last_seen": "2026-09-09T05:14:32.143016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "this": {
       "count": 2,
       "last_seen": "2026-09-08T20:16:47.508851+00:00",
@@ -11508,77 +11631,6 @@
       "last_seen": "2026-09-01T13:05:45.982361+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "michael key": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "righteous gemstones": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director jody hill": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "inner winner": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ad spots": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "keegan": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jody hill": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the righteous gemstones": {
-      "count": 1,
-      "last_seen": "2026-09-01T13:05:45.982361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amazon": {
-      "count": 4,
-      "last_seen": "2026-09-01T09:08:23.087250+00:00",
-      "categories": [
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
-    "studios": {
-      "count": 2,
-      "last_seen": "2026-09-01T09:08:23.087250+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
