@@ -5496,6 +5496,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9aa69238b610b308d483d5f4",
+      "story_id": "0808c0dc8a2ed560",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
+      "title": "‘Avengers: Doomsday’ Presales Hit $50 Million 3 Months Before Release",
+      "category": "box_office",
+      "score": 64.65,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "spider-man",
+        "avengers",
+        "doomsday",
+        "presales hit",
+        "million",
+        "months before release",
+        "spider",
+        "brand new day"
+      ],
+      "hook": "پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید",
+      "hooks": [
+        "پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید",
+        "۳ ماه پیش، ‘افینجرس: دن‌ساید’ ۵۰ میلیون دلار پیش‌فروش جمع کرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید",
+        "پیش‌فروش‌ها سه ماه پیش از انتشار رخ داد"
+      ],
+      "status": "published",
+      "telegram_message_id": 112,
+      "published_at": "2026-09-09T20:17:42.779359+00:00",
+      "text": "پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید\n\n🎬 پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید؛ سه ماه پیش\n\nپیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید، سه ماه پیش از انتشار فیلم.\nسینمای ‘اسپایدرمن: روز نو’ رکوردهای فروش را ممکن است حفظ نکند.\n\n📌 نکات مهم:\n• پیش‌فروش‌های ‘افینجرس: دن‌ساید’ به ۵۰ میلیون دلار رسید\n• این پیش‌فروش‌ها سه ماه پیش از انتشار فیلم رخ داد\n• سینمای ‘اسپایدرمن: روز نو’ ممکن است رکوردهای فروش خود را از دست بدهد\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5605,7 +5654,8 @@
     "4d6aa4dcacca350cd447718e",
     "6d5a90c7bf9f80510a029ee7",
     "c44b3c9dfde181a8be50922d",
-    "a7d85b9574e081eb1840ba06"
+    "a7d85b9574e081eb1840ba06",
+    "9aa69238b610b308d483d5f4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5714,7 +5764,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876",
     "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
     "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
-    "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293"
+    "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
+    "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release"
   ],
   "category_stats": {
     "movie_news": {
@@ -5742,7 +5793,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 5,
+      "published": 6,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5774,7 +5825,7 @@
       "published": 4
     },
     "20": {
-      "published": 13
+      "published": 14
     },
     "21": {
       "published": 8
@@ -5835,64 +5886,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-30T13:03:19.512879+00:00",
-      "version": 2,
-      "posts": 56,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-30T17:03:04.803865+00:00",
       "version": 2,
@@ -8850,6 +8843,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-09T20:17:42.779475+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -8958,9 +9009,68 @@
     "b79943e7984101eb",
     "a1d6dd3a89ca7ae5",
     "0c68255ac61afac2",
-    "d5cdd5927afd5972"
+    "d5cdd5927afd5972",
+    "0808c0dc8a2ed560"
   ],
   "entity_memory": {
+    "spider-man": {
+      "count": 4,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "spider": {
+      "count": 4,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "brand new day": {
+      "count": 3,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "avengers": {
+      "count": 1,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "presales hit": {
+      "count": 1,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "million": {
+      "count": 1,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "months before release": {
+      "count": 1,
+      "last_seen": "2026-09-09T20:17:42.779393+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "festival": {
       "count": 2,
       "last_seen": "2026-09-09T17:05:00.979541+00:00",
@@ -11619,22 +11729,6 @@
         "movie_news"
       ]
     },
-    "spider-man": {
-      "count": 3,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "spider": {
-      "count": 3,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
     "christopher nolan": {
       "count": 3,
       "last_seen": "2026-09-02T13:05:45.233018+00:00",
@@ -11660,13 +11754,6 @@
       ]
     },
     "universal": {
-      "count": 2,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "brand new day": {
       "count": 2,
       "last_seen": "2026-09-02T13:05:45.233018+00:00",
       "categories": [
@@ -11762,41 +11849,6 @@
       "last_seen": "2026-09-02T09:08:19.139460+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "radhika sarathkumar": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "aparna balamurali": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "locomotive global": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eva longoria": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eugenio derbez to": {
-      "count": 1,
-      "last_seen": "2026-09-02T05:13:39.521210+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
