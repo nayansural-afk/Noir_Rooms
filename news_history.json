@@ -5596,6 +5596,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "24705e584224ece5e917a4fa",
+      "story_id": "488d72995ef9bf14",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
+      "title": "Paul Mescal, Tracy Letts & Uzo Aduba Among Names Set For National Theatre Productions In 2027",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "paul mescal",
+        "tracy letts",
+        "uzo aduba among",
+        "names set for",
+        "national theatre productions",
+        "the national theatre",
+        "london",
+        "uzo aduba",
+        "letts",
+        "mescal",
+        "arthur miller",
+        "death"
+      ],
+      "hook": "تئاتر ملی لندن: مسکال، لِتِس و آدوبا در ۲۰۲۷",
+      "hooks": [
+        "پروژه‌های جدید در تئاتر ملی: مسکال، لِتِس و آدوبا",
+        "تئاتر ملی ۲۰۲۷: بازگشت مسکال و ورود لِتِس و آدوبا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پل مسکال در تئاتر ملی لندن بازگشت می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 114,
+      "published_at": "2026-09-10T09:08:14.344882+00:00",
+      "text": "تئاتر ملی لندن: مسکال، لِتِس و آدوبا در ۲۰۲۷\n\n🎬 مسکال، لِتِس و آدوبا در تئاتر ملی لندن برای سال ۲۰۲۷\n\nدر سال ۲۰۲۷، تئاتر ملی لندن برنامه‌ریزی خود را اعلام کرد. در این فهرست، بازیگرانی چون پل مسکال، ترسی لیست و اوزو آدوبا حضور خواهند داشت.\n\nلیست در کنار مسکال در نمایش «مرگ یک فروشنده» اثر آرث میلر، که توسط رِبِکا فریکنال هدایت می‌شود، نقش دارد. آدوبا و لیست در این نمایشگاه به عنوان اولین حضورشان در تئاتر ملی معرفی می‌شوند.\n\n📌 نکات مهم:\n• پل مسکال در تئاتر ملی لندن بازگشت می‌کند\n• ترسی لیست و اوزو آدوبا در ۲۰۲۷ به عنوان اولین حضورشان در تئاتر ملی معرفی می‌شوند\n• لیست در کنار مسکال در نمایش «مرگ یک فروشنده» اجرا می‌شود\n• این نمایش توسط رِبِکا فریکنال هدایت می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5707,7 +5759,8 @@
     "c44b3c9dfde181a8be50922d",
     "a7d85b9574e081eb1840ba06",
     "9aa69238b610b308d483d5f4",
-    "88d32f7e4ffa16bfb572928d"
+    "88d32f7e4ffa16bfb572928d",
+    "24705e584224ece5e917a4fa"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5818,11 +5871,12 @@
     "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
     "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
     "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
-    "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079"
+    "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
+    "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 50,
+      "published": 51,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5902,7 +5956,7 @@
       "published": 2
     },
     "9": {
-      "published": 13
+      "published": 14
     },
     "6": {
       "published": 1
@@ -5939,64 +5993,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-30T20:08:46.663345+00:00",
-      "version": 2,
-      "posts": 58,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-31T05:08:02.301693+00:00",
       "version": 2,
@@ -8954,6 +8950,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-10T09:08:14.344983+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9064,9 +9118,95 @@
     "0c68255ac61afac2",
     "d5cdd5927afd5972",
     "0808c0dc8a2ed560",
-    "5e2f93386a15b590"
+    "5e2f93386a15b590",
+    "488d72995ef9bf14"
   ],
   "entity_memory": {
+    "london": {
+      "count": 5,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "paul mescal": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tracy letts": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "uzo aduba among": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "names set for": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "national theatre productions": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the national theatre": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "uzo aduba": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "letts": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mescal": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "arthur miller": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "death": {
+      "count": 1,
+      "last_seen": "2026-09-10T09:08:14.344914+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "wednesday": {
       "count": 2,
       "last_seen": "2026-09-10T05:14:19.795517+00:00",
@@ -10923,14 +11063,6 @@
         "movie_news"
       ]
     },
-    "london": {
-      "count": 4,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "over": {
       "count": 2,
       "last_seen": "2026-09-05T05:12:51.176822+00:00",
@@ -11824,86 +11956,6 @@
       "last_seen": "2026-09-02T17:05:11.647376+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "lisa": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trafalgar releasing": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "premium": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sony music vision": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christopher nolan": {
-      "count": 3,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "nolan": {
-      "count": 3,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "the odyssey": {
-      "count": 3,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "universal": {
-      "count": 2,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "ireland box office": {
-      "count": 2,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "stays": {
-      "count": 1,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "full swing atop": {
-      "count": 1,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
