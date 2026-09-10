@@ -5754,6 +5754,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a476ed4eb3578c855a49860c",
+      "story_id": "a4163ab3886cc4c9",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
+      "title": "Drink In ‘Low Lies The Land,’ Documentary Set In Luscious But Imperiled Winemaking Region Of Italy’s Piemonte – Toronto Film Festival",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "drink in",
+        "low lies the",
+        "land",
+        "documentary set in",
+        "luscious but imperiled",
+        "winemaking region of",
+        "italy",
+        "piemonte",
+        "toronto film festival",
+        "low lies",
+        "toronto",
+        "friday"
+      ],
+      "hook": "Low Lies the Land: مستند دریاچه‌ی شراب، در تورنتو رونق می‌یابد",
+      "hooks": [
+        "مستند شراب‌سازی در پِیومونته، در تورنتو به نمایش می‌رسد",
+        "Low Lies the Land: داستان شراب‌سازی در پِیومونته"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند Low Lies the Land در پِیومونته، ایتالیا"
+      ],
+      "status": "published",
+      "telegram_message_id": 117,
+      "published_at": "2026-09-10T20:15:52.930424+00:00",
+      "text": "Low Lies the Land: مستند دریاچه‌ی شراب، در تورنتو رونق می‌یابد\n\n🎬 مستند Low Lies the Land در تورنتو، به نمایش در TIFF\n\nمستند Low Lies the Land، کارگردان Emanuele Gerosa، در منطقه‌ی شراب‌سازی پِیومونته، ایتالیا ساخته شده است.\nاین فیلم، زندگی چند خانواده‌ی مشغول به کشاورزی شراب را به تصویر می‌کشد و در روز جمعه، در جشنواره فیلم تورنتو (TIFF) به نمایش گذاشته می‌شود.\n\n📌 نکات مهم:\n• مستند Low Lies the Land در پِیومونته، ایتالیا\n• کارگردان Emanuele Gerosa\n• نمایش در جشنواره فیلم تورنتو (TIFF) روز جمعه\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5868,7 +5920,8 @@
     "88d32f7e4ffa16bfb572928d",
     "24705e584224ece5e917a4fa",
     "f3e0d91d4fcccc31d6d8e7e3",
-    "f604211e5408306778acfae6"
+    "f604211e5408306778acfae6",
+    "a476ed4eb3578c855a49860c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5982,11 +6035,12 @@
     "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
     "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
     "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
-    "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393"
+    "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
+    "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 52,
+      "published": 53,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6042,7 +6096,7 @@
       "published": 4
     },
     "20": {
-      "published": 14
+      "published": 15
     },
     "21": {
       "published": 8
@@ -6103,64 +6157,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-31T13:03:34.793017+00:00",
-      "version": 2,
-      "posts": 61,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-31T17:03:08.501619+00:00",
       "version": 2,
@@ -9118,6 +9114,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-10T20:15:52.930530+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9231,9 +9285,94 @@
     "5e2f93386a15b590",
     "488d72995ef9bf14",
     "95984bcbd17677e4",
-    "65a013731217f4cb"
+    "65a013731217f4cb",
+    "a4163ab3886cc4c9"
   ],
   "entity_memory": {
+    "toronto film festival": {
+      "count": 2,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drink in": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "low lies the": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "land": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary set in": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luscious but imperiled": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "winemaking region of": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "italy": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "piemonte": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "low lies": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "toronto": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "friday": {
+      "count": 1,
+      "last_seen": "2026-09-10T20:15:52.930457+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "john turturro": {
       "count": 2,
       "last_seen": "2026-09-10T17:05:28.275060+00:00",
@@ -9662,13 +9801,6 @@
       ]
     },
     "piece": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto film festival": {
       "count": 1,
       "last_seen": "2026-09-09T17:05:00.979541+00:00",
       "categories": [
@@ -11988,83 +12120,6 @@
     "rounds out cast": {
       "count": 1,
       "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "trio": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rising stars join": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ariane labed": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bosnian": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dutch": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "suzy bemba": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "khalil gharbia": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "min park": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actress": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "curb your enthusiasm": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "southland": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
       "categories": [
         "actors_directors"
       ]
