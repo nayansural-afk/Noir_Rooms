@@ -5545,6 +5545,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "88d32f7e4ffa16bfb572928d",
+      "story_id": "5e2f93386a15b590",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
+      "title": "Barry Melrose Dies: Gretzky-Era L.A. Kings Coach And Longtime ESPN Hockey Analyst Was 70",
+      "category": "actors_directors",
+      "score": 72.17,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "dc",
+        "barry melrose dies",
+        "gretzky",
+        "kings coach and",
+        "longtime",
+        "hockey analyst was",
+        "barry melrose",
+        "wayne gretzky",
+        "los angeles kings",
+        "wednesday",
+        "melrose"
+      ],
+      "hook": "مربی و تحلیل‌گر اسنپ‌اسپیک: بارری میلروز، 70 ساله",
+      "hooks": [
+        "مربی لیگ برتر، تحلیل‌گر ESPN: بارری میلروز درگذشت",
+        "بارری میلروز، مربی لیگ و تحلیل‌گر ESPN، 70 ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Barry Melrose was a coach of the L.A. Kings during Gretzky era and later ESPN's signature hockey analyst."
+      ],
+      "status": "published",
+      "telegram_message_id": 113,
+      "published_at": "2026-09-10T05:14:19.795485+00:00",
+      "text": "مربی و تحلیل‌گر اسنپ‌اسپیک: بارری میلروز، 70 ساله\n\n🎬 بارری میلروز، مربی و تحلیل‌گر ESPN، درگذشت\n\nبارری میلروز، مربی تیم لوس‌آنجلس کینگز در دوران وین گرتزکی، به‌توسط او، لیگ نشنال هوکی (NHL) و هاکی در آمریکا به محبوبیت رسید.\n\nپس از پایان دوران مربیگری، او به‌عنوان تحلیل‌گر برجسته هاکی در شبکه ESPN برای تقریباً دو دهه فعالیت کرد و در روز چهارشنبه در سن 70 سالگی درگذشت.\n\n📌 نکات مهم:\n• مربی تیم لوس‌آنجلس کینگز در دوران وین گرتزکی و کمک به محبوبیت NHL در آمریکا\n• تحلیل‌گر برجسته هاکی در شبکه ESPN برای تقریباً دو دهه\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5655,7 +5706,8 @@
     "6d5a90c7bf9f80510a029ee7",
     "c44b3c9dfde181a8be50922d",
     "a7d85b9574e081eb1840ba06",
-    "9aa69238b610b308d483d5f4"
+    "9aa69238b610b308d483d5f4",
+    "88d32f7e4ffa16bfb572928d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5765,7 +5817,8 @@
     "https://variety.com/2026/tv/global/studio-tf1-launch-dr-seylan-and-cindy-unifrance-rendez-vous-1236854468",
     "https://variety.com/2026/film/news/law-kar-ying-paw-hee-ching-grand-tribute-1236855638",
     "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
-    "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release"
+    "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
+    "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079"
   ],
   "category_stats": {
     "movie_news": {
@@ -5775,7 +5828,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 42,
+      "published": 43,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5837,7 +5890,7 @@
       "published": 2
     },
     "5": {
-      "published": 14
+      "published": 15
     },
     "19": {
       "published": 1
@@ -5886,64 +5939,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-30T17:03:04.803865+00:00",
-      "version": 2,
-      "posts": 57,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-30T20:08:46.663345+00:00",
       "version": 2,
@@ -8901,6 +8896,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-10T05:14:19.795586+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9010,9 +9063,88 @@
     "a1d6dd3a89ca7ae5",
     "0c68255ac61afac2",
     "d5cdd5927afd5972",
-    "0808c0dc8a2ed560"
+    "0808c0dc8a2ed560",
+    "5e2f93386a15b590"
   ],
   "entity_memory": {
+    "wednesday": {
+      "count": 2,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "dc": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "barry melrose dies": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gretzky": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kings coach and": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "longtime": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hockey analyst was": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "barry melrose": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wayne gretzky": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "los angeles kings": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "melrose": {
+      "count": 1,
+      "last_seen": "2026-09-10T05:14:19.795517+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "spider-man": {
       "count": 4,
       "last_seen": "2026-09-09T20:17:42.779393+00:00",
@@ -10546,13 +10678,6 @@
         "movie_news"
       ]
     },
-    "wednesday": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "provence": {
       "count": 1,
       "last_seen": "2026-09-06T05:13:03.598031+00:00",
@@ -11779,76 +11904,6 @@
       "last_seen": "2026-09-02T13:05:45.233018+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "continues voyage sony": {
-      "count": 1,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "ireland": {
-      "count": 1,
-      "last_seen": "2026-09-02T13:05:45.233018+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "trisha krishnan toplines": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "panorama studios": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first tamil film": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "psychological horror shot": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indian": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trisha krishnan": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tamil": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "raja krishna menon": {
-      "count": 1,
-      "last_seen": "2026-09-02T09:08:19.139460+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
