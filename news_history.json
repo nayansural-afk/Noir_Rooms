@@ -5648,6 +5648,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f3e0d91d4fcccc31d6d8e7e3",
+      "story_id": "95984bcbd17677e4",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
+      "title": "Malachi Kirby Takes the Lead in ‘Uncle’ as Revenge Thriller Gets First Look (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "bafta",
+        "malachi kirby takes",
+        "lead",
+        "uncle",
+        "revenge thriller gets",
+        "first look",
+        "malachi kirby",
+        "small axe",
+        "thousand blows",
+        "variety",
+        "joe marcantonio"
+      ],
+      "hook": "مکالی کری بی‌نظیر در «Uncle»، هیجان‌انگیزترین تراجیک انتقام",
+      "hooks": [
+        "کامیابی بی‌سابقه مکالی کری در فیلم انتقام‌جویانه «Uncle»",
+        "نقش جدید مکالی کری در «Uncle»؛ تراجیک انتقام"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مکالی کری در نقش اصلی «Uncle»",
+        "سینما توسط جو مارکانتو کارگردانی و نویسندگی شده"
+      ],
+      "status": "published",
+      "telegram_message_id": 115,
+      "published_at": "2026-09-10T13:05:52.450351+00:00",
+      "text": "مکالی کری بی‌نظیر در «Uncle»، هیجان‌انگیزترین تراجیک انتقام\n\n🎬 مکالی کری در نقش اصلی «Uncle»؛ تراجیک انتقام با دیدن اولین نگاه\n\nمکالی کری، ستاره برنده جایزه BAFTA از سریال «Small Axe»، در فیلم انتقام‌جویانه «Uncle» نقش اصلی را بر عهده گرفته است.\nسینمایی که توسط نویسنده-کارگردان جو مارکانتو نوشته و کارگردانی شده و با حضور فریا هاروی، تازه‌وارد به صحنه، در حال حاضر به‌طور کامل تولید شده و اولین نگاه به آن توسط WestEnd Films منتشر شد.\n\n📌 نکات مهم:\n• مکالی کری در نقش اصلی «Uncle»\n• سینما توسط جو مارکانتو کارگردانی و نویسندگی شده\n• WestEnd Films مسئول فروش جهانی است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5760,7 +5814,8 @@
     "a7d85b9574e081eb1840ba06",
     "9aa69238b610b308d483d5f4",
     "88d32f7e4ffa16bfb572928d",
-    "24705e584224ece5e917a4fa"
+    "24705e584224ece5e917a4fa",
+    "f3e0d91d4fcccc31d6d8e7e3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5872,7 +5927,8 @@
     "https://deadline.com/2026/09/gail-teaser-trailer-toronto-film-festival-1237072293",
     "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
     "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
-    "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199"
+    "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
+    "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265"
   ],
   "category_stats": {
     "movie_news": {
@@ -5882,7 +5938,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 43,
+      "published": 44,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -5971,7 +6027,7 @@
       "published": 1
     },
     "13": {
-      "published": 12
+      "published": 13
     },
     "17": {
       "published": 12
@@ -5993,64 +6049,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-31T05:08:02.301693+00:00",
-      "version": 2,
-      "posts": 59,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-31T09:04:39.311773+00:00",
       "version": 2,
@@ -9008,6 +9006,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-10T13:05:52.450458+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9119,9 +9175,96 @@
     "d5cdd5927afd5972",
     "0808c0dc8a2ed560",
     "5e2f93386a15b590",
-    "488d72995ef9bf14"
+    "488d72995ef9bf14",
+    "95984bcbd17677e4"
   ],
   "entity_memory": {
+    "first look": {
+      "count": 2,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "disney": {
+      "count": 4,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "malachi kirby takes": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lead": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "uncle": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "revenge thriller gets": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "malachi kirby": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "small axe": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thousand blows": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "variety": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joe marcantonio": {
+      "count": 1,
+      "last_seen": "2026-09-10T13:05:52.450383+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "london": {
       "count": 5,
       "last_seen": "2026-09-10T09:08:14.344914+00:00",
@@ -9351,13 +9494,6 @@
       ]
     },
     "gail": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look": {
       "count": 1,
       "last_seen": "2026-09-09T17:05:00.979541+00:00",
       "categories": [
@@ -11000,14 +11136,6 @@
         "movie_news"
       ]
     },
-    "disney": {
-      "count": 3,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "carla jeffery": {
       "count": 2,
       "last_seen": "2026-09-05T09:07:42.987643+00:00",
@@ -11884,76 +12012,6 @@
     "trailer unveiled ahead": {
       "count": 1,
       "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice immersive bow": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "immersive": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony geffen": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "atlantic studios": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "always lalisa": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doc about": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lisa sets imax": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatrical and streaming": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "release dates always": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lalisa": {
-      "count": 1,
-      "last_seen": "2026-09-02T17:05:11.647376+00:00",
       "categories": [
         "movie_news"
       ]
