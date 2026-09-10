@@ -5702,6 +5702,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f604211e5408306778acfae6",
+      "story_id": "65a013731217f4cb",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
+      "title": "Hamptons Film Festival Unveils Full Lineup, Talks With Amanda Seyfried, John Turturro, Jesse Eisenberg & More",
+      "category": "movie_news",
+      "score": 79.49,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "sundance",
+        "hamptons film festival",
+        "unveils full lineup",
+        "talks with amanda",
+        "seyfried",
+        "john turturro",
+        "jesse eisenberg",
+        "more",
+        "the hamptons international",
+        "film festival",
+        "october",
+        "wicker"
+      ],
+      "hook": "فستیوال هامتونز: برنامه کامل و گفت‌وگوهای ویژه",
+      "hooks": [
+        "برنامه 34مین فستیوال هامتونز و چهره‌های برجسته",
+        "فستیوال هامتونز: فیلم‌های جدید و مصاحبه‌های خاص"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال هامتونز 34م در ۲ تا ۱۲ اکتبر برگزار می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 116,
+      "published_at": "2026-09-10T17:05:28.275035+00:00",
+      "text": "فستیوال هامتونز: برنامه کامل و گفت‌وگوهای ویژه\n\n🎬 فستیوال هامتونز 34م: فهرست کامل فیلم‌ها و مصاحبه‌های ویژه\n\nفستیوال هامتونز بین‌المللی در تاریخ ۲ تا ۱۲ اکتبر، 34مین دوره خود را برگزار می‌کند و برنامه‌اش را به‌صورت کامل اعلام کرد. فیلم پایانی فستیوال، Wicker، در روز ۱۲ اکتبر به نمایش در می‌آید.\nفیلم فانتزی Sundance، که توسط Alex Huston Fischer و Eleanor Wilson کارگردانی شده و بازیگران Olivia Colman، Alexander Skarsgård، Elizabeth Debicki و Peter Dinklage را در بر می‌گیرد، در فهرست قرار دارد. همچنین در فستیوال گفت‌وگوهایی با بازیگران مطرحی چون Amanda Seyfried، John Turturro و Jesse Eisenberg برگزار شد.\n\n📌 نکات مهم:\n• فستیوال هامتونز 34م در ۲ تا ۱۲ اکتبر برگزار می‌شود\n• فیلم Wicker در ۱۲ اکتبر به نمایش در می‌آید\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5815,7 +5867,8 @@
     "9aa69238b610b308d483d5f4",
     "88d32f7e4ffa16bfb572928d",
     "24705e584224ece5e917a4fa",
-    "f3e0d91d4fcccc31d6d8e7e3"
+    "f3e0d91d4fcccc31d6d8e7e3",
+    "f604211e5408306778acfae6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -5928,11 +5981,12 @@
     "https://www.thewrap.com/creative-content/movies/avengers-doomsday-presales-50-million-before-release",
     "https://deadline.com/2026/09/barry-melrose-dead-los-angeles-kings-coach-espn-1237073079",
     "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
-    "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265"
+    "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
+    "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 51,
+      "published": 52,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6030,7 +6084,7 @@
       "published": 13
     },
     "17": {
-      "published": 12
+      "published": 13
     }
   },
   "strategy": {
@@ -6049,64 +6103,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-31T09:04:39.311773+00:00",
-      "version": 2,
-      "posts": 60,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Andrea Eastman, ‘The Godfather’ Casting Director and Former Hollywood Agent, Dies at 86",
-          "category": "actors_directors",
-          "score": 86.89,
-          "multi_source_count": 3
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-31T13:03:34.793017+00:00",
       "version": 2,
@@ -9064,6 +9060,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-10T17:05:28.275120+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9176,9 +9230,95 @@
     "0808c0dc8a2ed560",
     "5e2f93386a15b590",
     "488d72995ef9bf14",
-    "95984bcbd17677e4"
+    "95984bcbd17677e4",
+    "65a013731217f4cb"
   ],
   "entity_memory": {
+    "john turturro": {
+      "count": 2,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival": {
+      "count": 2,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "october": {
+      "count": 4,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "sundance": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hamptons film festival": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unveils full lineup": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "talks with amanda": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seyfried": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jesse eisenberg": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the hamptons international": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wicker": {
+      "count": 1,
+      "last_seen": "2026-09-10T17:05:28.275060+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "first look": {
       "count": 2,
       "last_seen": "2026-09-10T13:05:52.450383+00:00",
@@ -9965,13 +10105,6 @@
       "last_seen": "2026-09-08T13:06:57.134495+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "john turturro": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -11045,13 +11178,6 @@
         "movie_news"
       ]
     },
-    "film festival": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "skyler gisondo": {
       "count": 1,
       "last_seen": "2026-09-05T17:04:57.438369+00:00",
@@ -11180,14 +11306,6 @@
       "count": 1,
       "last_seen": "2026-09-05T09:07:42.987643+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "october": {
-      "count": 3,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -11949,71 +12067,6 @@
       "last_seen": "2026-09-03T05:40:03.203000+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "alexanders talent": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "instagram": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "carla": {
-      "count": 1,
-      "last_seen": "2026-09-03T05:40:03.203000+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "directed": {
-      "count": 5,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "streaming",
-        "box_office",
-        "movie_news"
-      ]
-    },
-    "margot robbie": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "narrated": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "galapagos": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the last eden": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trailer unveiled ahead": {
-      "count": 1,
-      "last_seen": "2026-09-02T20:17:12.426218+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
