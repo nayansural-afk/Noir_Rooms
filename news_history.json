@@ -5909,6 +5909,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4148bb69c6d804d6c0619b90",
+      "story_id": "81f56796fa7d4a85",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076",
+      "title": "‘In Alaska’ Producer Tyler Hagan Wins CMPA’s Feature Producer Indiescreen Award at Toronto Film Festival",
+      "category": "movie_news",
+      "score": 56.59,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "in alaska",
+        "producer tyler hagan",
+        "wins",
+        "feature producer indiescreen",
+        "award",
+        "toronto film festival",
+        "tyler hagan",
+        "experimental forest films",
+        "canadian media producers",
+        "association",
+        "feature film producer",
+        "indiescreen award"
+      ],
+      "hook": "تایلر هگان، برنده جایزه اندی‌سکین در تورنتو",
+      "hooks": [
+        "جایزه CMPA برای تولیدکننده‌ی ‘In Alaska’",
+        "تجربه‌ی برنده در جشنواره فیلم تورنتو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تایلر هگان برنده جایزه CMPA در تورنتو است"
+      ],
+      "status": "published",
+      "telegram_message_id": 120,
+      "published_at": "2026-09-11T13:05:08.413942+00:00",
+      "text": "تایلر هگان، برنده جایزه اندی‌سکین در تورنتو\n\n🎬 تایلر هگان، تولیدکننده‌ی ‘In Alaska’، برنده جایزه CMPA در تورنتو\n\nدر جشنواره فیلم تورنتو، تولیدکننده‌ی ‘In Alaska’، تایلر هگان، جایزه‌ی Feature Film Producer Indiescreen از انجمن تولیدکنندگان رسانه کانادا را کسب کرد. این افتخار در مراسم افتتاحیه 51م جشنواره، در هتل سوتون پلیس، در تاریخ 10 سپتامبر 2026 اعلام شد.\n\n📌 نکات مهم:\n• تایلر هگان، تولیدکننده‌ی ‘In Alaska’\n• جایزه Feature Film Producer Indiescreen از CMPA\n• مراسم در هتل سوتون پلیس، 10 سپتامبر 2026\n• جشنواره فیلم تورنتو 51م\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6026,7 +6079,8 @@
     "f604211e5408306778acfae6",
     "a476ed4eb3578c855a49860c",
     "428910489b81277244fd9228",
-    "80bc9050e7ae30d170e7d703"
+    "80bc9050e7ae30d170e7d703",
+    "4148bb69c6d804d6c0619b90"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6143,11 +6197,12 @@
     "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
     "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
     "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
-    "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078"
+    "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
+    "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 54,
+      "published": 55,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6242,7 +6297,7 @@
       "published": 1
     },
     "13": {
-      "published": 13
+      "published": 14
     },
     "17": {
       "published": 13
@@ -6264,64 +6319,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-01T05:13:53.577509+00:00",
-      "version": 2,
-      "posts": 64,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-01T09:08:23.087312+00:00",
       "version": 2,
@@ -9279,6 +9276,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-11T13:05:08.414044+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9395,9 +9450,94 @@
     "65a013731217f4cb",
     "a4163ab3886cc4c9",
     "eedc6d869238420c",
-    "ade7e7362659c609"
+    "ade7e7362659c609",
+    "81f56796fa7d4a85"
   ],
   "entity_memory": {
+    "toronto film festival": {
+      "count": 3,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "award": {
+      "count": 2,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in alaska": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "producer tyler hagan": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feature producer indiescreen": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tyler hagan": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "experimental forest films": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "canadian media producers": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "association": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feature film producer": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indiescreen award": {
+      "count": 1,
+      "last_seen": "2026-09-11T13:05:08.413972+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 12,
       "last_seen": "2026-09-11T09:08:00.067958+00:00",
@@ -9551,13 +9691,6 @@
     "minnesota": {
       "count": 1,
       "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto film festival": {
-      "count": 2,
-      "last_seen": "2026-09-10T20:15:52.930457+00:00",
       "categories": [
         "movie_news"
       ]
@@ -10842,13 +10975,6 @@
       ]
     },
     "the academy": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "award": {
       "count": 1,
       "last_seen": "2026-09-07T17:05:06.949171+00:00",
       "categories": [
@@ -12162,76 +12288,6 @@
       "last_seen": "2026-09-03T20:15:53.397099+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "inde navarrette": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "apple original films": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "louis paxton": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "telluride first look": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in documentary": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zero intention of": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "living quietly": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor adam pearson": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "claims his space": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "adam pearson": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
