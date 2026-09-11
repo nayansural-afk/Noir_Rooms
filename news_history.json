@@ -5856,6 +5856,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "80bc9050e7ae30d170e7d703",
+      "story_id": "ade7e7362659c609",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
+      "title": "TIFF Opens With Siân Heder’s Crowd-Pleasing ‘Being Heumann’ — and Apple Has Its Next Oscar Contender",
+      "category": "actors_directors",
+      "score": 72.49,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "oscar",
+        "opens with",
+        "heder",
+        "crowd",
+        "pleasing",
+        "being heumann",
+        "apple has its",
+        "next oscar contender",
+        "new york",
+        "judy heumann",
+        "there",
+        "just"
+      ],
+      "hook": "سینمای 'Being Heumann' در TIFF، پیامی قدرتمند از عدالت اجتماعی",
+      "hooks": [
+        "فیلم 'Being Heumann' در جشنواره TIFF، واکنش‌های قوی",
+        "سینمای Siân Heder در TIFF، پیغام‌دار و الهام‌بخش"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Being Heumann در TIFF به‌عنوان فیلمی که استقبال زیادی داشت، معرفی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 119,
+      "published_at": "2026-09-11T09:08:00.067929+00:00",
+      "text": "سینمای 'Being Heumann' در TIFF، پیامی قدرتمند از عدالت اجتماعی\n\n🎬 سینمای 'Being Heumann' در TIFF: پیغام عدالت اجتماعی در صحنه‌ی واقعی\n\nفیلم 'Being Heumann' در جشنواره TIFF به نمایش گذاشته شد و با صحنه‌ای در خیابان نیویورک که مانع از عبور جودی هومن از آن می‌شود، تماشاگران را مجذوب کرد.\nسینماستری سِیان هدر در این اثر، در کنار حضور جودی هومن در ویلچر، پیام عدالت اجتماعی را به‌صورت بصری و احساسی منتقل می‌کند؛ در عین حال، اپل اعلام کرده است که این فیلم، یکی از نامزدهای احتمالی برای جایزه اسکار آینده است.\n\n📌 نکات مهم:\n• سینمای 'Being Heumann' در جشنواره TIFF نمایش داده شد\n• اپل اعلام کرده است که این فیلم، یکی از نامزدهای احتمالی برای جایزه اسکار آینده است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5972,7 +6025,8 @@
     "f3e0d91d4fcccc31d6d8e7e3",
     "f604211e5408306778acfae6",
     "a476ed4eb3578c855a49860c",
-    "428910489b81277244fd9228"
+    "428910489b81277244fd9228",
+    "80bc9050e7ae30d170e7d703"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6088,7 +6142,8 @@
     "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
     "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
     "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
-    "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178"
+    "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
+    "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078"
   ],
   "category_stats": {
     "movie_news": {
@@ -6098,7 +6153,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 44,
+      "published": 45,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6172,7 +6227,7 @@
       "published": 2
     },
     "9": {
-      "published": 14
+      "published": 15
     },
     "6": {
       "published": 1
@@ -6209,64 +6264,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-31T20:08:42.251228+00:00",
-      "version": 2,
-      "posts": 63,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-01T05:13:53.577509+00:00",
       "version": 2,
@@ -9224,6 +9221,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-11T09:08:00.068031+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9339,9 +9394,97 @@
     "95984bcbd17677e4",
     "65a013731217f4cb",
     "a4163ab3886cc4c9",
-    "eedc6d869238420c"
+    "eedc6d869238420c",
+    "ade7e7362659c609"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 12,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "new york": {
+      "count": 2,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "opens with": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "heder": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "crowd": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pleasing": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "being heumann": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "apple has its": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "next oscar contender": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "judy heumann": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "there": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "just": {
+      "count": 1,
+      "last_seen": "2026-09-11T09:08:00.067958+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "ross butler": {
       "count": 1,
       "last_seen": "2026-09-11T05:14:17.257900+00:00",
@@ -10283,15 +10426,6 @@
         "trailers_first_look"
       ]
     },
-    "oscar": {
-      "count": 11,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "elon musk": {
       "count": 1,
       "last_seen": "2026-09-08T17:05:53.175783+00:00",
@@ -10399,13 +10533,6 @@
       ]
     },
     "pickpocket": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york": {
       "count": 1,
       "last_seen": "2026-09-08T13:06:57.134495+00:00",
       "categories": [
@@ -12105,76 +12232,6 @@
       "last_seen": "2026-09-03T17:05:06.406985+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "telluride film festival": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "edward lovelace": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "antiheroine": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "name me lawand": {
-      "count": 1,
-      "last_seen": "2026-09-03T17:05:06.406985+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lesley manville takes": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "cold war poland": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "winter": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "crow": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "cohen sets thriller": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
