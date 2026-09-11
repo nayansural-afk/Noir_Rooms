@@ -6014,6 +6014,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d658604596934ca31d44ab9a",
+      "story_id": "3c602f61bbcac671",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463",
+      "title": "Why Chase Infiniti and Christopher Briney Would Have Moved Heaven and Earth to Star in ‘The Julia Set’",
+      "category": "actors_directors",
+      "score": 71.74,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "why chase infiniti",
+        "christopher briney would",
+        "have moved heaven",
+        "earth",
+        "star",
+        "the julia set",
+        "hollywood",
+        "niki byrne"
+      ],
+      "hook": "دو ستاره جوان در فیلم The Julia Set به هم می‌پیوندند",
+      "hooks": [
+        "نیکی برنای در TIFF، داستان ریاضی‌دانان جوان",
+        "چیس انفینیتی و کریستوفر برینی در پیچیده‌ترین رابطه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نیکی برنای فیلم را به عنوان تمام آرزوهایش توصیف کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 122,
+      "published_at": "2026-09-11T20:17:12.906831+00:00",
+      "text": "دو ستاره جوان در فیلم The Julia Set به هم می‌پیوندند\n\n🎬 چیس انفینیتی و کریستوفر برینی در The Julia Set، فیلمی که به سوی آسمان و زمین می‌رود\n\nفیلم The Julia Set که در جشنواره TIFF به نمایش گذاشته شد، داستان دو دانش‌آموز ریاضی است که در مسیر بلوغ به هم می‌پیوندند. چیس انفینیتی و کریستوفر برینی در نقش‌های اصلی حضور دارند و رابطه پیچیده‌ای را به تصویر می‌کشند، در حالی که کارگردان نیکی برنای آن را به عنوان تمام آرزوهایش توصیف کرده است.\n\n📌 نکات مهم:\n• چیس انفینیتی و کریستوفر برینی در نقش‌های اصلی The Julia Set حضور دارند\n• فیلم در جشنواره TIFF به نمایش گذاشته شد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6133,7 +6181,8 @@
     "428910489b81277244fd9228",
     "80bc9050e7ae30d170e7d703",
     "4148bb69c6d804d6c0619b90",
-    "d07da20eb763d5a36a6134b0"
+    "d07da20eb763d5a36a6134b0",
+    "d658604596934ca31d44ab9a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6252,7 +6301,8 @@
     "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
     "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
     "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076",
-    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+    "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463"
   ],
   "category_stats": {
     "movie_news": {
@@ -6262,7 +6312,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 45,
+      "published": 46,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6312,7 +6362,7 @@
       "published": 4
     },
     "20": {
-      "published": 15
+      "published": 16
     },
     "21": {
       "published": 8
@@ -6373,64 +6423,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-01T13:05:45.982426+00:00",
-      "version": 2,
-      "posts": 66,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-01T17:05:38.115060+00:00",
       "version": 2,
@@ -9388,6 +9380,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-11T20:17:12.906937+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9506,9 +9556,66 @@
     "eedc6d869238420c",
     "ade7e7362659c609",
     "81f56796fa7d4a85",
-    "163c397d705d30cf"
+    "163c397d705d30cf",
+    "3c602f61bbcac671"
   ],
   "entity_memory": {
+    "star": {
+      "count": 2,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "why chase infiniti": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christopher briney would": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "have moved heaven": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "earth": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the julia set": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hollywood": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "niki byrne": {
+      "count": 1,
+      "last_seen": "2026-09-11T20:17:12.906867+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hbo": {
       "count": 2,
       "last_seen": "2026-09-11T17:04:41.925236+00:00",
@@ -10543,13 +10650,6 @@
       ]
     },
     "talks": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
       "count": 1,
       "last_seen": "2026-09-09T05:14:32.143016+00:00",
       "categories": [
@@ -12290,55 +12390,6 @@
       ]
     },
     "dune": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nicole kidman wanted": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "to star in": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "film but denis": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "villeneuve": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "never asks": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "to work together": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "obsessed": {
       "count": 1,
       "last_seen": "2026-09-04T05:13:51.921706+00:00",
       "categories": [
