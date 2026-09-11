@@ -5962,6 +5962,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d07da20eb763d5a36a6134b0",
+      "story_id": "163c397d705d30cf",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+      "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "they",
+        "israeli",
+        "rachel szor",
+        "yuval abraham",
+        "gazans",
+        "tel aviv",
+        "these",
+        "gaza",
+        "indirectly",
+        "guardian",
+        "szor"
+      ],
+      "hook": "سینمای NAZA: دروغ‌های هوش مصنوعی در نبردی بی‌رحم",
+      "hooks": [
+        "سینمای NAZA: نقش کوچک در قتل‌های بی‌پرده",
+        "NAZA: فیلمی که دروغ‌های هوش مصنوعی را نشان می‌دهد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم به‌صورت مستقیم نقش هوش مصنوعی در بمباران‌های گزه‌ای را نشان می‌دهد"
+      ],
+      "status": "published",
+      "telegram_message_id": 121,
+      "published_at": "2026-09-11T17:04:41.925195+00:00",
+      "text": "سینمای NAZA: دروغ‌های هوش مصنوعی در نبردی بی‌رحم\n\n🎬 NAZA: فیلمی که دروغ‌های هوش مصنوعی در نبردهای انسانی را آشکار می‌کند\n\nفیلم NAZA، ساخته ریکه سلور و یووال ابراهام، شهادت 24 فرد داخلی را جمع‌آوری می‌کند که در هدف‌گذاری خانه‌های گزه‌ای به صورت ریموت نقش داشتند.\nسینما با نمایش یک برج تاریک در تل‌آویو، نقش هوش مصنوعی در شناسایی سیگنال‌های تلفن و انتخاب ساختمان‌های مسکونی برای بمباران را نشان می‌دهد و مسئولیت‌های هزاران جان را به‌صورت غیرمستقیم بر عهده می‌گیرد.\n\n📌 نکات مهم:\n• فیلم NAZA توسط ریکه سلور و یووال ابراهام ساخته شده است\n• 24 شاهد داخلی در فیلم حضور دارند که به هدف‌گذاری خانه‌های گزه‌ای کمک کرده‌اند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6080,7 +6132,8 @@
     "a476ed4eb3578c855a49860c",
     "428910489b81277244fd9228",
     "80bc9050e7ae30d170e7d703",
-    "4148bb69c6d804d6c0619b90"
+    "4148bb69c6d804d6c0619b90",
+    "d07da20eb763d5a36a6134b0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6198,11 +6251,12 @@
     "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
     "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
     "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
-    "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076"
+    "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076",
+    "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 55,
+      "published": 56,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6300,7 +6354,7 @@
       "published": 14
     },
     "17": {
-      "published": 13
+      "published": 14
     }
   },
   "strategy": {
@@ -6319,64 +6373,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-01T09:08:23.087312+00:00",
-      "version": 2,
-      "posts": 65,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-01T13:05:45.982426+00:00",
       "version": 2,
@@ -9334,6 +9330,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-11T17:04:41.925321+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9451,9 +9505,95 @@
     "a4163ab3886cc4c9",
     "eedc6d869238420c",
     "ade7e7362659c609",
-    "81f56796fa7d4a85"
+    "81f56796fa7d4a85",
+    "163c397d705d30cf"
   ],
   "entity_memory": {
+    "hbo": {
+      "count": 2,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "tel aviv": {
+      "count": 2,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "they": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israeli": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel szor": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yuval abraham": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gazans": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "these": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gaza": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indirectly": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "guardian": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "szor": {
+      "count": 1,
+      "last_seen": "2026-09-11T17:04:41.925236+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "toronto film festival": {
       "count": 3,
       "last_seen": "2026-09-11T13:05:08.413972+00:00",
@@ -10460,13 +10600,6 @@
     },
     "this": {
       "count": 2,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hbo": {
-      "count": 1,
       "last_seen": "2026-09-08T20:16:47.508851+00:00",
       "categories": [
         "actors_directors"
@@ -11630,13 +11763,6 @@
         "movie_news"
       ]
     },
-    "tel aviv": {
-      "count": 1,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "april": {
       "count": 1,
       "last_seen": "2026-09-05T20:16:10.797256+00:00",
@@ -12217,77 +12343,6 @@
       "last_seen": "2026-09-04T05:13:51.921706+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "although nicole kidman": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the oscar": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star in": {
-      "count": 3,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "inde navarrette to": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the waffle house": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "index": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "movie from apple": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "plan": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "after": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rogue": {
-      "count": 1,
-      "last_seen": "2026-09-03T20:15:53.397099+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
