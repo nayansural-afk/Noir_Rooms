@@ -5806,6 +5806,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "428910489b81277244fd9228",
+      "story_id": "eedc6d869238420c",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
+      "title": "Ross Butler & Marc Evan Jackson Join Sayani Gupta In ‘Arya’",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "ross butler",
+        "marc evan jackson",
+        "join sayani gupta",
+        "arya",
+        "sayani gupta",
+        "delhi crime",
+        "neil tuli",
+        "gupta",
+        "indian",
+        "minnesota"
+      ],
+      "hook": "نقش‌های جدید در فیلم 'آریا': راس بلیتر و مارک ایوان جکسون",
+      "hooks": [
+        "سایه‌های جدید در 'آریا': بلیتر و جکسون در کنار سایانی گوتا",
+        "آریا با حضور راس بلیتر و مارک ایوان جکسون، داستانی نو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Ross Butler and Marc Evan Jackson join the cast of Arya."
+      ],
+      "status": "published",
+      "telegram_message_id": 118,
+      "published_at": "2026-09-11T05:14:17.257866+00:00",
+      "text": "نقش‌های جدید در فیلم 'آریا': راس بلیتر و مارک ایوان جکسون\n\n🎬 سایان گوتا، راس بلیتر و مارک ایوان جکسون در فیلم 'آریا'\n\nفیلم 'آریا' که توسط نیل تولی نوشته و کارگردانی شده، در آن سایانی گوتا نقش آریا، معلم پیانو انضباط‌پذیر، را بازی می‌کند.\n\nنقش‌های جدید راس بلیتر و مارک ایوان جکسون به فیلم اضافه می‌شود؛ آریا در شمال مینه‌سوتا مأموریتی را قبول می‌کند تا به نجات برسد.\n\n📌 نکات مهم:\n• نقش‌های راس بلیتر و مارک ایوان جکسون در فیلم 'آریا' اضافه شد.\n• فیلم 'آریا' توسط نیل تولی نوشته و کارگردانی شده و داستان معلم پیانو در شمال مینه‌سوتا را روایت می‌کند.\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -5921,7 +5971,8 @@
     "24705e584224ece5e917a4fa",
     "f3e0d91d4fcccc31d6d8e7e3",
     "f604211e5408306778acfae6",
-    "a476ed4eb3578c855a49860c"
+    "a476ed4eb3578c855a49860c",
+    "428910489b81277244fd9228"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6036,11 +6087,12 @@
     "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199",
     "https://variety.com/2026/film/global/malachi-kirby-lead-uncle-revenge-thriller-first-look-1236853265",
     "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393",
-    "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709"
+    "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709",
+    "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 53,
+      "published": 54,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6108,7 +6160,7 @@
       "published": 2
     },
     "5": {
-      "published": 15
+      "published": 16
     },
     "19": {
       "published": 1
@@ -6157,64 +6209,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-08-31T17:03:08.501619+00:00",
-      "version": 2,
-      "posts": 62,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-08-31T20:08:42.251228+00:00",
       "version": 2,
@@ -9172,6 +9166,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-11T05:14:17.257994+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9286,9 +9338,80 @@
     "488d72995ef9bf14",
     "95984bcbd17677e4",
     "65a013731217f4cb",
-    "a4163ab3886cc4c9"
+    "a4163ab3886cc4c9",
+    "eedc6d869238420c"
   ],
   "entity_memory": {
+    "ross butler": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marc evan jackson": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "join sayani gupta": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "arya": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sayani gupta": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "delhi crime": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "neil tuli": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gupta": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indian": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "minnesota": {
+      "count": 1,
+      "last_seen": "2026-09-11T05:14:17.257900+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "toronto film festival": {
       "count": 2,
       "last_seen": "2026-09-10T20:15:52.930457+00:00",
@@ -12052,76 +12175,6 @@
       "last_seen": "2026-09-03T13:05:38.669099+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "release date": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "lesley manville": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "cold war": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kasia adamik": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "warsaw": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "alongside": {
-      "count": 1,
-      "last_seen": "2026-09-03T13:05:38.669099+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "ena sendijarevic": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "witch hunt drama": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the possessed": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rounds out cast": {
-      "count": 1,
-      "last_seen": "2026-09-03T09:08:50.093043+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
