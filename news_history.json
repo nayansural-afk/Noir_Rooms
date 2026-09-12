@@ -6162,6 +6162,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e862f725ff7ae262bfcee7eb",
+      "story_id": "0e4bee6c4c1298d0",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634",
+      "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "maisie williams thriller",
+        "ignition",
+        "bought",
+        "saban",
+        "north america",
+        "emmy",
+        "game",
+        "thrones",
+        "maisie williams",
+        "films",
+        "james erskine"
+      ],
+      "hook": "Saban در آمریکا، Thriller 'Ignition' را به دست آورد",
+      "hooks": [
+        "Saban در آمریکا، Thriller 'Ignition' را به دست آورد",
+        "سینمای آمریکایی، 'Ignition' را از Saban می‌گیرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Saban در آمریکا، Thriller 'Ignition' را خریداری کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 125,
+      "published_at": "2026-09-12T13:04:54.147768+00:00",
+      "text": "Saban در آمریکا، Thriller 'Ignition' را به دست آورد\n\n🎬 Saban در آمریکا، Thriller 'Ignition' را به دست آورد\n\nفیلم Thriller 'Ignition' با بازی بازیگر امی‌نومید نایمن گیم آف ثرونز، Maisie Williams، در حال آماده‌سازی است. این فیلم توسط کارگردان امی‌نومید نایمن، James Erskine، ساخته شده و در جشنواره کن معرفی شد.\n\nشرکت WestEnd Films قرارداد داخلی با Saban را برای بازار آمریکایی بسته است، که این اقدام باعث می‌شود 'Ignition' در سال آینده در سینماهای آمریکا به نمایش درآید.\n\n📌 نکات مهم:\n• فیلم Thriller 'Ignition' با بازی Maisie Williams\n• کارگردان James Erskine\n• Saban خریداری کرد\n• WestEnd Films در کن معرفی شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6284,7 +6337,8 @@
     "d07da20eb763d5a36a6134b0",
     "d658604596934ca31d44ab9a",
     "7ededc04751947d17da62a4a",
-    "63850f41d07acd67147c77b4"
+    "63850f41d07acd67147c77b4",
+    "e862f725ff7ae262bfcee7eb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6406,11 +6460,12 @@
     "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
     "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463",
     "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463",
-    "https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495"
+    "https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495",
+    "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 57,
+      "published": 58,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6505,7 +6560,7 @@
       "published": 1
     },
     "13": {
-      "published": 14
+      "published": 15
     },
     "17": {
       "published": 14
@@ -6527,64 +6582,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-02T05:13:39.521303+00:00",
-      "version": 2,
-      "posts": 69,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-02T09:08:19.139560+00:00",
       "version": 2,
@@ -9542,6 +9539,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-12T13:04:54.147870+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9663,9 +9718,95 @@
     "163c397d705d30cf",
     "3c602f61bbcac671",
     "83b6231cfd82e0a3",
-    "37b62593afaf9114"
+    "37b62593afaf9114",
+    "0e4bee6c4c1298d0"
   ],
   "entity_memory": {
+    "maisie williams": {
+      "count": 2,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "cannes": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maisie williams thriller": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ignition": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bought": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "saban": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north america": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emmy": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "game": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thrones": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james erskine": {
+      "count": 1,
+      "last_seen": "2026-09-12T13:04:54.147799+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "toronto film festival": {
       "count": 4,
       "last_seen": "2026-09-12T09:08:04.696813+00:00",
@@ -11715,13 +11856,6 @@
         "actors_directors"
       ]
     },
-    "maisie williams": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "joey king": {
       "count": 1,
       "last_seen": "2026-09-06T20:16:24.008820+00:00",
@@ -12419,85 +12553,6 @@
     "nest": {
       "count": 1,
       "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sullivan": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "brinsworth house": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "royal variety charity": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "twickenham": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "september": {
-      "count": 5,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look",
-        "actors_directors"
-      ]
-    },
-    "tony gatlif dies": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gadjo dilo": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director whose work": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "celebrated roma culture": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director tony gatlif": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "southern french": {
-      "count": 1,
-      "last_seen": "2026-09-04T13:05:23.168941+00:00",
       "categories": [
         "actors_directors"
       ]
