@@ -6268,6 +6268,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0faef0703a659635ab3adc5e",
+      "story_id": "a133881d7a1f6dcb",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/venice-winners-2026-1237100060",
+      "title": "Venice 2026 Winners: May El-Toukhy’s ‘Woman Unknown’ Wins Golden Lion For Best Film",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "winners",
+        "may el",
+        "toukhy",
+        "woman unknown",
+        "wins golden lion",
+        "for best film",
+        "danish",
+        "golden lion",
+        "best film",
+        "venice film festival",
+        "world war two"
+      ],
+      "hook": "سینمای دانمارک برندهٔ لیون طلایی در ونیز",
+      "hooks": [
+        "فیلمی که در ونیز برندهٔ بهترین فیلم شد",
+        "سینمای دانمارک با فیلم «زن ناشناخته» برنده"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم برندهٔ لیون طلایی در جشنواره ونیز"
+      ],
+      "status": "published",
+      "telegram_message_id": 127,
+      "published_at": "2026-09-12T20:15:56.416761+00:00",
+      "text": "سینمای دانمارک برندهٔ لیون طلایی در ونیز\n\n🎬 سینمای دانمارک با فیلم «زن ناشناخته» برندهٔ لیون طلایی در جشنواره ونیز\n\nفیلم «زن ناشناخته»، ساختهٔ مای ال توخی، در جشنواره فیلم ونیز ۲۰۲۶ برندهٔ لیون طلایی بهترین فیلم شد.\nاین تریلر روانشناختی پس از جنگ جهانی دوم در تابستان ۱۹۴۵ در دانمارک اتفاق می‌افتد و به‌عنوان یکی از دو کارگردان زن در رقابت برنده شد.\n\n📌 نکات مهم:\n• «زن ناشناخته» برندهٔ لیون طلایی جشنواره ونیز ۲۰۲۶\n• کارگردان مای ال توخی یکی از دو کارگردان زن در رقابت بود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/venice-winners-2026-1237100060",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6392,7 +6445,8 @@
     "7ededc04751947d17da62a4a",
     "63850f41d07acd67147c77b4",
     "e862f725ff7ae262bfcee7eb",
-    "5a95773636d777f79035cd08"
+    "5a95773636d777f79035cd08",
+    "0faef0703a659635ab3adc5e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6516,11 +6570,12 @@
     "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463",
     "https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495",
     "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634",
-    "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028"
+    "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028",
+    "https://deadline.com/2026/09/venice-winners-2026-1237100060"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 58,
+      "published": 59,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6576,7 +6631,7 @@
       "published": 4
     },
     "20": {
-      "published": 16
+      "published": 17
     },
     "21": {
       "published": 8
@@ -6637,64 +6692,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-02T13:05:45.233083+00:00",
-      "version": 2,
-      "posts": 71,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-02T17:05:11.647441+00:00",
       "version": 2,
@@ -9652,6 +9649,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-12T20:15:56.416888+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9775,9 +9830,97 @@
     "83b6231cfd82e0a3",
     "37b62593afaf9114",
     "0e4bee6c4c1298d0",
-    "b99af512814c605b"
+    "b99af512814c605b",
+    "a133881d7a1f6dcb"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 10,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "venice film festival": {
+      "count": 6,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "winners": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "may el": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "toukhy": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "woman unknown": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins golden lion": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "for best film": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "danish": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "golden lion": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "best film": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "world war two": {
+      "count": 1,
+      "last_seen": "2026-09-12T20:15:56.416814+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "being heumann": {
       "count": 2,
       "last_seen": "2026-09-12T17:04:43.526832+00:00",
@@ -11283,23 +11426,6 @@
         "actors_directors"
       ]
     },
-    "venice": {
-      "count": 9,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
-      ]
-    },
-    "venice film festival": {
-      "count": 5,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
     "elon musk": {
       "count": 1,
       "last_seen": "2026-09-08T17:05:53.175783+00:00",
@@ -12541,76 +12667,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "female": {
-      "count": 1,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kristy matheson": {
-      "count": 1,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "like": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "andrew scott": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "richard eyre": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ian charleson": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hamlet in": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chariots": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fire": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shakespeare": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
