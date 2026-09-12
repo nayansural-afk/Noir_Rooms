@@ -6215,6 +6215,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5a95773636d777f79035cd08",
+      "story_id": "b99af512814c605b",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028",
+      "title": "‘Being Heumann’ Producer Kevin Walsh Readies Star Vehicles For Paul Rudd & Sam Rockwell, Series With Casey Affleck: TIFF",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "being heumann",
+        "producer kevin walsh",
+        "readies star vehicles",
+        "for paul rudd",
+        "sam rockwell",
+        "series with casey",
+        "affleck",
+        "thursday",
+        "sian heder",
+        "kevin walsh",
+        "reasonable people",
+        "cory finley"
+      ],
+      "hook": "کویین والش، دو پروژه ستاره‌ای را در راه دارد",
+      "hooks": [
+        "پروژه‌های جدید کوری فینلی و کیس افلک در انتظار",
+        "پروژه‌های جدید در سینمای آمریکا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کویین والش در حال آماده‌سازی 'Reasonable People' با بازی پل راد و سم راکول است"
+      ],
+      "status": "published",
+      "telegram_message_id": 126,
+      "published_at": "2026-09-12T17:04:43.526796+00:00",
+      "text": "کویین والش، دو پروژه ستاره‌ای را در راه دارد\n\n🎬 کویین والش، دو پروژه ستاره‌ای در مسیر تولید\n\nدر پی افتتاحیه‌ی شگفت‌انگیز فیلم 'Being Heumann' در جشنواره TIFF، کویین والش به سرعت در حال آماده‌سازی دو پروژه ستاره‌ای است.\nپروژه اول، 'Reasonable People'، در کارگردانی کوری فینلی با بازی پل راد و سم راکول، در حال پیش‌تولید است. پروژه دوم، سریال 'The Hawk'، که در آن کیس افلک حضور دارد، نیز در مسیر تولید قرار دارد.\n\n📌 نکات مهم:\n• کویین والش در حال آماده‌سازی 'Reasonable People' با بازی پل راد و سم راکول است\n• کویین والش در حال آماده‌سازی سریال 'The Hawk' با حضور کیس افلک است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6338,7 +6391,8 @@
     "d658604596934ca31d44ab9a",
     "7ededc04751947d17da62a4a",
     "63850f41d07acd67147c77b4",
-    "e862f725ff7ae262bfcee7eb"
+    "e862f725ff7ae262bfcee7eb",
+    "5a95773636d777f79035cd08"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6461,7 +6515,8 @@
     "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463",
     "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463",
     "https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495",
-    "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634"
+    "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634",
+    "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028"
   ],
   "category_stats": {
     "movie_news": {
@@ -6471,7 +6526,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 47,
+      "published": 48,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6563,7 +6618,7 @@
       "published": 15
     },
     "17": {
-      "published": 14
+      "published": 15
     }
   },
   "strategy": {
@@ -6582,64 +6637,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-02T09:08:19.139560+00:00",
-      "version": 2,
-      "posts": 70,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-02T13:05:45.233083+00:00",
       "version": 2,
@@ -9597,6 +9594,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-12T17:04:43.526906+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9719,9 +9774,94 @@
     "3c602f61bbcac671",
     "83b6231cfd82e0a3",
     "37b62593afaf9114",
-    "0e4bee6c4c1298d0"
+    "0e4bee6c4c1298d0",
+    "b99af512814c605b"
   ],
   "entity_memory": {
+    "being heumann": {
+      "count": 2,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "producer kevin walsh": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "readies star vehicles": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "for paul rudd": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sam rockwell": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series with casey": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "affleck": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sian heder": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kevin walsh": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "reasonable people": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cory finley": {
+      "count": 1,
+      "last_seen": "2026-09-12T17:04:43.526832+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "maisie williams": {
       "count": 2,
       "last_seen": "2026-09-12T13:04:54.147799+00:00",
@@ -10199,13 +10339,6 @@
       ]
     },
     "pleasing": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "being heumann": {
       "count": 1,
       "last_seen": "2026-09-11T09:08:00.067958+00:00",
       "categories": [
@@ -12476,83 +12609,6 @@
     "shakespeare": {
       "count": 1,
       "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "aids": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elsinore": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hamlet": {
-      "count": 1,
-      "last_seen": "2026-09-04T20:16:05.086357+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
-      "count": 2,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "richard": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sullivan dies": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british sitcom star": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "known for": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "man about house": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robin": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nest": {
-      "count": 1,
-      "last_seen": "2026-09-04T17:05:22.995245+00:00",
       "categories": [
         "actors_directors"
       ]
