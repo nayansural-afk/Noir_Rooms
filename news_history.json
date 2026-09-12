@@ -6062,6 +6062,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7ededc04751947d17da62a4a",
+      "story_id": "83b6231cfd82e0a3",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463",
+      "title": "Josh Hartnett Reveals He Was “Actively Not Looking to Do a TV Show” Before Joining ‘Below’",
+      "category": "actors_directors",
+      "score": 71.28,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "josh hartnett reveals",
+        "he was",
+        "actively not looking",
+        "show",
+        "before joining",
+        "below"
+      ],
+      "hook": "جوش هارتنِت: از فیلم‌سازی به سریال 'بی‌لای' رفت",
+      "hooks": [
+        "جوش هارتنِت: از فیلم‌سازی به سریال 'بی‌لای' رفت",
+        "قبل از 'بی‌لای'، جوش هارتنِت در جستجوی فیلم بود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جوش هارتنِت اعلام کرده بود که در ابتدا به دنبال فیلم بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 123,
+      "published_at": "2026-09-12T05:13:47.036623+00:00",
+      "text": "جوش هارتنِت: از فیلم‌سازی به سریال 'بی‌لای' رفت\n\n🎬 جوش هارتنِت: در جستجوی فیلم، نه سریال\n\nجوش هارتنِت، بازیگر مطرح، اعلام کرد که قبل از پذیرفتن نقش در سریال کم‌تعداد Netflix 'بی‌لای'، در حال حاضر به دنبال فیلم جدید بود. او گفت که در ابتدا به دنبال نقش در یک فیلم دیگر بود و فقط پس از بررسی پیشنهاد، تصمیم گرفت در این سریال شرکت کند.\n\n📌 نکات مهم:\n• جوش هارتنِت قبل از 'بی‌لای' به دنبال فیلم بود\n• او در ابتدا به دنبال نقش در فیلم دیگر بود، نه سریال\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6182,7 +6229,8 @@
     "80bc9050e7ae30d170e7d703",
     "4148bb69c6d804d6c0619b90",
     "d07da20eb763d5a36a6134b0",
-    "d658604596934ca31d44ab9a"
+    "d658604596934ca31d44ab9a",
+    "7ededc04751947d17da62a4a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6302,7 +6350,8 @@
     "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078",
     "https://variety.com/2026/film/awards/tyler-hagan-toronto-film-fest-cmpa-feature-producer-award-1236858076",
     "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
-    "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463"
+    "https://www.hollywoodreporter.com/movies/movie-features/chase-infiniti-christopher-briney-the-julia-set-tiff-film-1236697463",
+    "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-not-looking-tv-show-before-below-1236698463"
   ],
   "category_stats": {
     "movie_news": {
@@ -6312,7 +6361,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 46,
+      "published": 47,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6374,7 +6423,7 @@
       "published": 2
     },
     "5": {
-      "published": 16
+      "published": 17
     },
     "19": {
       "published": 1
@@ -6423,64 +6472,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-01T17:05:38.115060+00:00",
-      "version": 2,
-      "posts": 67,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Dark Comedy ‘Buddy’, Thriller ‘Colony’, John Boorman Doc Hit Theaters – Specialty Preview",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-01T20:16:37.411326+00:00",
       "version": 2,
@@ -9438,6 +9429,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-12T05:13:47.036713+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9557,9 +9606,61 @@
     "ade7e7362659c609",
     "81f56796fa7d4a85",
     "163c397d705d30cf",
-    "3c602f61bbcac671"
+    "3c602f61bbcac671",
+    "83b6231cfd82e0a3"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 8,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "josh hartnett reveals": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "he was": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actively not looking": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "show": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "before joining": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "below": {
+      "count": 1,
+      "last_seen": "2026-09-12T05:13:47.036650+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star": {
       "count": 2,
       "last_seen": "2026-09-11T20:17:12.906867+00:00",
@@ -11291,15 +11392,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 7,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "netflix officially confirms": {
       "count": 1,
       "last_seen": "2026-09-07T09:08:49.996762+00:00",
@@ -12352,48 +12444,6 @@
       "last_seen": "2026-09-04T09:08:12.870712+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "vincent must die": {
-      "count": 1,
-      "last_seen": "2026-09-04T09:08:12.870712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "french belgian": {
-      "count": 1,
-      "last_seen": "2026-09-04T09:08:12.870712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "castang": {
-      "count": 1,
-      "last_seen": "2026-09-04T09:08:12.870712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cannes film festival": {
-      "count": 1,
-      "last_seen": "2026-09-04T09:08:12.870712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "denis villeneuve": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dune": {
-      "count": 1,
-      "last_seen": "2026-09-04T05:13:51.921706+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
