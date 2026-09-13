@@ -6422,6 +6422,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "76c1f88651539733545c50fc",
+      "story_id": "594a4a01d6807597",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
+      "title": "‘Severance’ Producer Nicholas Weinstock Boards Indian Fantasy-Horror ‘Tongue’ Starring Sayani Gupta (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "severance",
+        "producer nicholas weinstock",
+        "boards indian fantasy",
+        "horror",
+        "tongue",
+        "starring sayani gupta",
+        "nicholas weinstock",
+        "apple",
+        "indian",
+        "krishnarjun bhattacharya",
+        "sayani gupta",
+        "weinstock"
+      ],
+      "hook": "نیکلاس وینس‌تاک، تولیدکننده 'Severance'، به 'Tongue' می‌پیوندد",
+      "hooks": [
+        "کارگردان جدید 'Tongue' با نیکلاس وینس‌تاک",
+        "سایانی گوتا در فیلم فانتزی-هراس 'Tongue'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نیکلاس وینس‌تاک به 'Tongue' ملحق شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 131,
+      "published_at": "2026-09-13T17:05:03.313172+00:00",
+      "text": "نیکلاس وینس‌تاک، تولیدکننده 'Severance'، به 'Tongue' می‌پیوندد\n\n🎬 نیکلاس وینس‌تاک، تولیدکننده 'Severance'، به پروژه فانتزی-هراس 'Tongue' ملحق شد\n\nنیکلاس وینس‌تاک، تولیدکننده اجرایی سریال Apple TV+ 'Severance'، به فیلم فانتزی-هراس هندی 'Tongue' ملحق شد. این اثر توسط کریش‌نارجون بھاتچاریا نوشته و کارگردانی شده و در نقش اصلی ساینانی گوتا حضور دارد.\nوینس‌تاک از طریق بنر Invention Studios به همراه دیویا د‌سوزا تولید می‌کند و گوتا به عنوان تهیه‌کننده هندی فیلم ایفای نقش می‌کند. 'Tongue' جایگاه ویژه‌ای در جشنواره فیلم جنوب آسیا-کاناد به دست آورد.\n\n📌 نکات مهم:\n• نیکلاس وینس‌تاک تولیدکننده اجرایی سریال 'Severance' است.\n• فیلم 'Tongue' توسط کریش‌نارجون بھاتچاریا نوشته و کارگردانی شده و ساینانی گوتا در نقش اصلی حضور دارد.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6549,7 +6602,8 @@
     "5a95773636d777f79035cd08",
     "0faef0703a659635ab3adc5e",
     "a856ec8b68b576bd3dd26ea8",
-    "b60d693db96b6855453e1816"
+    "b60d693db96b6855453e1816",
+    "76c1f88651539733545c50fc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6676,7 +6730,8 @@
     "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028",
     "https://deadline.com/2026/09/venice-winners-2026-1237100060",
     "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218",
-    "https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879"
+    "https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879",
+    "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472"
   ],
   "category_stats": {
     "movie_news": {
@@ -6686,7 +6741,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 48,
+      "published": 49,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6778,7 +6833,7 @@
       "published": 16
     },
     "17": {
-      "published": 15
+      "published": 16
     }
   },
   "strategy": {
@@ -6797,64 +6852,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-03T05:40:03.203066+00:00",
-      "version": 2,
-      "posts": 74,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-03T09:08:50.093110+00:00",
       "version": 2,
@@ -9812,6 +9809,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-13T17:05:03.313273+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9938,9 +9993,96 @@
     "b99af512814c605b",
     "a133881d7a1f6dcb",
     "4b6fcaff00eb473e",
-    "d85dfabbdc598ead"
+    "d85dfabbdc598ead",
+    "594a4a01d6807597"
   ],
   "entity_memory": {
+    "sayani gupta": {
+      "count": 2,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "indian": {
+      "count": 2,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "severance": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "producer nicholas weinstock": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "boards indian fantasy": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "horror": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tongue": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring sayani gupta": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nicholas weinstock": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "apple": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "krishnarjun bhattacharya": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "weinstock": {
+      "count": 1,
+      "last_seen": "2026-09-13T17:05:03.313200+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "festival": {
       "count": 3,
       "last_seen": "2026-09-13T13:05:09.053749+00:00",
@@ -10798,13 +10940,6 @@
         "movie_news"
       ]
     },
-    "sayani gupta": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "delhi crime": {
       "count": 1,
       "last_seen": "2026-09-11T05:14:17.257900+00:00",
@@ -10820,13 +10955,6 @@
       ]
     },
     "gupta": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indian": {
       "count": 1,
       "last_seen": "2026-09-11T05:14:17.257900+00:00",
       "categories": [
@@ -12696,76 +12824,6 @@
     "france": {
       "count": 1,
       "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john malkovich returning": {
-      "count": 1,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israel with": {
-      "count": 1,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the music critic": {
-      "count": 1,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "april": {
-      "count": 1,
-      "last_seen": "2026-09-05T20:16:10.797256+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "primetime": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "red carpet photos": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "robert pattinson": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "merritt wever": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phoebe bridgers": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "more the venice": {
-      "count": 1,
-      "last_seen": "2026-09-05T17:04:57.438369+00:00",
       "categories": [
         "movie_news"
       ]
