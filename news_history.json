@@ -6321,6 +6321,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a856ec8b68b576bd3dd26ea8",
+      "story_id": "4b6fcaff00eb473e",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218",
+      "title": "Seth Rogen Says ‘Babies’ Is “Reflective” of His “Experiences” Exploring Parenthood: “It’s Shocking How Personal It Is”",
+      "category": "movie_news",
+      "score": 73.75,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "seth rogen says",
+        "babies",
+        "reflective",
+        "experiences",
+        "exploring parenthood",
+        "shocking how personal",
+        "it is",
+        "lauren miller rogen"
+      ],
+      "hook": "سِت رُگن دربارهٔ فیلم «Babies» و تجربهٔ والدین‌گری می‌گوید",
+      "hooks": [
+        "فیلم «Babies»، بازتابی از زندگی والدین‌گری سِت رُگن",
+        "سِت رُگن: «Babies» فیلمی شگفت‌انگیز دربارهٔ والدین"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سِت رُگن در مصاحبهٔ The Hollywood Reporter اظهار کرد که فیلم «Babies» بازتابی صادقانه از تجربیات شخصی او در مسیر والدین‌گری است"
+      ],
+      "status": "published",
+      "telegram_message_id": 128,
+      "published_at": "2026-09-13T05:13:51.935081+00:00",
+      "text": "سِت رُگن دربارهٔ فیلم «Babies» و تجربهٔ والدین‌گری می‌گوید\n\n🎬 سِت رُگن دربارهٔ فیلم «Babies» و تجربهٔ والدین‌گری می‌گوید\n\nسِت رُگن در مصاحبه‌ای با The Hollywood Reporter گفت که فیلم «Babies» بازتابی صادقانه از تجربیات شخصی او در مسیر والدین‌گری است. او اظهار کرد که این فیلم به طرز شگفت‌انگیزی شخصی است و به‌طور جسورانه در مورد احساسات و چالش‌های والدین‌گری صحبت می‌کند.\n\n📌 نکات مهم:\n• سِت رُگن دربارهٔ فیلم «Babies» می‌گوید که بازتابی از تجربیات شخصی او در والدین‌گری است\n• فیلم «Babies» توسط لورین میلر رُگن کارگردانی شده است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6446,7 +6494,8 @@
     "63850f41d07acd67147c77b4",
     "e862f725ff7ae262bfcee7eb",
     "5a95773636d777f79035cd08",
-    "0faef0703a659635ab3adc5e"
+    "0faef0703a659635ab3adc5e",
+    "a856ec8b68b576bd3dd26ea8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6571,11 +6620,12 @@
     "https://deadline.com/2026/09/girl-group-review-rebel-wilson-tiff-1237099495",
     "https://variety.com/2026/film/global/maisie-williams-thriller-ignition-bought-by-saban-1236858634",
     "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028",
-    "https://deadline.com/2026/09/venice-winners-2026-1237100060"
+    "https://deadline.com/2026/09/venice-winners-2026-1237100060",
+    "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 59,
+      "published": 60,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6643,7 +6693,7 @@
       "published": 2
     },
     "5": {
-      "published": 17
+      "published": 18
     },
     "19": {
       "published": 1
@@ -6692,64 +6742,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-02T17:05:11.647441+00:00",
-      "version": 2,
-      "posts": 72,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-02T20:17:12.426283+00:00",
       "version": 2,
@@ -9707,6 +9699,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-13T05:13:51.935184+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9831,9 +9881,66 @@
     "37b62593afaf9114",
     "0e4bee6c4c1298d0",
     "b99af512814c605b",
-    "a133881d7a1f6dcb"
+    "a133881d7a1f6dcb",
+    "4b6fcaff00eb473e"
   ],
   "entity_memory": {
+    "seth rogen says": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "babies": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reflective": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "experiences": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exploring parenthood": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shocking how personal": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "it is": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lauren miller rogen": {
+      "count": 1,
+      "last_seen": "2026-09-13T05:13:51.935113+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "venice": {
       "count": 10,
       "last_seen": "2026-09-12T20:15:56.416814+00:00",
@@ -12604,68 +12711,6 @@
       "count": 1,
       "last_seen": "2026-09-05T13:04:47.268815+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "georgian": {
-      "count": 1,
-      "last_seen": "2026-09-05T13:04:47.268815+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carla jeffery": {
-      "count": 2,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "zombies": {
-      "count": 2,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "jeffery": {
-      "count": 2,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "disney channel": {
-      "count": 2,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "bree": {
-      "count": 2,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "beautiful": {
-      "count": 1,
-      "last_seen": "2026-09-05T09:07:42.987643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "over": {
-      "count": 2,
-      "last_seen": "2026-09-05T05:12:51.176822+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
