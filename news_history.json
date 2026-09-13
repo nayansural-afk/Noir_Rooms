@@ -6475,6 +6475,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1bfaf12037c86140b915fceb",
+      "story_id": "8f170dc68553f5a0",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
+      "title": "Trash Mountain review – Caleb Hearon’s coming home indie is a funny if familiar journey",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "sundance",
+        "trash mountain",
+        "caleb hearon",
+        "toronto",
+        "missouri",
+        "awkwardly",
+        "brief",
+        "wacky",
+        "scene",
+        "jurassic world",
+        "colin trevorrow",
+        "lilly wachowski"
+      ],
+      "hook": "سفر گمشده، بازگشت به خانه: Trash Mountain، کمدی-درام بی‌نظیر",
+      "hooks": [
+        "بازگشت به موریس: Trash Mountain، داستانی از گناه و عشق",
+        "کمدی-درام شهری در دل میانه‌زمین: Trash Mountain"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Trash Mountain یک کمدی-درام مستقل است که در جشنوارهٔ ساندنس به نمایش گذاشته شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 132,
+      "published_at": "2026-09-13T20:16:18.948567+00:00",
+      "text": "سفر گمشده، بازگشت به خانه: Trash Mountain، کمدی-درام بی‌نظیر\n\n🎬 Trash Mountain: سفر گمشده به خانه در دل میانه‌زمین\n\nTrash Mountain، فیلمی مستقل در قالب کمدی-درام، داستان مردی جوان که در شهر زندگی می‌کند و پس از فوت پدرش، به دهکدهٔ روستایی موریس بازمی‌گردد. در مسیر، با همکلاسی قدیمی در فروشگاه دلار برخورد می‌کند، رابطهٔ کوتاهی با یک محلی جذاب شکل می‌گیرد و دختربزرگ عجیب‌وکار، بازیگر مشهور، نقش مهمی ایفا می‌کند. این فیلم، همانند جشنوارهٔ ساندنس، لحظه‌های طنز و احساس‌برانگیز را در هم می‌آمیزد.\n\n📌 نکات مهم:\n• فردی که در شهر زندگی می‌کند و پس از فوت پدرش به روستا بازمی‌گردد\n• شخصیت‌های کلیدی: همکلاسی قدیمی، محلی عاشق، دختربزرگ عجیب‌وکار\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6603,7 +6655,8 @@
     "0faef0703a659635ab3adc5e",
     "a856ec8b68b576bd3dd26ea8",
     "b60d693db96b6855453e1816",
-    "76c1f88651539733545c50fc"
+    "76c1f88651539733545c50fc",
+    "1bfaf12037c86140b915fceb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6731,11 +6784,12 @@
     "https://deadline.com/2026/09/venice-winners-2026-1237100060",
     "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218",
     "https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879",
-    "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472"
+    "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
+    "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 61,
+      "published": 62,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6791,7 +6845,7 @@
       "published": 4
     },
     "20": {
-      "published": 17
+      "published": 18
     },
     "21": {
       "published": 8
@@ -6852,64 +6906,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-03T09:08:50.093110+00:00",
-      "version": 2,
-      "posts": 75,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-03T13:05:38.669172+00:00",
       "version": 2,
@@ -9867,6 +9863,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-13T20:16:18.948671+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -9994,9 +10048,94 @@
     "a133881d7a1f6dcb",
     "4b6fcaff00eb473e",
     "d85dfabbdc598ead",
-    "594a4a01d6807597"
+    "594a4a01d6807597",
+    "8f170dc68553f5a0"
   ],
   "entity_memory": {
+    "toronto": {
+      "count": 2,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sundance": {
+      "count": 2,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "trash mountain": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caleb hearon": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "missouri": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "awkwardly": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "brief": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wacky": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scene": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jurassic world": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "colin trevorrow": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lilly wachowski": {
+      "count": 1,
+      "last_seen": "2026-09-13T20:16:18.948599+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sayani gupta": {
       "count": 2,
       "last_seen": "2026-09-13T17:05:03.313200+00:00",
@@ -11031,13 +11170,6 @@
         "movie_news"
       ]
     },
-    "toronto": {
-      "count": 1,
-      "last_seen": "2026-09-10T20:15:52.930457+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "friday": {
       "count": 1,
       "last_seen": "2026-09-10T20:15:52.930457+00:00",
@@ -11064,13 +11196,6 @@
       "last_seen": "2026-09-10T17:05:28.275060+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "sundance": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -12754,78 +12879,6 @@
       "last_seen": "2026-09-06T09:07:57.443027+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "continue": {
-      "count": 2,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roma": {
-      "count": 2,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "arles": {
-      "count": 2,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "latcho drom": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tony gatlif": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "provence tony gatlif": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "french": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gatlif": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "provence": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "france": {
-      "count": 1,
-      "last_seen": "2026-09-06T05:13:03.598031+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
