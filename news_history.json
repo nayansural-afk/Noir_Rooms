@@ -6633,6 +6633,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "cd6ebd64902280a9714cb1b3",
+      "story_id": "d7a54e1e62adaa15",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
+      "title": "‘Brother’s Keeper’ Director Ferit Karahan’s ‘Djinn Wedding’ Asks: ‘Can a Person Who Refuses to Acknowledge Their Own Darkness Ever Truly Change Their Fate?’",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "brother",
+        "keeper",
+        "director ferit karahan",
+        "djinn wedding",
+        "asks",
+        "person who refuses",
+        "acknowledge their own",
+        "darkness ever truly",
+        "change their fate",
+        "cinlerin",
+        "ferit karahan",
+        "the fall from"
+      ],
+      "hook": "فرمانده تاریکی: عروسی جنی در تورنتو",
+      "hooks": [
+        "عروسی جنی: آیا تاریکی می‌تواند تغییر کند؟",
+        "فیلم جدید فریت کارهان در تورنتو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "عروسی جنی در رقابت پلتفرم TIFF در تورنتو به نمایش گذاشته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 135,
+      "published_at": "2026-09-14T13:08:29.862023+00:00",
+      "text": "فرمانده تاریکی: عروسی جنی در تورنتو\n\n🎬 فریت کارهان با عروسی جنی، در تورنتو به نمایش می‌آید\n\nفیلم جدید فریت کارهان، 'عروسی جنی'، در رقابت پلتفرم TIFF در تورنتو به نمایش گذاشته می‌شود.\nاین اثر، پیرو 'پدر برادر' که جایزه فِیپِرسِی در بخش پانوراما جشنواره برلین را کسب کرده، داستانی در قالب واقعیت جادویی است که تاریکی و تغییر سرنوشت را بررسی می‌کند.\n\n📌 نکات مهم:\n• عروسی جنی نوشته و کارگردان فریت کارهان\n• عروسی جنی در رقابت پلتفرم TIFF در تورنتو نمایش داده می‌شود\n• پدر برادر جایزه فِیپِرسِی در جشنواره برلین را کسب کرده\n• فیلم در قالب واقعیت جادویی ساخته شده\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6764,7 +6817,8 @@
     "76c1f88651539733545c50fc",
     "1bfaf12037c86140b915fceb",
     "400ac5d835ae4d9b97591f18",
-    "5b3d4c8a09e66b1bd817ade9"
+    "5b3d4c8a09e66b1bd817ade9",
+    "cd6ebd64902280a9714cb1b3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6895,11 +6949,12 @@
     "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
     "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
     "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
-    "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies"
+    "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
+    "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 63,
+      "published": 64,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6994,7 +7049,7 @@
       "published": 1
     },
     "13": {
-      "published": 16
+      "published": 17
     },
     "17": {
       "published": 16
@@ -7016,64 +7071,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-03T20:15:53.397164+00:00",
-      "version": 2,
-      "posts": 78,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-04T05:13:51.921780+00:00",
       "version": 2,
@@ -10031,6 +10028,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-14T13:08:29.862124+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10161,9 +10216,94 @@
     "594a4a01d6807597",
     "8f170dc68553f5a0",
     "d03236c81e79aa87",
-    "5232238ecd98cc95"
+    "5232238ecd98cc95",
+    "d7a54e1e62adaa15"
   ],
   "entity_memory": {
+    "brother": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "keeper": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "director ferit karahan": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "djinn wedding": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "asks": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "person who refuses": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "acknowledge their own": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "darkness ever truly": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "change their fate": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cinlerin": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ferit karahan": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the fall from": {
+      "count": 1,
+      "last_seen": "2026-09-14T13:08:29.862055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 13,
       "last_seen": "2026-09-14T09:09:54.308055+00:00",
@@ -12905,90 +13045,6 @@
     "kylie": {
       "count": 1,
       "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rachael leigh cook": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "praises letters to": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cleo": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kay hanley at": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "josie": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pussycats": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anniversary screening": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "am only half": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of this role": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "as rachael leigh": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cook": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "during cinespia": {
-      "count": 1,
-      "last_seen": "2026-09-06T17:04:43.083712+00:00",
       "categories": [
         "actors_directors"
       ]
