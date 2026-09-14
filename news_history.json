@@ -6686,6 +6686,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4e72f656568b13aed7d38569",
+      "story_id": "ff678210752d76c8",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
+      "title": "Moveria Film Acquires ‘No Money No Honey,’ Documentary Set For Imminent Premiere At Camden International Film Festival",
+      "category": "movie_news",
+      "score": 62.18,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "moveria film acquires",
+        "no money no",
+        "honey",
+        "documentary set for",
+        "imminent premiere at",
+        "camden international film",
+        "festival",
+        "moveria film",
+        "maine",
+        "moveria",
+        "nicole costa",
+        "mauricio"
+      ],
+      "hook": "مستند 'No Money No Honey' در جشنواره کمدن به نمایش می‌رسد",
+      "hooks": [
+        "مستند جدید 'No Money No Honey' در کمدن به نمایش می‌آید",
+        "مستند 'No Money No Honey' در جشنواره کمدن به نمایش گذاشته می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Moveria Film حقوق فروش بین‌المللی مستند 'No Money No Honey' را به‌دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 136,
+      "published_at": "2026-09-14T17:04:33.490315+00:00",
+      "text": "مستند 'No Money No Honey' در جشنواره کمدن به نمایش می‌رسد\n\n🎬 مستند 'No Money No Honey' در جشنواره کمدن به نمایش می‌رسد\n\nمستند 'No Money No Honey' که توسط نیکول کستا کارگردانی شده، داستانی زنده و رنگارنگ از دوستی، مهاجرت، شادی و مقاومت را روایت می‌کند.\nفیلم توسط Moveria Film به‌دست آمده و حقوق فروش بین‌المللی آن را در اختیار دارد؛ اولین نمایش جهانی در جشنواره کمدن در مینه‌سوتا برگزار خواهد شد.\n\n📌 نکات مهم:\n• Moveria Film حقوق فروش بین‌المللی مستند 'No Money No Honey' را به‌دست آورد\n• مستند 'No Money No Honey' در جشنواره کمدن در مینه‌سوتا به نمایش در می‌آید\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6818,7 +6870,8 @@
     "1bfaf12037c86140b915fceb",
     "400ac5d835ae4d9b97591f18",
     "5b3d4c8a09e66b1bd817ade9",
-    "cd6ebd64902280a9714cb1b3"
+    "cd6ebd64902280a9714cb1b3",
+    "4e72f656568b13aed7d38569"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6950,11 +7003,12 @@
     "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
     "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
     "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
-    "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368"
+    "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
+    "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 64,
+      "published": 65,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7052,7 +7106,7 @@
       "published": 17
     },
     "17": {
-      "published": 16
+      "published": 17
     }
   },
   "strategy": {
@@ -7071,64 +7125,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-04T05:13:51.921780+00:00",
-      "version": 2,
-      "posts": 79,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-04T09:08:12.870771+00:00",
       "version": 2,
@@ -10086,6 +10082,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-14T17:04:33.490417+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10217,9 +10271,94 @@
     "8f170dc68553f5a0",
     "d03236c81e79aa87",
     "5232238ecd98cc95",
-    "d7a54e1e62adaa15"
+    "d7a54e1e62adaa15",
+    "ff678210752d76c8"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 4,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "moveria film acquires": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "no money no": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "honey": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary set for": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "imminent premiere at": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "camden international film": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "moveria film": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maine": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "moveria": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nicole costa": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mauricio": {
+      "count": 1,
+      "last_seen": "2026-09-14T17:04:33.490344+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "brother": {
       "count": 1,
       "last_seen": "2026-09-14T13:08:29.862055+00:00",
@@ -10642,13 +10781,6 @@
       "last_seen": "2026-09-13T17:05:03.313200+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "festival": {
-      "count": 3,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "platform competition film": {
@@ -12970,83 +13102,6 @@
       "last_seen": "2026-09-07T05:14:28.619434+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "practical magic": {
-      "count": 2,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "original": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star alexandra artrip": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "reacts": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "negativity": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "surrounding sequel recasting": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joey king": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sandra bullock": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sally owens": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "antonia": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kylie": {
-      "count": 1,
-      "last_seen": "2026-09-06T20:16:24.008820+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
