@@ -6581,6 +6581,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5b3d4c8a09e66b1bd817ade9",
+      "story_id": "5232238ecd98cc95",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
+      "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
+      "category": "movie_news",
+      "score": 71.26,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "jeremy thomas",
+        "british",
+        "the last emperor",
+        "sexy beast",
+        "thomas",
+        "bernardo bertolucci",
+        "david cronenberg jeremy",
+        "high",
+        "rise",
+        "friday",
+        "oxfordshire"
+      ],
+      "hook": "سینمای بریتانیا از دست می‌دهد: جریمی توماس، ۷۷ ساله، درگذشت",
+      "hooks": [
+        "پروفسور تولید، جریمی توماس، درگذشت",
+        "سینمای جهان از دست می‌دهد: جریمی توماس، ۷۷ ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دوران درگذشت در خانهٔ روستایی‌اش در آکسفوردشای، در کنار خانواده"
+      ],
+      "status": "published",
+      "telegram_message_id": 134,
+      "published_at": "2026-09-14T09:09:54.308017+00:00",
+      "text": "سینمای بریتانیا از دست می‌دهد: جریمی توماس، ۷۷ ساله، درگذشت\n\n🎬 جریمی توماس، تهیه‌کنندهٔ برجستهٔ فیلم‌های «The Last Emperor» و «Sexy Beast»، درگذشت\n\nجریمی توماس، تهیه‌کنندهٔ بریتانیایی که با کارگردانان بزرگی چون برناردو برتوولی و دیوید کرونبرگ همکاری داشت، درگذشت. او برای فیلم‌هایی چون «Sexy Beast»، «High‑Rise» و برندهٔ چند جایزه اسکار «The Last Emperor» شناخته می‌شود و در روز جمعه در خانهٔ روستایی‌اش در آکسفوردشای، در کنار خانواده‌اش، آرام جان داد.\n\n📌 نکات مهم:\n• دوران عمر ۷۷ ساله\n• تولیدکنندهٔ فیلم‌های «Sexy Beast»، «High‑Rise» و «The Last Emperor»\n• همکاری با برناردو برتوولی و دیوید کرونبرگ\n• درگذشت در خانهٔ روستایی آکسفوردشای، در کنار خانواده\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6711,7 +6763,8 @@
     "b60d693db96b6855453e1816",
     "76c1f88651539733545c50fc",
     "1bfaf12037c86140b915fceb",
-    "400ac5d835ae4d9b97591f18"
+    "400ac5d835ae4d9b97591f18",
+    "5b3d4c8a09e66b1bd817ade9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6841,11 +6894,12 @@
     "https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879",
     "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
     "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
-    "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029"
+    "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
+    "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 62,
+      "published": 63,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6925,7 +6979,7 @@
       "published": 2
     },
     "9": {
-      "published": 16
+      "published": 17
     },
     "6": {
       "published": 1
@@ -6962,64 +7016,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-03T17:05:06.407057+00:00",
-      "version": 2,
-      "posts": 77,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-03T20:15:53.397164+00:00",
       "version": 2,
@@ -9977,6 +9973,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-14T09:09:54.308142+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10106,9 +10160,96 @@
     "d85dfabbdc598ead",
     "594a4a01d6807597",
     "8f170dc68553f5a0",
-    "d03236c81e79aa87"
+    "d03236c81e79aa87",
+    "5232238ecd98cc95"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 13,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "friday": {
+      "count": 2,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jeremy thomas": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the last emperor": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sexy beast": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thomas": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bernardo bertolucci": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "david cronenberg jeremy": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "high": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rise": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oxfordshire": {
+      "count": 1,
+      "last_seen": "2026-09-14T09:09:54.308055+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "buddy": {
       "count": 1,
       "last_seen": "2026-09-14T05:14:39.106785+00:00",
@@ -11112,15 +11253,6 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 12,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "new york": {
       "count": 2,
       "last_seen": "2026-09-11T09:08:00.067958+00:00",
@@ -11305,13 +11437,6 @@
       ]
     },
     "low lies": {
-      "count": 1,
-      "last_seen": "2026-09-10T20:15:52.930457+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "friday": {
       "count": 1,
       "last_seen": "2026-09-10T20:15:52.930457+00:00",
       "categories": [
@@ -12866,76 +12991,6 @@
       "last_seen": "2026-09-06T17:04:43.083712+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "san sebastian": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "busan": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bound taiwanese coming": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "age drama": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "will you still": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "be my friend": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boarded": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sales": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moveria": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trailer unveiled": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
