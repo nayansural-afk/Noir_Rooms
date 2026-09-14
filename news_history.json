@@ -6527,6 +6527,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "400ac5d835ae4d9b97591f18",
+      "story_id": "d03236c81e79aa87",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
+      "title": "‘Buddy’ Scaring Up Cash & Tattoos, ‘Runner’ Dashes Out As Indies Crowd Top 10 – Specialty Box Office",
+      "category": "box_office",
+      "score": 71.84,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "buddy",
+        "scaring up cash",
+        "tattoos",
+        "runner",
+        "dashes out as",
+        "indies crowd top",
+        "specialty box office",
+        "indies",
+        "go will they",
+        "miss me",
+        "american doctor",
+        "late"
+      ],
+      "hook": "Buddy و Runner در صدر جعبه‌فروش ویژه",
+      "hooks": [
+        "Buddy 3.5 میلیون دلار، Runner در 5 جایگاه برتر",
+        "If I Go Will They Miss Me در لا‌کاسه برتری"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Buddy 3.5 میلیون دلار",
+        "Runner در 5 جایگاه برتر"
+      ],
+      "status": "published",
+      "telegram_message_id": 133,
+      "published_at": "2026-09-14T05:14:39.106751+00:00",
+      "text": "Buddy و Runner در صدر جعبه‌فروش ویژه\n\n🎬 Buddy 3.5 میلیون دلار، Runner در 5 جایگاه برتر جعبه‌فروش ویژه\n\nBuddy با 3.5 میلیون دلار در جعبه‌فروش ویژه، یکی از برترین‌های هفته شد. Runner نیز در 5 جایگاه برتر جعبه‌فروش ویژه حضور داشت. اگرچه If I Go Will They Miss Me در لا‌کاسه افتتاحیهٔ انحصاری داشت و American Doctor بیش از 400 هزار دلار کسب کرد.\n\n📌 نکات مهم:\n• Buddy جمع 3.5 میلیون دلار در جعبه‌فروش ویژه\n• Runner در 5 جایگاه برتر جعبه‌فروش ویژه\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6656,7 +6710,8 @@
     "a856ec8b68b576bd3dd26ea8",
     "b60d693db96b6855453e1816",
     "76c1f88651539733545c50fc",
-    "1bfaf12037c86140b915fceb"
+    "1bfaf12037c86140b915fceb",
+    "400ac5d835ae4d9b97591f18"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -6785,7 +6840,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218",
     "https://variety.com/2026/film/global/idda-toronto-platform-irene-dionisio-kino-produzioni-rai-1236859879",
     "https://variety.com/2026/film/markets-festivals/severance-producer-tongue-sayani-gupta-1236860472",
-    "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon"
+    "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
+    "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029"
   ],
   "category_stats": {
     "movie_news": {
@@ -6813,7 +6869,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 6,
+      "published": 7,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -6857,7 +6913,7 @@
       "published": 2
     },
     "5": {
-      "published": 18
+      "published": 19
     },
     "19": {
       "published": 1
@@ -6906,64 +6962,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-03T13:05:38.669172+00:00",
-      "version": 2,
-      "posts": 76,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-03T17:05:06.407057+00:00",
       "version": 2,
@@ -9921,6 +9919,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-14T05:14:39.106885+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10049,9 +10105,94 @@
     "4b6fcaff00eb473e",
     "d85dfabbdc598ead",
     "594a4a01d6807597",
-    "8f170dc68553f5a0"
+    "8f170dc68553f5a0",
+    "d03236c81e79aa87"
   ],
   "entity_memory": {
+    "buddy": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "scaring up cash": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "tattoos": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "runner": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "dashes out as": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "indies crowd top": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "specialty box office": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "indies": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "go will they": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "miss me": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "american doctor": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "late": {
+      "count": 1,
+      "last_seen": "2026-09-14T05:14:39.106785+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "toronto": {
       "count": 2,
       "last_seen": "2026-09-13T20:16:18.948599+00:00",
@@ -12795,90 +12936,6 @@
       "last_seen": "2026-09-06T13:05:16.858990+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "paris": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "taiwanese": {
-      "count": 1,
-      "last_seen": "2026-09-06T13:05:16.858990+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "father joe": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "first look clip": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "of kiefer sutherland": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "priest who clashes": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "with the mob": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "in action": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "crime pic": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "here": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kiefer sutherland": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "al pacino": {
-      "count": 1,
-      "last_seen": "2026-09-06T09:07:57.443027+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
