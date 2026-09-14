@@ -6738,6 +6738,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "df05aea4b8b249c8e2b6d6bb",
+      "story_id": "89ad29559346b7e8",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
+      "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
+      "category": "movie_news",
+      "score": 70.01,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "israelis",
+        "yuval abraham",
+        "rachel szor",
+        "guardian",
+        "shot",
+        "tel aviv",
+        "israel",
+        "palestinian",
+        "gaza",
+        "abraham",
+        "isrealis"
+      ],
+      "hook": "فیلم NAZA برنده جایزه ویژه در ونیز؛ پیام مهم برای اسرائیلی‌ها",
+      "hooks": [
+        "فیلم NAZA در ونیز برنده شد؛ چرا باید اسرائیلی‌ها آن را ببینند؟",
+        "NAZA: فیلمی که در ونیز جایزه گرفت و پیام مهمی دارد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "NAZA برنده جایزه ویژه هیئت داوران در جشنواره فیلم ونیز 83",
+        "NAZA سیستم‌های قتل عمدی اسرائیل بر روی شهروندان فلسطینی در غزه را نشان می‌دهد"
+      ],
+      "status": "published",
+      "telegram_message_id": 137,
+      "published_at": "2026-09-14T20:17:21.101376+00:00",
+      "text": "فیلم NAZA برنده جایزه ویژه در ونیز؛ پیام مهم برای اسرائیلی‌ها\n\n🎬 فیلم NAZA برنده جایزه ویژه در جشنواره ونیز؛ پیام مهم برای اسرائیلی‌ها\n\nفیلم NAZA، ساخته یوفال ابراهام و رچل سوز، در جشنواره فیلم ونیز 83، جایزه ویژه هیئت داوران را کسب کرد. این فیلم در شب، از بالای پشت‌بام‌های تل‌آویو، سیستم‌های قتل عمدی اسرائیل بر روی شهروندان فلسطینی در غزه را نشان می‌دهد و در سخنرانی برنده، ابراهام تأکید کرد که اسرائیلی‌ها باید آن را ببینند.\n\n📌 نکات مهم:\n• NAZA برنده جایزه ویژه هیئت داوران در جشنواره فیلم ونیز 83\n• NAZA سیستم‌های قتل عمدی اسرائیل بر روی شهروندان فلسطینی در غزه را نشان می‌دهد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6871,7 +6924,8 @@
     "400ac5d835ae4d9b97591f18",
     "5b3d4c8a09e66b1bd817ade9",
     "cd6ebd64902280a9714cb1b3",
-    "4e72f656568b13aed7d38569"
+    "4e72f656568b13aed7d38569",
+    "df05aea4b8b249c8e2b6d6bb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7004,11 +7058,12 @@
     "https://deadline.com/2026/09/indie-film-box-office-buddy-comedy-horror-runner-angel-studios-1237101029",
     "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
     "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
-    "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556"
+    "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
+    "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 65,
+      "published": 66,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7064,7 +7119,7 @@
       "published": 4
     },
     "20": {
-      "published": 18
+      "published": 19
     },
     "21": {
       "published": 8
@@ -7125,64 +7180,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-04T09:08:12.870771+00:00",
-      "version": 2,
-      "posts": 80,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-04T13:05:23.169018+00:00",
       "version": 2,
@@ -10140,6 +10137,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-14T20:17:21.101525+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10272,9 +10327,96 @@
     "d03236c81e79aa87",
     "5232238ecd98cc95",
     "d7a54e1e62adaa15",
-    "ff678210752d76c8"
+    "ff678210752d76c8",
+    "89ad29559346b7e8"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 11,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "tel aviv": {
+      "count": 3,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel szor": {
+      "count": 2,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yuval abraham": {
+      "count": 2,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gaza": {
+      "count": 2,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "guardian": {
+      "count": 2,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israelis": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shot": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israel": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "palestinian": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abraham": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "isrealis": {
+      "count": 1,
+      "last_seen": "2026-09-14T20:17:21.101410+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "festival": {
       "count": 4,
       "last_seen": "2026-09-14T17:04:33.490344+00:00",
@@ -10916,15 +11058,6 @@
         "movie_news"
       ]
     },
-    "venice": {
-      "count": 10,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
-      ]
-    },
     "venice film festival": {
       "count": 6,
       "last_seen": "2026-09-12T20:15:56.416814+00:00",
@@ -11371,13 +11504,6 @@
         "movie_news"
       ]
     },
-    "tel aviv": {
-      "count": 2,
-      "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "they": {
       "count": 1,
       "last_seen": "2026-09-11T17:04:41.925236+00:00",
@@ -11386,20 +11512,6 @@
       ]
     },
     "israeli": {
-      "count": 1,
-      "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 1,
-      "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yuval abraham": {
       "count": 1,
       "last_seen": "2026-09-11T17:04:41.925236+00:00",
       "categories": [
@@ -11420,21 +11532,7 @@
         "movie_news"
       ]
     },
-    "gaza": {
-      "count": 1,
-      "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "indirectly": {
-      "count": 1,
-      "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "guardian": {
       "count": 1,
       "last_seen": "2026-09-11T17:04:41.925236+00:00",
       "categories": [
@@ -13056,48 +13154,6 @@
       ]
     },
     "elizabeth holmes doc": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "hits theaters": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "october from": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "watch": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer now": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "fielder": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sunday": {
       "count": 1,
       "last_seen": "2026-09-07T05:14:28.619434+00:00",
       "categories": [
