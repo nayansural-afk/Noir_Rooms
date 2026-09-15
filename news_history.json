@@ -6993,6 +6993,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "79afd413db03cb8156708399",
+      "story_id": "7c2949f25dd64b20",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035",
+      "title": "Netflix ‘Pride and Prejudice’ Series Sets Release Date, Drops First-Look Photos (TV News Roundup)",
+      "category": "streaming",
+      "score": 59.95,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "pride",
+        "prejudice",
+        "series sets release",
+        "date",
+        "drops first",
+        "look photos",
+        "news roundup",
+        "darcy"
+      ],
+      "hook": "دریافت سریال جدید 'پریڈ و پیش‌فرض' در نِت‌فلیکس",
+      "hooks": [
+        "سریال جدید نِت‌فلیکس",
+        "پریڈ و پیش‌فرض بر روی نِت‌فلیکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نِت‌فلیکس سریال محدود «پریڈ و پیش‌فرض» را در تاریخ ۳ دسامبر منتشر می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 142,
+      "published_at": "2026-09-15T20:17:10.460704+00:00",
+      "text": "دریافت سریال جدید 'پریڈ و پیش‌فرض' در نِت‌فلیکس\n\n🎬 نِت‌فلیکس: سریال محدود «پریڈ و پیش‌فرض» در تاریخ ۳ دسامبر منتشر می‌شود\n\nنِت‌فلیکس با انتشار اولین عکس‌های سریال محدود «پریڈ و پیش‌فرض»، به بازگشت دوباره آقای و خانم دارسی به صفحه نمایش می‌پردازد. این سریال بر اساس رمان کلاسیک جین اوستن ساخته شده و در تاریخ ۳ دسامبر در پلتفرم نِت‌فلیکس به نمایش در می‌آید.\n\n📌 نکات مهم:\n• سریال محدود بر اساس رمان «پریڈ و پیش‌فرض»\n• تاریخ انتشار ۳ دسامبر\n• نِت‌فلیکس اولین عکس‌های سریال را منتشر کرد\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7131,7 +7180,8 @@
     "390ff7e02b39d49e9fd518c2",
     "cccc645ba38850fa8331fc42",
     "af4d7545213a2441573c7418",
-    "c49f2901772f9b5420865dc7"
+    "c49f2901772f9b5420865dc7",
+    "79afd413db03cb8156708399"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7269,7 +7319,8 @@
     "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
     "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
     "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970",
-    "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino"
+    "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino",
+    "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035"
   ],
   "category_stats": {
     "movie_news": {
@@ -7285,7 +7336,7 @@
       "samples_with_metrics": 0
     },
     "streaming": {
-      "published": 3,
+      "published": 4,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7329,7 +7380,7 @@
       "published": 4
     },
     "20": {
-      "published": 19
+      "published": 20
     },
     "21": {
       "published": 8
@@ -7390,64 +7441,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-05T09:07:42.987711+00:00",
-      "version": 2,
-      "posts": 85,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 401,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-05T13:04:47.268893+00:00",
       "version": 2,
@@ -10405,6 +10398,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-15T20:17:10.460834+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10542,9 +10593,75 @@
     "15f146be29b1d7c5",
     "e466f63f91cab61d",
     "a475334939605dde",
-    "b324794db3c8623d"
+    "b324794db3c8623d",
+    "7c2949f25dd64b20"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 9,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "pride": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "prejudice": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "series sets release": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "date": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "drops first": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "look photos": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "news roundup": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
+    "darcy": {
+      "count": 1,
+      "last_seen": "2026-09-15T20:17:10.460739+00:00",
+      "categories": [
+        "streaming"
+      ]
+    },
     "jennifer aquino cast": {
       "count": 1,
       "last_seen": "2026-09-15T17:05:00.712234+00:00",
@@ -11847,15 +11964,6 @@
       "last_seen": "2026-09-12T09:08:04.696813+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "netflix": {
-      "count": 8,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
       ]
     },
     "josh hartnett reveals": {
@@ -13308,67 +13416,6 @@
     "digger": {
       "count": 1,
       "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bruce davis": {
-      "count": 2,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "davis": {
-      "count": 2,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "academy": {
-      "count": 2,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "motion picture arts": {
-      "count": 2,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "sciences": {
-      "count": 2,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "bruce davis dies": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "longtime academy of": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sciences chief executive": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
       "categories": [
         "actors_directors"
       ]
