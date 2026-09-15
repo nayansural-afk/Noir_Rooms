@@ -6947,6 +6947,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c49f2901772f9b5420865dc7",
+      "story_id": "b324794db3c8623d",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino",
+      "title": "Jennifer Aquino Cast as Sole Performer in ‘Forgotten Island’ Audiobook | Exclusive",
+      "category": "actors_directors",
+      "score": 70.48,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "jennifer aquino cast",
+        "sole performer",
+        "forgotten island",
+        "audiobook",
+        "exclusive the",
+        "animation"
+      ],
+      "hook": "جنیفر آکوینو، خوانندهٔ تنها کتاب صوتی 'جزیره فراموش‌شده'",
+      "hooks": [
+        "کتاب صوتی 'جزیره فراموش‌شده' با صدای جنیفر آکوینو",
+        "آکوینو در نقش خوانندهٔ کتاب صوتی 'جزیره فراموش‌شده'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جنیفر آکوینو خوانندهٔ تنها کتاب صوتی"
+      ],
+      "status": "published",
+      "telegram_message_id": 141,
+      "published_at": "2026-09-15T17:05:00.712204+00:00",
+      "text": "جنیفر آکوینو، خوانندهٔ تنها کتاب صوتی 'جزیره فراموش‌شده'\n\n🎬 جنیفر آکوینو، خوانندهٔ تنها کتاب صوتی 'جزیره فراموش‌شده'\n\nدر کتاب صوتی جدید 'جزیره فراموش‌شده'، جنیفر آکوینو نقش خوانندهٔ تنها را بر عهده می‌گیرد.\nاین کتاب، بر اساس فیلم انیمیشنی در حال ساخت DreamWorks Animation، در این ماه منتشر خواهد شد.\n\n📌 نکات مهم:\n• جنیفر آکوینو خوانندهٔ تنها کتاب صوتی 'جزیره فراموش‌شده'\n• کتاب صوتی بر اساس فیلم انیمیشنی DreamWorks Animation است\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7084,7 +7130,8 @@
     "df05aea4b8b249c8e2b6d6bb",
     "390ff7e02b39d49e9fd518c2",
     "cccc645ba38850fa8331fc42",
-    "af4d7545213a2441573c7418"
+    "af4d7545213a2441573c7418",
+    "c49f2901772f9b5420865dc7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7221,7 +7268,8 @@
     "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
     "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
     "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
-    "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970"
+    "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970",
+    "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino"
   ],
   "category_stats": {
     "movie_news": {
@@ -7231,7 +7279,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 49,
+      "published": 50,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7323,7 +7371,7 @@
       "published": 18
     },
     "17": {
-      "published": 17
+      "published": 18
     }
   },
   "strategy": {
@@ -7342,64 +7390,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-05T05:12:51.176903+00:00",
-      "version": 2,
-      "posts": 84,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-05T09:07:42.987711+00:00",
       "version": 2,
@@ -10357,6 +10347,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-15T17:05:00.712309+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10493,9 +10541,52 @@
     "89ad29559346b7e8",
     "15f146be29b1d7c5",
     "e466f63f91cab61d",
-    "a475334939605dde"
+    "a475334939605dde",
+    "b324794db3c8623d"
   ],
   "entity_memory": {
+    "jennifer aquino cast": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sole performer": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "forgotten island": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "audiobook": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "exclusive the": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "animation": {
+      "count": 1,
+      "last_seen": "2026-09-15T17:05:00.712234+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "film festival": {
       "count": 3,
       "last_seen": "2026-09-15T13:06:44.904824+00:00",
@@ -13280,49 +13371,6 @@
       "last_seen": "2026-09-07T20:17:03.131561+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "saturday": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joann": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the hollywood reporter": {
-      "count": 1,
-      "last_seen": "2026-09-07T20:17:03.131561+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dies": {
-      "count": 5,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "longtime chief executive": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film academy": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
