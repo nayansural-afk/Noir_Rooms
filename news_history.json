@@ -6893,6 +6893,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "af4d7545213a2441573c7418",
+      "story_id": "a475334939605dde",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970",
+      "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "hawai",
+        "film festival",
+        "open with",
+        "the navigator",
+        "names",
+        "drifter",
+        "centerpiece",
+        "the hawai",
+        "international film festival",
+        "halekulani",
+        "jordan manley",
+        "theatre center"
+      ],
+      "hook": "فیلم مستند 'نویگیتور' در جشنواره هائوایی رونق می‌بخشد",
+      "hooks": [
+        "جشنواره هائوایی با مستند 'نویگیتور' آغاز می‌شود",
+        "ناینوآ تومپسون در مستند 'نویگیتور' به تصویر کشیده شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جشنواره هائوایی 46ام با نمایش مستند 'نویگیتور' آغاز شد",
+        "کارگردان فیلم جوردن منلی است"
+      ],
+      "status": "published",
+      "telegram_message_id": 140,
+      "published_at": "2026-09-15T13:06:44.904790+00:00",
+      "text": "فیلم مستند 'نویگیتور' در جشنواره هائوایی رونق می‌بخشد\n\n🎬 جشنواره هائوایی با مستند 'نویگیتور' آغاز می‌شود\n\nجشنواره هائوایی بین‌المللی در سال ۲۰۲۴ با نمایش اولین نسخه جهان‌پریشی مستند 'نویگیتور' آغاز شد.\nاین فیلم، کارگردان جوردن منلی، به زندگی ناینوآ تومپسون، اولین هائوایی بومی که در نیم قرن گذشته دستاوردی بزرگ انجام داد، می‌پردازد.\n\n📌 نکات مهم:\n• جشنواره هائوایی 46ام با نمایش مستند 'نویگیتور' آغاز شد\n• کارگردان فیلم جوردن منلی است\n• مستند درباره ناینوآ تومپسون، اولین هائوایی بومی است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7029,7 +7083,8 @@
     "4e72f656568b13aed7d38569",
     "df05aea4b8b249c8e2b6d6bb",
     "390ff7e02b39d49e9fd518c2",
-    "cccc645ba38850fa8331fc42"
+    "cccc645ba38850fa8331fc42",
+    "af4d7545213a2441573c7418"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7165,11 +7220,12 @@
     "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
     "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
     "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
-    "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy"
+    "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
+    "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 68,
+      "published": 69,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7264,7 +7320,7 @@
       "published": 1
     },
     "13": {
-      "published": 17
+      "published": 18
     },
     "17": {
       "published": 17
@@ -7286,64 +7342,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-04T20:16:05.086431+00:00",
-      "version": 2,
-      "posts": 83,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-05T05:12:51.176903+00:00",
       "version": 2,
@@ -10301,6 +10299,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-15T13:06:44.904901+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10436,9 +10492,94 @@
     "ff678210752d76c8",
     "89ad29559346b7e8",
     "15f146be29b1d7c5",
-    "e466f63f91cab61d"
+    "e466f63f91cab61d",
+    "a475334939605dde"
   ],
   "entity_memory": {
+    "film festival": {
+      "count": 3,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hawai": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "open with": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the navigator": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "names": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drifter": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "centerpiece": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the hawai": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "international film festival": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "halekulani": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jordan manley": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatre center": {
+      "count": 1,
+      "last_seen": "2026-09-15T13:06:44.904824+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "continue": {
       "count": 2,
       "last_seen": "2026-09-15T09:10:30.403947+00:00",
@@ -12048,13 +12189,6 @@
         "movie_news"
       ]
     },
-    "film festival": {
-      "count": 2,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "october": {
       "count": 4,
       "last_seen": "2026-09-10T17:05:28.275060+00:00",
@@ -13189,83 +13323,6 @@
       "last_seen": "2026-09-07T17:05:06.949171+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "the academy": {
-      "count": 1,
-      "last_seen": "2026-09-07T17:05:06.949171+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gary oldman claims": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james bond has": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "been cast": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "as he backs": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack lowden to": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "play": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gary oldman": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "canada": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "global": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "oldman": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
