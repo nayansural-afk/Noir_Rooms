@@ -6843,6 +6843,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "cccc645ba38850fa8331fc42",
+      "story_id": "e466f63f91cab61d",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
+      "title": "Premature review – sunny charm provides screwball energy for surprise-pregnancy comedy",
+      "category": "movie_news",
+      "score": 49.37,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "premature",
+        "kevin walls",
+        "eilidh",
+        "cameron",
+        "this",
+        "scottish",
+        "elle watson",
+        "james rottger",
+        "walls",
+        "continue"
+      ],
+      "hook": "سکوبال در بارداری ناخواسته: کمدی اسکاتلندی تازه",
+      "hooks": [
+        "کمدی بارداری با انرژی سکوبال",
+        "باردگی ناخواسته در اسکاتلند: فیلم تازه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در مورد بارداری ناخواسته در میان دوستان جوان است"
+      ],
+      "status": "published",
+      "telegram_message_id": 139,
+      "published_at": "2026-09-15T09:10:30.403920+00:00",
+      "text": "سکوبال در بارداری ناخواسته: کمدی اسکاتلندی تازه\n\n🎬 کمدی اسکاتلندی: بارداری ناخواسته با انرژی سکوبال\n\nفیلم «Premature» کارگردان تازه‌کار Kevin Walls را به نمایش می‌گذارد. در این کمدی روشن، دو دوست Eilidh و Cameron در مسیر نوزادان خود قرار می‌گیرند.\nبا بودجه‌ای کم، فیلم انرژی سکوبال را به صحنه می‌آورد و در لحظه‌های پیش از تولد، زندگی هنری و روابط دوستانه را به تصویر می‌کشد.\n\n📌 نکات مهم:\n• کارگردان Kevin Walls\n• فیلم در اسکاتلند ساخته شد\n• موضوع بارداری ناخواسته در میان دوستان جوان\n• بودجه کم\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6978,7 +7028,8 @@
     "cd6ebd64902280a9714cb1b3",
     "4e72f656568b13aed7d38569",
     "df05aea4b8b249c8e2b6d6bb",
-    "390ff7e02b39d49e9fd518c2"
+    "390ff7e02b39d49e9fd518c2",
+    "cccc645ba38850fa8331fc42"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7113,11 +7164,12 @@
     "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
     "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
     "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
-    "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary"
+    "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
+    "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 67,
+      "published": 68,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7197,7 +7249,7 @@
       "published": 2
     },
     "9": {
-      "published": 17
+      "published": 18
     },
     "6": {
       "published": 1
@@ -7234,64 +7286,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-04T17:05:22.995321+00:00",
-      "version": 2,
-      "posts": 82,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-04T20:16:05.086431+00:00",
       "version": 2,
@@ -10249,6 +10243,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-15T09:10:30.404020+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10383,9 +10435,81 @@
     "d7a54e1e62adaa15",
     "ff678210752d76c8",
     "89ad29559346b7e8",
-    "15f146be29b1d7c5"
+    "15f146be29b1d7c5",
+    "e466f63f91cab61d"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 2,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "this": {
+      "count": 3,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "premature": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kevin walls": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eilidh": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cameron": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scottish": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elle watson": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james rottger": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "walls": {
+      "count": 1,
+      "last_seen": "2026-09-15T09:10:30.403947+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 14,
       "last_seen": "2026-09-15T05:15:16.022199+00:00",
@@ -10459,13 +10583,6 @@
       ]
     },
     "jeremy": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
       "count": 1,
       "last_seen": "2026-09-15T05:15:16.022199+00:00",
       "categories": [
@@ -12589,13 +12706,6 @@
         "actors_directors"
       ]
     },
-    "this": {
-      "count": 2,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "sarah catherine hook": {
       "count": 1,
       "last_seen": "2026-09-08T20:16:47.508851+00:00",
@@ -13156,62 +13266,6 @@
       "last_seen": "2026-09-07T13:06:41.954839+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "slow horses": {
-      "count": 1,
-      "last_seen": "2026-09-07T13:06:41.954839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix officially confirms": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the inbetweeners": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reunion movie as": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "production kicks off": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with first look": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "at original cast": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in reprised roles": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
