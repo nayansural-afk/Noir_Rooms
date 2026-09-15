@@ -6791,6 +6791,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "390ff7e02b39d49e9fd518c2",
+      "story_id": "15f146be29b1d7c5",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
+      "title": "Jeremy Thomas obituary",
+      "category": "movie_news",
+      "score": 60.0,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "jeremy thomas",
+        "the last emperor",
+        "oscar asked",
+        "thomas",
+        "ralph thomas",
+        "doctor",
+        "house",
+        "gerald thomas",
+        "carry on",
+        "jeremy",
+        "continue"
+      ],
+      "hook": "یک تولیدکننده بی‌سابقه در سینما، درگذشت جریمی توماس",
+      "hooks": [
+        "جریمی توماس، استاد بی‌تردید در تولید فیلم‌های جسور",
+        "سینما از دست گرفت، جریمی توماس، تولیدکنندهٔ نایاب"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جریمی توماس برندهٔ اسکار برای فیلم «آخرین امپراتور» شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 138,
+      "published_at": "2026-09-15T05:15:16.022162+00:00",
+      "text": "یک تولیدکننده بی‌سابقه در سینما، درگذشت جریمی توماس\n\n🎬 جریمی توماس، تولیدکنندهٔ برندهٔ اسکار، درگذشت\n\nجریمی توماس، تولیدکنندهٔ برجستهٔ سینما، درگذشت. او با فیلم حماسی «آخرین امپراتور» در سال ۱۹۸۷، برندهٔ اسکار شد.\n\n او در خانواده‌ای سینمایی بزرگ شد؛ پدرش رالف توماس، کارگردان سریال‌های دکتر، و عمو او جِرالد توماس، سازندهٔ تمام ۳۱ فیلم «کیر آن». جریمی به خاطر جسارت در انتخاب پروژه‌های خطرناک شناخته شد.\n\n📌 نکات مهم:\n• تولیدکنندهٔ فیلم حماسی «آخرین امپراتور» (1987) که برندهٔ اسکار شد\n• دied at age 77\n• پدرش رالف توماس، کارگردان سریال‌های دکتر\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -6925,7 +6977,8 @@
     "5b3d4c8a09e66b1bd817ade9",
     "cd6ebd64902280a9714cb1b3",
     "4e72f656568b13aed7d38569",
-    "df05aea4b8b249c8e2b6d6bb"
+    "df05aea4b8b249c8e2b6d6bb",
+    "390ff7e02b39d49e9fd518c2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7059,11 +7112,12 @@
     "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
     "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368",
     "https://deadline.com/2026/09/no-money-no-honey-moveria-film-acquisition-1237100556",
-    "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video"
+    "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
+    "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 66,
+      "published": 67,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7131,7 +7185,7 @@
       "published": 2
     },
     "5": {
-      "published": 19
+      "published": 20
     },
     "19": {
       "published": 1
@@ -7180,64 +7234,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-04T13:05:23.169018+00:00",
-      "version": 2,
-      "posts": 81,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-04T17:05:22.995321+00:00",
       "version": 2,
@@ -10195,6 +10191,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-15T05:15:16.022290+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10328,9 +10382,96 @@
     "5232238ecd98cc95",
     "d7a54e1e62adaa15",
     "ff678210752d76c8",
-    "89ad29559346b7e8"
+    "89ad29559346b7e8",
+    "15f146be29b1d7c5"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 14,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "jeremy thomas": {
+      "count": 2,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the last emperor": {
+      "count": 2,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thomas": {
+      "count": 2,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oscar asked": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ralph thomas": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doctor": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "house": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gerald thomas": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carry on": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jeremy": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-09-15T05:15:16.022199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "venice": {
       "count": 11,
       "last_seen": "2026-09-14T20:17:21.101410+00:00",
@@ -10585,24 +10726,8 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 13,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "friday": {
       "count": 2,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy thomas": {
-      "count": 1,
       "last_seen": "2026-09-14T09:09:54.308055+00:00",
       "categories": [
         "movie_news"
@@ -10615,21 +10740,7 @@
         "movie_news"
       ]
     },
-    "the last emperor": {
-      "count": 1,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "sexy beast": {
-      "count": 1,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thomas": {
       "count": 1,
       "last_seen": "2026-09-14T09:09:54.308055+00:00",
       "categories": [
@@ -13101,63 +13212,6 @@
       "last_seen": "2026-09-07T09:08:49.996762+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "simon bird": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james buckley": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blake harrison": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joe thomas": {
-      "count": 1,
-      "last_seen": "2026-09-07T09:08:49.996762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lance oppenheim": {
-      "count": 2,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "a24": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "nathan fielder": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "elizabeth holmes doc": {
-      "count": 1,
-      "last_seen": "2026-09-07T05:14:28.619434+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
