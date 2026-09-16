@@ -7147,6 +7147,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6c0d9d73b28b4a99a6be988d",
+      "story_id": "c1a3867d64eb63ec",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
+      "title": "Patricio Guzmán Dies: Documentarian Who Chronicled Chile’s Turbulent Modern History Was 85",
+      "category": "actors_directors",
+      "score": 80.15,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "patricio",
+        "dies",
+        "documentarian who chronicled",
+        "chile",
+        "turbulent modern history",
+        "chilean",
+        "the battle",
+        "the cordillera",
+        "dreams",
+        "paris",
+        "september"
+      ],
+      "hook": "موت پاتریکیو گوزمان، مستندساز برنده جایزه کنس",
+      "hooks": [
+        "پاتریکیو گوزمان، مستندساز برنده کنس، درگذشت",
+        "مستندساز برنده کنس، پاتریکیو گوزمان، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستندساز برنده جایزه کنس، پاتریکیو گوزمان درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 145,
+      "published_at": "2026-09-16T13:07:30.711148+00:00",
+      "text": "موت پاتریکیو گوزمان، مستندساز برنده جایزه کنس\n\n🎬 مستندساز برنده کنس، پاتریکیو گوزمان درگذشت\n\nپاتریکیو گوزمان، مستندساز برجسته شیلی، در تاریخ ۱۵ سپتامبر در پاریس درگذشت. او ۸۵ ساله بود. گوزمان، که در سال ۱۹۴۱ در شیلی تولد یافت، آثار برجسته‌ای چون 'جنگ شیلی' و 'کوردیلا دِیُام' را خلق کرد و به عنوان یکی از مهم‌ترین کارگردانان مستند لاتین شناخته می‌شود.\n\n📌 نکات مهم:\n• درگذشت در پاریس در ۱۵ سپتامبر\n• تولد ۱۱ آگوست ۱۹۴۱ در شیلی\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7288,7 +7341,8 @@
     "c49f2901772f9b5420865dc7",
     "79afd413db03cb8156708399",
     "9972d139cd030eece2b5bc14",
-    "603cf9572623674d66e3800e"
+    "603cf9572623674d66e3800e",
+    "6c0d9d73b28b4a99a6be988d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7429,7 +7483,8 @@
     "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino",
     "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035",
     "https://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos",
-    "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932"
+    "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932",
+    "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061"
   ],
   "category_stats": {
     "movie_news": {
@@ -7439,7 +7494,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 50,
+      "published": 51,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7528,7 +7583,7 @@
       "published": 1
     },
     "13": {
-      "published": 18
+      "published": 19
     },
     "17": {
       "published": 18
@@ -7550,64 +7605,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-05T20:16:10.797322+00:00",
-      "version": 2,
-      "posts": 88,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-06T05:13:03.598098+00:00",
       "version": 2,
@@ -10565,6 +10562,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-16T13:07:30.711278+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10705,9 +10760,95 @@
     "b324794db3c8623d",
     "7c2949f25dd64b20",
     "be2dbe198e55c587",
-    "277b4bec654046a6"
+    "277b4bec654046a6",
+    "c1a3867d64eb63ec"
   ],
   "entity_memory": {
+    "cannes": {
+      "count": 2,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "patricio": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dies": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "documentarian who chronicled": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chile": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "turbulent modern history": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chilean": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the battle": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the cordillera": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dreams": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paris": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "september": {
+      "count": 1,
+      "last_seen": "2026-09-16T13:07:30.711181+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 15,
       "last_seen": "2026-09-16T09:08:14.322781+00:00",
@@ -12078,13 +12219,6 @@
         "movie_news"
       ]
     },
-    "cannes": {
-      "count": 1,
-      "last_seen": "2026-09-12T13:04:54.147799+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "maisie williams thriller": {
       "count": 1,
       "last_seen": "2026-09-12T13:04:54.147799+00:00",
@@ -13450,83 +13584,6 @@
       "last_seen": "2026-09-08T13:06:57.134495+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "golden eye award": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the zurich film": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "turturro": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the only living": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pickpocket": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "noah segan": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "grateful": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zurich film festival": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "honor the": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john turturro to": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james bond": {
-      "count": 2,
-      "last_seen": "2026-09-08T09:08:48.743513+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
