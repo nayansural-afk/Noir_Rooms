@@ -7042,6 +7042,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9972d139cd030eece2b5bc14",
+      "story_id": "be2dbe198e55c587",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos",
+      "title": "‘Sense And Sensibility’ Red Carpet Premiere Photos: Daisy Edgar-Jones, Esmé Creed-Miles & More",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "sense and sensibility",
+        "red carpet premiere",
+        "photos",
+        "daisy edgar",
+        "jones",
+        "creed",
+        "miles",
+        "more the",
+        "sense",
+        "sensibility",
+        "luxe leicester square",
+        "london"
+      ],
+      "hook": "سنس و سنسِبیلیتی بر روی کمر بندهای برنده",
+      "hooks": [
+        "سنس و سنسِبیلیتی: جشن در اویدون لوکس",
+        "دیزی ایگدر-جونز و اسمه کرید-میلز در اویدون"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سنس و سنسِبیلیتی در اویدون لوکس برگزیده شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 143,
+      "published_at": "2026-09-16T05:14:16.396325+00:00",
+      "text": "سنس و سنسِبیلیتی بر روی کمر بندهای برنده\n\n🎬 سنس و سنسِبیلیتی: اولین شب در اویدون لوکس لیستر سکو\n\nسنس و سنسِبیلیتی در اویدون لوکس لیستر سکو در لندن به نمایش گذاشته شد. اسمه کرید-میلز و دیزی ایگدر-جونز در این مراسم حضور داشتند و جشن گرفتند.\n\n📌 نکات مهم:\n• سنس و سنسِبیلیتی در اویدون لوکس برگزیده شد\n• کارگردان: گرجیا اوکلی\n• نویسنده: دیانا ریِد\n• نویسنده: جین آستن\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7181,7 +7233,8 @@
     "cccc645ba38850fa8331fc42",
     "af4d7545213a2441573c7418",
     "c49f2901772f9b5420865dc7",
-    "79afd413db03cb8156708399"
+    "79afd413db03cb8156708399",
+    "9972d139cd030eece2b5bc14"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7320,11 +7373,12 @@
     "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
     "https://variety.com/2026/film/festivals/hawaii-film-festival-navigator-opening-night-drifter-centerpiece-1236860970",
     "https://www.thewrap.com/creative-content/movies/forgotten-island-cast-audiobook-jennifer-aquino",
-    "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035"
+    "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035",
+    "https://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 69,
+      "published": 70,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7392,7 +7446,7 @@
       "published": 2
     },
     "5": {
-      "published": 20
+      "published": 21
     },
     "19": {
       "published": 1
@@ -7441,64 +7495,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-05T13:04:47.268893+00:00",
-      "version": 2,
-      "posts": 86,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-05T17:04:57.438438+00:00",
       "version": 2,
@@ -10456,6 +10452,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-16T05:14:16.396428+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10594,9 +10648,95 @@
     "e466f63f91cab61d",
     "a475334939605dde",
     "b324794db3c8623d",
-    "7c2949f25dd64b20"
+    "7c2949f25dd64b20",
+    "be2dbe198e55c587"
   ],
   "entity_memory": {
+    "london": {
+      "count": 6,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "sense and sensibility": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "red carpet premiere": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "photos": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "daisy edgar": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jones": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "creed": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "miles": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more the": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sense": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sensibility": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luxe leicester square": {
+      "count": 1,
+      "last_seen": "2026-09-16T05:14:16.396357+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 9,
       "last_seen": "2026-09-15T20:17:10.460739+00:00",
@@ -12538,14 +12678,6 @@
         "actors_directors"
       ]
     },
-    "london": {
-      "count": 5,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "paul mescal": {
       "count": 1,
       "last_seen": "2026-09-10T09:08:14.344914+00:00",
@@ -13337,85 +13469,6 @@
     "tuesday": {
       "count": 1,
       "last_seen": "2026-09-08T09:08:48.743513+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "you can see": {
-      "count": 2,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "trailers_first_look",
-        "actors_directors"
-      ]
-    },
-    "everything": {
-      "count": 2,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "trailers_first_look",
-        "actors_directors"
-      ]
-    },
-    "tom cruise": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the talk of": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "telluride": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "secret screening of": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elizabeth holmes documentary": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "julie huntsinger": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indeed": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "werner herzog theater": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "digger": {
-      "count": 1,
-      "last_seen": "2026-09-08T05:14:43.663722+00:00",
       "categories": [
         "actors_directors"
       ]
