@@ -7251,6 +7251,50 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "75b709b136254526d690efb3",
+      "story_id": "1388e3e9d9221466",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "category": "actors_directors",
+      "score": 69.68,
+      "freshness": 92.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "legendary nigerian",
+        "olu jacobs",
+        "nigeria"
+      ],
+      "hook": "وفات اولو جیکوبس، ستاره‌ی بی‌نظیر سینمای نایجیریا",
+      "hooks": [
+        "افتراق از اولو جیکوبس، نایجیریا را رنج داد",
+        "حضور اولو جیکوبس در سینما، همیشه در خاطره"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "وفات اولو جیکوبس در سن 84 سالگی",
+        "او یکی از شناخته‌شده‌ترین بازیگران نایجیریا بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 147,
+      "published_at": "2026-09-16T20:17:58.762589+00:00",
+      "text": "وفات اولو جیکوبس، ستاره‌ی بی‌نظیر سینمای نایجیریا\n\n🎬 وفات اولو جیکوبس، ستاره‌ی سینمای نایجیریا\n\nاو لو جیکوبس، ستاره‌ی سینمای نایجیریا، در سن 84 سالگی درگذشت.\nاو در طول چندین دهه، نقش‌های برجسته‌ای را در فیلم‌های نایجیریا بازی کرد و به عنوان یکی از شناخته‌شده‌ترین بازیگران این کشور شناخته می‌شد.\n\n📌 نکات مهم:\n• وفات اولو جیکوبس در سن 84 سالگی\n• او یکی از شناخته‌شده‌ترین بازیگران نایجیریا بود\n• سفره‌نامه او در سینما چندین دهه طول کشید\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7394,7 +7438,8 @@
     "9972d139cd030eece2b5bc14",
     "603cf9572623674d66e3800e",
     "6c0d9d73b28b4a99a6be988d",
-    "284207ec4c2f9d18d2be09d0"
+    "284207ec4c2f9d18d2be09d0",
+    "75b709b136254526d690efb3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7537,7 +7582,8 @@
     "https://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos",
     "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932",
     "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
-    "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens"
+    "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
+    "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o"
   ],
   "category_stats": {
     "movie_news": {
@@ -7547,7 +7593,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 52,
+      "published": 53,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7597,7 +7643,7 @@
       "published": 4
     },
     "20": {
-      "published": 20
+      "published": 21
     },
     "21": {
       "published": 8
@@ -7658,64 +7704,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-06T09:07:57.443097+00:00",
-      "version": 2,
-      "posts": 90,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-06T13:05:16.859066+00:00",
       "version": 2,
@@ -10673,6 +10661,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-16T20:17:58.762686+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10815,9 +10861,31 @@
     "be2dbe198e55c587",
     "277b4bec654046a6",
     "c1a3867d64eb63ec",
-    "fdab982a3c68eaf8"
+    "fdab982a3c68eaf8",
+    "1388e3e9d9221466"
   ],
   "entity_memory": {
+    "legendary nigerian": {
+      "count": 1,
+      "last_seen": "2026-09-16T20:17:58.762622+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olu jacobs": {
+      "count": 1,
+      "last_seen": "2026-09-16T20:17:58.762622+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nigeria": {
+      "count": 1,
+      "last_seen": "2026-09-16T20:17:58.762622+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "spider-man": {
       "count": 5,
       "last_seen": "2026-09-16T17:05:08.924844+00:00",
@@ -13617,27 +13685,6 @@
       "last_seen": "2026-09-08T20:16:47.508851+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "elon musk": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shift": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "self": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
