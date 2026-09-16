@@ -7200,6 +7200,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "284207ec4c2f9d18d2be09d0",
+      "story_id": "fdab982a3c68eaf8",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
+      "title": "‘Spider-Man: Brand New Day’ Passes ‘Star Wars: The Force Awakens’ for All-Time Domestic Box Office Record",
+      "category": "actors_directors",
+      "score": 73.85,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 86.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "spider-man",
+        "star wars",
+        "spider",
+        "brand new day",
+        "passes",
+        "the force awakens",
+        "time domestic box",
+        "office record the",
+        "canada the",
+        "office record"
+      ],
+      "hook": "اسپایدرمان: روز نو، رکورد جدید در بازار داخلی",
+      "hooks": [
+        "اسپایدرمان برتر شد، رکورد جدید!",
+        "سفر جدید اسپایدرمان، رکورد جدید در آمریکا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "اسپایدرمان: روز نو، رکورد فروش تمام زمان را در بازار داخلی آمریکا و کانادا به دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 146,
+      "published_at": "2026-09-16T17:05:08.924812+00:00",
+      "text": "اسپایدرمان: روز نو، رکورد جدید در بازار داخلی\n\n🎬 اسپایدرمان: روز نو، رکورد جدید در بازار داخلی را به دست آورد\n\nفیلم مارول «اسپایدرمان: روز نو» در بازار داخلی آمریکا و کانادا به مبلغ ۹۳۶ میلیون دلار رسید.\nاین رقم، رکورد فروش تمام زمان را از «ستارگان: قدرت بیدار» می‌گیرد و نشان می‌دهد که سریال مارول همچنان قدرت جذب مخاطب دارد.\n\n📌 نکات مهم:\n• اسپایدرمان: روز نو، رکورد فروش تمام زمان را در بازار داخلی آمریکا و کانادا به دست آورد\n• در آمریکا و کانادا، ۹۳۶ میلیون دلار درآمد کسب کرده\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7342,7 +7393,8 @@
     "79afd413db03cb8156708399",
     "9972d139cd030eece2b5bc14",
     "603cf9572623674d66e3800e",
-    "6c0d9d73b28b4a99a6be988d"
+    "6c0d9d73b28b4a99a6be988d",
+    "284207ec4c2f9d18d2be09d0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7484,7 +7536,8 @@
     "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035",
     "https://deadline.com/gallery/sense-and-sensibility-red-carpet-premiere-photos",
     "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932",
-    "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061"
+    "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
+    "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens"
   ],
   "category_stats": {
     "movie_news": {
@@ -7494,7 +7547,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 51,
+      "published": 52,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7586,7 +7639,7 @@
       "published": 19
     },
     "17": {
-      "published": 18
+      "published": 19
     }
   },
   "strategy": {
@@ -7605,64 +7658,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-06T05:13:03.598098+00:00",
-      "version": 2,
-      "posts": 89,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-06T09:07:57.443097+00:00",
       "version": 2,
@@ -10620,6 +10615,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-16T17:05:08.924940+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10761,9 +10814,90 @@
     "7c2949f25dd64b20",
     "be2dbe198e55c587",
     "277b4bec654046a6",
-    "c1a3867d64eb63ec"
+    "c1a3867d64eb63ec",
+    "fdab982a3c68eaf8"
   ],
   "entity_memory": {
+    "spider-man": {
+      "count": 5,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "spider": {
+      "count": 5,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "brand new day": {
+      "count": 4,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star wars": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "passes": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the force awakens": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "time domestic box": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "office record the": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "canada the": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "office record": {
+      "count": 1,
+      "last_seen": "2026-09-16T17:05:08.924844+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "cannes": {
       "count": 2,
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
@@ -13100,29 +13234,6 @@
         "actors_directors"
       ]
     },
-    "spider-man": {
-      "count": 4,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "spider": {
-      "count": 4,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "brand new day": {
-      "count": 3,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "avengers": {
       "count": 1,
       "last_seen": "2026-09-09T20:17:42.779393+00:00",
@@ -13525,63 +13636,6 @@
     "self": {
       "count": 1,
       "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "driving cars": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "myths about mars": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "more get examined": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new documentary": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "biggest revelations": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "musk": {
-      "count": 1,
-      "last_seen": "2026-09-08T17:05:53.175783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sept": {
-      "count": 2,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "receive zurich film": {
-      "count": 1,
-      "last_seen": "2026-09-08T13:06:57.134495+00:00",
       "categories": [
         "movie_news"
       ]
