@@ -7393,6 +7393,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5c48fe315e9be852a79b982d",
+      "story_id": "24f34bc7ed04f6e9",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
+      "title": "Pingyao Film Festival Unveils 10th Edition Line-up; ‘Spring In A Small Town’ Set As Opening Film",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "pingyao film festival",
+        "unveils",
+        "edition line",
+        "spring in",
+        "small town",
+        "set as opening",
+        "film china",
+        "pingyao international film",
+        "festival",
+        "fei mu",
+        "good trip",
+        "hong kong"
+      ],
+      "hook": "فستیوال سینمایی پینگیاو: ده ساله، بازتاب 4K، و پایان‌نامهٔ Good Trip",
+      "hooks": [
+        "پینگیاو 10م: بازسازی 4K Spring In A Small Town",
+        "Good Trip، پایان جشنواره پینگیاو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال پینگیاو 10م با بازسازی 4K Spring In A Small Town آغاز شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 150,
+      "published_at": "2026-09-17T13:07:12.844828+00:00",
+      "text": "فستیوال سینمایی پینگیاو: ده ساله، بازتاب 4K، و پایان‌نامهٔ Good Trip\n\n🎬 پینگیاو 10م: بازسازی 4K Spring In A Small Town به عنوان فیلم افتتاحیه\n\nفستیوال بین‌المللی سینمایی پینگیاو در چین، با جشنوارهٔ ده‌امین سالگرد خود، فهرست برنامهٔ خود را اعلام کرد. فیلم «Spring In A Small Town» اثر فی مو، در نسخهٔ بازسازی 4K، به عنوان فیلم افتتاحیه انتخاب شد.\nفیلم کوتاه «Good Trip»، که توسط نرس و هو ونگ از هنگ کنگ هم‌نویس و هم‌کارگردان شده، به عنوان فیلم پایانی فستیوال معرفی شد. همچنین «Torino Shadow»، اثر ژیا ژانگ‌ک، به عنوان فیلم کوتاه در برنامه حضور دارد.\n\n📌 نکات مهم:\n• فصل ده‌امین فستیوال بین‌المللی سینمایی پینگیاو\n• فیلم افتتاحیه: Spring In A Small Town (بازسازی 4K)\n• فیلم پایانی: Good Trip (نرس و هو ونگ)\n• فیلم کوتاه: Torino Shadow (ژیا ژانگ‌ک)\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7539,7 +7591,8 @@
     "284207ec4c2f9d18d2be09d0",
     "75b709b136254526d690efb3",
     "21c41269a2060f96d54abaf4",
-    "ca83caf8a79643223213d699"
+    "ca83caf8a79643223213d699",
+    "5c48fe315e9be852a79b982d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7685,11 +7738,12 @@
     "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
     "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
     "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
-    "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046"
+    "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
+    "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 71,
+      "published": 72,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7784,7 +7838,7 @@
       "published": 1
     },
     "13": {
-      "published": 19
+      "published": 20
     },
     "17": {
       "published": 19
@@ -7806,64 +7860,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-06T20:16:24.008882+00:00",
-      "version": 2,
-      "posts": 93,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-07T05:14:28.619523+00:00",
       "version": 2,
@@ -10821,6 +10817,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-17T13:07:12.844954+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10966,9 +11020,94 @@
     "fdab982a3c68eaf8",
     "1388e3e9d9221466",
     "1d44a9e259bf6966",
-    "a16d37db593b54a8"
+    "a16d37db593b54a8",
+    "24f34bc7ed04f6e9"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 5,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hong kong": {
+      "count": 2,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pingyao film festival": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unveils": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "edition line": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spring in": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "small town": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "set as opening": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film china": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pingyao international film": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fei mu": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "good trip": {
+      "count": 1,
+      "last_seen": "2026-09-17T13:07:12.844880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "september": {
       "count": 2,
       "last_seen": "2026-09-17T09:08:49.471728+00:00",
@@ -11845,13 +11984,6 @@
     "isrealis": {
       "count": 1,
       "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 4,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
       "categories": [
         "movie_news"
       ]
@@ -13637,13 +13769,6 @@
         "movie_news"
       ]
     },
-    "hong kong": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "cantonese": {
       "count": 1,
       "last_seen": "2026-09-09T13:06:29.537894+00:00",
@@ -13719,76 +13844,6 @@
       "last_seen": "2026-09-09T09:08:34.453907+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "le havre": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "filmed": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "auvergne": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alpes": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "southeastern france": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "warner bros": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john mulaney": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "talks": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "get smart": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "reboot": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
