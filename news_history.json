@@ -7295,6 +7295,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "21c41269a2060f96d54abaf4",
+      "story_id": "1d44a9e259bf6966",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
+      "title": "Jessica Chastain to Star in New Netflix Drama Series ‘The Retrievals’",
+      "category": "actors_directors",
+      "score": 46.19,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "oscar",
+        "jessica chastain",
+        "star",
+        "new netflix drama",
+        "series",
+        "the retrievals",
+        "the oscar",
+        "kaitlyn langford",
+        "when"
+      ],
+      "hook": "چستین در سریال جدید نِت‌فلیکس، رازهای زندگی‌اش کشف می‌شود",
+      "hooks": [
+        "سریال «The Retrievals» با چستین، داستانی درگیر فریزرهای زندگی",
+        "چستین در نقش هِستارِ هنر، درگیر دنیای جرم و درمان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیسیکا چستین در سریال جدید نِت‌فلیکس حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 148,
+      "published_at": "2026-09-17T05:14:51.960993+00:00",
+      "text": "چستین در سریال جدید نِت‌فلیکس، رازهای زندگی‌اش کشف می‌شود\n\n🎬 جیسیکا چستین در سریال «The Retrievals» نِت‌فلیکس، به نقش هِستارِ هنر می‌پردازد\n\nجیسیکا چستین، برنده جایزه اسکار، در سریال جدید نِت‌فلیکس «The Retrievals» نقش اصلی را بر عهده می‌گیرد. او در نقش کِیتلین لانگفورد، مورخ هنر سابق، به نمایش می‌گذارد. او در ده سال گذشته درگیر چرخه بی‌نتیجه درمان‌های بارداری بوده است. در سریال، کِیتلین متوجه می‌شود که قربانی تخفیف داروهای مخدر است. این اتفاق، او را درگیر دنیای جرم و رازهای تاریک می‌کند. داستان به بررسی پیچیدگی‌های زندگی شخصی و حرفه‌ای او می‌پردازد.\n\n📌 نکات مهم:\n• جیسیکا چستین در سریال «The Retrievals» نقش کِیتلین لانگفورد را بازی می‌کند\n• کِیتلین، مورخ هنر سابق، در ده سال گذشته درگیر درمان‌های بارداری بوده است\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7439,7 +7489,8 @@
     "603cf9572623674d66e3800e",
     "6c0d9d73b28b4a99a6be988d",
     "284207ec4c2f9d18d2be09d0",
-    "75b709b136254526d690efb3"
+    "75b709b136254526d690efb3",
+    "21c41269a2060f96d54abaf4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7583,7 +7634,8 @@
     "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932",
     "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
     "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
-    "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o"
+    "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
+    "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926"
   ],
   "category_stats": {
     "movie_news": {
@@ -7593,7 +7645,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 53,
+      "published": 54,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7655,7 +7707,7 @@
       "published": 2
     },
     "5": {
-      "published": 21
+      "published": 22
     },
     "19": {
       "published": 1
@@ -7704,64 +7756,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-06T13:05:16.859066+00:00",
-      "version": 2,
-      "posts": 91,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-06T17:04:43.083783+00:00",
       "version": 2,
@@ -10719,6 +10713,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-17T05:14:51.961084+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10862,9 +10914,84 @@
     "277b4bec654046a6",
     "c1a3867d64eb63ec",
     "fdab982a3c68eaf8",
-    "1388e3e9d9221466"
+    "1388e3e9d9221466",
+    "1d44a9e259bf6966"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 16,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "netflix": {
+      "count": 10,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 3,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jessica chastain": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "new netflix drama": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the retrievals": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the oscar": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kaitlyn langford": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "when": {
+      "count": 1,
+      "last_seen": "2026-09-17T05:14:51.961013+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "legendary nigerian": {
       "count": 1,
       "last_seen": "2026-09-16T20:17:58.762622+00:00",
@@ -11051,15 +11178,6 @@
         "actors_directors"
       ]
     },
-    "oscar": {
-      "count": 15,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "oscars": {
       "count": 1,
       "last_seen": "2026-09-16T09:08:14.322781+00:00",
@@ -11220,15 +11338,6 @@
       "last_seen": "2026-09-16T05:14:16.396357+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "netflix": {
-      "count": 9,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
       ]
     },
     "pride": {
@@ -12617,13 +12726,6 @@
         "actors_directors"
       ]
     },
-    "star": {
-      "count": 2,
-      "last_seen": "2026-09-11T20:17:12.906867+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "why chase infiniti": {
       "count": 1,
       "last_seen": "2026-09-11T20:17:12.906867+00:00",
@@ -13632,55 +13734,6 @@
       ]
     },
     "in python thriller": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "crush": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "century studios": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thailand": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the white lotus": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hook": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sources": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "australia": {
       "count": 1,
       "last_seen": "2026-09-08T20:16:47.508851+00:00",
       "categories": [
