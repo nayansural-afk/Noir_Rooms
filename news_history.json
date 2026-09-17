@@ -7445,6 +7445,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7e889d5d905f4bf5d93385e1",
+      "story_id": "69662cedb9c6173a",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "category": "movie_news",
+      "score": 70.01,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "battle",
+        "chile",
+        "patricio",
+        "passionate",
+        "pinochet",
+        "chile patricio",
+        "the battle",
+        "nostalgia",
+        "light",
+        "according",
+        "chilean",
+        "emol"
+      ],
+      "hook": "مخرج مستندات برنده جایزه، پاتریکیو گوزمان درگذشت",
+      "hooks": [
+        "مخرج بزرگ مستندات، گوزمان درگذشت",
+        "گوزمان، صدا و تصویر درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Patricio Guzmán died aged 85 in Paris after cardiorespiratory arrest."
+      ],
+      "status": "published",
+      "telegram_message_id": 151,
+      "published_at": "2026-09-17T17:04:46.147911+00:00",
+      "text": "مخرج مستندات برنده جایزه، پاتریکیو گوزمان درگذشت\n\n🎬 مخرج مستندات پاتریکیو گوزمان، 85 ساله، درگذشت\n\nپاتریکیو گوزمان، مخرج مستندات برنده جایزه، درگذشت. او در پی توقف قلبی-ریوی در پاریس درگذشت و 85 ساله بود.\nگوزمان در طول عمرش فیلم‌هایی چون «جنگ شیلی» و «نوستالژی نور» ساخت که به بررسی اثرات رژیم پینوچت در شیلی می‌پرداختند.\n\n📌 نکات مهم:\n• درگذشت در پاریس\n• 85 ساله\n• فیلم‌های «جنگ شیلی» و «نوستالژی نور»\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7592,7 +7644,8 @@
     "75b709b136254526d690efb3",
     "21c41269a2060f96d54abaf4",
     "ca83caf8a79643223213d699",
-    "5c48fe315e9be852a79b982d"
+    "5c48fe315e9be852a79b982d",
+    "7e889d5d905f4bf5d93385e1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7739,11 +7792,12 @@
     "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
     "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
     "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
-    "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295"
+    "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
+    "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 72,
+      "published": 73,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7841,7 +7895,7 @@
       "published": 20
     },
     "17": {
-      "published": 19
+      "published": 20
     }
   },
   "strategy": {
@@ -7860,64 +7914,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-07T05:14:28.619523+00:00",
-      "version": 2,
-      "posts": 94,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-07T09:08:49.996851+00:00",
       "version": 2,
@@ -10875,6 +10871,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-17T17:04:46.148042+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11021,9 +11075,98 @@
     "1388e3e9d9221466",
     "1d44a9e259bf6966",
     "a16d37db593b54a8",
-    "24f34bc7ed04f6e9"
+    "24f34bc7ed04f6e9",
+    "69662cedb9c6173a"
   ],
   "entity_memory": {
+    "patricio": {
+      "count": 2,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "chile": {
+      "count": 2,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "chilean": {
+      "count": 2,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "the battle": {
+      "count": 2,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "battle": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "passionate": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pinochet": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chile patricio": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nostalgia": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "light": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "according": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emol": {
+      "count": 1,
+      "last_seen": "2026-09-17T17:04:46.147950+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "festival": {
       "count": 5,
       "last_seen": "2026-09-17T13:07:12.844880+00:00",
@@ -11347,13 +11490,6 @@
         "actors_directors"
       ]
     },
-    "patricio": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "dies": {
       "count": 1,
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
@@ -11368,28 +11504,7 @@
         "actors_directors"
       ]
     },
-    "chile": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "turbulent modern history": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chilean": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the battle": {
       "count": 1,
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
       "categories": [
@@ -13786,62 +13901,6 @@
     "my indian boyfriend": {
       "count": 1,
       "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "south asian": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studio": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "launch medical drama": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seylan": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cindy": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "unifrance rendez": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vous": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "le havre studio": {
-      "count": 1,
-      "last_seen": "2026-09-09T09:08:34.453907+00:00",
       "categories": [
         "movie_news"
       ]
