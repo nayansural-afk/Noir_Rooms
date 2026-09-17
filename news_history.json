@@ -7497,6 +7497,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c661a9a23a8fc82a02c3029f",
+      "story_id": "5a2f1a53d3e880c4",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426",
+      "title": "Richard Gadd, Rhenzy Feliz, Ismael Cruz Córdova, Rubén Blades & Daniel Brühl Among 11 Joining Bad Bunny In Residente Film ‘Porto Rico’",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "richard gadd",
+        "rhenzy feliz",
+        "ismael cruz",
+        "blades",
+        "daniel",
+        "among",
+        "joining bad bunny",
+        "in residente film",
+        "porto rico",
+        "cameras",
+        "dominican republic",
+        "residente"
+      ],
+      "hook": "بازیگران جدید در فیلم «پورتو ریکو» با بادی بانی",
+      "hooks": [
+        "بادی بانی در نقش اصلی، همراه با ویگگو مورتیسن و اندرو نورتن",
+        "فیلم «پورتو ریکو» در جمهوری دومینیکن در حال ساخت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «پورتو ریکو» اولین کارگردانی و نویسندگی رینی «ریسیدنته» است"
+      ],
+      "status": "published",
+      "telegram_message_id": 152,
+      "published_at": "2026-09-17T20:17:37.739747+00:00",
+      "text": "بازیگران جدید در فیلم «پورتو ریکو» با بادی بانی\n\n🎬 بادی بانی در فیلم «پورتو ریکو» با بازیگران جدید\n\nفیلم «پورتو ریکو»، اولین کارگردانی و نویسندگی رینی «ریسیدنته» در حال ساخت است و دوربین‌ها در جمهوری دومینیکن به کار گرفته می‌شوند. بازیگر اصلی بادی بانی است که در کنار ویگگو مورتیسن و اندرو نورتن حضور دارد؛ علاوه بر این، ۱۱ بازیگر جدید به لیست اضافه شده‌اند.\n\n📌 نکات مهم:\n• فیلم «پورتو ریکو» در جمهوری دومینیکن در حال ساخت است\n• بازیگر اصلی بادی بانی است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7645,7 +7697,8 @@
     "21c41269a2060f96d54abaf4",
     "ca83caf8a79643223213d699",
     "5c48fe315e9be852a79b982d",
-    "7e889d5d905f4bf5d93385e1"
+    "7e889d5d905f4bf5d93385e1",
+    "c661a9a23a8fc82a02c3029f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7793,11 +7846,12 @@
     "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
     "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
     "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
-    "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85"
+    "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+    "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 73,
+      "published": 74,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7853,7 +7907,7 @@
       "published": 4
     },
     "20": {
-      "published": 21
+      "published": 22
     },
     "21": {
       "published": 8
@@ -7914,64 +7968,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-07T09:08:49.996851+00:00",
-      "version": 2,
-      "posts": 95,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-07T13:06:41.954931+00:00",
       "version": 2,
@@ -10929,6 +10925,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-17T20:17:37.739846+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11076,9 +11130,94 @@
     "1d44a9e259bf6966",
     "a16d37db593b54a8",
     "24f34bc7ed04f6e9",
-    "69662cedb9c6173a"
+    "69662cedb9c6173a",
+    "5a2f1a53d3e880c4"
   ],
   "entity_memory": {
+    "richard gadd": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rhenzy feliz": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ismael cruz": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blades": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "daniel": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "among": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joining bad bunny": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in residente film": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "porto rico": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cameras": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dominican republic": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "residente": {
+      "count": 1,
+      "last_seen": "2026-09-17T20:17:37.739777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "patricio": {
       "count": 2,
       "last_seen": "2026-09-17T17:04:46.147950+00:00",
@@ -13817,90 +13956,6 @@
     "piece": {
       "count": 1,
       "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the toronto film": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pretenders": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chrissie hynde": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thai": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "law kar": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paw hee": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "topline sri kishore": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cantonese opera drama": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the grand tribute": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cantonese": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sri kishore": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "my indian boyfriend": {
-      "count": 1,
-      "last_seen": "2026-09-09T13:06:29.537894+00:00",
       "categories": [
         "movie_news"
       ]
