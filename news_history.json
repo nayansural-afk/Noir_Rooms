@@ -7345,6 +7345,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ca83caf8a79643223213d699",
+      "story_id": "a16d37db593b54a8",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
+      "title": "Rodney Charters Dies: ‘24,’ ‘Shameless’ Cinematographer Was 80",
+      "category": "actors_directors",
+      "score": 69.92,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "rodney charters dies",
+        "shameless",
+        "cinematographer was",
+        "rodney charters",
+        "amsterdam",
+        "september",
+        "charters",
+        "kiefer sutherland"
+      ],
+      "hook": "موت ستاره‌ی دوربین در سریال 24 و شیمس",
+      "hooks": [
+        "دوربین‌ساز 24 و شیمس درگذشت",
+        "رودی چارترز، ستاره‌ی دوربین، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "He shot 184 episodes of 24."
+      ],
+      "status": "published",
+      "telegram_message_id": 149,
+      "published_at": "2026-09-17T09:08:49.471689+00:00",
+      "text": "موت ستاره‌ی دوربین در سریال 24 و شیمس\n\n🎬 دوربین‌ساز 24 و شیمس، رودی چارترز، درگذشت\n\nرودی چارترز، دوربین‌ساز برجسته که 184 قسمت از سریال 24 را ضبط کرده و ظاهر خاص آن را شکل داد، در 13 سپتامبر در آمستردام به‌طور ناگهانی درگذشت.\nاو عضو طولانی‌مدت انجمن ASC بود و در کارهای دیگر مانند شیمس نیز حضور داشت. او 80 ساله بود.\n\n📌 نکات مهم:\n• دوربین‌ساز 24 و شیمس\n• 184 قسمت از سریال 24\n• درگذشت در آمستردام 13 سپتامبر\n• عضو ASC\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7490,7 +7538,8 @@
     "6c0d9d73b28b4a99a6be988d",
     "284207ec4c2f9d18d2be09d0",
     "75b709b136254526d690efb3",
-    "21c41269a2060f96d54abaf4"
+    "21c41269a2060f96d54abaf4",
+    "ca83caf8a79643223213d699"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7635,7 +7684,8 @@
     "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061",
     "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-all-time-box-office-record-star-wars-force-awakens",
     "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o",
-    "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926"
+    "https://variety.com/2026/tv/news/jessica-chastain-netflix-the-retrievals-1236864926",
+    "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046"
   ],
   "category_stats": {
     "movie_news": {
@@ -7645,7 +7695,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 54,
+      "published": 55,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7719,7 +7769,7 @@
       "published": 2
     },
     "9": {
-      "published": 19
+      "published": 20
     },
     "6": {
       "published": 1
@@ -7756,64 +7806,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-06T17:04:43.083783+00:00",
-      "version": 2,
-      "posts": 92,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-06T20:16:24.008882+00:00",
       "version": 2,
@@ -10771,6 +10763,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-17T09:08:49.471822+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -10915,9 +10965,66 @@
     "c1a3867d64eb63ec",
     "fdab982a3c68eaf8",
     "1388e3e9d9221466",
-    "1d44a9e259bf6966"
+    "1d44a9e259bf6966",
+    "a16d37db593b54a8"
   ],
   "entity_memory": {
+    "september": {
+      "count": 2,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rodney charters dies": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shameless": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cinematographer was": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rodney charters": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amsterdam": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charters": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kiefer sutherland": {
+      "count": 1,
+      "last_seen": "2026-09-17T09:08:49.471728+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 16,
       "last_seen": "2026-09-17T05:14:51.961013+00:00",
@@ -11165,13 +11272,6 @@
       ]
     },
     "paris": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "september": {
       "count": 1,
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
       "categories": [
@@ -13687,55 +13787,6 @@
     "reboot": {
       "count": 1,
       "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "seth grahame": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "smith": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mel brooks": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "buck henry": {
-      "count": 1,
-      "last_seen": "2026-09-09T05:14:32.143016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sarah catherine hook": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lands lead role": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in python thriller": {
-      "count": 1,
-      "last_seen": "2026-09-08T20:16:47.508851+00:00",
       "categories": [
         "actors_directors"
       ]
