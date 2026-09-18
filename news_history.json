@@ -7650,6 +7650,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0980c6b75fed220242a684c0",
+      "story_id": "bbf4c21d1bd2d7ee",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549",
+      "title": "‘Tenzing’ Actor Tenzin Dalha Unveiled as Male Lead in Bengali Thriller ‘Chheledhora’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 79.8,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "tenzing",
+        "actor tenzin dalha",
+        "unveiled",
+        "male lead",
+        "bengali thriller",
+        "chheledhora",
+        "tenzin dalha",
+        "toronto film festival",
+        "jennifer peedom",
+        "apple",
+        "bengali",
+        "swastika mukherjee"
+      ],
+      "hook": "تنسین داله، ستارهٔ جدید در ترسناک چهلدهور",
+      "hooks": [
+        "نقش جدید تنسین داله در فیلم چهلدهور",
+        "ستارهٔ تازه در ترسناک بنگالی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Actor Tenzin Dalha cast as male lead in Chheledhora"
+      ],
+      "status": "published",
+      "telegram_message_id": 155,
+      "published_at": "2026-09-18T13:05:02.778425+00:00",
+      "text": "تنسین داله، ستارهٔ جدید در ترسناک چهلدهور\n\n🎬 تنسین داله، بازیگر «تنسینگ»، در نقش اصلی «چهلدهور» معرفی شد\n\nدر جشنواره فیلم تورنتو، بازیگر تنسین داله، که در فیلم «تنسینگ» به کارگردانی جنیفر پیدم حضور داشت، به عنوان نقش اصلی مرد در ترسناک بنگالی «چهلدهور» معرفی شد.\nاین نقش در ابتدا در اعلامیهٔ تولید، که فقط سوستیکا موکهرجی را معرفی کرده بود، مخفی نگه داشته شد و اکنون با حضور داله، فیلم به جلو می‌رود.\n\n📌 نکات مهم:\n• تنسین داله نقش اصلی مرد در چهلدهور\n• سوستیکا موکهرجی هم‌نقش در چهلدهور\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7801,7 +7854,8 @@
     "7e889d5d905f4bf5d93385e1",
     "c661a9a23a8fc82a02c3029f",
     "3e17556bda97055d02d90d7c",
-    "eeb32cd3e4d814dcca110e29"
+    "eeb32cd3e4d814dcca110e29",
+    "0980c6b75fed220242a684c0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7952,11 +8006,12 @@
     "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
     "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426",
     "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541",
-    "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover"
+    "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
+    "https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 76,
+      "published": 77,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8051,7 +8106,7 @@
       "published": 1
     },
     "13": {
-      "published": 20
+      "published": 21
     },
     "17": {
       "published": 20
@@ -8073,64 +8128,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-07T20:17:03.131635+00:00",
-      "version": 2,
-      "posts": 98,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-08T05:14:43.663794+00:00",
       "version": 2,
@@ -11088,6 +11085,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-18T13:05:02.778546+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11238,9 +11293,95 @@
     "69662cedb9c6173a",
     "5a2f1a53d3e880c4",
     "d24dbc288856cf2e",
-    "1749f62f286d3b91"
+    "1749f62f286d3b91",
+    "bbf4c21d1bd2d7ee"
   ],
   "entity_memory": {
+    "apple": {
+      "count": 2,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "toronto film festival": {
+      "count": 5,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tenzing": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor tenzin dalha": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unveiled": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "male lead": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bengali thriller": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chheledhora": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tenzin dalha": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jennifer peedom": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bengali": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "swastika mukherjee": {
+      "count": 1,
+      "last_seen": "2026-09-18T13:05:02.778461+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 11,
       "last_seen": "2026-09-18T09:07:51.113827+00:00",
@@ -12935,13 +13076,6 @@
         "actors_directors"
       ]
     },
-    "apple": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "krishnarjun bhattacharya": {
       "count": 1,
       "last_seen": "2026-09-13T17:05:03.313200+00:00",
@@ -13325,13 +13459,6 @@
     "james erskine": {
       "count": 1,
       "last_seen": "2026-09-12T13:04:54.147799+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto film festival": {
-      "count": 4,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
       "categories": [
         "movie_news"
       ]
@@ -13996,77 +14123,6 @@
       "last_seen": "2026-09-10T09:08:14.344914+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "uzo aduba": {
-      "count": 1,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "letts": {
-      "count": 1,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mescal": {
-      "count": 1,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "arthur miller": {
-      "count": 1,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "death": {
-      "count": 1,
-      "last_seen": "2026-09-10T09:08:14.344914+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wednesday": {
-      "count": 2,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "dc": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "barry melrose dies": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gretzky": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kings coach and": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
