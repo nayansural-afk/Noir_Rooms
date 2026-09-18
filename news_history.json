@@ -7756,6 +7756,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6975ae9ea0da3ff6768c52f4",
+      "story_id": "309e51c0877378f3",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991",
+      "title": "Brad Pitt Returning for ‘World War Z’ Sequel at Paramount With Edward Berger to Direct",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "a24",
+        "brad pitt returning",
+        "world war",
+        "sequel",
+        "paramount with edward",
+        "berger",
+        "direct brad pitt",
+        "all quiet",
+        "western front",
+        "conclave",
+        "edward berger"
+      ],
+      "hook": "براد پیت در ادامه‌ی 'ورلڈ وار زد' باز می‌گردد",
+      "hooks": [
+        "براد پیت به دنیای 'ورلڈ وار زد' باز می‌گردد",
+        "سکانس جدید 'ورلڈ وار زد' با براد پیت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "براد پیت در ادامه‌ی 'ورلڈ وار زد' باز می‌گردد",
+        "کارگردان ادورده برگر مسئول کارگردانی است"
+      ],
+      "status": "published",
+      "telegram_message_id": 157,
+      "published_at": "2026-09-18T20:16:15.508293+00:00",
+      "text": "براد پیت در ادامه‌ی 'ورلڈ وار زد' باز می‌گردد\n\n🎬 براد پیت در ادامه‌ی 'ورلڈ وار زد' با کارگردان ادورده برگر\n\nبراد پیت در ادامه‌ی فیلم 'ورلڈ وار زد' در حال بازگشت است. این نسخه‌ی جدید توسط شرکت پاراماونت تولید می‌شود.\nکارگردان ادورده برگر، که اخیراً در فیلم 'The Riders' برای A24 با پیت همکاری کرده بود، مسئول کارگردانی خواهد بود. متن فیلم توسط دنیس کِلی نوشته شده و جزئیات داستان هنوز در اسرار نگه داشته می‌شود.\n\n📌 نکات مهم:\n• براد پیت در ادامه‌ی 'ورلڈ وار زد' باز می‌گردد\n• کارگردان ادورده برگر مسئول کارگردانی است\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7909,7 +7962,8 @@
     "3e17556bda97055d02d90d7c",
     "eeb32cd3e4d814dcca110e29",
     "0980c6b75fed220242a684c0",
-    "9ff8e68824f99b5a09748c6d"
+    "9ff8e68824f99b5a09748c6d",
+    "6975ae9ea0da3ff6768c52f4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8062,11 +8116,12 @@
     "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541",
     "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
     "https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549",
-    "https://deadline.com/2026/09/alan-ritchson-helldivers-justin-lin-1237107610"
+    "https://deadline.com/2026/09/alan-ritchson-helldivers-justin-lin-1237107610",
+    "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 77,
+      "published": 78,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8122,7 +8177,7 @@
       "published": 4
     },
     "20": {
-      "published": 22
+      "published": 23
     },
     "21": {
       "published": 8
@@ -8183,64 +8238,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-08T09:08:48.743587+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-08T13:06:57.134580+00:00",
       "version": 2,
@@ -11198,6 +11195,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-18T20:16:15.508394+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11350,9 +11405,94 @@
     "d24dbc288856cf2e",
     "1749f62f286d3b91",
     "bbf4c21d1bd2d7ee",
-    "cb038d92c0f7c19e"
+    "cb038d92c0f7c19e",
+    "309e51c0877378f3"
   ],
   "entity_memory": {
+    "paramount": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "brad pitt returning": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "world war": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sequel": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount with edward": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "berger": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "direct brad pitt": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "all quiet": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "western front": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "conclave": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "edward berger": {
+      "count": 1,
+      "last_seen": "2026-09-18T20:16:15.508324+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "alan ritchson in": {
       "count": 1,
       "last_seen": "2026-09-18T17:05:36.876516+00:00",
@@ -14094,91 +14234,6 @@
       "last_seen": "2026-09-10T17:05:28.275060+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "unveils full lineup": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "talks with amanda": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seyfried": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jesse eisenberg": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "more": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the hamptons international": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wicker": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look": {
-      "count": 2,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "bafta": {
-      "count": 1,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "malachi kirby takes": {
-      "count": 1,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lead": {
-      "count": 1,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "uncle": {
-      "count": 1,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
