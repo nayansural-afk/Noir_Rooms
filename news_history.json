@@ -7598,6 +7598,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "eeb32cd3e4d814dcca110e29",
+      "story_id": "1749f62f286d3b91",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
+      "title": "Best of the Best review – college comedy formula gets a Bollywood makeover",
+      "category": "movie_news",
+      "score": 61.76,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "best",
+        "bollywood",
+        "what",
+        "there",
+        "american",
+        "each",
+        "lena khan",
+        "muslim",
+        "hollywood",
+        "hasan minhaj",
+        "prashanth venkataramanujam"
+      ],
+      "hook": "دو دوست، رقابت رقص، و یک کمدی بولیوودی در آمریکا",
+      "hooks": [
+        "کمدی رقصی با انرژی لِنا خان",
+        "دوست‌های بهترین در رقابت رقص بولیوودی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در نتفلیکس است"
+      ],
+      "status": "published",
+      "telegram_message_id": 154,
+      "published_at": "2026-09-18T09:07:51.113796+00:00",
+      "text": "دو دوست، رقابت رقص، و یک کمدی بولیوودی در آمریکا\n\n🎬 Best of the Best: کمدی رقصی بولیوودی در دانشگاه‌های آمریکایی\n\nاین فیلم کمدی در نتفلیکس، داستان دو دوست دختر و رقابت رقص را روایت می‌کند. با کارگردانی لِنا خان و فیلمنامه‌نویسان حسن مینهاج و پراشانته وینکاراتامانوجام، انرژی و شوخ‌طبعی بی‌نظیری دارد.\nروند داستان از قالب کلاسیک کمدی دانشگاهی پیروی می‌کند، اما با رنگ‌های بولیوودی و رقص‌های شگفت‌انگیز، جذابیت خاصی ایجاد می‌کند.\n\n📌 نکات مهم:\n• فیلم در نتفلیکس منتشر شده\n• رکورد رقص بولیوودی در دانشگاه‌های آمریکا\n• کارگردان: لِنا خان\n• فیلمنامه‌نویسان: حسن مینهاج و پراشانته وینکاراتامانوجام\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7748,7 +7800,8 @@
     "5c48fe315e9be852a79b982d",
     "7e889d5d905f4bf5d93385e1",
     "c661a9a23a8fc82a02c3029f",
-    "3e17556bda97055d02d90d7c"
+    "3e17556bda97055d02d90d7c",
+    "eeb32cd3e4d814dcca110e29"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7898,11 +7951,12 @@
     "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
     "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
     "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426",
-    "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541"
+    "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541",
+    "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 75,
+      "published": 76,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7982,7 +8036,7 @@
       "published": 2
     },
     "9": {
-      "published": 20
+      "published": 21
     },
     "6": {
       "published": 1
@@ -8019,64 +8073,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-07T17:05:06.949251+00:00",
-      "version": 2,
-      "posts": 97,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-07T20:17:03.131635+00:00",
       "version": 2,
@@ -11034,6 +11030,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-18T09:07:51.113902+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11183,9 +11237,98 @@
     "24f34bc7ed04f6e9",
     "69662cedb9c6173a",
     "5a2f1a53d3e880c4",
-    "d24dbc288856cf2e"
+    "d24dbc288856cf2e",
+    "1749f62f286d3b91"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 11,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "streaming",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "hollywood": {
+      "count": 2,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "there": {
+      "count": 2,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "best": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bollywood": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "what": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "each": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lena khan": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "muslim": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hasan minhaj": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "prashanth venkataramanujam": {
+      "count": 1,
+      "last_seen": "2026-09-18T09:07:51.113827+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sundance": {
       "count": 3,
       "last_seen": "2026-09-18T05:13:45.391953+00:00",
@@ -11569,15 +11712,6 @@
         "actors_directors",
         "movie_news",
         "awards_festivals"
-      ]
-    },
-    "netflix": {
-      "count": 10,
-      "last_seen": "2026-09-17T05:14:51.961013+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
       ]
     },
     "star": {
@@ -13356,13 +13490,6 @@
         "actors_directors"
       ]
     },
-    "hollywood": {
-      "count": 1,
-      "last_seen": "2026-09-11T20:17:12.906867+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "niki byrne": {
       "count": 1,
       "last_seen": "2026-09-11T20:17:12.906867+00:00",
@@ -13548,13 +13675,6 @@
       ]
     },
     "judy heumann": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "there": {
       "count": 1,
       "last_seen": "2026-09-11T09:08:00.067958+00:00",
       "categories": [
@@ -13947,69 +14067,6 @@
       "last_seen": "2026-09-10T05:14:19.795517+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "longtime": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hockey analyst was": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "barry melrose": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "wayne gretzky": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "los angeles kings": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "melrose": {
-      "count": 1,
-      "last_seen": "2026-09-10T05:14:19.795517+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "doomsday": {
-      "count": 1,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "presales hit": {
-      "count": 1,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
