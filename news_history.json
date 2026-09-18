@@ -7549,6 +7549,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3e17556bda97055d02d90d7c",
+      "story_id": "d24dbc288856cf2e",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541",
+      "title": "Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships",
+      "category": "movie_news",
+      "score": 67.19,
+      "freshness": 82.0,
+      "credibility": 90.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": false,
+      "entities": [
+        "disney",
+        "sundance",
+        "sundance announce next",
+        "round",
+        "project advancement",
+        "completion fund",
+        "artist fellowships exclusive",
+        "josephine",
+        "beth"
+      ],
+      "hook": "دنیای سینما با حمایت دو شرکت بزرگ، فرصت‌های جدیدی می‌سازد",
+      "hooks": [
+        "سینما در مسیر نوآوری، دو فاند جدید معرفی شد",
+        "دستگاه‌های مالی جدید، فیلمسازان را به جلو می‌برد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Disney و Sundance فاند‌های جدیدی را اعلام کردند"
+      ],
+      "status": "published",
+      "telegram_message_id": 153,
+      "published_at": "2026-09-18T05:13:45.391922+00:00",
+      "text": "دنیای سینما با حمایت دو شرکت بزرگ، فرصت‌های جدیدی می‌سازد\n\n🎬 Disney و Sundance فاند‌های جدید برای فیلمسازان معرفی می‌کنند\n\nDisney و Sundance با همکاری یکدیگر، فاند‌های پیشرفت پروژه و تکمیل فیلم و بورس‌های هنری جدید را اعلام کردند.\nاز جمله دریافت‌کنندگان، کارگردان 'Josephine' به نام Beth de Araújo است که در این برنامه‌ها حمایت می‌شود.\n\n📌 نکات مهم:\n• Disney و Sundance فاند‌های جدیدی را اعلام کردند\n• Beth de Araújo، کارگردان 'Josephine', یکی از دریافت‌کنندگان است\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7698,7 +7747,8 @@
     "ca83caf8a79643223213d699",
     "5c48fe315e9be852a79b982d",
     "7e889d5d905f4bf5d93385e1",
-    "c661a9a23a8fc82a02c3029f"
+    "c661a9a23a8fc82a02c3029f",
+    "3e17556bda97055d02d90d7c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -7847,11 +7897,12 @@
     "https://deadline.com/2026/09/rodney-charters-dead-24-cinematographer-1237106046",
     "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295",
     "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
-    "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426"
+    "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426",
+    "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 74,
+      "published": 75,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -7919,7 +7970,7 @@
       "published": 2
     },
     "5": {
-      "published": 22
+      "published": 23
     },
     "19": {
       "published": 1
@@ -7968,64 +8019,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-07T13:06:41.954931+00:00",
-      "version": 2,
-      "posts": 96,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-07T17:05:06.949251+00:00",
       "version": 2,
@@ -10983,6 +10976,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-18T05:13:45.392020+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11131,9 +11182,74 @@
     "a16d37db593b54a8",
     "24f34bc7ed04f6e9",
     "69662cedb9c6173a",
-    "5a2f1a53d3e880c4"
+    "5a2f1a53d3e880c4",
+    "d24dbc288856cf2e"
   ],
   "entity_memory": {
+    "sundance": {
+      "count": 3,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "disney": {
+      "count": 5,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "sundance announce next": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "round": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "project advancement": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "completion fund": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "artist fellowships exclusive": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "josephine": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beth": {
+      "count": 1,
+      "last_seen": "2026-09-18T05:13:45.391953+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "richard gadd": {
       "count": 1,
       "last_seen": "2026-09-17T20:17:37.739777+00:00",
@@ -12550,13 +12666,6 @@
         "movie_news"
       ]
     },
-    "sundance": {
-      "count": 2,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "trash mountain": {
       "count": 1,
       "last_seen": "2026-09-13T20:16:18.948599+00:00",
@@ -13657,14 +13766,6 @@
         "actors_directors"
       ]
     },
-    "disney": {
-      "count": 4,
-      "last_seen": "2026-09-10T13:05:52.450383+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "bafta": {
       "count": 1,
       "last_seen": "2026-09-10T13:05:52.450383+00:00",
@@ -13909,55 +14010,6 @@
       "last_seen": "2026-09-09T20:17:42.779393+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "million": {
-      "count": 1,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "months before release": {
-      "count": 1,
-      "last_seen": "2026-09-09T20:17:42.779393+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "gail": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "superfan of canadian": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "band our lady": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peace speaks her": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "piece": {
-      "count": 1,
-      "last_seen": "2026-09-09T17:05:00.979541+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
