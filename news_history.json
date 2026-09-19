@@ -7902,6 +7902,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "30118bef45148d8e30a44f3e",
+      "story_id": "f67f821902caa740",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335",
+      "title": "As Fall Approaches, Camden International Film Festival Spends Time With ‘The Illusion Of An Everlasting Summer’",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "as fall approaches",
+        "camden international film",
+        "festival spends time",
+        "the illusion of",
+        "an everlasting summer",
+        "festival",
+        "maine",
+        "saturday",
+        "sierra pettengill",
+        "argonauts",
+        "history",
+        "nicole costa"
+      ],
+      "hook": "فستیوال فیلم مستند، در میانه‌ی پاییز، با فیلمی بی‌نظیر",
+      "hooks": [
+        "پاییز نزدیک، فستیوال مستند با برترین عناوین",
+        "میدان مستند، با فیلم‌های جدید در میانه‌ی فستیوال"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال فقط مستندات را نمایش می‌دهد",
+        "فستیوال در میانه‌ی سال ۲۰۲۶ به نقطه‌ی میانه رسید"
+      ],
+      "status": "published",
+      "telegram_message_id": 160,
+      "published_at": "2026-09-19T16:10:38.572165+00:00",
+      "text": "فستیوال فیلم مستند، در میانه‌ی پاییز، با فیلمی بی‌نظیر\n\n🎬 فستیوال فیلم مستند کمدن در میانه‌ی سال ۲۰۲۶، با برترین عناوین جدید\n\nفستیوال فیلم مستند کمدن در ساحل میانه‌ی مینه‌سوتا، در سال ۲۰۲۶، به نقطه‌ی میانه رسید. این جشنواره معتبر، که فقط بر مستندات تمرکز دارد، در روز شنبه با نمایش‌های جهانی فیلم‌های \"Argonauts at the End of History\" اثر سیرا پتینگیل و \"No Money No Honey\" اثر نیکول کستا ادامه می‌دهد.\nدر روز جمعه، نمایش‌های جهانی دو فیلم دیگر غیرنقاشی، \"Dependence\" به کارگردانی گریس هارپر، به نمایش گذاشته شد. همچنین، فستیوال با فیلم \"The Illusion Of An Everlasting Summer\" به‌طور ویژه زمان می‌گذارد.\n\n📌 نکات مهم:\n• فستیوال در سال ۲۰۲۶ برگزار شد\n• مکان: ساحل میانه‌ی مینه‌سوتا\n• نمایش‌های جهانی: Argonauts at the End of History, No Money No Honey, Dependence\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8058,7 +8112,8 @@
     "9ff8e68824f99b5a09748c6d",
     "6975ae9ea0da3ff6768c52f4",
     "fa20348724c8670d38e8d27a",
-    "ff9e03d5828af7f65d45a8da"
+    "ff9e03d5828af7f65d45a8da",
+    "30118bef45148d8e30a44f3e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8214,11 +8269,12 @@
     "https://deadline.com/2026/09/alan-ritchson-helldivers-justin-lin-1237107610",
     "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991",
     "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
-    "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797"
+    "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797",
+    "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 78,
+      "published": 79,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8268,7 +8324,7 @@
       "published": 2
     },
     "16": {
-      "published": 3
+      "published": 4
     },
     "18": {
       "published": 4
@@ -8338,64 +8394,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-08T20:16:47.508922+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-09T05:14:32.143086+00:00",
       "version": 2,
@@ -11353,6 +11351,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-19T16:10:38.572288+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11508,9 +11564,94 @@
     "cb038d92c0f7c19e",
     "309e51c0877378f3",
     "43ffdb58620e9057",
-    "dc17dc657ddc8fcd"
+    "dc17dc657ddc8fcd",
+    "f67f821902caa740"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 6,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "camden international film": {
+      "count": 2,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maine": {
+      "count": 2,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nicole costa": {
+      "count": 2,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "as fall approaches": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival spends time": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the illusion of": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "an everlasting summer": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "saturday": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sierra pettengill": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "argonauts": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "history": {
+      "count": 1,
+      "last_seen": "2026-09-19T16:10:38.572198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 12,
       "last_seen": "2026-09-19T12:50:54.818750+00:00",
@@ -12169,13 +12310,6 @@
     "emol": {
       "count": 1,
       "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 5,
-      "last_seen": "2026-09-17T13:07:12.844880+00:00",
       "categories": [
         "movie_news"
       ]
@@ -13128,13 +13262,6 @@
         "movie_news"
       ]
     },
-    "camden international film": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "moveria film": {
       "count": 1,
       "last_seen": "2026-09-14T17:04:33.490344+00:00",
@@ -13142,21 +13269,7 @@
         "movie_news"
       ]
     },
-    "maine": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "moveria": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nicole costa": {
       "count": 1,
       "last_seen": "2026-09-14T17:04:33.490344+00:00",
       "categories": [
@@ -14278,62 +14391,6 @@
     "ross butler": {
       "count": 1,
       "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marc evan jackson": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "join sayani gupta": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "arya": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "delhi crime": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "neil tuli": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gupta": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "minnesota": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drink in": {
-      "count": 1,
-      "last_seen": "2026-09-10T20:15:52.930457+00:00",
       "categories": [
         "movie_news"
       ]
