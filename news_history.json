@@ -7809,6 +7809,50 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fa20348724c8670d38e8d27a",
+      "story_id": "43ffdb58620e9057",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
+      "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
+      "category": "actors_directors",
+      "score": 67.7,
+      "freshness": 82.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "tenko",
+        "coronation street",
+        "stephanie cole",
+        "dr beatrice mason"
+      ],
+      "hook": "استاد سینما و تلویزیون، استیفانی کول، درگذشت",
+      "hooks": [
+        "استیفانی کول، بازیگر برجسته، درگذشت",
+        "کول، ستاره تلویزیون، از جهان رفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "استیفانی کول درگذشت در سن 84 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 158,
+      "published_at": "2026-09-19T09:18:29.243887+00:00",
+      "text": "استاد سینما و تلویزیون، استیفانی کول، درگذشت\n\n🎬 استیفانی کول، بازیگر برجسته تلویزیون، درگذشت در سن 84 سالگی\n\nاستیفانی کول، بازیگر برجسته تلویزیون بریتانیا، درگذشت. او در سال 2024 در سن 84 سالگی درگذشت.\nشهروندی که نقش دکتر بیاتریس ماسن در سریال جنگی دهه 80 \"Tenko\" را به یاد می‌آورند، در کنار نقش‌های دیگرش در \"Coronation Street\" شناخته می‌شود.\n\n📌 نکات مهم:\n• درگذشت در سن 84 سالگی\n• نقش برجسته در سریال Tenko به عنوان دکتر بیاتریس ماسن\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -7963,7 +8007,8 @@
     "eeb32cd3e4d814dcca110e29",
     "0980c6b75fed220242a684c0",
     "9ff8e68824f99b5a09748c6d",
-    "6975ae9ea0da3ff6768c52f4"
+    "6975ae9ea0da3ff6768c52f4",
+    "fa20348724c8670d38e8d27a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8117,7 +8162,8 @@
     "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
     "https://variety.com/2026/film/news/tenzing-actor-tenzin-dalha-male-lead-chheledhora-1236866549",
     "https://deadline.com/2026/09/alan-ritchson-helldivers-justin-lin-1237107610",
-    "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991"
+    "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991",
+    "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo"
   ],
   "category_stats": {
     "movie_news": {
@@ -8127,7 +8173,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 56,
+      "published": 57,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8201,7 +8247,7 @@
       "published": 2
     },
     "9": {
-      "published": 21
+      "published": 22
     },
     "6": {
       "published": 1
@@ -8238,64 +8284,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-08T13:06:57.134580+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.85,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-08T17:05:53.175863+00:00",
       "version": 2,
@@ -11253,6 +11241,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-19T09:18:29.243979+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 404,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11406,9 +11452,38 @@
     "1749f62f286d3b91",
     "bbf4c21d1bd2d7ee",
     "cb038d92c0f7c19e",
-    "309e51c0877378f3"
+    "309e51c0877378f3",
+    "43ffdb58620e9057"
   ],
   "entity_memory": {
+    "tenko": {
+      "count": 1,
+      "last_seen": "2026-09-19T09:18:29.243918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "coronation street": {
+      "count": 1,
+      "last_seen": "2026-09-19T09:18:29.243918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stephanie cole": {
+      "count": 1,
+      "last_seen": "2026-09-19T09:18:29.243918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dr beatrice mason": {
+      "count": 1,
+      "last_seen": "2026-09-19T09:18:29.243918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "paramount": {
       "count": 1,
       "last_seen": "2026-09-18T20:16:15.508324+00:00",
@@ -14203,35 +14278,6 @@
     "piemonte": {
       "count": 1,
       "last_seen": "2026-09-10T20:15:52.930457+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "low lies": {
-      "count": 1,
-      "last_seen": "2026-09-10T20:15:52.930457+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john turturro": {
-      "count": 2,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "october": {
-      "count": 4,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "hamptons film festival": {
-      "count": 1,
-      "last_seen": "2026-09-10T17:05:28.275060+00:00",
       "categories": [
         "movie_news"
       ]
