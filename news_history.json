@@ -8010,6 +8010,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9182e6ef302be566834e4538",
+      "story_id": "498acdcfc5799a61",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434",
+      "title": "BritBox Reveals First Look At ‘The Other Bennet Sister’ Christmas Special",
+      "category": "actors_directors",
+      "score": 69.92,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "reveals first look",
+        "the other bennet",
+        "sister",
+        "christmas special",
+        "christmas",
+        "ella bruccoleri",
+        "finn",
+        "check",
+        "mary bennet",
+        "produced",
+        "bad wolf",
+        "north america"
+      ],
+      "hook": "پیش‌نمایش ویژه کریسمس سریال The Other Bennet Sister",
+      "hooks": [
+        "کریسمس با The Other Bennet Sister",
+        "پیش‌نمایش سه‌قسمتی The Other Bennet Sister"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "BritBox اولین نگاه را به قسمت سه‌قسمتی کریسمس سریال The Other Bennet Sister ارائه می‌دهد"
+      ],
+      "status": "published",
+      "telegram_message_id": 162,
+      "published_at": "2026-09-19T22:17:20.580178+00:00",
+      "text": "پیش‌نمایش ویژه کریسمس سریال The Other Bennet Sister\n\n🎬 BritBox معرفی اولین نگاه به قسمت کریسمس سه‌قسمتی The Other Bennet Sister\n\nBritBox اولین نگاه را به قسمت سه‌قسمتی کریسمس سریال The Other Bennet Sister ارائه می‌دهد. این قسمت، که با بازی Ella Bruccoleri و Dónal Finn، ادامهٔ داستان Mary Bennet پس از ده قسمت اول است، توسط Bad Wolf برای BBC و BritBox North America تولید شده است.\n\n📌 نکات مهم:\n• سه قسمت\n• کریسمس\n• بازیگران: Ella Bruccoleri و Dónal Finn\n• تولید Bad Wolf برای BBC و BritBox North America\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8168,7 +8220,8 @@
     "fa20348724c8670d38e8d27a",
     "ff9e03d5828af7f65d45a8da",
     "30118bef45148d8e30a44f3e",
-    "7d63257abf0f04536e767edf"
+    "7d63257abf0f04536e767edf",
+    "9182e6ef302be566834e4538"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8326,7 +8379,8 @@
     "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
     "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797",
     "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335",
-    "https://deadline.com/2026/09/anthony-page-dead-1237108346"
+    "https://deadline.com/2026/09/anthony-page-dead-1237108346",
+    "https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434"
   ],
   "category_stats": {
     "movie_news": {
@@ -8336,7 +8390,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 58,
+      "published": 59,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8404,7 +8458,7 @@
       "published": 2
     },
     "22": {
-      "published": 2
+      "published": 3
     },
     "7": {
       "published": 2
@@ -8450,64 +8504,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-09T09:08:34.453981+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-09T13:06:29.537964+00:00",
       "version": 2,
@@ -11465,6 +11461,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-19T22:17:20.580285+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11622,9 +11676,95 @@
     "43ffdb58620e9057",
     "dc17dc657ddc8fcd",
     "f67f821902caa740",
-    "7207044d3c9e12a6"
+    "7207044d3c9e12a6",
+    "498acdcfc5799a61"
   ],
   "entity_memory": {
+    "north america": {
+      "count": 2,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "reveals first look": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the other bennet": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sister": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christmas special": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christmas": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ella bruccoleri": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "finn": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "check": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mary bennet": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "produced": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bad wolf": {
+      "count": 1,
+      "last_seen": "2026-09-19T22:17:20.580211+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "british": {
       "count": 2,
       "last_seen": "2026-09-19T19:06:27.833157+00:00",
@@ -14128,13 +14268,6 @@
         "movie_news"
       ]
     },
-    "north america": {
-      "count": 1,
-      "last_seen": "2026-09-12T13:04:54.147799+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "game": {
       "count": 1,
       "last_seen": "2026-09-12T13:04:54.147799+00:00",
@@ -14370,83 +14503,6 @@
     "szor": {
       "count": 1,
       "last_seen": "2026-09-11T17:04:41.925236+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "award": {
-      "count": 2,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in alaska": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "producer tyler hagan": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "feature producer indiescreen": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tyler hagan": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "experimental forest films": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "canadian media producers": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "association": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "feature film producer": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indiescreen award": {
-      "count": 1,
-      "last_seen": "2026-09-11T13:05:08.413972+00:00",
       "categories": [
         "movie_news"
       ]
