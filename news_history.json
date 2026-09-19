@@ -7956,6 +7956,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7d63257abf0f04536e767edf",
+      "story_id": "7207044d3c9e12a6",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/anthony-page-dead-1237108346",
+      "title": "Anthony Page Dies: Tony-Winning, Emmy-Nominated Director Of Stage & Screen Was 90",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "anthony page dies",
+        "tony",
+        "winning",
+        "emmy",
+        "nominated director of",
+        "stage",
+        "screen was",
+        "anthony page",
+        "british",
+        "tony award",
+        "broadway",
+        "doll"
+      ],
+      "hook": "مردن آنتونی پیج، کارگردان برنده تونی",
+      "hooks": [
+        "کارگردان برنده تونی، درگذشت",
+        "آنتونی پیج، 90 ساله، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آنتونی پیج برنده جایزه تونی شد",
+        "آنتونی پیج دو بار برای فیلم‌های تلویزیونی نامزد جایزه امی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 161,
+      "published_at": "2026-09-19T19:06:27.833122+00:00",
+      "text": "مردن آنتونی پیج، کارگردان برنده تونی\n\n🎬 آنتونی پیج، کارگردان برنده تونی، درگذشت\n\nکارگردان بریتانیایی آنتونی پیج، 90 ساله، در 11 سپتامبر در خانه مراقبت‌های مسکونی لندن درگذشت. او در سال 1997 برای نمایش «خانه‌ی عروسک» برنده جایزه تونی شد و دو بار برای فیلم‌های تلویزیونی در دهه 1970 نامزد جایزه امی شد.\n\nگذشته‌ی هنری او در صحنه و فیلم، او را به یکی از کارگردانان برجسته‌ی دوره‌ی خود تبدیل کرد.\n\n📌 نکات مهم:\n• آنتونی پیج در 11 سپتامبر در لندن درگذشت\n• برنده جایزه تونی برای نمایش 1997 A Doll’s House\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/anthony-page-dead-1237108346",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8113,7 +8167,8 @@
     "6975ae9ea0da3ff6768c52f4",
     "fa20348724c8670d38e8d27a",
     "ff9e03d5828af7f65d45a8da",
-    "30118bef45148d8e30a44f3e"
+    "30118bef45148d8e30a44f3e",
+    "7d63257abf0f04536e767edf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8270,11 +8325,12 @@
     "https://variety.com/2026/film/news/brad-pitt-world-war-z-sequel-paramount-edward-berger-director-1236866991",
     "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo",
     "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797",
-    "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335"
+    "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335",
+    "https://deadline.com/2026/09/anthony-page-dead-1237108346"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 79,
+      "published": 80,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8345,7 +8401,7 @@
       "published": 23
     },
     "19": {
-      "published": 1
+      "published": 2
     },
     "22": {
       "published": 2
@@ -8394,64 +8450,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-09T05:14:32.143086+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-09T09:08:34.453981+00:00",
       "version": 2,
@@ -11409,6 +11407,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-19T19:06:27.833232+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11565,9 +11621,94 @@
     "309e51c0877378f3",
     "43ffdb58620e9057",
     "dc17dc657ddc8fcd",
-    "f67f821902caa740"
+    "f67f821902caa740",
+    "7207044d3c9e12a6"
   ],
   "entity_memory": {
+    "british": {
+      "count": 2,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emmy": {
+      "count": 2,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony page dies": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tony": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "winning": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nominated director of": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stage": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "screen was": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony page": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tony award": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doll": {
+      "count": 1,
+      "last_seen": "2026-09-19T19:06:27.833157+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "festival": {
       "count": 6,
       "last_seen": "2026-09-19T16:10:38.572198+00:00",
@@ -13374,13 +13515,6 @@
         "movie_news"
       ]
     },
-    "british": {
-      "count": 1,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "sexy beast": {
       "count": 1,
       "last_seen": "2026-09-14T09:09:54.308055+00:00",
@@ -14001,13 +14135,6 @@
         "movie_news"
       ]
     },
-    "emmy": {
-      "count": 1,
-      "last_seen": "2026-09-12T13:04:54.147799+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "game": {
       "count": 1,
       "last_seen": "2026-09-12T13:04:54.147799+00:00",
@@ -14320,77 +14447,6 @@
     "indiescreen award": {
       "count": 1,
       "last_seen": "2026-09-11T13:05:08.413972+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york": {
-      "count": 2,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "opens with": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "heder": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "crowd": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pleasing": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "apple has its": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "next oscar contender": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "judy heumann": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "just": {
-      "count": 1,
-      "last_seen": "2026-09-11T09:08:00.067958+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ross butler": {
-      "count": 1,
-      "last_seen": "2026-09-11T05:14:17.257900+00:00",
       "categories": [
         "movie_news"
       ]
