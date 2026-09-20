@@ -8268,6 +8268,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2ff0a8ad4e7d0e4a773256de",
+      "story_id": "0e04c1ba81964a3a",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
+      "title": "Barry Keoghan, Joseph Quinn and Harris Dickinson Spotted Filming the Opening of ‘A Hard Day’s Night’ Movie for Beatles Biopic",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "barry keoghan",
+        "joseph quinn",
+        "harris dickinson spotted",
+        "filming",
+        "opening",
+        "hard day",
+        "night",
+        "beatles biopic",
+        "the beatles",
+        "four",
+        "film cinematic event",
+        "harris dickinson"
+      ],
+      "hook": "بارری کیگن، جوزف کوین و هریس دیکنسن در صحنهٔ آغاز 'یک روز سخت'",
+      "hooks": [
+        "تصاویر جدید از فیلم‌سازی 'یک روز سخت'",
+        "نقش بارری کیگن در بیوپیک بیتلز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تصاویر از TMZ نشان می‌دهد که بازیگران در حال ضبط صحنهٔ نمادین هستند"
+      ],
+      "status": "published",
+      "telegram_message_id": 167,
+      "published_at": "2026-09-20T22:20:55.719975+00:00",
+      "text": "بارری کیگن، جوزف کوین و هریس دیکنسن در صحنهٔ آغاز 'یک روز سخت'\n\n🎬 بارری کیگن، جوزف کوین و هریس دیکنسن در صحنهٔ آغاز بیوپیک بیتلز 'یک روز سخت'\n\nبارری کیگن، جوزف کوین و هریس دیکنسن در صحنهٔ آغاز فیلم 'یک روز سخت'، که به عنوان بخشی از بیوپیک بیتلز است، دیده شدند. تصاویر از TMZ نشان می‌دهد که بازیگران در حال ضبط صحنهٔ نمادین هستند.\nفیلم، که توسط رِچارد لِستر کارگردانی می‌شود، در سال ۱۹۶۴ ساخته شد و در طول دو روز به دنبال مشکلات گروه در صحنه می‌گردد.\n\n📌 نکات مهم:\n• بارری کیگن، جوزف کوین و هریس دیکنسن در صحنهٔ آغاز 'یک روز سخت' حضور داشتند\n• فیلم توسط رِچارد لِستر کارگردانی می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8431,7 +8484,8 @@
     "1ae36b94e458aabd274eda74",
     "d5cbcc416496f3688322a7ad",
     "6d15a7b3555551a2b70235f4",
-    "869f396fb15a2a832c3d98b5"
+    "869f396fb15a2a832c3d98b5",
+    "2ff0a8ad4e7d0e4a773256de"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8594,11 +8648,12 @@
     "https://deadline.com/2026/09/gerrit-graham-dead-1237108310",
     "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office",
     "https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736",
-    "https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627"
+    "https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627",
+    "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 82,
+      "published": 83,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8672,7 +8727,7 @@
       "published": 3
     },
     "22": {
-      "published": 3
+      "published": 4
     },
     "7": {
       "published": 2
@@ -8718,64 +8773,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-10T09:08:14.344983+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-10T13:05:52.450458+00:00",
       "version": 2,
@@ -11733,6 +11730,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-20T22:20:55.720079+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11895,9 +11950,94 @@
     "5e03a9cabd47e525",
     "cd32b4d200176fd9",
     "5799a1e569184a10",
-    "948b58639da871c2"
+    "948b58639da871c2",
+    "0e04c1ba81964a3a"
   ],
   "entity_memory": {
+    "barry keoghan": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joseph quinn": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harris dickinson spotted": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "filming": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "opening": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hard day": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "night": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beatles biopic": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the beatles": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "four": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film cinematic event": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harris dickinson": {
+      "count": 1,
+      "last_seen": "2026-09-20T22:20:55.720008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "film festival": {
       "count": 4,
       "last_seen": "2026-09-20T19:12:13.956019+00:00",
@@ -14637,91 +14777,6 @@
       "last_seen": "2026-09-12T17:04:43.526832+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "producer kevin walsh": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "readies star vehicles": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "for paul rudd": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sam rockwell": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series with casey": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "affleck": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thursday": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sian heder": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin walsh": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "reasonable people": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cory finley": {
-      "count": 1,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maisie williams": {
-      "count": 2,
-      "last_seen": "2026-09-12T13:04:54.147799+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     }
   },
