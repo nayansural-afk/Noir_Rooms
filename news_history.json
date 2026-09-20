@@ -8159,6 +8159,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6d15a7b3555551a2b70235f4",
+      "story_id": "5799a1e569184a10",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline",
+        "IndieWire",
+        "TheWrap"
+      ],
+      "multi_source_count": 4,
+      "url": "https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736",
+      "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+      "category": "movie_news",
+      "score": 96.3,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "la bola negra",
+        "wins oscar",
+        "predictive toronto film",
+        "festival people",
+        "choice award the",
+        "people",
+        "choice award",
+        "toronto film festival",
+        "javier calvo",
+        "javier ambrossi",
+        "play rocky",
+        "cannes",
+        "wins",
+        "toronto international film"
+      ],
+      "hook": "La Bola Negra برنده جایزه انتخاب مردم تورنتو شد",
+      "hooks": [
+        "La Bola Negra در تورنتو برنده شد",
+        "Elsinore جایزه بین‌المللی را گرفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "La Bola Negra برنده جایزه انتخاب مردم جشنواره فیلم تورنتو ۵۱ شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 165,
+      "published_at": "2026-09-20T16:39:02.676484+00:00",
+      "text": "La Bola Negra برنده جایزه انتخاب مردم تورنتو شد\n\n🎬 La Bola Negra در جشنواره فیلم تورنتو جایزه انتخاب مردم را کسب کرد\n\nدر جشنواره فیلم تورنتو ۵۱، فیلم La Bola Negra اثر جویفر کالو و جویفر آمبورسی، جایزه انتخاب مردم را برنده شد.\nهمچنین جایزه انتخاب مردم بین‌المللی به Elsinore اثر سیمون استون اختصاص یافت و I Play Rocky و Being Heumann به ترتیب جایزه‌های دو و سه‌ام دریافت کردند.\n\n📌 نکات مهم:\n• La Bola Negra برنده جایزه انتخاب مردم جشنواره فیلم تورنتو ۵۱ شد\n• Elsinore جایزه انتخاب مردم بین‌المللی را دریافت کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline, IndieWire, TheWrap\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8320,7 +8378,8 @@
     "7d63257abf0f04536e767edf",
     "9182e6ef302be566834e4538",
     "1ae36b94e458aabd274eda74",
-    "d5cbcc416496f3688322a7ad"
+    "d5cbcc416496f3688322a7ad",
+    "6d15a7b3555551a2b70235f4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8481,11 +8540,12 @@
     "https://deadline.com/2026/09/anthony-page-dead-1237108346",
     "https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434",
     "https://deadline.com/2026/09/gerrit-graham-dead-1237108310",
-    "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office"
+    "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office",
+    "https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 80,
+      "published": 81,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8535,7 +8595,7 @@
       "published": 2
     },
     "16": {
-      "published": 4
+      "published": 5
     },
     "18": {
       "published": 4
@@ -8605,64 +8665,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-09T20:17:42.779475+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-10T05:14:19.795586+00:00",
       "version": 2,
@@ -11620,6 +11622,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-20T16:39:02.676578+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11780,9 +11840,118 @@
     "7207044d3c9e12a6",
     "498acdcfc5799a61",
     "5e03a9cabd47e525",
-    "cd32b4d200176fd9"
+    "cd32b4d200176fd9",
+    "5799a1e569184a10"
   ],
   "entity_memory": {
+    "toronto film festival": {
+      "count": 6,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 17,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "cannes": {
+      "count": 3,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "toronto international film": {
+      "count": 2,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "la bola negra": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins oscar": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "predictive toronto film": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival people": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "choice award the": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "people": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "choice award": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "javier calvo": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "javier ambrossi": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "play rocky": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins": {
+      "count": 1,
+      "last_seen": "2026-09-20T16:39:02.676509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "resident evil": {
       "count": 1,
       "last_seen": "2026-09-20T13:25:34.758954+00:00",
@@ -12425,13 +12594,6 @@
         "movie_news"
       ]
     },
-    "toronto film festival": {
-      "count": 5,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "tenzing": {
       "count": 1,
       "last_seen": "2026-09-18T13:05:02.778461+00:00",
@@ -12950,15 +13112,6 @@
         "actors_directors"
       ]
     },
-    "oscar": {
-      "count": 16,
-      "last_seen": "2026-09-17T05:14:51.961013+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "star": {
       "count": 3,
       "last_seen": "2026-09-17T05:14:51.961013+00:00",
@@ -13113,14 +13266,6 @@
       "count": 1,
       "last_seen": "2026-09-16T17:05:08.924844+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "cannes": {
-      "count": 2,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -14215,13 +14360,6 @@
         "movie_news"
       ]
     },
-    "toronto international film": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "platform": {
       "count": 1,
       "last_seen": "2026-09-13T13:05:09.053749+00:00",
@@ -14530,83 +14668,6 @@
       "last_seen": "2026-09-12T09:08:04.696813+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "rebel wilson": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "musical comedy is": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fun spiritual sequel": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pitch perfect": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nearly": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fat amy": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in girl group": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wilson": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "australian": {
-      "count": 1,
-      "last_seen": "2026-09-12T09:08:04.696813+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "josh hartnett reveals": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "he was": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
