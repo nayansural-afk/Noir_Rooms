@@ -8114,6 +8114,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d5cbcc416496f3688322a7ad",
+      "story_id": "cd32b4d200176fd9",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office",
+      "title": "‘Resident Evil’ Sets Franchise Box Office Record With $26.3 Million Opening Day",
+      "category": "box_office",
+      "score": 59.48,
+      "freshness": 82.0,
+      "credibility": 84.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "resident evil",
+        "sets franchise box",
+        "office record with",
+        "million opening day",
+        "sony"
+      ],
+      "hook": "فیلمنامهٔ Resident Evil، رکورد روز اول 26.3 میلیون دلار!",
+      "hooks": [
+        "Resident Evil به رکورد روز اول 26.3 میلیون دلار رسید!",
+        "فلم Sony از بازی Resident Evil، بیش از 53 میلیون دلار در آخر هفته پیش‌بینی می‌شود!"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فلم Resident Evil در روز اول 26.3 میلیون دلار جمع‌آوری کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 164,
+      "published_at": "2026-09-20T13:25:34.758922+00:00",
+      "text": "فیلمنامهٔ Resident Evil، رکورد روز اول 26.3 میلیون دلار!\n\n🎬 Resident Evil، فیلمی که رکورد روز اول 26.3 میلیون دلار را ثبت کرد\n\nفلم سینمایی بر اساس بازی Resident Evil، در روز اول خود 26.3 میلیون دلار جمع‌آوری کرد و رکورد جدیدی برای مجموعه‌اش رقم زد.\nسونی پیش‌بینی می‌کند که این فیلم در آخر هفتهٔ اول بیش از 53 میلیون دلار به دست آورد، که نشان‌دهندهٔ استقبال قوی طرفداران است.\n\n📌 نکات مهم:\n• فلم Resident Evil، روز اول 26.3 میلیون دلار جمع‌آوری کرد\n• پیش‌بینی سونی برای آخر هفتهٔ اول بیش از 53 میلیون دلار\n• فلم بر اساس بازی و توسط Sony تولید شد\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8274,7 +8319,8 @@
     "30118bef45148d8e30a44f3e",
     "7d63257abf0f04536e767edf",
     "9182e6ef302be566834e4538",
-    "1ae36b94e458aabd274eda74"
+    "1ae36b94e458aabd274eda74",
+    "d5cbcc416496f3688322a7ad"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8434,7 +8480,8 @@
     "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335",
     "https://deadline.com/2026/09/anthony-page-dead-1237108346",
     "https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434",
-    "https://deadline.com/2026/09/gerrit-graham-dead-1237108310"
+    "https://deadline.com/2026/09/gerrit-graham-dead-1237108310",
+    "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office"
   ],
   "category_stats": {
     "movie_news": {
@@ -8462,7 +8509,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 7,
+      "published": 8,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8533,7 +8580,7 @@
       "published": 1
     },
     "13": {
-      "published": 21
+      "published": 22
     },
     "17": {
       "published": 21
@@ -8558,64 +8605,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-09T17:05:00.979633+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-09T20:17:42.779475+00:00",
       "version": 2,
@@ -11573,6 +11562,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-20T13:25:34.759030+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11732,9 +11779,45 @@
     "f67f821902caa740",
     "7207044d3c9e12a6",
     "498acdcfc5799a61",
-    "5e03a9cabd47e525"
+    "5e03a9cabd47e525",
+    "cd32b4d200176fd9"
   ],
   "entity_memory": {
+    "resident evil": {
+      "count": 1,
+      "last_seen": "2026-09-20T13:25:34.758954+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "sets franchise box": {
+      "count": 1,
+      "last_seen": "2026-09-20T13:25:34.758954+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "office record with": {
+      "count": 1,
+      "last_seen": "2026-09-20T13:25:34.758954+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "million opening day": {
+      "count": 1,
+      "last_seen": "2026-09-20T13:25:34.758954+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "sony": {
+      "count": 1,
+      "last_seen": "2026-09-20T13:25:34.758954+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "gerrit graham dies": {
       "count": 1,
       "last_seen": "2026-09-20T09:40:20.135643+00:00",
@@ -14522,41 +14605,6 @@
     "he was": {
       "count": 1,
       "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actively not looking": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "show": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "before joining": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "below": {
-      "count": 1,
-      "last_seen": "2026-09-12T05:13:47.036650+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "why chase infiniti": {
-      "count": 1,
-      "last_seen": "2026-09-11T20:17:12.906867+00:00",
       "categories": [
         "actors_directors"
       ]
