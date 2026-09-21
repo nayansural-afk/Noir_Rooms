@@ -8524,6 +8524,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "69b1fb0ef5ff498044e5321c",
+      "story_id": "29e3123b2c7a358c",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634",
+      "title": "John Oliver Calls Out “Soon-To-Be Business Daddy” David Ellison & Throws Stephen Colbert Under The Bus",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "warner bros",
+        "paramount",
+        "john oliver calls",
+        "soon",
+        "be business daddy",
+        "david ellison",
+        "throws stephen colbert",
+        "under the bus",
+        "john oliver",
+        "last week tonight",
+        "oliver",
+        "ellison"
+      ],
+      "hook": "جولن اولِور به دایوید الی‌سون می‌خندد و ستین کولبر را می‌کوبد",
+      "hooks": [
+        "دیوید الی‌سون، پدر کسب‌وکار آینده، هدف شوخی اولِور",
+        "اوِلِور در آخر هفته‌ی هفته، به ستین کولبر می‌خندد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جولن اولِور در برنامه‌ی Last Week Tonight به دایوید الی‌سون اشاره کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 172,
+      "published_at": "2026-09-21T23:09:33.619124+00:00",
+      "text": "جولن اولِور به دایوید الی‌سون می‌خندد و ستین کولبر را می‌کوبد\n\n🎬 جولن اولِور به دایوید الی‌سون و ستین کولبر شوخی می‌کند\n\nدر آخر هفته‌ی هفته، جولن اولِور در برنامه‌ی Last Week Tonight به دایوید الی‌سون، مدیر جدید Paramount‑Warner Bros، اشاره می‌کند و او را «پدر کسب‌وکار آینده» می‌نامد.\nاو همچنین در مورد انکار ادعاهای بیمه‌ای UnitedHealthcare صحبت می‌کند و به ستین کولبر می‌گوید که باید در مسیر خود باقی بماند.\n\n📌 نکات مهم:\n• جولن اولِور در برنامه‌ی Last Week Tonight به دایوید الی‌سون اشاره کرد\n• او در مورد انکار ادعاهای بیمه‌ای UnitedHealthcare صحبت کرد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8692,7 +8744,8 @@
     "54fc5846275074d87f62dc59",
     "04089915a94efd187a6b2f9c",
     "431a14b1f1299be220dd2b88",
-    "2758a493361a954574b71bde"
+    "2758a493361a954574b71bde",
+    "69b1fb0ef5ff498044e5321c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8860,11 +8913,12 @@
     "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
     "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
     "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930",
-    "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962"
+    "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962",
+    "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 86,
+      "published": 87,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8926,7 +8980,7 @@
       "published": 8
     },
     "23": {
-      "published": 2
+      "published": 3
     },
     "3": {
       "published": 2
@@ -8984,64 +9038,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-11T09:08:00.068031+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-11T13:05:08.414044+00:00",
       "version": 2,
@@ -11999,6 +11995,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-21T23:09:33.619224+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12166,9 +12220,94 @@
     "4531f169e9709805",
     "f8647857fa3d7647",
     "c056375cc711463e",
-    "4cb4cc9ed18d957e"
+    "4cb4cc9ed18d957e",
+    "29e3123b2c7a358c"
   ],
   "entity_memory": {
+    "paramount": {
+      "count": 2,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "warner bros": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john oliver calls": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "soon": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "be business daddy": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "david ellison": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "throws stephen colbert": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "under the bus": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john oliver": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "last week tonight": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oliver": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ellison": {
+      "count": 1,
+      "last_seen": "2026-09-21T23:09:33.619153+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 2,
       "last_seen": "2026-09-21T20:43:20.730576+00:00",
@@ -13178,13 +13317,6 @@
       "last_seen": "2026-09-19T09:18:29.243918+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "paramount": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "a24": {
@@ -14914,85 +15046,6 @@
       "last_seen": "2026-09-13T20:16:18.948599+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "brief": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wacky": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scene": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jurassic world": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "colin trevorrow": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lilly wachowski": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sayani gupta": {
-      "count": 2,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "indian": {
-      "count": 2,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "severance": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "producer nicholas weinstock": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boards indian fantasy": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
