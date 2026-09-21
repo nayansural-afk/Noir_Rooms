@@ -8474,6 +8474,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2758a493361a954574b71bde",
+      "story_id": "4cb4cc9ed18d957e",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962",
+      "title": "Anjanette Comer, Actress in ‘The Loved One’ and ‘The Appaloosa,’ Dies at 86",
+      "category": "actors_directors",
+      "score": 70.16,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "anjanette comer",
+        "actress",
+        "the loved one",
+        "the appaloosa",
+        "dies",
+        "quick",
+        "before it melts",
+        "guns",
+        "san sebastian",
+        "the baby"
+      ],
+      "hook": "انجانته کامر، بازیگر «The Loved One» درگذشت",
+      "hooks": [
+        "انجانته کامر، ستارهٔ فیلم‌های کلاسیک، درگذشت",
+        "مردن بازیگر «The Appaloosa»، انجانته کامر، 86 ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "انجانته کامر درگذشت در سن 86 ساله"
+      ],
+      "status": "published",
+      "telegram_message_id": 171,
+      "published_at": "2026-09-21T20:43:20.730544+00:00",
+      "text": "انجانته کامر، بازیگر «The Loved One» درگذشت\n\n🎬 انجانته کامر، بازیگر «The Loved One» و «The Appaloosa»، درگذشت\n\nانجانته کامر، بازیگر برجستهٔ سینمای آمریکا، درگذشت. او در فیلم‌های The Loved One، The Appaloosa، Quick, Before It Melts، Guns for San Sebastian و The Baby نقش داشت. در طول مسیر، چند گام اشتباه در حرفه‌اش برداشت.\n\nدرگذشت او در سن 86 سالگی، نشان از دوران پرکار و تأثیرگذار او در سینما دارد.\n\n📌 نکات مهم:\n• انجانته کامر درگذشت در سن 86 ساله\n• او در فیلم‌های The Loved One، The Appaloosa، Quick, Before It Melts، Guns for San Sebastian و The Baby نقش داشت\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8641,7 +8691,8 @@
     "2ff0a8ad4e7d0e4a773256de",
     "54fc5846275074d87f62dc59",
     "04089915a94efd187a6b2f9c",
-    "431a14b1f1299be220dd2b88"
+    "431a14b1f1299be220dd2b88",
+    "2758a493361a954574b71bde"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8808,7 +8859,8 @@
     "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
     "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
     "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
-    "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930"
+    "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930",
+    "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962"
   ],
   "category_stats": {
     "movie_news": {
@@ -8818,7 +8870,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 60,
+      "published": 61,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8868,7 +8920,7 @@
       "published": 5
     },
     "20": {
-      "published": 23
+      "published": 24
     },
     "21": {
       "published": 8
@@ -8932,64 +8984,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-11T05:14:17.257994+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-11T09:08:00.068031+00:00",
       "version": 2,
@@ -11947,6 +11941,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-21T20:43:20.730652+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12113,9 +12165,80 @@
     "0e04c1ba81964a3a",
     "4531f169e9709805",
     "f8647857fa3d7647",
-    "c056375cc711463e"
+    "c056375cc711463e",
+    "4cb4cc9ed18d957e"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 2,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anjanette comer": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actress": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the loved one": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the appaloosa": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "quick": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "before it melts": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "guns": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "san sebastian": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the baby": {
+      "count": 1,
+      "last_seen": "2026-09-21T20:43:20.730576+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "resident evil": {
       "count": 2,
       "last_seen": "2026-09-21T18:24:30.383227+00:00",
@@ -13893,13 +14016,6 @@
         "actors_directors"
       ]
     },
-    "dies": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "documentarian who chronicled": {
       "count": 1,
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
@@ -14877,69 +14993,6 @@
       "last_seen": "2026-09-13T17:05:03.313200+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "horror": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tongue": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring sayani gupta": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nicholas weinstock": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "krishnarjun bhattacharya": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "weinstock": {
-      "count": 1,
-      "last_seen": "2026-09-13T17:05:03.313200+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "platform competition film": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "idda": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "portrays female friendship": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
