@@ -8371,6 +8371,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "04089915a94efd187a6b2f9c",
+      "story_id": "f8647857fa3d7647",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
+      "title": "The Seasons review – Portuguese pastoral offers poetic excavation of myth and mapping",
+      "category": "movie_news",
+      "score": 77.2,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "the seasons",
+        "portuguese",
+        "portugal",
+        "maureen fazendeiro",
+        "lisbon",
+        "french",
+        "alentejo",
+        "mirroring",
+        "fazendeiro",
+        "observational",
+        "german"
+      ],
+      "hook": "سفر در دل آلتنجه: فیلم 'The Seasons'",
+      "hooks": [
+        "پیش‌نمایش فیلم 'The Seasons' در پرتغال جنوبی",
+        "سفر به‌دست Maureen Fazendeiro: کشف تاریخ و طبیعت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'The Seasons' به‌عنوان یک 'pastoral marvel' در میان مستندهای اکولوژیک شناخته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 169,
+      "published_at": "2026-09-21T15:37:22.265435+00:00",
+      "text": "سفر در دل آلتنجه: فیلم 'The Seasons'\n\n🎬 فیلم 'The Seasons' – سفری شاعرانه در دل آلتنجه\n\nفیلم 'The Seasons' کارگردانی Maureen Fazendeiro، اولین فیلم‌سازانگی‌اش، در دل آلتنجه، منطقه‌ای روستایی در جنوب پرتغال، روایت می‌کند.\nبا صداگذاری پرانرژی و صحنه‌های طبیعتی، فیلم به‌عنوان یک 'pastoral marvel' در میان مستندهای اکولوژیک شناخته می‌شود و جستجوی ابزارهای باستانی در لایه‌های خاک را نشان می‌دهد.\n\n📌 نکات مهم:\n• فیلم 'The Seasons' کارگردانی Maureen Fazendeiro، کارگردان فرانسوی مستقر در لیسبون\n• فیلم به‌عنوان یک 'pastoral marvel' در میان مستندهای اکولوژیک شناخته شده است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8536,7 +8588,8 @@
     "6d15a7b3555551a2b70235f4",
     "869f396fb15a2a832c3d98b5",
     "2ff0a8ad4e7d0e4a773256de",
-    "54fc5846275074d87f62dc59"
+    "54fc5846275074d87f62dc59",
+    "04089915a94efd187a6b2f9c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8701,11 +8754,12 @@
     "https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736",
     "https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627",
     "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
-    "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861"
+    "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
+    "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 84,
+      "published": 85,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8791,7 +8845,7 @@
       "published": 1
     },
     "15": {
-      "published": 2
+      "published": 3
     },
     "1": {
       "published": 1
@@ -8825,64 +8879,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-10T17:05:28.275120+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-10T20:15:52.930530+00:00",
       "version": 2,
@@ -11840,6 +11836,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-21T15:37:22.265538+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12004,9 +12058,95 @@
     "5799a1e569184a10",
     "948b58639da871c2",
     "0e04c1ba81964a3a",
-    "4531f169e9709805"
+    "4531f169e9709805",
+    "f8647857fa3d7647"
   ],
   "entity_memory": {
+    "marvel": {
+      "count": 2,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "the seasons": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "portuguese": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "portugal": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maureen fazendeiro": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lisbon": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "french": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alentejo": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mirroring": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fazendeiro": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "observational": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "german": {
+      "count": 1,
+      "last_seen": "2026-09-21T15:37:22.265467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sean hogan": {
       "count": 1,
       "last_seen": "2026-09-21T10:32:58.698712+00:00",
@@ -13593,13 +13733,6 @@
         "actors_directors"
       ]
     },
-    "marvel": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "star wars": {
       "count": 1,
       "last_seen": "2026-09-16T17:05:08.924844+00:00",
@@ -14750,84 +14883,6 @@
     "seth rogen says": {
       "count": 1,
       "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "babies": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reflective": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "experiences": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "exploring parenthood": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shocking how personal": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "it is": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lauren miller rogen": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice film festival": {
-      "count": 6,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "winners": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "may el": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toukhy": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
       "categories": [
         "movie_news"
       ]
