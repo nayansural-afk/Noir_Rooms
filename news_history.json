@@ -8423,6 +8423,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "431a14b1f1299be220dd2b88",
+      "story_id": "c056375cc711463e",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930",
+      "title": "Zach Cregger’s ‘Resident Evil’ Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run",
+      "category": "movie_news",
+      "score": 72.69,
+      "freshness": 82.0,
+      "credibility": 90.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "zach cregger",
+        "resident evil",
+        "grossed more",
+        "its opening weekend",
+        "than",
+        "first film made",
+        "its entire run",
+        "weapons",
+        "barbarian",
+        "hollywood"
+      ],
+      "hook": "زک کرگر: رزیدنت ایویپ، بیش از اولین فیلم در بازه‌ی افتتاحیه",
+      "hooks": [
+        "گزارش: رزیدنت ایویپ، بیش از اولین فیلم در هفته‌ی اول",
+        "زک کرگر: رزیدنت ایویپ، 108.3 میلیون دلار در هفته اول"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم رزیدنت ایویپ در هفته اول بیش از اولین فیلم در کل دوران",
+        "زک کرگر کارگردان 'Weapons' و 'Barbarian'"
+      ],
+      "status": "published",
+      "telegram_message_id": 170,
+      "published_at": "2026-09-21T18:24:30.383191+00:00",
+      "text": "زک کرگر: رزیدنت ایویپ، بیش از اولین فیلم در بازه‌ی افتتاحیه\n\n🎬 زک کرگر: رزیدنت ایویپ در هفته اول بیش از اولین فیلم در کل دوران خود\n\nفیلم جدید زک کرگر، کارگردان معروف به‌دست‌کاری‌های 'Weapons' و 'Barbarian', در هفته‌ی اول خود 108.3 میلیون دلار جمع‌آوری کرد. این رقم، بیش از مجموع درآمد اولین فیلم او در تمام دوران تولید و عرضه، می‌باشد و او را در میان بزرگ‌ترین موفقیت‌های هالیوود قرار می‌دهد.\n\n📌 نکات مهم:\n• $108.3M در هفته اول\n• بیش از مجموع درآمد اولین فیلم در کل دوران\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8589,7 +8640,8 @@
     "869f396fb15a2a832c3d98b5",
     "2ff0a8ad4e7d0e4a773256de",
     "54fc5846275074d87f62dc59",
-    "04089915a94efd187a6b2f9c"
+    "04089915a94efd187a6b2f9c",
+    "431a14b1f1299be220dd2b88"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8755,11 +8807,12 @@
     "https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627",
     "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
     "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
-    "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping"
+    "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
+    "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 85,
+      "published": 86,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8812,7 +8865,7 @@
       "published": 5
     },
     "18": {
-      "published": 4
+      "published": 5
     },
     "20": {
       "published": 23
@@ -8879,64 +8932,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-10T20:15:52.930530+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-11T05:14:17.257994+00:00",
       "version": 2,
@@ -11894,6 +11889,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-21T18:24:30.383318+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12059,9 +12112,82 @@
     "948b58639da871c2",
     "0e04c1ba81964a3a",
     "4531f169e9709805",
-    "f8647857fa3d7647"
+    "f8647857fa3d7647",
+    "c056375cc711463e"
   ],
   "entity_memory": {
+    "resident evil": {
+      "count": 2,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "hollywood": {
+      "count": 3,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "zach cregger": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "grossed more": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "its opening weekend": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "than": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first film made": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "its entire run": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "weapons": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "barbarian": {
+      "count": 1,
+      "last_seen": "2026-09-21T18:24:30.383227+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "marvel": {
       "count": 2,
       "last_seen": "2026-09-21T15:37:22.265467+00:00",
@@ -12470,13 +12596,6 @@
       "last_seen": "2026-09-20T16:39:02.676509+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "resident evil": {
-      "count": 1,
-      "last_seen": "2026-09-20T13:25:34.758954+00:00",
-      "categories": [
-        "box_office"
       ]
     },
     "sets franchise box": {
@@ -13181,14 +13300,6 @@
       "count": 1,
       "last_seen": "2026-09-18T13:05:02.778461+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 2,
-      "last_seen": "2026-09-18T09:07:51.113827+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -14827,62 +14938,6 @@
     "portrays female friendship": {
       "count": 1,
       "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "grief": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "memory set": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sicily": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mount etna reaping": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "italian": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "platform": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "english": {
-      "count": 1,
-      "last_seen": "2026-09-13T13:05:09.053749+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seth rogen says": {
-      "count": 1,
-      "last_seen": "2026-09-13T05:13:51.935113+00:00",
       "categories": [
         "movie_news"
       ]
