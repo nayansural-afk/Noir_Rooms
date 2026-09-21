@@ -8321,6 +8321,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "54fc5846275074d87f62dc59",
+      "story_id": "4531f169e9709805",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
+      "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "sean hogan",
+        "the dark gets",
+        "boarded",
+        "worldwide sales",
+        "blue finch films",
+        "ahead",
+        "beyond fest bow",
+        "beyond fest"
+      ],
+      "hook": "سینمای تاریک: «The Dark Gets In» در فستیوال Beyond Fest",
+      "hooks": [
+        "دستگاه‌های مستند درگیر رازهای تاریک",
+        "Blue Finch Films برنده حقوق فروش جهانی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Blue Finch Films has boarded worldwide sales rights",
+        "Film will premiere at Beyond Fest"
+      ],
+      "status": "published",
+      "telegram_message_id": 168,
+      "published_at": "2026-09-21T10:32:58.698676+00:00",
+      "text": "سینمای تاریک: «The Dark Gets In» در فستیوال Beyond Fest\n\n🎬 Blue Finch Films، فروش جهانی «The Dark Gets In» را به دست می‌آورد\n\nسینمای ترسناک «The Dark Gets In»، کارگردان Sean Hogan، در فستیوال Beyond Fest در این ماه به نمایش می‌رسد.\nداستان دربارهٔ یک گروه مستند که در جستجوی گم‌شدن یک دختر جوان می‌گردند و در نهایت در تاریکی‌های عجیبی گرفتار می‌شوند.\n\n📌 نکات مهم:\n• Blue Finch Films برنده حقوق فروش جهانی فیلم «The Dark Gets In»\n• فیلم در فستیوال Beyond Fest در این ماه نمایش داده می‌شود\n• کارگردان فیلم Sean Hogan\n• داستان دربارهٔ مستند و گم‌شدن دختر\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8485,7 +8535,8 @@
     "d5cbcc416496f3688322a7ad",
     "6d15a7b3555551a2b70235f4",
     "869f396fb15a2a832c3d98b5",
-    "2ff0a8ad4e7d0e4a773256de"
+    "2ff0a8ad4e7d0e4a773256de",
+    "54fc5846275074d87f62dc59"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8649,11 +8700,12 @@
     "https://www.thewrap.com/creative-content/movies/resident-evil-saturday-box-office",
     "https://deadline.com/2026/09/la-bola-negra-wins-oscar-predictive-toronto-film-festival-peoples-choice-award-1237108736",
     "https://variety.com/2026/film/global/kazakhstan-mugalim-ayana-nurdinova-premiere-san-sebastian-1236866627",
-    "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492"
+    "https://variety.com/2026/film/news/barry-keoghan-joseph-quinn-harris-dickinson-filming-beatles-biopic-1236870492",
+    "https://variety.com/2026/film/news/beyond-fest-dark-gets-in-sales-blue-finch-films-1236866861"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 83,
+      "published": 84,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8694,7 +8746,7 @@
       "published": 3
     },
     "10": {
-      "published": 3
+      "published": 4
     },
     "11": {
       "published": 6
@@ -8773,64 +8825,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-10T13:05:52.450458+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-10T17:05:28.275120+00:00",
       "version": 2,
@@ -11788,6 +11782,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-21T10:32:58.698791+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -11951,9 +12003,66 @@
     "cd32b4d200176fd9",
     "5799a1e569184a10",
     "948b58639da871c2",
-    "0e04c1ba81964a3a"
+    "0e04c1ba81964a3a",
+    "4531f169e9709805"
   ],
   "entity_memory": {
+    "sean hogan": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dark gets": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boarded": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "worldwide sales": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blue finch films": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ahead": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beyond fest bow": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beyond fest": {
+      "count": 1,
+      "last_seen": "2026-09-21T10:32:58.698712+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "barry keoghan": {
       "count": 1,
       "last_seen": "2026-09-20T22:20:55.720008+00:00",
@@ -14721,62 +14830,6 @@
       "last_seen": "2026-09-12T20:15:56.416814+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "woman unknown": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins golden lion": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "for best film": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "danish": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "golden lion": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "best film": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "world war two": {
-      "count": 1,
-      "last_seen": "2026-09-12T20:15:56.416814+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "being heumann": {
-      "count": 2,
-      "last_seen": "2026-09-12T17:04:43.526832+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
