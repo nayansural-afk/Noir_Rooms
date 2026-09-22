@@ -8735,6 +8735,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5d0829ba10e2e393b8a990d5",
+      "story_id": "43292e94991d8f06",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/digger-world-premiere-gallery",
+      "title": "‘Digger’ World Premiere Red Carpet Photos: Tom Cruise, Sandra Hüller, Riz Ahmed, Emma D’Arcy & More At London Premiere",
+      "category": "actors_directors",
+      "score": 71.76,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "tom cruise",
+        "digger",
+        "world premiere red",
+        "carpet photos",
+        "sandra",
+        "riz ahmed",
+        "emma",
+        "arcy",
+        "more at london",
+        "premiere london",
+        "alejandro",
+        "digger rockwell"
+      ],
+      "hook": "دوربین‌های برفک در لندن: کریس و همکاران",
+      "hooks": [
+        "کریس در برفک لندن",
+        "دوربین‌های برفک کریس و همکاران"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تام کریس در نقش دِیگر",
+        "کارگردان فیلم آلوخاندرو گونزالس ایناریتو"
+      ],
+      "status": "published",
+      "telegram_message_id": 176,
+      "published_at": "2026-09-22T19:58:52.026556+00:00",
+      "text": "دوربین‌های برفک در لندن: کریس و همکاران\n\n🎬 کریس در برفک لندن: «دِیگر» در پیش نمایش\n\nدر لندن، پیش نمایش جهانی فیلم «دِیگر» با حضور تام کریس، ساندرا هولر، ریز احمد و اما د'آرسی برگزار شد. این فیلم، کارگردان آلوخاندرو گونزالس ایناریتو، داستان مردی قدرتمند را دنبال می‌کند که باید خود را نجات‌دهنده بشناسد پیش از آنکه فاجعه‌ای او را به وجود آورد.\\n\\nکریس در نقش دِیگر را بازی می‌کند و در کنار ریز احمد و دیگر بازیگران، به دنبال اثبات نجات‌گرایی خود می‌رود.\n\n📌 نکات مهم:\n• پیش نمایش جهانی در لندن\n• کارگردان آلوخاندرو گونزالس ایناریتو\n• تام کریس در نقش دِیگر\n• رِیز احمد و ساندرا هولر حضور دارند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/digger-world-premiere-gallery",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8907,7 +8960,8 @@
     "69b1fb0ef5ff498044e5321c",
     "1a770070dbe202d592086ebc",
     "2510fa78d64d306840104389",
-    "7a7d2f35ed02bd9c19b666ac"
+    "7a7d2f35ed02bd9c19b666ac",
+    "5d0829ba10e2e393b8a990d5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9079,7 +9133,8 @@
     "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634",
     "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
     "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
-    "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189"
+    "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189",
+    "https://deadline.com/gallery/digger-world-premiere-gallery"
   ],
   "category_stats": {
     "movie_news": {
@@ -9089,7 +9144,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 62,
+      "published": 63,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9154,7 +9209,7 @@
       "published": 23
     },
     "19": {
-      "published": 3
+      "published": 4
     },
     "22": {
       "published": 4
@@ -9203,64 +9258,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-12T05:13:47.036713+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-12T09:08:04.696885+00:00",
       "version": 2,
@@ -12218,6 +12215,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-22T19:58:52.026671+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12389,9 +12444,94 @@
     "29e3123b2c7a358c",
     "994a8501bcea3054",
     "7f034044c428c828",
-    "5e06972fe2dc8373"
+    "5e06972fe2dc8373",
+    "43292e94991d8f06"
   ],
   "entity_memory": {
+    "tom cruise": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "digger": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "world premiere red": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "carpet photos": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sandra": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "riz ahmed": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emma": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "arcy": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "more at london": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "premiere london": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alejandro": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "digger rockwell": {
+      "count": 1,
+      "last_seen": "2026-09-22T19:58:52.026591+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "festival": {
       "count": 7,
       "last_seen": "2026-09-22T17:28:02.029189+00:00",
@@ -15128,90 +15268,6 @@
     "isrealis": {
       "count": 1,
       "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moveria film acquires": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "no money no": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "honey": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "documentary set for": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "imminent premiere at": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moveria film": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moveria": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mauricio": {
-      "count": 1,
-      "last_seen": "2026-09-14T17:04:33.490344+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brother": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "keeper": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "director ferit karahan": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "djinn wedding": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
       "categories": [
         "movie_news"
       ]
