@@ -8576,6 +8576,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1a770070dbe202d592086ebc",
+      "story_id": "994a8501bcea3054",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
+      "title": "Shadows of Beirut review – chaos and crisis as woman goes back to birth city in fractured Covid-era drama",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "shadows",
+        "beirut",
+        "covid",
+        "london",
+        "lebanon",
+        "this",
+        "bulgarian",
+        "mind",
+        "lana",
+        "tala calil",
+        "middle east",
+        "there"
+      ],
+      "hook": "سایه‌های بیروت: سفر درونی در بحران کرونا",
+      "hooks": [
+        "بیروت در تاریکی: فیلمی درگیر بحران کرونا",
+        "پرسپیکولار: مادر در بیروت، داستانی درگیر جنگ و کرونا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در دوران کووید-19 ساخته شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 173,
+      "published_at": "2026-09-22T09:44:51.045710+00:00",
+      "text": "سایه‌های بیروت: سفر درونی در بحران کرونا\n\n🎬 سایه‌های بیروت: درگیری درونی در دوران کرونا\n\nفیلم درباره‌ی مهاجر لندن است که برای دیدن پدر در حال مرگ به لبنان بازمی‌گردد. او در شهر بیروت، که درگیر جنگ و بحران کرونا است، با وضعیت ذهنی پریشان خود مواجه می‌شود.\n\nفیلم در دوران کووید-19 ساخته شد و بخش‌های آن در بیروت و استودیو بلغارستان فیلم‌برداری شد. ادیت شکسته فیلم، به‌نظر می‌رسد که وضعیت ذهنی پریشان شخصیت اصلی را منعکس می‌کند.\n\n📌 نکات مهم:\n• فیلم در دوران کووید-19 ساخته شد، بخش‌های آن در بیروت و استودیو بلغارستان فیلم‌برداری شد\n• شخصیت اصلی لانا (تلا کالیل) درگیر وضعیت ذهنی پریشان است و ادیت شکسته‌اش به این وضعیت اشاره دارد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8745,7 +8797,8 @@
     "04089915a94efd187a6b2f9c",
     "431a14b1f1299be220dd2b88",
     "2758a493361a954574b71bde",
-    "69b1fb0ef5ff498044e5321c"
+    "69b1fb0ef5ff498044e5321c",
+    "1a770070dbe202d592086ebc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -8914,11 +8967,12 @@
     "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
     "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930",
     "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962",
-    "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634"
+    "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634",
+    "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 87,
+      "published": 88,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -8998,7 +9052,7 @@
       "published": 2
     },
     "9": {
-      "published": 23
+      "published": 24
     },
     "6": {
       "published": 1
@@ -9038,64 +9092,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-11T13:05:08.414044+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-11T17:04:41.925321+00:00",
       "version": 2,
@@ -12053,6 +12049,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-22T09:44:51.045813+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12221,9 +12275,97 @@
     "f8647857fa3d7647",
     "c056375cc711463e",
     "4cb4cc9ed18d957e",
-    "29e3123b2c7a358c"
+    "29e3123b2c7a358c",
+    "994a8501bcea3054"
   ],
   "entity_memory": {
+    "there": {
+      "count": 3,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 7,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "this": {
+      "count": 4,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "shadows": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beirut": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "covid": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lebanon": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bulgarian": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mind": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lana": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tala calil": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "middle east": {
+      "count": 1,
+      "last_seen": "2026-09-22T09:44:51.045739+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "paramount": {
       "count": 2,
       "last_seen": "2026-09-21T23:09:33.619153+00:00",
@@ -13558,14 +13700,6 @@
         "movie_news"
       ]
     },
-    "there": {
-      "count": 2,
-      "last_seen": "2026-09-18T09:07:51.113827+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "best": {
       "count": 1,
       "last_seen": "2026-09-18T09:07:51.113827+00:00",
@@ -14260,14 +14394,6 @@
         "movie_news"
       ]
     },
-    "london": {
-      "count": 6,
-      "last_seen": "2026-09-16T05:14:16.396357+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "sense and sensibility": {
       "count": 1,
       "last_seen": "2026-09-16T05:14:16.396357+00:00",
@@ -14524,14 +14650,6 @@
       "count": 2,
       "last_seen": "2026-09-15T09:10:30.403947+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
-      "count": 3,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -14983,69 +15101,6 @@
       "last_seen": "2026-09-14T05:14:39.106785+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "go will they": {
-      "count": 1,
-      "last_seen": "2026-09-14T05:14:39.106785+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "miss me": {
-      "count": 1,
-      "last_seen": "2026-09-14T05:14:39.106785+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "american doctor": {
-      "count": 1,
-      "last_seen": "2026-09-14T05:14:39.106785+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "late": {
-      "count": 1,
-      "last_seen": "2026-09-14T05:14:39.106785+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "toronto": {
-      "count": 2,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trash mountain": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "caleb hearon": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "missouri": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "awkwardly": {
-      "count": 1,
-      "last_seen": "2026-09-13T20:16:18.948599+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
