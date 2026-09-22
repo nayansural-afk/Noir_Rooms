@@ -8682,6 +8682,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7a7d2f35ed02bd9c19b666ac",
+      "story_id": "5e06972fe2dc8373",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189",
+      "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "el sol",
+        "launches",
+        "festival with",
+        "title",
+        "lovers go home",
+        "colombia",
+        "federico",
+        "rhayuela films",
+        "alias",
+        "san sebastian film",
+        "festival",
+        "directed"
+      ],
+      "hook": "فروشگاه فیلم جدید در جشنواره سان سیباستین رونق می‌گیرد",
+      "hooks": [
+        "فروشگاه فیلم جدید در جشنواره سان سیباستین رونق می‌گیرد",
+        "El Sol Ermitaño در جشنواره رونق می‌یابد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "El Sol Ermitaño در جشنواره سان سیباستین راه‌اندازی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 175,
+      "published_at": "2026-09-22T17:28:02.029156+00:00",
+      "text": "فروشگاه فیلم جدید در جشنواره سان سیباستین رونق می‌گیرد\n\n🎬 El Sol Ermitaño در جشنواره سان سیباستین رونق می‌یابد\n\nEl Sol Ermitaño، شرکت جدید فدریکو دوران، در جشنواره سان سیباستین رونق می‌یابد. فیلم «Lovers Go Home»، کارگردانی خوان ساباستین مِسا، در برنامه WIP LatAm حضور دارد.\n\n📌 نکات مهم:\n• El Sol Ermitaño در جشنواره سان سیباستین راه‌اندازی شد\n• فیلم «Lovers Go Home» توسط Juan Sebastián Mesa کارگردانی شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -8853,7 +8906,8 @@
     "2758a493361a954574b71bde",
     "69b1fb0ef5ff498044e5321c",
     "1a770070dbe202d592086ebc",
-    "2510fa78d64d306840104389"
+    "2510fa78d64d306840104389",
+    "7a7d2f35ed02bd9c19b666ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9024,11 +9078,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962",
     "https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634",
     "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
-    "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood"
+    "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
+    "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 88,
+      "published": 89,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9126,7 +9181,7 @@
       "published": 23
     },
     "17": {
-      "published": 21
+      "published": 22
     },
     "12": {
       "published": 1
@@ -9148,64 +9203,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-11T20:17:12.906937+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-12T05:13:47.036713+00:00",
       "version": 2,
@@ -12163,6 +12160,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-22T17:28:02.029264+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12333,9 +12388,94 @@
     "4cb4cc9ed18d957e",
     "29e3123b2c7a358c",
     "994a8501bcea3054",
-    "7f034044c428c828"
+    "7f034044c428c828",
+    "5e06972fe2dc8373"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 7,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "el sol": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "launches": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival with": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "title": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lovers go home": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "colombia": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "federico": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rhayuela films": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alias": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "san sebastian film": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "directed": {
+      "count": 1,
+      "last_seen": "2026-09-22T17:28:02.029189+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "heresy": {
       "count": 1,
       "last_seen": "2026-09-22T13:52:03.395183+00:00",
@@ -13420,13 +13560,6 @@
     "doll": {
       "count": 1,
       "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 6,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
       "categories": [
         "movie_news"
       ]
@@ -15079,83 +15212,6 @@
     "djinn wedding": {
       "count": 1,
       "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asks": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "person who refuses": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "acknowledge their own": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "darkness ever truly": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "change their fate": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cinlerin": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ferit karahan": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the fall from": {
-      "count": 1,
-      "last_seen": "2026-09-14T13:08:29.862055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "friday": {
-      "count": 2,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sexy beast": {
-      "count": 1,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bernardo bertolucci": {
-      "count": 1,
-      "last_seen": "2026-09-14T09:09:54.308055+00:00",
       "categories": [
         "movie_news"
       ]
