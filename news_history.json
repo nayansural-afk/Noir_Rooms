@@ -8938,6 +8938,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f7ed4abc6eae89f846515166",
+      "story_id": "d42d8b39af3e27b3",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147",
+      "title": "John Cassavetes Practically Invented the American Independent Film, but Some of His Best Movies Were Made for Studios",
+      "category": "movie_news",
+      "score": 76.65,
+      "freshness": 100.0,
+      "credibility": 90.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "john cassavetes practically",
+        "invented",
+        "american independent film",
+        "some",
+        "his best movies",
+        "were made",
+        "studios half",
+        "minnie",
+        "moskowitz",
+        "new beverly"
+      ],
+      "hook": "جان کاساویس: بنیان‌گذار فیلم مستقل آمریکایی",
+      "hooks": [
+        "فیلم‌های مستقل و استودیویی جان کاساویس",
+        "نصف آثار او توسط استودیوهای بزرگ پشتیبانی شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جان کاساویس به‌طور عملی فیلم مستقل آمریکایی را اختراع کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 180,
+      "published_at": "2026-09-23T17:37:34.698311+00:00",
+      "text": "جان کاساویس: بنیان‌گذار فیلم مستقل آمریکایی\n\n🎬 جان کاساویس: خالق فیلم مستقل آمریکایی و کارگردان استودیویی\n\nجان کاساویس، کارگردان برجستهٔ سینمای مستقل، به‌طور عملی فیلم مستقل آمریکایی را اختراع کرد.\nنصف آثار او، از جمله «Minnie and Moskowitz»، توسط استودیوهای بزرگ تأمین مالی و توزیع شد و همچنان بی‌تجدد باقی مانده‌اند.\n\n📌 نکات مهم:\n• نصف آثار او توسط استودیوهای بزرگ تأمین مالی و توزیع شد\n• فیلم «Minnie and Moskowitz» در هفتهٔ آینده در New Beverly نمایش داده می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9114,7 +9164,8 @@
     "5d0829ba10e2e393b8a990d5",
     "9cebc04c533610be1670b9bc",
     "a003040f087d5ea7afdc30d1",
-    "5dbf14773f48f532ebce737b"
+    "5dbf14773f48f532ebce737b",
+    "f7ed4abc6eae89f846515166"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9290,11 +9341,12 @@
     "https://deadline.com/gallery/digger-world-premiere-gallery",
     "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
     "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
-    "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic"
+    "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
+    "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 91,
+      "published": 92,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9392,7 +9444,7 @@
       "published": 23
     },
     "17": {
-      "published": 22
+      "published": 23
     },
     "12": {
       "published": 1
@@ -9414,64 +9466,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-12T20:15:56.416888+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-13T05:13:51.935184+00:00",
       "version": 2,
@@ -12429,6 +12423,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-23T17:37:34.698405+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12604,9 +12656,80 @@
     "43292e94991d8f06",
     "67510a756510804d",
     "3424048749a9904f",
-    "daedcf96f1dd74f9"
+    "daedcf96f1dd74f9",
+    "d42d8b39af3e27b3"
   ],
   "entity_memory": {
+    "john cassavetes practically": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "invented": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american independent film": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "some": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "his best movies": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "were made": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studios half": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "minnie": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "moskowitz": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new beverly": {
+      "count": 1,
+      "last_seen": "2026-09-23T17:37:34.698341+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "boorman": {
       "count": 1,
       "last_seen": "2026-09-23T14:02:55.525199+00:00",
@@ -15355,76 +15478,6 @@
     "names": {
       "count": 1,
       "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drifter": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "centerpiece": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the hawai": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "international film festival": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "halekulani": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jordan manley": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatre center": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "premature": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kevin walls": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eilidh": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
       "categories": [
         "movie_news"
       ]
