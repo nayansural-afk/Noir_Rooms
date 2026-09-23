@@ -8836,6 +8836,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a003040f087d5ea7afdc30d1",
+      "story_id": "3424048749a9904f",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
+      "title": "Kit Harington Explains Why He Was ‘Fully Supportive’ of HBO’s ‘Harry Potter’ Series Before Gilderoy Lockhart Casting",
+      "category": "actors_directors",
+      "score": 63.94,
+      "freshness": 92.0,
+      "credibility": 84.0,
+      "audience_interest": 73.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": false,
+      "entities": [
+        "harry potter",
+        "hbo",
+        "kit harington explains",
+        "why he was",
+        "fully supportive",
+        "series before gilderoy",
+        "lockhart casting the",
+        "game",
+        "thrones",
+        "lockhart casting"
+      ],
+      "hook": "کیت هارینگتون: چرا از سریال هری پاتر حمایت کرد؟",
+      "hooks": [
+        "حمایت کیت هارینگتون از هری پاتر پیش از نقش لوکارت",
+        "کیت هارینگتون درباره حمایت خود از سریال هری پاتر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کیت هارینگتون در مصاحبه به حمایت خود از سریال هری پاتر اشاره کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 178,
+      "published_at": "2026-09-23T09:49:59.124574+00:00",
+      "text": "کیت هارینگتون: چرا از سریال هری پاتر حمایت کرد؟\n\n🎬 کیت هارینگتون: حمایت کامل از سریال هری پاتر قبل از نقش لوکارت\n\nکیت هارینگتون، بازیگر بازی‌های Game of Thrones، در مصاحبه‌ای به حمایت کامل خود از سریال هری پاتر HBO اشاره کرد. او اعلام کرد که پیش از انتخابش برای نقش Gilderoy Lockhart، از این پروژه حمایت می‌کرد و در فصل دوم سریال به بازی می‌پیوندد.\n\n📌 نکات مهم:\n• کیت هارینگتون بازیگر بازی‌های Game of Thrones\n• حمایت او از سریال هری پاتر HBO قبل از نقش Gilderoy Lockhart\n• او در فصل دوم سریال به بازی می‌پیوندد\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9010,7 +9060,8 @@
     "2510fa78d64d306840104389",
     "7a7d2f35ed02bd9c19b666ac",
     "5d0829ba10e2e393b8a990d5",
-    "9cebc04c533610be1670b9bc"
+    "9cebc04c533610be1670b9bc",
+    "a003040f087d5ea7afdc30d1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9184,7 +9235,8 @@
     "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
     "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189",
     "https://deadline.com/gallery/digger-world-premiere-gallery",
-    "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival"
+    "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
+    "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series"
   ],
   "category_stats": {
     "movie_news": {
@@ -9194,7 +9246,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 63,
+      "published": 64,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9268,7 +9320,7 @@
       "published": 2
     },
     "9": {
-      "published": 24
+      "published": 25
     },
     "6": {
       "published": 1
@@ -9308,64 +9360,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-12T13:04:54.147870+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Michelle Pfeiffer Clarifies She “Never Said” She’s Retiring: “The Most Ridiculous Thing”",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-12T17:04:43.526906+00:00",
       "version": 2,
@@ -12323,6 +12317,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-23T09:49:59.124686+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12496,9 +12548,80 @@
     "7f034044c428c828",
     "5e06972fe2dc8373",
     "43292e94991d8f06",
-    "67510a756510804d"
+    "67510a756510804d",
+    "3424048749a9904f"
   ],
   "entity_memory": {
+    "harry potter": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kit harington explains": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "why he was": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fully supportive": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series before gilderoy": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lockhart casting the": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "game": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thrones": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lockhart casting": {
+      "count": 1,
+      "last_seen": "2026-09-23T09:49:59.124609+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 18,
       "last_seen": "2026-09-22T22:51:39.500310+00:00",
@@ -15247,78 +15370,6 @@
     "gerald thomas": {
       "count": 1,
       "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carry on": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice": {
-      "count": 11,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
-      ]
-    },
-    "tel aviv": {
-      "count": 3,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 2,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yuval abraham": {
-      "count": 2,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gaza": {
-      "count": 2,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israelis": {
-      "count": 1,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shot": {
-      "count": 1,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israel": {
-      "count": 1,
-      "last_seen": "2026-09-14T20:17:21.101410+00:00",
       "categories": [
         "movie_news"
       ]
