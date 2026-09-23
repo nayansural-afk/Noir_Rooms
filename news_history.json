@@ -8988,6 +8988,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d123a3ed5f1757cef22f33e2",
+      "story_id": "cf1b68c954d372d6",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564",
+      "title": "Dick Guttman, Renowned Hollywood Publicist to Stars Including Barbra Streisand, Jay Leno and Clint Eastwood, Dies at 93",
+      "category": "actors_directors",
+      "score": 64.12,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "dick guttman",
+        "renowned hollywood publicist",
+        "stars including barbra",
+        "streisand",
+        "jay leno",
+        "clint eastwood",
+        "dies",
+        "hollywood",
+        "barbra streisand",
+        "sept",
+        "los altos",
+        "calif"
+      ],
+      "hook": "دیک گوتمن، ستاره‌ی پشت صحنه‌ی هالیوود، درگذشت",
+      "hooks": [
+        "پرسنل هالیوود: دیک گوتمن، ۹۳ ساله، درگذشت",
+        "دیک گوتمن، نماینده‌ی ستارگان هالیوود، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دیک گوتمن در تاریخ ۱۹ سپتامبر در لس‌آلتوس، کالیفرنیا درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 181,
+      "published_at": "2026-09-23T19:55:24.900579+00:00",
+      "text": "دیک گوتمن، ستاره‌ی پشت صحنه‌ی هالیوود، درگذشت\n\n🎬 دیک گوتمن، متخصص تبلیغات هالیوود، درگذشت\n\nدیک گوتمن، کارشناس تبلیغات و نویسنده‌ی فیلم، در تاریخ ۱۹ سپتامبر در لس‌آلتوس، کالیفرنیا، درگذشت. او ۹۳ ساله بود و در طول دوران حرفه‌ای خود با ستارگان برجسته‌ای همچون باربرا استریند، کلینت استوود و جی لنو همکاری داشت.\nگوتمن در شرکت‌های Rogers & Cowan و شرکت‌های شخصی خود، Guttman and Pam و Guttman Associates فعالیت می‌کرد و به عنوان نماینده‌ی هالیوود، نقش مهمی در شکل‌گیری تصویر عمومی این ستارگان ایفا می‌کرد.\n\n📌 نکات مهم:\n• دیک گوتمن در سن ۹۳ سالگی درگذشت\n• او با باربرا استریند، کلینت استوود و جی لنو همکاری داشت\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9165,7 +9218,8 @@
     "9cebc04c533610be1670b9bc",
     "a003040f087d5ea7afdc30d1",
     "5dbf14773f48f532ebce737b",
-    "f7ed4abc6eae89f846515166"
+    "f7ed4abc6eae89f846515166",
+    "d123a3ed5f1757cef22f33e2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9342,7 +9396,8 @@
     "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
     "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
     "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
-    "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147"
+    "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147",
+    "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564"
   ],
   "category_stats": {
     "movie_news": {
@@ -9352,7 +9407,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 64,
+      "published": 65,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9417,7 +9472,7 @@
       "published": 23
     },
     "19": {
-      "published": 4
+      "published": 5
     },
     "22": {
       "published": 5
@@ -9466,64 +9521,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-13T05:13:51.935184+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-13T13:05:09.053827+00:00",
       "version": 2,
@@ -12481,6 +12478,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-23T19:55:24.900653+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12657,9 +12712,96 @@
     "67510a756510804d",
     "3424048749a9904f",
     "daedcf96f1dd74f9",
-    "d42d8b39af3e27b3"
+    "d42d8b39af3e27b3",
+    "cf1b68c954d372d6"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 3,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hollywood": {
+      "count": 4,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "sept": {
+      "count": 2,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "dick guttman": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "renowned hollywood publicist": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stars including barbra": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "streisand": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jay leno": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "clint eastwood": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "barbra streisand": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "los altos": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "calif": {
+      "count": 1,
+      "last_seen": "2026-09-23T19:55:24.900599+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "john cassavetes practically": {
       "count": 1,
       "last_seen": "2026-09-23T17:37:34.698341+00:00",
@@ -13366,13 +13508,6 @@
         "movie_news"
       ]
     },
-    "dies": {
-      "count": 2,
-      "last_seen": "2026-09-21T20:43:20.730576+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "anjanette comer": {
       "count": 1,
       "last_seen": "2026-09-21T20:43:20.730576+00:00",
@@ -13441,14 +13576,6 @@
       "last_seen": "2026-09-21T18:24:30.383227+00:00",
       "categories": [
         "box_office",
-        "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 3,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -13783,13 +13910,6 @@
       ]
     },
     "new directors": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sept": {
       "count": 1,
       "last_seen": "2026-09-20T19:12:13.956019+00:00",
       "categories": [
@@ -15417,69 +15537,6 @@
       "last_seen": "2026-09-15T17:05:00.712234+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "sole performer": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "forgotten island": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "audiobook": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "exclusive the": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "animation": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hawai": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "open with": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the navigator": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "names": {
-      "count": 1,
-      "last_seen": "2026-09-15T13:06:44.904824+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
