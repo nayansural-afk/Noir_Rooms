@@ -9041,6 +9041,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d5e5bb6c9e1a8ae6d949d598",
+      "story_id": "ce238ea259cf4ef1",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/the-great-experiment-trailer-1237111776",
+      "title": "‘The Great Experiment’ Trailer: Directors Stephen Maing And Eric Daniel Metzgar Document America At Crucial Moment Of Division",
+      "category": "actors_directors",
+      "score": 80.82,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "the great experiment",
+        "trailer",
+        "directors stephen maing",
+        "and eric daniel",
+        "metzgar document america",
+        "at crucial moment",
+        "of division",
+        "president lincoln",
+        "bible",
+        "america",
+        "stephen maing",
+        "eric daniel metzgar"
+      ],
+      "hook": "سینمایی که در دل تقسیمات آمریکا می‌سازد",
+      "hooks": [
+        "سینمایی که تاریخ را در لحظه‌های تقسیم بازگو می‌کند",
+        "سینمایی که صدای لیندن را در زمان امروز می‌شنویم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند به بررسی لحظه‌های بحرانی تقسیم آمریکا می‌پردازد"
+      ],
+      "status": "published",
+      "telegram_message_id": 182,
+      "published_at": "2026-09-23T22:52:25.400329+00:00",
+      "text": "سینمایی که در دل تقسیمات آمریکا می‌سازد\n\n🎬 سینمایی جدید: «تجربه بزرگ»، مستندی دربارهٔ تقسیم آمریکا\n\nمستند «تجربه بزرگ» با همکاری دو کارگردان، استیفن مین و اریک دانیل متزگار، به بررسی لحظه‌های بحرانی تقسیم آمریکا می‌پردازد.\nاین مستند با نقل قولی از رئیس‌جمهور لینکلن، که دربارهٔ خانه‌ای تقسیم‌شده هشدار داد، به صحنه‌های امروز می‌پیوندد و نشان می‌دهد چگونه این پیام هنوز زنده است.\n\n📌 نکات مهم:\n• مستند «تجربه بزرگ» توسط استیفن مین و اریک دانیل متزگار ساخته شده است\n• مستند به بررسی لحظه‌های بحرانی تقسیم آمریکا و نقل قول رئیس‌جمهور لینکلن می‌پردازد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/the-great-experiment-trailer-1237111776",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9219,7 +9272,8 @@
     "a003040f087d5ea7afdc30d1",
     "5dbf14773f48f532ebce737b",
     "f7ed4abc6eae89f846515166",
-    "d123a3ed5f1757cef22f33e2"
+    "d123a3ed5f1757cef22f33e2",
+    "d5e5bb6c9e1a8ae6d949d598"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9397,7 +9451,8 @@
     "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
     "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
     "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147",
-    "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564"
+    "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564",
+    "https://deadline.com/2026/09/the-great-experiment-trailer-1237111776"
   ],
   "category_stats": {
     "movie_news": {
@@ -9407,7 +9462,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 65,
+      "published": 66,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9475,7 +9530,7 @@
       "published": 5
     },
     "22": {
-      "published": 5
+      "published": 6
     },
     "7": {
       "published": 2
@@ -9521,64 +9576,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-13T13:05:09.053827+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-13T17:05:03.313273+00:00",
       "version": 2,
@@ -12536,6 +12533,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-23T22:52:25.400443+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12713,9 +12768,94 @@
     "3424048749a9904f",
     "daedcf96f1dd74f9",
     "d42d8b39af3e27b3",
-    "cf1b68c954d372d6"
+    "cf1b68c954d372d6",
+    "ce238ea259cf4ef1"
   ],
   "entity_memory": {
+    "the great experiment": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "trailer": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "directors stephen maing": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "and eric daniel": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "metzgar document america": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "at crucial moment": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "of division": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "president lincoln": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bible": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "america": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stephen maing": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eric daniel metzgar": {
+      "count": 1,
+      "last_seen": "2026-09-23T22:52:25.400364+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 3,
       "last_seen": "2026-09-23T19:55:24.900599+00:00",
@@ -15453,90 +15593,6 @@
       "last_seen": "2026-09-16T05:14:16.396357+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "sense": {
-      "count": 1,
-      "last_seen": "2026-09-16T05:14:16.396357+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sensibility": {
-      "count": 1,
-      "last_seen": "2026-09-16T05:14:16.396357+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "luxe leicester square": {
-      "count": 1,
-      "last_seen": "2026-09-16T05:14:16.396357+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pride": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "prejudice": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "series sets release": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "date": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "drops first": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "look photos": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "news roundup": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "darcy": {
-      "count": 1,
-      "last_seen": "2026-09-15T20:17:10.460739+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "jennifer aquino cast": {
-      "count": 1,
-      "last_seen": "2026-09-15T17:05:00.712234+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
