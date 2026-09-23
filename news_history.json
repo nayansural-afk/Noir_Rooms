@@ -8886,6 +8886,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5dbf14773f48f532ebce737b",
+      "story_id": "daedcf96f1dd74f9",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
+      "title": "Boorman and the Devil review – enjoyable re-evaluation of the disaster that was Exorcist II: The Heretic",
+      "category": "movie_news",
+      "score": 77.2,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "boorman",
+        "devil",
+        "exorcist",
+        "the heretic john",
+        "the exorcist",
+        "david kittredge",
+        "john boorman",
+        "the heretic",
+        "steadicam",
+        "linda blair",
+        "sydow",
+        "richard burton"
+      ],
+      "hook": "بازنگری جذاب بر فاجعه Exorcist II: The Heretic",
+      "hooks": [
+        "Exorcist II: یک فاجعه با دیدی نو",
+        "جالب‌ترین بازنگری در تاریخ Exorcist II"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Exorcist II: The Heretic به‌عنوان یک فیلم بصری برجسته و پیشگام در استفاده از Steadicam شناخته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 179,
+      "published_at": "2026-09-23T14:02:55.525169+00:00",
+      "text": "بازنگری جذاب بر فاجعه Exorcist II: The Heretic\n\n🎬 بازنگری بر Exorcist II: The Heretic – یک فاجعه با دیدی نو\n\nجان بورمن در این بازنگری، تجربه‌ی مرموز ساخت ادامه‌ی 1973 Exorcist را به تصویر می‌کشد. دایوید کیترج، با دیدی لذت‌بخش، به جزئیات فاجعه‌ی 1977 Exorcist II: The Heretic می‌پردازد.\n\n📌 نکات مهم:\n• Exorcist II: The Heretic (1977) ادامه‌ی 1973 Exorcist بود و به‌سرعت مورد انتقاد قرار گرفت\n• فیلم با استفاده پیشگامانه از Steadicam و بازی‌های لِیندِ بلی، ماکس فون سایدو، ریچارد برتون و لوییس فِلِکتر به نمایش درآمد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9061,7 +9113,8 @@
     "7a7d2f35ed02bd9c19b666ac",
     "5d0829ba10e2e393b8a990d5",
     "9cebc04c533610be1670b9bc",
-    "a003040f087d5ea7afdc30d1"
+    "a003040f087d5ea7afdc30d1",
+    "5dbf14773f48f532ebce737b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9236,11 +9289,12 @@
     "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189",
     "https://deadline.com/gallery/digger-world-premiere-gallery",
     "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
-    "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series"
+    "https://www.thewrap.com/creative-content/tv-shows/kit-harington-fully-supportive-hbo-harry-potter-series",
+    "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 90,
+      "published": 91,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9287,7 +9341,7 @@
       "published": 6
     },
     "14": {
-      "published": 2
+      "published": 3
     },
     "16": {
       "published": 5
@@ -9360,64 +9414,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-12T17:04:43.526906+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-12T20:15:56.416888+00:00",
       "version": 2,
@@ -12375,6 +12371,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-23T14:02:55.525269+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12549,9 +12603,94 @@
     "5e06972fe2dc8373",
     "43292e94991d8f06",
     "67510a756510804d",
-    "3424048749a9904f"
+    "3424048749a9904f",
+    "daedcf96f1dd74f9"
   ],
   "entity_memory": {
+    "boorman": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "devil": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exorcist": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the heretic john": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the exorcist": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "david kittredge": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john boorman": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the heretic": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "steadicam": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "linda blair": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sydow": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "richard burton": {
+      "count": 1,
+      "last_seen": "2026-09-23T14:02:55.525199+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "harry potter": {
       "count": 1,
       "last_seen": "2026-09-23T09:49:59.124609+00:00",
@@ -15286,90 +15425,6 @@
     "eilidh": {
       "count": 1,
       "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cameron": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scottish": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elle watson": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james rottger": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "walls": {
-      "count": 1,
-      "last_seen": "2026-09-15T09:10:30.403947+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy thomas": {
-      "count": 2,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the last emperor": {
-      "count": 2,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thomas": {
-      "count": 2,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "oscar asked": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ralph thomas": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doctor": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gerald thomas": {
-      "count": 1,
-      "last_seen": "2026-09-15T05:15:16.022199+00:00",
       "categories": [
         "movie_news"
       ]
