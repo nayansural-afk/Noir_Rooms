@@ -9305,6 +9305,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ec75a820ae8f014571a74dc8",
+      "story_id": "3001f11be6281b4b",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520",
+      "title": "‘Fake Skating’ Feature Adaptation At Sony Taps Amélie Hoeferle and Graham Campbell To Star",
+      "category": "actors_directors",
+      "score": 79.69,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "fake skating",
+        "feature adaptation at",
+        "sony taps",
+        "hoeferle",
+        "graham campbell to",
+        "star",
+        "sony pictures",
+        "will gluck",
+        "olive bridge entertainment",
+        "graham campbell",
+        "lynn painter",
+        "new york times"
+      ],
+      "hook": "سینمای جدید با بازی‌های تازه در 'فیک اسکیتینگ'",
+      "hooks": [
+        "آملیه هوفرل و گراهام کالبن در نقش‌های اصلی",
+        "فیلم بر اساس کتاب برنده جایزه نیویورک تایمز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سونی پیکچرز در تولید فیلم مشارکت دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 187,
+      "published_at": "2026-09-24T23:08:43.870621+00:00",
+      "text": "سینمای جدید با بازی‌های تازه در 'فیک اسکیتینگ'\n\n🎬 سونی و اویل بریج: بازیگران جدید در فیلم 'فیک اسکیتینگ'\n\nسونی پیکچرز و شرکت اویل بریج، در همکاری با ویلی گلوک، بازیگران جدیدی را برای فیلم 'فیک اسکیتینگ' انتخاب کرده‌اند.\nاین فیلم بر اساس کتاب برنده جایزه نیویورک تایمز اثر لین پینتر ساخته می‌شود و کارگردان آن جاش بون است.\n\n📌 نکات مهم:\n• سونی پیکچرز و اویل بریج در تولید فیلم مشارکت دارند\n• آملیه هوفرل و گراهام کالبن در نقش‌های اصلی بازی می‌کنند\n• فیلم بر اساس کتاب برنده جایزه نیویورک تایمز اثر لین پینتر است\n• کارگردان فیلم جاش بون است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9488,7 +9541,8 @@
     "832c7a7ee1377d6155a336e5",
     "e41f55c01b445652ad162a42",
     "f5f5ff15aefe67b7f7d924ba",
-    "f0f3b52116b47c03ec5ae9e0"
+    "f0f3b52116b47c03ec5ae9e0",
+    "ec75a820ae8f014571a74dc8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9671,7 +9725,8 @@
     "https://deadline.com/2026/09/the-love-hypothesis-soundtrack-songs-prime-video-movie-1237111373",
     "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340",
     "https://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667",
-    "https://deadline.com/2026/09/saw-new-movie-mike-p-nelson-directing-1237112899"
+    "https://deadline.com/2026/09/saw-new-movie-mike-p-nelson-directing-1237112899",
+    "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520"
   ],
   "category_stats": {
     "movie_news": {
@@ -9681,7 +9736,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 66,
+      "published": 67,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9737,7 +9792,7 @@
       "published": 8
     },
     "23": {
-      "published": 3
+      "published": 4
     },
     "3": {
       "published": 2
@@ -9795,64 +9850,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-14T13:08:29.862124+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-14T17:04:33.490417+00:00",
       "version": 2,
@@ -12810,6 +12807,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-24T23:08:43.870744+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12992,9 +13047,94 @@
     "e4939084afd62d76",
     "c2b6f383e473abd1",
     "d0133913e480c5c3",
-    "7611b795115f1d35"
+    "7611b795115f1d35",
+    "3001f11be6281b4b"
   ],
   "entity_memory": {
+    "sony pictures": {
+      "count": 2,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fake skating": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "feature adaptation at": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sony taps": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hoeferle": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "graham campbell to": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will gluck": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olive bridge entertainment": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "graham campbell": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lynn painter": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "new york times": {
+      "count": 1,
+      "last_seen": "2026-09-24T23:08:43.870651+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "new lionsgate": {
       "count": 1,
       "last_seen": "2026-09-24T20:13:42.843969+00:00",
@@ -15278,13 +15418,6 @@
         "actors_directors"
       ]
     },
-    "sony pictures": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "justin lin": {
       "count": 1,
       "last_seen": "2026-09-18T17:05:36.876516+00:00",
@@ -15737,83 +15870,6 @@
       "last_seen": "2026-09-17T13:07:12.844880+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "pingyao international film": {
-      "count": 1,
-      "last_seen": "2026-09-17T13:07:12.844880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fei mu": {
-      "count": 1,
-      "last_seen": "2026-09-17T13:07:12.844880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "good trip": {
-      "count": 1,
-      "last_seen": "2026-09-17T13:07:12.844880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "september": {
-      "count": 2,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rodney charters dies": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shameless": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cinematographer was": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rodney charters": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amsterdam": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "charters": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kiefer sutherland": {
-      "count": 1,
-      "last_seen": "2026-09-17T09:08:49.471728+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
