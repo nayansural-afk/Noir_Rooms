@@ -9145,6 +9145,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e41f55c01b445652ad162a42",
+      "story_id": "c2b6f383e473abd1",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340",
+      "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "deputy director unveils",
+        "sean connery doc",
+        "talks mission to",
+        "expand french company",
+        "international reach",
+        "scottish",
+        "sean connery",
+        "paris",
+        "titled sean connery",
+        "the untold story",
+        "french",
+        "renouvin"
+      ],
+      "hook": "مستند جدید شون کانری، نگاهی تازه به زندگی او",
+      "hooks": [
+        "سینمای فرانسوی CAPA با مستند شون کانری، در مسیر جهانی شدن",
+        "شون کانری در مستند جدید، رازهای نادیده کشف می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند در حال ساخت",
+        "کارگردان Stéphanie Renouvin"
+      ],
+      "status": "published",
+      "telegram_message_id": 184,
+      "published_at": "2026-09-24T13:59:18.013541+00:00",
+      "text": "مستند جدید شون کانری، نگاهی تازه به زندگی او\n\n🎬 CAPA مستند جدید شون کانری را معرفی می‌کند؛ گام به سوی جهانی شدن\n\nدر این مستند، به زندگی ستاره اسکاتلندی شون کانری پرداخته می‌شود. CAPA، شرکت تولید محتوا واقع در پاریس، این پروژه را در دست دارد. \nسینماژانر مستند توسط ژورنالیست و کارگردان فرانسوی Stéphanie Renouvin، نوه‌ی ... ساخته می‌شود. این مستند به دنبال گسترش دسترسی بین‌المللی CAPA است.\n\n📌 نکات مهم:\n• مستند در حال ساخت با عنوان Sean Connery: The Untold Story\n• کارگردان Stéphanie Renouvin، ژورنالیست و کاربر تلویزیون فرانسوی\n• CAPA، شرکت تولید محتوا واقع در پاریس\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم #مستند\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9325,7 +9379,8 @@
     "f7ed4abc6eae89f846515166",
     "d123a3ed5f1757cef22f33e2",
     "d5e5bb6c9e1a8ae6d949d598",
-    "832c7a7ee1377d6155a336e5"
+    "832c7a7ee1377d6155a336e5",
+    "e41f55c01b445652ad162a42"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9505,11 +9560,12 @@
     "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147",
     "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564",
     "https://deadline.com/2026/09/the-great-experiment-trailer-1237111776",
-    "https://deadline.com/2026/09/the-love-hypothesis-soundtrack-songs-prime-video-movie-1237111373"
+    "https://deadline.com/2026/09/the-love-hypothesis-soundtrack-songs-prime-video-movie-1237111373",
+    "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 93,
+      "published": 94,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9604,7 +9660,7 @@
       "published": 1
     },
     "13": {
-      "published": 23
+      "published": 24
     },
     "17": {
       "published": 23
@@ -9629,64 +9685,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-13T20:16:18.948671+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-14T05:14:39.106885+00:00",
       "version": 2,
@@ -12644,6 +12642,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-24T13:59:18.013642+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12823,9 +12879,95 @@
     "d42d8b39af3e27b3",
     "cf1b68c954d372d6",
     "ce238ea259cf4ef1",
-    "e4939084afd62d76"
+    "e4939084afd62d76",
+    "c2b6f383e473abd1"
   ],
   "entity_memory": {
+    "french": {
+      "count": 2,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paris": {
+      "count": 2,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "deputy director unveils": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sean connery doc": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "talks mission to": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "expand french company": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "international reach": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scottish": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sean connery": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "titled sean connery": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the untold story": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "renouvin": {
+      "count": 1,
+      "last_seen": "2026-09-24T13:59:18.013571+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "this": {
       "count": 5,
       "last_seen": "2026-09-24T09:47:35.361696+00:00",
@@ -13936,13 +14078,6 @@
       ]
     },
     "lisbon": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "french": {
       "count": 1,
       "last_seen": "2026-09-21T15:37:22.265467+00:00",
       "categories": [
@@ -15570,83 +15705,6 @@
       "last_seen": "2026-09-16T13:07:30.711181+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "dreams": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paris": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "oscars": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indonesia selects kamila": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andini": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "four seasons": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "java": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "international feature race": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indonesia": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kamila andini": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "empat musim pertiwi": {
-      "count": 1,
-      "last_seen": "2026-09-16T09:08:14.322781+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
