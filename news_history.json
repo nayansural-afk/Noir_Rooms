@@ -9199,6 +9199,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f5f5ff15aefe67b7f7d924ba",
+      "story_id": "d0133913e480c5c3",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667",
+      "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "alice kremelberg",
+        "matthew leone",
+        "christine taylor join",
+        "indie addiction drama",
+        "madison",
+        "the boroughs",
+        "atonement",
+        "christine taylor",
+        "the dink",
+        "east coast",
+        "marking",
+        "joe camara"
+      ],
+      "hook": "درام اعتیاد در سینمای مستقل، بازیگران برجسته در صحنه",
+      "hooks": [
+        "آلِس کریملبرگ، ماتیوت لئون و کریستین تیلور در 'مدیسن'",
+        "فیلم جدید جوی کامارا: اولین فیلم‌نامه‌نویس-کارگردان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آلِس کریملبرگ در 'مدیسن' نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 185,
+      "published_at": "2026-09-24T17:40:34.359158+00:00",
+      "text": "درام اعتیاد در سینمای مستقل، بازیگران برجسته در صحنه\n\n🎬 جوی کامارا با اولین فیلم‌نامه‌نویس-کارگردان، 'مدیسن' را به صحنه می‌آورد\n\nدر فیلم مستقل 'مدیسن' که در فصل زمستان در ساحل شرقی شروع به فیلمبرداری می‌کند، بازیگران برجسته‌ای چون آلِس کریملبرگ، ماتیوت لئون و کریستین تیلور حضور دارند.\n\nاین فیلم، اولین کارنامه‌ی کارگردان-نویس جوی کامارا است و داستان لُک (لاتون) را دنبال می‌کند، مردی که با اعتیاد، بدهی و زندگی دشوار دست و پنجه نرم می‌کند.\n\n📌 نکات مهم:\n• آلِس کریملبرگ، ماتیوت لئون و کریستین تیلور در 'مدیسن'\n• فیلم مستقل با شروع فیلمبرداری در ساحل شرقی این زمستان\n• جوی کامارا، اولین کارنامه‌نویس-کارگردان\n• داستان لُک با اعتیاد، بدهی و زندگی دشوار\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9380,7 +9433,8 @@
     "d123a3ed5f1757cef22f33e2",
     "d5e5bb6c9e1a8ae6d949d598",
     "832c7a7ee1377d6155a336e5",
-    "e41f55c01b445652ad162a42"
+    "e41f55c01b445652ad162a42",
+    "f5f5ff15aefe67b7f7d924ba"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9561,11 +9615,12 @@
     "https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564",
     "https://deadline.com/2026/09/the-great-experiment-trailer-1237111776",
     "https://deadline.com/2026/09/the-love-hypothesis-soundtrack-songs-prime-video-movie-1237111373",
-    "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340"
+    "https://deadline.com/2026/09/capa-sally-blake-sean-connery-doc-international-1237112340",
+    "https://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 94,
+      "published": 95,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9663,7 +9718,7 @@
       "published": 24
     },
     "17": {
-      "published": 23
+      "published": 24
     },
     "12": {
       "published": 1
@@ -9685,64 +9740,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-14T05:14:39.106885+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-14T09:09:54.308142+00:00",
       "version": 2,
@@ -12700,6 +12697,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-24T17:40:34.359255+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -12880,9 +12935,94 @@
     "cf1b68c954d372d6",
     "ce238ea259cf4ef1",
     "e4939084afd62d76",
-    "c2b6f383e473abd1"
+    "c2b6f383e473abd1",
+    "d0133913e480c5c3"
   ],
   "entity_memory": {
+    "alice kremelberg": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "matthew leone": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christine taylor join": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indie addiction drama": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "madison": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the boroughs": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "atonement": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christine taylor": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dink": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "east coast": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marking": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joe camara": {
+      "count": 1,
+      "last_seen": "2026-09-24T17:40:34.359190+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "french": {
       "count": 2,
       "last_seen": "2026-09-24T13:59:18.013571+00:00",
@@ -15618,92 +15758,6 @@
       "last_seen": "2026-09-16T17:05:08.924844+00:00",
       "categories": [
         "box_office",
-        "actors_directors"
-      ]
-    },
-    "spider": {
-      "count": 5,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "brand new day": {
-      "count": 4,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "star wars": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "passes": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the force awakens": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "time domestic box": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "office record the": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "canada the": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "office record": {
-      "count": 1,
-      "last_seen": "2026-09-16T17:05:08.924844+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "documentarian who chronicled": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "turbulent modern history": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the cordillera": {
-      "count": 1,
-      "last_seen": "2026-09-16T13:07:30.711181+00:00",
-      "categories": [
         "actors_directors"
       ]
     }
