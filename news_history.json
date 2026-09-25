@@ -9459,6 +9459,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "cb74be15cb44a4f97eaa7f40",
+      "story_id": "3bb7d59dd3d3fdbe",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193",
+      "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marko zaror",
+        "tyrik johnson join",
+        "amazon",
+        "studios action film",
+        "deadlocked",
+        "studios",
+        "john wick",
+        "chapter",
+        "tyrik johnson",
+        "dedicated",
+        "morris burke",
+        "character"
+      ],
+      "hook": "مارکو زارور و تیریک جانسون در 'دِدلاکِد' به تیمی بی‌نظیر می‌پیوندند",
+      "hooks": [
+        "نویسنده‌ی جدیدی برای فیلم اکشن Amazon MGM: مارکو زارور و تیریک جانسون",
+        "دِدلاکِد: تیمی جدید با جیمی فاکس و مارکو زارور"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مارکو زارور و تیریک جانسون در 'دِدلاکِد' حضور دارند"
+      ],
+      "status": "published",
+      "telegram_message_id": 190,
+      "published_at": "2026-09-25T17:40:54.539066+00:00",
+      "text": "مارکو زارور و تیریک جانسون در 'دِدلاکِد' به تیمی بی‌نظیر می‌پیوندند\n\n🎬 مارکو زارور و تیریک جانسون در فیلم اکشن 'دِدلاکِد' به تیم جیمی فاکس می‌پیوندند\n\nفیلم اکشن جدید Amazon MGM Studios، 'دِدلاکِد'، با حضور مارکو زارور و تیریک جانسون به تازگی اعلام شد. این دو بازیگر، که در فیلم‌های 'John Wick: Chapter 4' و 'Dedicated to Morris Burke' نقش‌آفرینی کرده‌اند، جزو تیمی هستند که توسط جیمی فاکس، ساشا کال، کیکی لاین و لُک هِمسورث هدایت می‌شود.\nسینمایی که در آن نقش‌های دقیق هنوز فاش نشده، توسط نیکیل کارگردانی می‌شود و انتظار می‌رود ترکیبی از اکشن و هیجان را به مخاطبان ارائه دهد.\n\n📌 نکات مهم:\n• مارکو زارور در 'John Wick: Chapter 4' حضور داشت\n• تیریک جانسون در 'Dedicated to Morris Burke' بازی کرد\n• فیلم 'دِدلاکِد' توسط Amazon MGM Studios تولید شد\n• سازنده فیلم جیمی فاکس است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9645,7 +9698,8 @@
     "f0f3b52116b47c03ec5ae9e0",
     "ec75a820ae8f014571a74dc8",
     "805ffe935ca0b95d3aaa9b81",
-    "36f02e9f8175095325aae3e3"
+    "36f02e9f8175095325aae3e3",
+    "cb74be15cb44a4f97eaa7f40"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9831,11 +9885,12 @@
     "https://deadline.com/2026/09/saw-new-movie-mike-p-nelson-directing-1237112899",
     "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520",
     "https://deadline.com/2026/09/zee-5-global-hi-release-nayanthara-kavin-1237113613",
-    "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817"
+    "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817",
+    "https://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 97,
+      "published": 98,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9933,7 +9988,7 @@
       "published": 24
     },
     "17": {
-      "published": 24
+      "published": 25
     },
     "12": {
       "published": 1
@@ -9955,64 +10010,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-15T05:15:16.022290+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-15T09:10:30.404020+00:00",
       "version": 2,
@@ -12970,6 +12967,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-25T17:40:54.539182+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13155,9 +13210,94 @@
     "7611b795115f1d35",
     "3001f11be6281b4b",
     "cc67307253cbf609",
-    "834681c9844d9d54"
+    "834681c9844d9d54",
+    "3bb7d59dd3d3fdbe"
   ],
   "entity_memory": {
+    "marko zaror": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tyrik johnson join": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "amazon": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studios action film": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "deadlocked": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studios": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john wick": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chapter": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tyrik johnson": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dedicated": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "morris burke": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "character": {
+      "count": 1,
+      "last_seen": "2026-09-25T17:40:54.539101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "turkish distributor baska": {
       "count": 1,
       "last_seen": "2026-09-25T14:23:50.443050+00:00",
@@ -15889,93 +16029,6 @@
       "count": 1,
       "last_seen": "2026-09-17T20:17:37.739777+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "blades": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "daniel": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "among": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joining bad bunny": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in residente film": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "porto rico": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cameras": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dominican republic": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "residente": {
-      "count": 1,
-      "last_seen": "2026-09-17T20:17:37.739777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "patricio": {
-      "count": 2,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "chile": {
-      "count": 2,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "chilean": {
-      "count": 2,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
