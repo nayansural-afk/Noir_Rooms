@@ -9407,6 +9407,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "36f02e9f8175095325aae3e3",
+      "story_id": "834681c9844d9d54",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817",
+      "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "turkish distributor baska",
+        "sinema boards",
+        "generated feature",
+        "woman asleep",
+        "theatrical release",
+        "turkish",
+        "baska sinema",
+        "english",
+        "vikki bardot",
+        "bardot"
+      ],
+      "hook": "دستگاه AI در سینمای ترکیه؛ 'زن در خواب' به نمایش در می‌آید",
+      "hooks": [
+        "سینمای ترکیه با فیلم AI 'زن در خواب' به جلو می‌رود",
+        "باسکا سینما به نمایش 'زن در خواب' AI می‌پردازد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "باسکا سینما حق توزیع داخلی فیلم AI 'زن در خواب' را به دست گرفته است.",
+        "فیلم 'زن در خواب' توسط ویکی بردوت ساخته شده است."
+      ],
+      "status": "published",
+      "telegram_message_id": 189,
+      "published_at": "2026-09-25T14:23:50.443021+00:00",
+      "text": "دستگاه AI در سینمای ترکیه؛ 'زن در خواب' به نمایش در می‌آید\n\n🎬 باسکا سینما، توزیع‌کننده‌ی هنری ترکیه، فیلم AI 'زن در خواب' را به نمایش می‌گذارد\n\nباسکا سینما، توزیع‌کننده‌ی هنری ترکیه، به‌طور انحصاری حق توزیع داخلی فیلم AI 'زن در خواب' را به دست گرفته است. این فیلم، یک اثر آزمایشی زبان انگلیسی است که توسط هنرمند پیشگام و فیلمساز ویکی بردوت ساخته شده است. بردوت، یکی از پیشگامان هنر عکسی و ویدئویی مبتنی بر AI، در سال ۲۰۲۳ سخنرانی TEDx درباره AI و هنر ارائه داد. این همکاری نشان‌دهنده‌ی رشد روزافزون هنر دیجیتال در سینمای ترکیه است.\n\n📌 نکات مهم:\n• باسکا سینما حق توزیع داخلی فیلم AI 'زن در خواب' را به دست گرفته است.\n• فیلم 'زن در خواب' یک اثر آزمایشی زبان انگلیسی است که توسط ویکی بردوت ساخته شده است.\n• بردوت، پیشگام هنر عکسی و ویدئویی مبتنی بر AI، در سال ۲۰۲۳ سخنرانی TEDx درباره AI و هنر ارائه داد.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9592,7 +9644,8 @@
     "f5f5ff15aefe67b7f7d924ba",
     "f0f3b52116b47c03ec5ae9e0",
     "ec75a820ae8f014571a74dc8",
-    "805ffe935ca0b95d3aaa9b81"
+    "805ffe935ca0b95d3aaa9b81",
+    "36f02e9f8175095325aae3e3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -9777,11 +9830,12 @@
     "https://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667",
     "https://deadline.com/2026/09/saw-new-movie-mike-p-nelson-directing-1237112899",
     "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520",
-    "https://deadline.com/2026/09/zee-5-global-hi-release-nayanthara-kavin-1237113613"
+    "https://deadline.com/2026/09/zee-5-global-hi-release-nayanthara-kavin-1237113613",
+    "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 96,
+      "published": 97,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -9828,7 +9882,7 @@
       "published": 6
     },
     "14": {
-      "published": 3
+      "published": 4
     },
     "16": {
       "published": 5
@@ -9901,64 +9955,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-14T20:17:21.101525+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Janus Films & Criterion Acquire Paul Thomas Anderson’s Cameron Winter Concert Film",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-15T05:15:16.022290+00:00",
       "version": 2,
@@ -12916,6 +12912,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-25T14:23:50.443117+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13100,9 +13154,80 @@
     "d0133913e480c5c3",
     "7611b795115f1d35",
     "3001f11be6281b4b",
-    "cc67307253cbf609"
+    "cc67307253cbf609",
+    "834681c9844d9d54"
   ],
   "entity_memory": {
+    "turkish distributor baska": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sinema boards": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "generated feature": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "woman asleep": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatrical release": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "turkish": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "baska sinema": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "english": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vikki bardot": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bardot": {
+      "count": 1,
+      "last_seen": "2026-09-25T14:23:50.443050+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "directed": {
       "count": 2,
       "last_seen": "2026-09-25T10:04:53.391870+00:00",
@@ -15851,77 +15976,6 @@
       "last_seen": "2026-09-17T17:04:46.147950+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "the battle": {
-      "count": 2,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "battle": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "passionate": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pinochet": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chile patricio": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nostalgia": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "light": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "according": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emol": {
-      "count": 1,
-      "last_seen": "2026-09-17T17:04:46.147950+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hong kong": {
-      "count": 2,
-      "last_seen": "2026-09-17T13:07:12.844880+00:00",
-      "categories": [
         "movie_news"
       ]
     }
