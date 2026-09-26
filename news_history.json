@@ -9728,6 +9728,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ecb157c21b1624cc214fd844",
+      "story_id": "74caffb5c2a7fd1d",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
+      "title": "‘Obsession,’ ‘Backrooms’ Ushering in Shift Similar to ‘Easy Rider’ in 1970s, Sony Pictures Classics Co-Chief Says",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "obsession",
+        "backrooms",
+        "ushering",
+        "shift similar",
+        "easy rider",
+        "sony pictures classics",
+        "chief says there",
+        "kane parsons",
+        "curry barker"
+      ],
+      "hook": "سینمای جدید: Backrooms و Obsession، انقلاب نسل Z",
+      "hooks": [
+        "Backrooms و Obsession: موج جدید در سینما",
+        "سینما ۲۰۲۴: Backrooms و Obsession، نسل جدید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این دو فیلم باعث ایجاد تحولی شبیه Easy Rider در سینمای دهه ۷۰ شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 195,
+      "published_at": "2026-09-26T16:50:18.371594+00:00",
+      "text": "سینمای جدید: Backrooms و Obsession، انقلاب نسل Z\n\n🎬 Backrooms و Obsession، انقلاب سینمایی شبیه Easy Rider در دهه ۷۰\n\nفیلم‌های Backrooms و Obsession، ساخته‌ی کارگردانان جوانی که از یوتیوب آمده‌اند، در سه ماه گذشته همه انتظارات بکس‌اوفیس را شکستند.\nسینمایی که توسط معاون رئیس Sony Pictures Classics به عنوان تحولی شبیه Easy Rider در دهه ۷۰ توصیف شد، نسل Z را به خود جذب کرده است.\n\n📌 نکات مهم:\n• Backrooms و Obsession توسط Kane Parsons و Curry Barker ساخته شده‌اند\n• کارگردانان 20 ساله و از یوتیوب آمده‌اند\n• این دو فیلم انتظارات بکس‌اوفیس را شکستند\n• سینمایی شبیه Easy Rider در دهه ۷۰\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9919,7 +9969,8 @@
     "6b3f5e4a44fe740309266f72",
     "c2d1f135bcb2ae44d381a96a",
     "85750b00f043b8260a86c375",
-    "c6052f11e146d9e5361f8664"
+    "c6052f11e146d9e5361f8664",
+    "ecb157c21b1624cc214fd844"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10110,11 +10161,12 @@
     "https://deadline.com/2026/09/ben-wang-minnie-mills-to-star-admissions-film-1237113838",
     "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613",
     "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
-    "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223"
+    "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
+    "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 101,
+      "published": 102,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10164,7 +10216,7 @@
       "published": 4
     },
     "16": {
-      "published": 5
+      "published": 6
     },
     "18": {
       "published": 5
@@ -10234,64 +10286,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-16T05:14:16.396428+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-16T09:08:14.322852+00:00",
       "version": 2,
@@ -13249,6 +13243,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-26T16:50:18.371701+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13439,9 +13491,73 @@
     "7af4390ce9f708df",
     "be89f4dfd7202dab",
     "d5cca35ec09f7b17",
-    "01d40ba0abd4e1f2"
+    "01d40ba0abd4e1f2",
+    "74caffb5c2a7fd1d"
   ],
   "entity_memory": {
+    "obsession": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "backrooms": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ushering": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shift similar": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "easy rider": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sony pictures classics": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chief says there": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kane parsons": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "curry barker": {
+      "count": 1,
+      "last_seen": "2026-09-26T16:50:18.371627+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "naima mohamud explains": {
       "count": 1,
       "last_seen": "2026-09-26T13:35:46.592270+00:00",
@@ -16194,69 +16310,6 @@
       "last_seen": "2026-09-19T09:18:29.243918+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "coronation street": {
-      "count": 1,
-      "last_seen": "2026-09-19T09:18:29.243918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stephanie cole": {
-      "count": 1,
-      "last_seen": "2026-09-19T09:18:29.243918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dr beatrice mason": {
-      "count": 1,
-      "last_seen": "2026-09-19T09:18:29.243918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "a24": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brad pitt returning": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "world war": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sequel": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount with edward": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "berger": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
