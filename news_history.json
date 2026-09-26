@@ -9830,6 +9830,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "60635f1f648ad6a977c87f93",
+      "story_id": "641679ff7ff59744",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606",
+      "title": "‘NAZA’ Co-Director Yuval Abraham Calls Out the U.S. Government for ‘Funding’ Israel’s Destruction of Gaza, Telling NYFF Audience: ‘This Is What Your Country Is Supporting’",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "director yuval abraham",
+        "calls out",
+        "government",
+        "funding",
+        "israel",
+        "destruction",
+        "gaza",
+        "telling",
+        "audience",
+        "this is what",
+        "your country is",
+        "supporting"
+      ],
+      "hook": "مستند NAZA در NYFF، اعتراض به آمریکا",
+      "hooks": [
+        "NYFF: NAZA، صدا برای فلسطین",
+        "مستند NAZA، انتقاد از آمریکا در غزه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کارگردان یووال ابراهام ادعا کرد که دولت آمریکا در تأمین مالی تخریب غزه توسط اسرائیل نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 197,
+      "published_at": "2026-09-26T22:38:07.255633+00:00",
+      "text": "مستند NAZA در NYFF، اعتراض به آمریکا\n\n🎬 مستند NAZA در جشنواره NYFF، انتقاد از آمریکا علیه اسرائیل\n\nمستند NAZA در جشنواره فیلم نیویورک به نمایش درآمد و با استقبال بی‌سابقه‌ای روبه‌رو شد. در جلسه پرسش و پاسخ، کارگردان همکار یووال ابراهام به تهمت دولت آمریکا برای تأمین مالی تخریب غزه توسط اسرائیل پرداخت و مخاطبان را به تأمل فراخواند.\n\n📌 نکات مهم:\n• مستند NAZA در NYFF به نمایش درآمد\n• کارگردان همکار یووال ابراهام و راچل سزار در جشنواره حضور داشتند\n• دولت آمریکا در تأمین مالی تخریب غزه توسط اسرائیل نقش دارد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10023,7 +10076,8 @@
     "85750b00f043b8260a86c375",
     "c6052f11e146d9e5361f8664",
     "ecb157c21b1624cc214fd844",
-    "34d072a32d666bf7b920d1ac"
+    "34d072a32d666bf7b920d1ac",
+    "60635f1f648ad6a977c87f93"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10216,7 +10270,8 @@
     "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
     "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
     "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
-    "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380"
+    "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380",
+    "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606"
   ],
   "category_stats": {
     "movie_news": {
@@ -10226,7 +10281,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 69,
+      "published": 70,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10294,7 +10349,7 @@
       "published": 6
     },
     "22": {
-      "published": 6
+      "published": 7
     },
     "7": {
       "published": 2
@@ -10340,64 +10395,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-16T13:07:30.711278+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-16T17:05:08.924940+00:00",
       "version": 2,
@@ -13355,6 +13352,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-26T22:38:07.255748+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13547,9 +13602,94 @@
     "d5cca35ec09f7b17",
     "01d40ba0abd4e1f2",
     "74caffb5c2a7fd1d",
-    "aab20a18466aedb4"
+    "aab20a18466aedb4",
+    "641679ff7ff59744"
   ],
   "entity_memory": {
+    "director yuval abraham": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "calls out": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "government": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "funding": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "israel": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "destruction": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gaza": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "telling": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "audience": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this is what": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "your country is": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "supporting": {
+      "count": 1,
+      "last_seen": "2026-09-26T22:38:07.255664+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "resident evil": {
       "count": 3,
       "last_seen": "2026-09-26T19:30:27.394364+00:00",
@@ -16277,90 +16417,6 @@
     "broadway": {
       "count": 1,
       "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doll": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "camden international film": {
-      "count": 2,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "maine": {
-      "count": 2,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nicole costa": {
-      "count": 2,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "as fall approaches": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival spends time": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the illusion of": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "an everlasting summer": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "saturday": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sierra pettengill": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "argonauts": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "history": {
-      "count": 1,
-      "last_seen": "2026-09-19T16:10:38.572198+00:00",
       "categories": [
         "movie_news"
       ]
