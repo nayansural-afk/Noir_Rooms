@@ -9778,6 +9778,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "34d072a32d666bf7b920d1ac",
+      "story_id": "aab20a18466aedb4",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380",
+      "title": "Box Office: ‘Avengers: Endgame Encore’ Leads With $11.2 Million on Friday as A24’s ‘Primetime’ Takes Second",
+      "category": "box_office",
+      "score": 65.78,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "a24",
+        "box office",
+        "avengers",
+        "endgame encore",
+        "leads with",
+        "million",
+        "friday",
+        "primetime",
+        "takes second it",
+        "resident evil",
+        "endgame"
+      ],
+      "hook": "«انداج: انتهای بازی» برتر جایگاه، $11.2 میلیون در روز جمعه",
+      "hooks": [
+        "«انداج: انتهای بازی» برتر جایگاه، $11.2 میلیون در روز جمعه",
+        "«انداج: انتهای بازی» در صدر بکس آفیس با $11.2 میلیون"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم در صدر بکس آفیس قرار گرفت."
+      ],
+      "status": "published",
+      "telegram_message_id": 196,
+      "published_at": "2026-09-26T19:30:27.394332+00:00",
+      "text": "«انداج: انتهای بازی» برتر جایگاه، $11.2 میلیون در روز جمعه\n\n🎬 «انداج: انتهای بازی» با $11.2 میلیون در روز جمعه، در صدر بکس آفیس\n\nدر هفته گذشته، «Resident Evil» حاکم بود، اما «انداج: انتهای بازی» با 11.2 میلیون دلار در روز جمعه به صدر بکس آفیس بازگشت.فیلم در 3,060 صحنه آمریکایی پخش شد و پیش‌بینی می‌شود تا یکشنبه مجموع درآمد آن به حدود 26 میلیون دلار برسد. این اثر توسط آنتونی کارگردانی شد.\n\n📌 نکات مهم:\n• در روز جمعه، «انداج: انتهای بازی» 11.2 میلیون دلار در 3,060 صحنه آمریکایی کسب کرد.\n• پیش‌بینی می‌شود تا یکشنبه مجموع درآمد آن به 26 میلیون دلار برسد.\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9970,7 +10022,8 @@
     "c2d1f135bcb2ae44d381a96a",
     "85750b00f043b8260a86c375",
     "c6052f11e146d9e5361f8664",
-    "ecb157c21b1624cc214fd844"
+    "ecb157c21b1624cc214fd844",
+    "34d072a32d666bf7b920d1ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10162,7 +10215,8 @@
     "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613",
     "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
     "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
-    "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312"
+    "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
+    "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380"
   ],
   "category_stats": {
     "movie_news": {
@@ -10190,7 +10244,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 8,
+      "published": 9,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10237,7 +10291,7 @@
       "published": 23
     },
     "19": {
-      "published": 5
+      "published": 6
     },
     "22": {
       "published": 6
@@ -10286,64 +10340,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-16T09:08:14.322852+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-16T13:07:30.711278+00:00",
       "version": 2,
@@ -13301,6 +13297,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-26T19:30:27.394481+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13492,9 +13546,97 @@
     "be89f4dfd7202dab",
     "d5cca35ec09f7b17",
     "01d40ba0abd4e1f2",
-    "74caffb5c2a7fd1d"
+    "74caffb5c2a7fd1d",
+    "aab20a18466aedb4"
   ],
   "entity_memory": {
+    "resident evil": {
+      "count": 3,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "marvel": {
+      "count": 3,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "box office": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "avengers": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "endgame encore": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "leads with": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "million": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "friday": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "primetime": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "takes second it": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "endgame": {
+      "count": 1,
+      "last_seen": "2026-09-26T19:30:27.394364+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "obsession": {
       "count": 1,
       "last_seen": "2026-09-26T16:50:18.371627+00:00",
@@ -15445,14 +15587,6 @@
         "actors_directors"
       ]
     },
-    "resident evil": {
-      "count": 2,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "box_office",
-        "movie_news"
-      ]
-    },
     "zach cregger": {
       "count": 1,
       "last_seen": "2026-09-21T18:24:30.383227+00:00",
@@ -15506,14 +15640,6 @@
       "count": 1,
       "last_seen": "2026-09-21T18:24:30.383227+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "marvel": {
-      "count": 2,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -16237,79 +16363,6 @@
       "last_seen": "2026-09-19T16:10:38.572198+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "netflix": {
-      "count": 12,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "streaming",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "house": {
-      "count": 2,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "sweet magnolias": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "canceled": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix after five": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "seasons showrunner sheryl": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anderson": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "garcia swisher": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ladies": {
-      "count": 1,
-      "last_seen": "2026-09-19T12:50:54.818750+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tenko": {
-      "count": 1,
-      "last_seen": "2026-09-19T09:18:29.243918+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
