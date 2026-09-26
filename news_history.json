@@ -9675,6 +9675,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c6052f11e146d9e5361f8664",
+      "story_id": "01d40ba0abd4e1f2",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
+      "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "naima mohamud explains",
+        "why finland needs",
+        "film like",
+        "halima",
+        "it was",
+        "long time coming",
+        "finnish",
+        "somali",
+        "naima mohamud",
+        "best fiction project",
+        "finnish film affair",
+        "black"
+      ],
+      "hook": "هلیما: اولین فیلم فینلندی به کارگردانی زن سیاه‌پوست",
+      "hooks": [
+        "فیلم 'هلیما' برنده بهترین پروژه تخیلی در جشنواره فینلند",
+        "نایما محمد، کارگردان فینلندی-سومالی، درباره ضرورت فیلم‌های مشابه 'هلیما' صحبت می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم اولین فیلم فینلندی به کارگردانی زن سیاه‌پوست است"
+      ],
+      "status": "published",
+      "telegram_message_id": 194,
+      "published_at": "2026-09-26T13:35:46.592240+00:00",
+      "text": "هلیما: اولین فیلم فینلندی به کارگردانی زن سیاه‌پوست\n\n🎬 نایما محمد: چرا فینلند نیاز به فیلمی مثل 'هلیما' دارد؟\n\nفیلم 'هلیما'، اولین فیلم فینلندی به کارگردانی زن سیاه‌پوست، در جشنواره فیلم فینلند برنده بهترین پروژه تخیلی شد. نایما محمد، کارگردان فینلندی-سومالی، در مصاحبه‌ای اختصاصی توضیح می‌دهد که چرا چنین فیلمی برای فینلند ضروری است و تأکید می‌کند که این کار یک پیشرفت طولانی‌مدت بوده است.\n\n📌 نکات مهم:\n• فیلم 'هلیما' اولین فیلم فینلندی به کارگردانی زن سیاه‌پوست است\n• فیلم 'هلیما' برنده بهترین پروژه تخیلی در جشنواره فیلم فینلند شد\n• فیلم توسط It’s Alive Films و No-Office Films تولید شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9865,7 +9918,8 @@
     "cb74be15cb44a4f97eaa7f40",
     "6b3f5e4a44fe740309266f72",
     "c2d1f135bcb2ae44d381a96a",
-    "85750b00f043b8260a86c375"
+    "85750b00f043b8260a86c375",
+    "c6052f11e146d9e5361f8664"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10055,11 +10109,12 @@
     "https://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193",
     "https://deadline.com/2026/09/ben-wang-minnie-mills-to-star-admissions-film-1237113838",
     "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613",
-    "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig"
+    "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
+    "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 100,
+      "published": 101,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10154,7 +10209,7 @@
       "published": 1
     },
     "13": {
-      "published": 24
+      "published": 25
     },
     "17": {
       "published": 25
@@ -10179,64 +10234,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-15T20:17:10.460834+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-16T05:14:16.396428+00:00",
       "version": 2,
@@ -13194,6 +13191,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-26T13:35:46.592338+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13383,9 +13438,94 @@
     "3bb7d59dd3d3fdbe",
     "7af4390ce9f708df",
     "be89f4dfd7202dab",
-    "d5cca35ec09f7b17"
+    "d5cca35ec09f7b17",
+    "01d40ba0abd4e1f2"
   ],
   "entity_memory": {
+    "naima mohamud explains": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "why finland needs": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film like": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "halima": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "it was": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "long time coming": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "finnish": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "somali": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "naima mohamud": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "best fiction project": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "finnish film affair": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "black": {
+      "count": 1,
+      "last_seen": "2026-09-26T13:35:46.592270+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hollywood": {
       "count": 5,
       "last_seen": "2026-09-26T09:45:56.641137+00:00",
@@ -16117,90 +16257,6 @@
       "last_seen": "2026-09-18T20:16:15.508324+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "direct brad pitt": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "all quiet": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "western front": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "conclave": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "edward berger": {
-      "count": 1,
-      "last_seen": "2026-09-18T20:16:15.508324+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alan ritchson in": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "talks to star": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in sony": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "adaptation of": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "helldivers": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from director justin": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lin following": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
