@@ -9623,6 +9623,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "85750b00f043b8260a86c375",
+      "story_id": "d5cca35ec09f7b17",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
+      "title": "Meryl Streep’s casting as Aslan has angered the Christian right. Don’t they have more pressing issues?",
+      "category": "actors_directors",
+      "score": 70.42,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "greta gerwig",
+        "oscar",
+        "meryl streep",
+        "aslan",
+        "christian",
+        "the oscar",
+        "narnia",
+        "the magician",
+        "nephew",
+        "hollywood",
+        "wicked witch",
+        "west"
+      ],
+      "hook": "استیپ به نقش اسلان: واکنش شدید دینی",
+      "hooks": [
+        "مریل استیپ صدا می‌دهد اسلان؛ انتقادهای دینی",
+        "نقش اسلان توسط استیپ، واکنش دینی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Meryl Streep voices Aslan in Greta Gerwig's adaptation of The Magician's Nephew"
+      ],
+      "status": "published",
+      "telegram_message_id": 193,
+      "published_at": "2026-09-26T09:45:56.641103+00:00",
+      "text": "استیپ به نقش اسلان: واکنش شدید دینی\n\n🎬 مریل استیپ صدا می‌دهد اسلان؛ انتقادهای دینی\n\nمریل استیپ در نقش اسلان، صدا در نسخه جدید گرته گرایگ از \"Magician’s Nephew\"، واکنش شدید دینی را برانگیخت.\n\nانتقادهای دینی به دلیل انتخاب او برای نقش اسلان، که در ادبیات کِس لِیُس به عنوان پیامبر شناخته می‌شود، مطرح شد.\n\n📌 نکات مهم:\n• مریل استیپ صدا می‌دهد اسلان در نسخه گرته گرایگ از \"Magician’s Nephew\"\n• دین‌پذیران آمریکایی واکنش شدید به این انتخاب نشان دادند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -9812,7 +9864,8 @@
     "36f02e9f8175095325aae3e3",
     "cb74be15cb44a4f97eaa7f40",
     "6b3f5e4a44fe740309266f72",
-    "c2d1f135bcb2ae44d381a96a"
+    "c2d1f135bcb2ae44d381a96a",
+    "85750b00f043b8260a86c375"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10001,7 +10054,8 @@
     "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817",
     "https://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193",
     "https://deadline.com/2026/09/ben-wang-minnie-mills-to-star-admissions-film-1237113838",
-    "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613"
+    "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613",
+    "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig"
   ],
   "category_stats": {
     "movie_news": {
@@ -10011,7 +10065,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 68,
+      "published": 69,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10085,7 +10139,7 @@
       "published": 2
     },
     "9": {
-      "published": 26
+      "published": 27
     },
     "6": {
       "published": 1
@@ -10125,64 +10179,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-15T17:05:00.712309+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-15T20:17:10.460834+00:00",
       "version": 2,
@@ -13140,6 +13136,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-26T09:45:56.641214+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13328,9 +13382,97 @@
     "834681c9844d9d54",
     "3bb7d59dd3d3fdbe",
     "7af4390ce9f708df",
-    "be89f4dfd7202dab"
+    "be89f4dfd7202dab",
+    "d5cca35ec09f7b17"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 5,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 19,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "greta gerwig": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "meryl streep": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "aslan": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christian": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the oscar": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "narnia": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the magician": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nephew": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wicked witch": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "west": {
+      "count": 1,
+      "last_seen": "2026-09-26T09:45:56.641137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "sony pictures": {
       "count": 3,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
@@ -14231,14 +14373,6 @@
         "actors_directors"
       ]
     },
-    "hollywood": {
-      "count": 4,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "sept": {
       "count": 2,
       "last_seen": "2026-09-23T19:55:24.900599+00:00",
@@ -14532,15 +14666,6 @@
       "last_seen": "2026-09-23T09:49:59.124609+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 18,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "cannes": {
@@ -16076,77 +16201,6 @@
       "last_seen": "2026-09-18T17:05:36.876516+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "jason momoa": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "justin lin": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "deadline alan ritchson": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "arrowhead game studios": {
-      "count": 1,
-      "last_seen": "2026-09-18T17:05:36.876516+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "apple": {
-      "count": 2,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "tenzing": {
-      "count": 1,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actor tenzin dalha": {
-      "count": 1,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "unveiled": {
-      "count": 1,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "male lead": {
-      "count": 1,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bengali thriller": {
-      "count": 1,
-      "last_seen": "2026-09-18T13:05:02.778461+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
