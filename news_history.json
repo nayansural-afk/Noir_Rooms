@@ -10102,6 +10102,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "eb14c1940ff89c4a24eec142",
+      "story_id": "911543c075f773c7",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
+      "title": "Neil Patrick Harris to Star in ‘Damn Yankees’ Broadway Revival",
+      "category": "actors_directors",
+      "score": 69.92,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "neil patrick harris",
+        "star",
+        "damn yankees",
+        "broadway revival",
+        "julianne hough",
+        "broadway",
+        "following",
+        "arena stage",
+        "will power",
+        "dough wright"
+      ],
+      "hook": "نایل پیتر هریس در بازسازی «دامن یانکیز» برادوی",
+      "hooks": [
+        "نایل پیتر هریس در برادوی «دامن یانکیز»",
+        "بازسازی «دامن یانکیز» با نایل پیتر هریس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نایل پیتر هریس در بازسازی برادوی «دامن یانکیز» نقش اصلی را بازی می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 202,
+      "published_at": "2026-09-27T22:56:40.811827+00:00",
+      "text": "نایل پیتر هریس در بازسازی «دامن یانکیز» برادوی\n\n🎬 نایل پیتر هریس در بازسازی برادوی «دامن یانکیز»\n\nنایل پیتر هریس و جولیان هاف در بازسازی جدید «دامن یانکیز» برادوی حضور خواهند داشت. این اولین بازسازی برادوی این نمایش در بیش از ۳۰ سال است.\nاین تولید با کتاب نویسندگان ویل پاور و دوگ رایت و ترانه‌های اضافه‌شده توسط ... به نمایش در می‌آید و در بهار آینده برادوی آغاز می‌شود.\n\n📌 نکات مهم:\n• نایل پیتر هریس در بازسازی برادوی «دامن یانکیز» نقش دارد\n• جولیان هاف نیز در این تولید حضور دارد\n• این اولین بازسازی برادوی در بیش از ۳۰ سال است\n• کتاب توسط ویل پاور و دوگ رایت نوشته شده است\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10300,7 +10350,8 @@
     "7ba7fc63fdf485e565f104f9",
     "4d04306420f0c6c97942c2ed",
     "66d2eb7bd3cdac18843963f2",
-    "6c1d0dc8b7ea3c75649054b3"
+    "6c1d0dc8b7ea3c75649054b3",
+    "eb14c1940ff89c4a24eec142"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10498,7 +10549,8 @@
     "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776",
     "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714",
     "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
-    "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812"
+    "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812",
+    "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661"
   ],
   "category_stats": {
     "movie_news": {
@@ -10508,7 +10560,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 71,
+      "published": 72,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10576,7 +10628,7 @@
       "published": 7
     },
     "22": {
-      "published": 7
+      "published": 8
     },
     "7": {
       "published": 2
@@ -10622,64 +10674,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-17T13:07:12.844954+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-17T17:04:46.148042+00:00",
       "version": 2,
@@ -13637,6 +13631,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-27T22:56:40.811949+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13834,9 +13886,80 @@
     "7fadab1ade6c90c2",
     "5356bac52ca8e1dc",
     "98f81fc99018e327",
-    "b26a607a667089d3"
+    "b26a607a667089d3",
+    "911543c075f773c7"
   ],
   "entity_memory": {
+    "star": {
+      "count": 2,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "neil patrick harris": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "damn yankees": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway revival": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "julianne hough": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "following": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "arena stage": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will power": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dough wright": {
+      "count": 1,
+      "last_seen": "2026-09-27T22:56:40.811861+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 1,
       "last_seen": "2026-09-27T19:56:00.227113+00:00",
@@ -15016,13 +15139,6 @@
       ]
     },
     "graham campbell to": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
       "count": 1,
       "last_seen": "2026-09-24T23:08:43.870651+00:00",
       "categories": [
@@ -16591,69 +16707,6 @@
     "kazakhstani": {
       "count": 1,
       "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new directors": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ayana nurdinova": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "balkhash": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto film festival": {
-      "count": 6,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto international film": {
-      "count": 2,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins oscar": {
-      "count": 1,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "predictive toronto film": {
-      "count": 1,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival people": {
-      "count": 1,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "choice award the": {
-      "count": 1,
-      "last_seen": "2026-09-20T16:39:02.676509+00:00",
       "categories": [
         "movie_news"
       ]
