@@ -9936,6 +9936,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4d04306420f0c6c97942c2ed",
+      "story_id": "5356bac52ca8e1dc",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714",
+      "title": "Jon Watts to Direct Next ‘Star Wars’ Movie",
+      "category": "actors_directors",
+      "score": 86.03,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "spider-man",
+        "star wars",
+        "jon watts",
+        "direct next",
+        "watts",
+        "spider",
+        "tom holland",
+        "homecoming",
+        "far from home",
+        "no way home",
+        "brand new day",
+        "destin daniel cretton",
+        "direct next movie",
+        "lucasfilm simon kinberg",
+        "skywalker saga"
+      ],
+      "hook": "جون واتس، کارگردان اسپایدرمن، به ستار وارز می‌پیوندد",
+      "hooks": [
+        "کارگردان محبوب اسپایدرمن، در مسیر ستار وارز",
+        "جون واتس، از اسپایدرمن به ستار وارز می‌رود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "واتس به عنوان کارگردان فیلم جدید ستار وارز منصوب شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 199,
+      "published_at": "2026-09-27T14:32:05.584887+00:00",
+      "text": "جون واتس، کارگردان اسپایدرمن، به ستار وارز می‌پیوندد\n\n🎬 جون واتس، کارگردان اسپایدرمن، به عنوان کارگردان فیلم جدید ستار وارز منصوب شد\n\nدر خبر تازه‌ای، کارگردان محبوب اسپایدرمن، جون واتس، به عنوان کارگردان فیلم جدید ستار وارز منصوب شد. واتس که سه قسمت از سه‌گانه اسپایدرمن را به رهبری داشت، اکنون در حال توسعه یک فیلم جدید در دنیای ستار وارز است.\n\n📌 نکات مهم:\n• جون واتس کارگردان فیلم جدید ستار وارز است\n• واتس معروف به سه‌گانه اسپایدرمن است\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10131,7 +10188,8 @@
     "ecb157c21b1624cc214fd844",
     "34d072a32d666bf7b920d1ac",
     "60635f1f648ad6a977c87f93",
-    "7ba7fc63fdf485e565f104f9"
+    "7ba7fc63fdf485e565f104f9",
+    "4d04306420f0c6c97942c2ed"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10326,7 +10384,8 @@
     "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
     "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380",
     "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606",
-    "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776"
+    "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776",
+    "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714"
   ],
   "category_stats": {
     "movie_news": {
@@ -10336,7 +10395,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 70,
+      "published": 71,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10377,7 +10436,7 @@
       "published": 6
     },
     "14": {
-      "published": 4
+      "published": 5
     },
     "16": {
       "published": 6
@@ -10450,64 +10509,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-16T20:17:58.762686+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-17T05:14:51.961084+00:00",
       "version": 2,
@@ -13465,6 +13466,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-27T14:32:05.585019+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13659,9 +13718,118 @@
     "74caffb5c2a7fd1d",
     "aab20a18466aedb4",
     "641679ff7ff59744",
-    "7fadab1ade6c90c2"
+    "7fadab1ade6c90c2",
+    "5356bac52ca8e1dc"
   ],
   "entity_memory": {
+    "tom holland": {
+      "count": 2,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "spider-man": {
+      "count": 2,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "spider": {
+      "count": 2,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star wars": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jon watts": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "direct next": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "watts": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "homecoming": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "far from home": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "no way home": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "brand new day": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "destin daniel cretton": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "direct next movie": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lucasfilm simon kinberg": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "skywalker saga": {
+      "count": 1,
+      "last_seen": "2026-09-27T14:32:05.584918+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "sept": {
       "count": 3,
       "last_seen": "2026-09-27T10:26:27.722654+00:00",
@@ -14175,13 +14343,6 @@
         "movie_news"
       ]
     },
-    "tom holland": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "fred astaire biopic": {
       "count": 1,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
@@ -14238,21 +14399,7 @@
         "movie_news"
       ]
     },
-    "spider-man": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "tom holland in": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spider": {
       "count": 1,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
       "categories": [
@@ -16392,90 +16539,6 @@
       "last_seen": "2026-09-19T22:17:20.580211+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "the other bennet": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sister": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christmas special": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christmas": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ella bruccoleri": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "finn": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "check": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mary bennet": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "produced": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bad wolf": {
-      "count": 1,
-      "last_seen": "2026-09-19T22:17:20.580211+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
-      "count": 2,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emmy": {
-      "count": 2,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
