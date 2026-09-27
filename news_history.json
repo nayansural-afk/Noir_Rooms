@@ -9883,6 +9883,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7ba7fc63fdf485e565f104f9",
+      "story_id": "7fadab1ade6c90c2",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776",
+      "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "jia zhangke readies",
+        "zhao tao road",
+        "mamma dunhuang",
+        "rules out",
+        "production",
+        "jia zhangke",
+        "pingyao crouching tiger",
+        "hidden dragon international",
+        "film festival",
+        "sept",
+        "variety",
+        "dunhuang"
+      ],
+      "hook": "جیا ژانگکِه در مسیر جدید، 'مامای دونگوان' را بدون هوش مصنوعی می‌سازد",
+      "hooks": [
+        "جیا ژانگکِه: فیلم 'مامای دونگوان' بدون هوش مصنوعی",
+        "مغامرات جیا ژانگکِه در 'مامای دونگوان' بدون AI"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "اطلاعات از واریته تأیید شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 198,
+      "published_at": "2026-09-27T10:26:27.722627+00:00",
+      "text": "جیا ژانگکِه در مسیر جدید، 'مامای دونگوان' را بدون هوش مصنوعی می‌سازد\n\n🎬 جیا ژانگکِه، فیلم‌نامه‌نویس بزرگ، «مامای دونگوان» را بدون هوش مصنوعی تولید می‌کند\n\nجیا ژانگکِه، کارگردان برجسته چین، در حال آماده‌سازی فیلم رویداری به نام «مامای دونگوان» است. این اثر، که در آن زائو تاو نقش اصلی را بازی می‌کند، در مسیرهای غربی چین، نزدیک آسیای مرکزی، روایت می‌شود.\nطبق گزارش واریته، ژانگکِه پس از پایان جشنواره بین‌المللی فیلم پینگیاو، به جستجوی مکان‌های فیلم‌برداری و طراحی صحنه می‌پردازد و اعلام کرده که هیچ گونه هوش مصنوعی در تولید این فیلم به کار نخواهد گرفت.\n\n📌 نکات مهم:\n• جیا ژانگکِه در حال ساخت فیلم رویداری 'مامای دونگوان' است\n• فیلم بدون استفاده از هوش مصنوعی تولید می‌شود\n• زائو تاو در نقش اصلی حضور دارد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10077,7 +10130,8 @@
     "c6052f11e146d9e5361f8664",
     "ecb157c21b1624cc214fd844",
     "34d072a32d666bf7b920d1ac",
-    "60635f1f648ad6a977c87f93"
+    "60635f1f648ad6a977c87f93",
+    "7ba7fc63fdf485e565f104f9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10271,11 +10325,12 @@
     "https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223",
     "https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312",
     "https://variety.com/2026/film/box-office/box-office-avengers-endgame-encore-primetime-resident-evil-1236876380",
-    "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606"
+    "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606",
+    "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 102,
+      "published": 103,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10316,7 +10371,7 @@
       "published": 3
     },
     "10": {
-      "published": 5
+      "published": 6
     },
     "11": {
       "published": 6
@@ -10395,64 +10450,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-16T17:05:08.924940+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-16T20:17:58.762686+00:00",
       "version": 2,
@@ -13410,6 +13407,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-27T10:26:27.722728+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13603,9 +13658,96 @@
     "01d40ba0abd4e1f2",
     "74caffb5c2a7fd1d",
     "aab20a18466aedb4",
-    "641679ff7ff59744"
+    "641679ff7ff59744",
+    "7fadab1ade6c90c2"
   ],
   "entity_memory": {
+    "sept": {
+      "count": 3,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "film festival": {
+      "count": 5,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "variety": {
+      "count": 2,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "jia zhangke readies": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zhao tao road": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mamma dunhuang": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rules out": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "production": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jia zhangke": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pingyao crouching tiger": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hidden dragon international": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dunhuang": {
+      "count": 1,
+      "last_seen": "2026-09-27T10:26:27.722654+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "director yuval abraham": {
       "count": 1,
       "last_seen": "2026-09-26T22:38:07.255664+00:00",
@@ -14911,14 +15053,6 @@
         "actors_directors"
       ]
     },
-    "sept": {
-      "count": 2,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "dick guttman": {
       "count": 1,
       "last_seen": "2026-09-23T19:55:24.900599+00:00",
@@ -15993,13 +16127,6 @@
         "movie_news"
       ]
     },
-    "film festival": {
-      "count": 4,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "kazakhstan": {
       "count": 1,
       "last_seen": "2026-09-20T19:12:13.956019+00:00",
@@ -16238,13 +16365,6 @@
         "actors_directors"
       ]
     },
-    "variety": {
-      "count": 1,
-      "last_seen": "2026-09-20T09:40:20.135643+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "born nov": {
       "count": 1,
       "last_seen": "2026-09-20T09:40:20.135643+00:00",
@@ -16353,69 +16473,6 @@
     },
     "emmy": {
       "count": 2,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony page dies": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tony": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "winning": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nominated director of": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stage": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "screen was": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony page": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tony award": {
-      "count": 1,
-      "last_seen": "2026-09-19T19:06:27.833157+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "broadway": {
-      "count": 1,
       "last_seen": "2026-09-19T19:06:27.833157+00:00",
       "categories": [
         "movie_news"
