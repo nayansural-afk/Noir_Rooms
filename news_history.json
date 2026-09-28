@@ -10309,6 +10309,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3ccae8ad271ec2c77be77736",
+      "story_id": "413bf0ba384ba8fa",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety",
+        "Deadline"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741",
+      "title": "‘Spider-Man: Brand New Day’ Re-Release in the Works With New Footage",
+      "category": "trailers_first_look",
+      "score": 33.03,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "spider-man",
+        "spider",
+        "brand new day",
+        "release",
+        "works with new",
+        "footage",
+        "variety",
+        "july",
+        "release in works",
+        "with extra footage",
+        "the dish",
+        "sources",
+        "destin daniel cretton",
+        "tom holland",
+        "rosario"
+      ],
+      "hook": "سفر دوباره به دنیای اسپایدرمن با تصاویر جدید",
+      "hooks": [
+        "اسپایدرمن دوباره بر می‌گردد: فیلم جدید و تازه",
+        "نکات تازه در ریلِس جدید اسپایدرمن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Variety تأیید کرده ریلِس جدید با تصاویر تازه در راه است"
+      ],
+      "status": "published",
+      "telegram_message_id": 206,
+      "published_at": "2026-09-28T22:22:01.425218+00:00",
+      "text": "سفر دوباره به دنیای اسپایدرمن با تصاویر جدید\n\n🎬 اسپایدرمن: ریلِس جدید با صحنه‌های تازه در انتظار\n\nاسپایدرمن: برند نو روز در حال آماده‌سازی ریلِس جدید است. تصاویر تازه‌ای اضافه می‌شود، اما جزئیات هنوز مخفی است.\nفیلم در 31 جولای به نمایش درآمد و درآمدی به مبلغ $2.49 کسب کرد.\n\n📌 نکات مهم:\n• ریلیز جدید با صحنه‌های تازه\n• تاریخ انتشار هنوز اعلام نشده\n• فیلم در 31 جولای منتشر شد\n• درآمد $2.49\n\n✅ تأیید چندمنبعی: Variety Film, Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10511,7 +10568,8 @@
     "eb14c1940ff89c4a24eec142",
     "24cb406f8d168db3f0944ab0",
     "72a9b4ed5a30e3321aa60f66",
-    "55289bd13fd0afc49cd10cbf"
+    "55289bd13fd0afc49cd10cbf",
+    "3ccae8ad271ec2c77be77736"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10713,7 +10771,8 @@
     "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
     "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099",
     "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282",
-    "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487"
+    "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
+    "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741"
   ],
   "category_stats": {
     "movie_news": {
@@ -10735,7 +10794,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 7,
+      "published": 8,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10791,7 +10850,7 @@
       "published": 8
     },
     "22": {
-      "published": 8
+      "published": 9
     },
     "7": {
       "published": 2
@@ -10837,64 +10896,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-18T09:07:51.113902+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-18T13:05:02.778546+00:00",
       "version": 2,
@@ -13852,6 +13853,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-28T22:22:01.425329+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14053,9 +14112,125 @@
     "911543c075f773c7",
     "6214b068cfb7fd77",
     "e420a203aff492b4",
-    "0fb9bb739ebb245c"
+    "0fb9bb739ebb245c",
+    "413bf0ba384ba8fa"
   ],
   "entity_memory": {
+    "tom holland": {
+      "count": 3,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "spider-man": {
+      "count": 3,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "spider": {
+      "count": 3,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "brand new day": {
+      "count": 2,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "destin daniel cretton": {
+      "count": 2,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "variety": {
+      "count": 3,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "release": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "works with new": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "footage": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "july": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "release in works": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "with extra footage": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "the dish": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sources": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "rosario": {
+      "count": 1,
+      "last_seen": "2026-09-28T22:22:01.425254+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "star": {
       "count": 3,
       "last_seen": "2026-09-28T19:55:46.946539+00:00",
@@ -14560,30 +14735,6 @@
         "movie_news"
       ]
     },
-    "tom holland": {
-      "count": 2,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "spider-man": {
-      "count": 2,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "spider": {
-      "count": 2,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "star wars": {
       "count": 1,
       "last_seen": "2026-09-27T14:32:05.584918+00:00",
@@ -14633,20 +14784,6 @@
         "actors_directors"
       ]
     },
-    "brand new day": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "destin daniel cretton": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "direct next movie": {
       "count": 1,
       "last_seen": "2026-09-27T14:32:05.584918+00:00",
@@ -14680,14 +14817,6 @@
       "count": 5,
       "last_seen": "2026-09-27T10:26:27.722654+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "variety": {
-      "count": 2,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -16812,69 +16941,6 @@
     "its opening weekend": {
       "count": 1,
       "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "than": {
-      "count": 1,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first film made": {
-      "count": 1,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "its entire run": {
-      "count": 1,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "weapons": {
-      "count": 1,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barbarian": {
-      "count": 1,
-      "last_seen": "2026-09-21T18:24:30.383227+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the seasons": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "portuguese": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "portugal": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "maureen fazendeiro": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
       "categories": [
         "movie_news"
       ]
