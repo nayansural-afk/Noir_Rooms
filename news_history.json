@@ -10256,6 +10256,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "55289bd13fd0afc49cd10cbf",
+      "story_id": "0fb9bb739ebb245c",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
+      "title": "Kristen Stewart, Riley Keough and Wagner Moura to Star in Olivier Assayas’ Next Film ‘Spiritual World’",
+      "category": "actors_directors",
+      "score": 64.12,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "kristen stewart",
+        "riley keough",
+        "wagner moura",
+        "star",
+        "olivier assayas",
+        "next film",
+        "spiritual world",
+        "french",
+        "the wizard",
+        "kremlin",
+        "vicky krieps",
+        "assayas"
+      ],
+      "hook": "کرسن استیورت و اولیویر آساژ، دوباره در 'جهان معنوی'",
+      "hooks": [
+        "کرسن استیورت در نقش جدید اولیویر آساژ",
+        "فیلم 'جهان معنوی' با ستارگان برجسته"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کرسن استیورت در فیلم 2015 اولیویر آساژ جایزه سزار دریافت کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 205,
+      "published_at": "2026-09-28T19:55:46.946504+00:00",
+      "text": "کرسن استیورت و اولیویر آساژ، دوباره در 'جهان معنوی'\n\n🎬 کرسن استیورت و رایل کیو در فیلم جدید اولیویر آساژ 'جهان معنوی'\n\nفیلم جدید اولیویر آساژ، 'جهان معنوی'، با ستارگان برجسته‌ای چون کریستین استیورت، ویکی کریپس، رایل کیو و وارگن مورا در صحنه قرار می‌گیرد. این پروژه دوباره کریستین استیورت را به همراه اولیویر آساژ می‌آورد؛ او در فیلم 2015 اولیویر آساژ جایزه سزار بهترین بازیگر فرعی را برای نقش خود در کنار ژولیت بِنوشه کسب کرده بود.\n\n📌 نکات مهم:\n• فیلم 'جهان معنوی' توسط اولیویر آساژ ساخته می‌شود\n• کریستین استیورت، ویکی کریپس، رایل کیو و وارگن مورا در نقش‌های اصلی حضور دارند\n• کریستین استیورت جایزه سزار بهترین بازیگر فرعی را در فیلم 2015 اولیویر آساژ دریافت کرده است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10457,7 +10510,8 @@
     "6c1d0dc8b7ea3c75649054b3",
     "eb14c1940ff89c4a24eec142",
     "24cb406f8d168db3f0944ab0",
-    "72a9b4ed5a30e3321aa60f66"
+    "72a9b4ed5a30e3321aa60f66",
+    "55289bd13fd0afc49cd10cbf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10658,7 +10712,8 @@
     "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812",
     "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
     "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099",
-    "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282"
+    "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282",
+    "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487"
   ],
   "category_stats": {
     "movie_news": {
@@ -10668,7 +10723,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 72,
+      "published": 73,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10733,7 +10788,7 @@
       "published": 23
     },
     "19": {
-      "published": 7
+      "published": 8
     },
     "22": {
       "published": 8
@@ -10782,64 +10837,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-18T05:13:45.392020+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-18T09:07:51.113902+00:00",
       "version": 2,
@@ -13797,6 +13794,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-28T19:55:46.946616+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13997,9 +14052,95 @@
     "b26a607a667089d3",
     "911543c075f773c7",
     "6214b068cfb7fd77",
-    "e420a203aff492b4"
+    "e420a203aff492b4",
+    "0fb9bb739ebb245c"
   ],
   "entity_memory": {
+    "star": {
+      "count": 3,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "french": {
+      "count": 3,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "kristen stewart": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "riley keough": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wagner moura": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olivier assayas": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "next film": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "spiritual world": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the wizard": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kremlin": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "vicky krieps": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "assayas": {
+      "count": 1,
+      "last_seen": "2026-09-28T19:55:46.946539+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "trailer": {
       "count": 2,
       "last_seen": "2026-09-28T17:18:23.750841+00:00",
@@ -14160,13 +14301,6 @@
       "last_seen": "2026-09-28T11:34:12.822652+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "star": {
-      "count": 2,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "neil patrick harris": {
@@ -15620,13 +15754,6 @@
         "movie_news"
       ]
     },
-    "french": {
-      "count": 2,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "paris": {
       "count": 2,
       "last_seen": "2026-09-24T13:59:18.013571+00:00",
@@ -16748,76 +16875,6 @@
     "maureen fazendeiro": {
       "count": 1,
       "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lisbon": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alentejo": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mirroring": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fazendeiro": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "observational": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "german": {
-      "count": 1,
-      "last_seen": "2026-09-21T15:37:22.265467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sean hogan": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dark gets": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boarded": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "worldwide sales": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
       "categories": [
         "movie_news"
       ]
