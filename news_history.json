@@ -10152,6 +10152,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "24cb406f8d168db3f0944ab0",
+      "story_id": "6214b068cfb7fd77",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099",
+      "title": "VMI Worldwide Partners With Empire Studios, Rascal Entertainment & Green 13 On Survival Thriller ‘Snow Predator’",
+      "category": "movie_news",
+      "score": 78.69,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "worldwide partners with",
+        "empire studios",
+        "rascal entertainment",
+        "green",
+        "on survival thriller",
+        "snow predator",
+        "films",
+        "worldwide",
+        "coz greenop",
+        "charley",
+        "shinfield studios",
+        "daniel stisen"
+      ],
+      "hook": "سینمای جدید: شکارچی برف در مسیر زنده‌ماندن",
+      "hooks": [
+        "شکارچی برف، هیجان در برف",
+        "سینمای زنده‌ماندن در برف"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «شکارچی برف» یک ترسناک زنده‌ماندن است"
+      ],
+      "status": "published",
+      "telegram_message_id": 203,
+      "published_at": "2026-09-28T11:34:12.822622+00:00",
+      "text": "سینمای جدید: شکارچی برف در مسیر زنده‌ماندن\n\n🎬 سینمای جدید: شکارچی برف، همکاری VMI و Empire Studios\n\nفیلم «شکارچی برف»، یک هیجان‌انگیز ترسناک زنده‌ماندن، در حال فیلمبرداری در استودیوهای شینفیلد در انگلستان است. این پروژه توسط Coz Greenop کارگردانی و Charley McDougall نویسندگی می‌شود و بازیگران Daniel Stisen، Eloise Lovell Anderson و Jason Flemyng را در بر می‌گیرد.\n\nشرکت‌های VMI Worldwide، Empire Studios، Rascal Entertainment و Green 13 Films در این همکاری حضور دارند و به دنبال خلق یک تجربه سینمایی هیجان‌انگیز در فضای برفی هستند.\n\n📌 نکات مهم:\n• فیلم «شکارچی برف» در حال فیلمبرداری در استودیوهای شینفیلد انگلستان است\n• کارگردان این فیلم Coz Greenop است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10351,7 +10403,8 @@
     "4d04306420f0c6c97942c2ed",
     "66d2eb7bd3cdac18843963f2",
     "6c1d0dc8b7ea3c75649054b3",
-    "eb14c1940ff89c4a24eec142"
+    "eb14c1940ff89c4a24eec142",
+    "24cb406f8d168db3f0944ab0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10550,11 +10603,12 @@
     "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714",
     "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
     "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812",
-    "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661"
+    "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
+    "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 105,
+      "published": 106,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10598,7 +10652,7 @@
       "published": 6
     },
     "11": {
-      "published": 6
+      "published": 7
     },
     "14": {
       "published": 5
@@ -10674,64 +10728,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-17T17:04:46.148042+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-17T20:17:37.739846+00:00",
       "version": 2,
@@ -13689,6 +13685,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-28T11:34:12.822720+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13887,9 +13941,94 @@
     "5356bac52ca8e1dc",
     "98f81fc99018e327",
     "b26a607a667089d3",
-    "911543c075f773c7"
+    "911543c075f773c7",
+    "6214b068cfb7fd77"
   ],
   "entity_memory": {
+    "worldwide partners with": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "empire studios": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rascal entertainment": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "green": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "on survival thriller": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "snow predator": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "worldwide": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "coz greenop": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "charley": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shinfield studios": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "daniel stisen": {
+      "count": 1,
+      "last_seen": "2026-09-28T11:34:12.822652+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 2,
       "last_seen": "2026-09-27T22:56:40.811861+00:00",
@@ -16623,90 +16762,6 @@
     "hard day": {
       "count": 1,
       "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "night": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beatles biopic": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the beatles": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "four": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film cinematic event": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harris dickinson": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kazakhstan": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mugalim": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from director ayana": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nurdinova world premieres": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new directors section": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kazakhstani": {
-      "count": 1,
-      "last_seen": "2026-09-20T19:12:13.956019+00:00",
       "categories": [
         "movie_news"
       ]
