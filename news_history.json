@@ -10204,6 +10204,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "72a9b4ed5a30e3321aa60f66",
+      "story_id": "e420a203aff492b4",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282",
+      "title": "‘Elsinore’ Trailer: First Look At Andrew Scott’s Buzzy Awards-Season Entry",
+      "category": "trailers_first_look",
+      "score": 72.25,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "elsinore",
+        "trailer",
+        "first look at",
+        "andrew scott",
+        "buzzy awards",
+        "season entry we",
+        "simon stone",
+        "the dig",
+        "ian charleson",
+        "stephen beresford",
+        "pride"
+      ],
+      "hook": "تراژری جدید: السینور، داستان واقعی اندرو اسکات",
+      "hooks": [
+        "سینمایی که انتظار می‌کردید",
+        "سفر به دنیای اندرو اسکات"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تراژری رسمی اولین تریلر فیلم السینور منتشر شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 204,
+      "published_at": "2026-09-28T17:18:23.750809+00:00",
+      "text": "تراژری جدید: السینور، داستان واقعی اندرو اسکات\n\n🎬 السینور: تریلر جدید با اندرو اسکات در نقش اصلی\n\nتراژری رسمی اولین تریلر فیلم السینور، که در آن اندرو اسکات نقش اصلی را بازی می‌کند، منتشر شد. این فیلم توسط سیمون استون، کارگردان فیلم The Dig، به کارگردانی شده و بر اساس زندگی بازیگر آین چارلزون ساخته شده است.\nسیناپسیس رسمی فیلم السینور آن را به‌عنوان یک داستان واقعی، قدرتمند، عمیقاً احساسی و الهام‌بخش معرفی می‌کند. این روایت درباره چالش‌های عظیمی است که چارلزون در حین آماده‌سازی برای نقش خود با آن مواجه شد.\n\n📌 نکات مهم:\n• تراژری رسمی اولین تریلر فیلم السینور\n• اندرو اسکات در نقش اصلی\n• سیمون استون کارگردان\n• سیناپسیس بر اساس زندگی آین چارلزون\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10404,7 +10456,8 @@
     "66d2eb7bd3cdac18843963f2",
     "6c1d0dc8b7ea3c75649054b3",
     "eb14c1940ff89c4a24eec142",
-    "24cb406f8d168db3f0944ab0"
+    "24cb406f8d168db3f0944ab0",
+    "72a9b4ed5a30e3321aa60f66"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10604,7 +10657,8 @@
     "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
     "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812",
     "https://variety.com/2026/legit/news/damn-yankees-broadway-revival-neil-patrick-harris-1236876661",
-    "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099"
+    "https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099",
+    "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282"
   ],
   "category_stats": {
     "movie_news": {
@@ -10626,7 +10680,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 6,
+      "published": 7,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10706,7 +10760,7 @@
       "published": 25
     },
     "17": {
-      "published": 26
+      "published": 27
     },
     "12": {
       "published": 1
@@ -10728,64 +10782,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-17T20:17:37.739846+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-18T05:13:45.392020+00:00",
       "version": 2,
@@ -13743,6 +13739,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-28T17:18:23.750912+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -13942,9 +13996,88 @@
     "98f81fc99018e327",
     "b26a607a667089d3",
     "911543c075f773c7",
-    "6214b068cfb7fd77"
+    "6214b068cfb7fd77",
+    "e420a203aff492b4"
   ],
   "entity_memory": {
+    "trailer": {
+      "count": 2,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "elsinore": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "first look at": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "andrew scott": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "buzzy awards": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "season entry we": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "simon stone": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "the dig": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "ian charleson": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "stephen beresford": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "pride": {
+      "count": 1,
+      "last_seen": "2026-09-28T17:18:23.750841+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "worldwide partners with": {
       "count": 1,
       "last_seen": "2026-09-28T11:34:12.822652+00:00",
@@ -15657,13 +15790,6 @@
         "actors_directors"
       ]
     },
-    "trailer": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "directors stephen maing": {
       "count": 1,
       "last_seen": "2026-09-23T22:52:25.400364+00:00",
@@ -16692,76 +16818,6 @@
     "worldwide sales": {
       "count": 1,
       "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blue finch films": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ahead": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beyond fest bow": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beyond fest": {
-      "count": 1,
-      "last_seen": "2026-09-21T10:32:58.698712+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barry keoghan": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joseph quinn": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harris dickinson spotted": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "filming": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "opening": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hard day": {
-      "count": 1,
-      "last_seen": "2026-09-20T22:20:55.720008+00:00",
       "categories": [
         "movie_news"
       ]
