@@ -10471,6 +10471,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c8385a7e6464094ef3d49af2",
+      "story_id": "a9eed4d803f5f434",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977",
+      "title": "Daniel Webber, Dermot Mulroney and Katheryn Winnick to Lead Psychological Thriller ‘Compound 9’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 79.49,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "daniel webber",
+        "dermot mulroney",
+        "katheryn winnick",
+        "lead psychological thriller",
+        "compound",
+        "billy",
+        "the dirt",
+        "anyone but you",
+        "the hunting wives",
+        "vikings",
+        "big sky",
+        "the marksman"
+      ],
+      "hook": "سریال روان‌شناختی جدید با دانیل وبر، درمت مولرونی و کاترین وینیک",
+      "hooks": [
+        "تلاش‌های روانی در کمپوند 9 با بازی‌های برجسته",
+        "سینمای ترسناک: دانیل وبر و همکاران در کمپوند 9"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دانیل وبر، درمت مولرونی و کاترین وینیک در نقش‌های اصلی در 'کمپوند 9'"
+      ],
+      "status": "published",
+      "telegram_message_id": 209,
+      "published_at": "2026-09-29T15:19:19.632720+00:00",
+      "text": "سریال روان‌شناختی جدید با دانیل وبر، درمت مولرونی و کاترین وینیک\n\n🎬 دانیل وبر، درمت مولرونی و کاترین وینیک در نقش‌های اصلی در ترسناک روان‌شناختی 'کمپوند 9'\n\nفیلم ترسناک روان‌شناختی 'کمپوند 9' با بازی‌های دانیل وبر، درمت مولرونی و کاترین وینیک در حال فیلم‌برداری در میامی است.\nکارگردان رادروگو H. ویلا، که در فیلم 'The Letter' نقش داشت، این اثر را بر اساس آثار ویلیام پیتر بلاتی خلق کرده و با حضور بازیگران شناخته‌شده‌ای چون 'Billy the Kid' و 'Vikings'، انتظار هیجان‌انگیزی را برمی‌انگیزد.\n\n📌 نکات مهم:\n• دانیل وبر، درمت مولرونی و کاترین وینیک در نقش‌های اصلی در 'کمپوند 9'\n• فیلم در حال فیلم‌برداری در میامی است\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10676,7 +10728,8 @@
     "55289bd13fd0afc49cd10cbf",
     "3ccae8ad271ec2c77be77736",
     "e5a8f4b7df7e946dc4da62a2",
-    "0671d233aa3aeee442ef09c9"
+    "0671d233aa3aeee442ef09c9",
+    "c8385a7e6464094ef3d49af2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10881,11 +10934,12 @@
     "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
     "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741",
     "https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483",
-    "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027"
+    "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027",
+    "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 106,
+      "published": 107,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10971,7 +11025,7 @@
       "published": 1
     },
     "15": {
-      "published": 3
+      "published": 4
     },
     "1": {
       "published": 1
@@ -11008,64 +11062,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-18T20:16:15.508394+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-19T09:18:29.243979+00:00",
       "version": 2,
@@ -14023,6 +14019,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-29T15:19:19.632831+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14227,9 +14281,94 @@
     "0fb9bb739ebb245c",
     "413bf0ba384ba8fa",
     "186de3de82b739fc",
-    "641da717be1700ce"
+    "641da717be1700ce",
+    "a9eed4d803f5f434"
   ],
   "entity_memory": {
+    "daniel webber": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dermot mulroney": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "katheryn winnick": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lead psychological thriller": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "compound": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "billy": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dirt": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anyone but you": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the hunting wives": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vikings": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "big sky": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the marksman": {
+      "count": 1,
+      "last_seen": "2026-09-29T15:19:19.632753+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "kaali kheti": {
       "count": 1,
       "last_seen": "2026-09-29T11:13:39.486382+00:00",
@@ -16971,92 +17110,6 @@
       "last_seen": "2026-09-22T13:52:03.395183+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "konings": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "there": {
-      "count": 3,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "london": {
-      "count": 7,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "shadows": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beirut": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "covid": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lebanon": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bulgarian": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mind": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lana": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tala calil": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "middle east": {
-      "count": 1,
-      "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
