@@ -10418,6 +10418,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0671d233aa3aeee442ef09c9",
+      "story_id": "641da717be1700ce",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027",
+      "title": "‘Kaali Kheti’, Indian Horror Starring Jackie Shroff, Sharad Kelkar and Neha Sargam, Sets Indian Release Date",
+      "category": "actors_directors",
+      "score": 75.2,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "kaali kheti",
+        "indian horror starring",
+        "jackie shroff",
+        "sharad kelkar",
+        "neha sargam",
+        "sets indian release",
+        "date",
+        "indian",
+        "october",
+        "above",
+        "haris imtiyaz khan",
+        "sana khan"
+      ],
+      "hook": "Kaali Kheti: هorror rural با جکِی شروف در ۲۳ اکتبر",
+      "hooks": [
+        "هorror rural در هند با بازی جکِی شروف",
+        "تاریخ انتشار: ۲۳ اکتبر برای Kaali Kheti"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تاریخ انتشار داخلی ۲۳ اکتبر"
+      ],
+      "status": "published",
+      "telegram_message_id": 208,
+      "published_at": "2026-09-29T11:13:39.486353+00:00",
+      "text": "Kaali Kheti: هorror rural با جکِی شروف در ۲۳ اکتبر\n\n🎬 Kaali Kheti: هorror rural هند با بازی جکِی شروف، شارد کِلکار و نِها سرگام، در تاریخ ۲۳ اکتبر در سینما\n\nفیلم هorror rural هند به نام Kaali Kheti، با حضور بازیگران برجسته جکِی شروف، شارد کِلکار و نِها سرگام، در تاریخ ۲۳ اکتبر در سینماهای داخلی هند به نمایش گذاشته خواهد شد.\nسینمایی که توسط نویسنده و کارگردان هارِس امتیاز خان ساخته شده، در حال حاضر در دورهای فیلمبرداری در روستاهای هندی به جریان است و با پوسترهای جذاب، انتظار زیادی را برانگیخته است.\n\n📌 نکات مهم:\n• جکِی شروف، شارد کِلکار و نِها سرگام در نقش‌های اصلی\n• تاریخ انتشار داخلی ۲۳ اکتبر\n• کارگردان و نویسنده هارِس امتیاز خان\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10622,7 +10675,8 @@
     "72a9b4ed5a30e3321aa60f66",
     "55289bd13fd0afc49cd10cbf",
     "3ccae8ad271ec2c77be77736",
-    "e5a8f4b7df7e946dc4da62a2"
+    "e5a8f4b7df7e946dc4da62a2",
+    "0671d233aa3aeee442ef09c9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10826,7 +10880,8 @@
     "https://deadline.com/2026/09/elsinore-trailer-andrew-scott-1237115282",
     "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
     "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741",
-    "https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483"
+    "https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483",
+    "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027"
   ],
   "category_stats": {
     "movie_news": {
@@ -10836,7 +10891,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 74,
+      "published": 75,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10874,7 +10929,7 @@
       "published": 6
     },
     "11": {
-      "published": 7
+      "published": 8
     },
     "14": {
       "published": 5
@@ -10953,64 +11008,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-18T17:05:36.876586+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-18T20:16:15.508394+00:00",
       "version": 2,
@@ -13968,6 +13965,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-29T11:13:39.486448+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14171,9 +14226,94 @@
     "e420a203aff492b4",
     "0fb9bb739ebb245c",
     "413bf0ba384ba8fa",
-    "186de3de82b739fc"
+    "186de3de82b739fc",
+    "641da717be1700ce"
   ],
   "entity_memory": {
+    "kaali kheti": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indian horror starring": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jackie shroff": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sharad kelkar": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "neha sargam": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sets indian release": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "date": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indian": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "october": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "above": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "haris imtiyaz khan": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sana khan": {
+      "count": 1,
+      "last_seen": "2026-09-29T11:13:39.486382+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "john le": {
       "count": 1,
       "last_seen": "2026-09-29T00:18:57.986824+00:00",
@@ -16915,90 +17055,6 @@
     "middle east": {
       "count": 1,
       "last_seen": "2026-09-22T09:44:51.045739+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount": {
-      "count": 2,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "warner bros": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john oliver calls": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "soon": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "be business daddy": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "david ellison": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "throws stephen colbert": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "under the bus": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john oliver": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "last week tonight": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "oliver": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ellison": {
-      "count": 1,
-      "last_seen": "2026-09-21T23:09:33.619153+00:00",
       "categories": [
         "movie_news"
       ]
