@@ -10523,6 +10523,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a3a3870e791d5293173de445",
+      "story_id": "57293aa769916896",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/sylvester-stallone-superhero-bodies-steroids-1236878101",
+      "title": "Sylvester Stallone Says Superhero Movie Bodies Aren’t ‘Natural’ and Taking Steroids to Bulk Up Is Like ‘Putting on Part of a Costume’",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "sylvester stallone says",
+        "superhero movie bodies",
+        "aren",
+        "natural",
+        "taking steroids",
+        "bulk up is",
+        "like",
+        "putting",
+        "part",
+        "costume",
+        "sylvester stallone"
+      ],
+      "hook": "استیلون: بدن‌های سوپرهِرو طبیعی نیستند، استروئیدها مثل لباس",
+      "hooks": [
+        "استیلون درباره بدن‌های سوپرهِرو و استروئیدها",
+        "مِیومِری استیلون: ۵۰ سال پس از رُکی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "استیلون در مصاحبه 92nd Street Y درباره بدن‌های سوپرهِرو و استروئیدها صحبت کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 210,
+      "published_at": "2026-09-29T18:24:08.547972+00:00",
+      "text": "استیلون: بدن‌های سوپرهِرو طبیعی نیستند، استروئیدها مثل لباس\n\n🎬 استیلون: بدن‌های سوپرهِرو طبیعی نیستند، استروئیدها مثل لباس\n\nاستیلون در مصاحبه 92nd Street Y گفت بدن‌های سوپرهِرو طبیعی نیستند و استفاده از استروئیدها همانند پوشیدن بخشی از لباس است.\nدر خاطرات خود به نام \"Steps\"، او داستان ساخت رُکی را ۵۰ سال پس از انتشار آن به اشتراک می‌گذارد و در مورد چالش‌های اوایل دوران حرفه‌ای‌اش صحبت می‌کند.\n\n📌 نکات مهم:\n• استیلون گفته بدن‌های سوپرهِرو طبیعی نیستند و استروئیدها مثل لباس هستند\n• او در خاطرات \"Steps\" داستان ساخت رُکی را ۵۰ سال پس از انتشار آن بیان کرده است\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sylvester-stallone-superhero-bodies-steroids-1236878101",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10729,7 +10781,8 @@
     "3ccae8ad271ec2c77be77736",
     "e5a8f4b7df7e946dc4da62a2",
     "0671d233aa3aeee442ef09c9",
-    "c8385a7e6464094ef3d49af2"
+    "c8385a7e6464094ef3d49af2",
+    "a3a3870e791d5293173de445"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -10935,11 +10988,12 @@
     "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741",
     "https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483",
     "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027",
-    "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977"
+    "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977",
+    "https://variety.com/2026/film/news/sylvester-stallone-superhero-bodies-steroids-1236878101"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 107,
+      "published": 108,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -10992,7 +11046,7 @@
       "published": 6
     },
     "18": {
-      "published": 5
+      "published": 6
     },
     "20": {
       "published": 26
@@ -11062,64 +11116,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-19T09:18:29.243979+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-19T12:50:54.818822+00:00",
       "version": 2,
@@ -14077,6 +14073,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-29T18:24:08.548089+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14282,9 +14336,96 @@
     "413bf0ba384ba8fa",
     "186de3de82b739fc",
     "641da717be1700ce",
-    "a9eed4d803f5f434"
+    "a9eed4d803f5f434",
+    "57293aa769916896"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 21,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "sylvester stallone says": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "superhero movie bodies": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "aren": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "natural": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "taking steroids": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bulk up is": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "like": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "putting": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "part": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "costume": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sylvester stallone": {
+      "count": 1,
+      "last_seen": "2026-09-29T18:24:08.548008+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "daniel webber": {
       "count": 1,
       "last_seen": "2026-09-29T15:19:19.632753+00:00",
@@ -15081,15 +15222,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 20,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "guardian": {
@@ -17033,83 +17165,6 @@
       "last_seen": "2026-09-22T17:28:02.029189+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "heresy": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "didier konings": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "before": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "frieda": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anneke sluiters": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gelo": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "waas": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "previously": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hikko": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "len leo vincent": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "that": {
-      "count": 1,
-      "last_seen": "2026-09-22T13:52:03.395183+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
