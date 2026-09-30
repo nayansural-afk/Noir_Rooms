@@ -10789,6 +10789,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1fc1e8fd7ed709082856774f",
+      "story_id": "6137ca9204ae87fe",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
+      "title": "‘Ink’ Helmer Danny Boyle To Receive Gotham Film Awards’ Director Tribute",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "helmer danny boyle",
+        "to receive gotham",
+        "film awards",
+        "director tribute",
+        "danny boyle",
+        "venice film festival",
+        "gotham director tribute",
+        "gotham film awards",
+        "november",
+        "boyle"
+      ],
+      "hook": "دانیل بویل، ستارهٔ سینما، در گاموت تقدیر می‌شود",
+      "hooks": [
+        "دانیل بویل در گاموت، افتخار سینمای معاصر",
+        "تقدیر گاموت برای دانیل بویل، ۴۰ سال هنر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Danny Boyle to receive Gotham Director Tribute at 36th annual Gotham Film Awards in November"
+      ],
+      "status": "published",
+      "telegram_message_id": 215,
+      "published_at": "2026-09-30T18:13:33.909431+00:00",
+      "text": "دانیل بویل، ستارهٔ سینما، در گاموت تقدیر می‌شود\n\n🎬 دانیل بویل، خالق فیلم «Ink»، در گاموت تقدیر می‌شود\n\nفیلم جدید دانیل بویل، «Ink»، در فستیوال ونیز افتتاح شد و توجه جهانیان را جلب کرد. در مراسم گاموت ۳۶، بویل با افتخار جایزهٔ تقدیر به‌عنوان یکی از بزرگ‌ترین هنرمندان سینمای معاصر دریافت خواهد کرد.\n\n📌 نکات مهم:\n• دانیل بویل خالق فیلم «Ink»\n• فیلم «Ink» در فستیوال ونیز افتتاح شد\n• دانیل بویل در گاموت ۳۶ جایزهٔ تقدیر دریافت می‌کند\n• این جایزه به هنرمندانی اعطا می‌شود که تأثیر قابل توجهی بر سینمای معاصر دارند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11000,7 +11052,8 @@
     "bcd82506691a62f066d37fe5",
     "8b794ce5701cde3b58c0dd9b",
     "35ab20bc8d5c39c8f22de789",
-    "f43ce7338c4cdd131a21481e"
+    "f43ce7338c4cdd131a21481e",
+    "1fc1e8fd7ed709082856774f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11211,11 +11264,12 @@
     "https://deadline.com/2026/09/lucien-laviscount-taylour-paige-tyler-perrys-confabulation-1237116258",
     "https://deadline.com/2026/09/madeleine-arthur-dianne-doan-psychological-horror-doula-1237129703",
     "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
-    "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582"
+    "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
+    "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 110,
+      "published": 111,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11268,7 +11322,7 @@
       "published": 6
     },
     "18": {
-      "published": 6
+      "published": 7
     },
     "20": {
       "published": 26
@@ -11338,64 +11392,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-20T09:40:20.135717+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-20T13:25:34.759030+00:00",
       "version": 2,
@@ -14353,6 +14349,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-30T18:13:33.909550+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14563,9 +14617,87 @@
     "efd49381427bfd79",
     "3128d425f59bb11e",
     "4251c17ebbf3f346",
-    "4a2206d7fd7b6e63"
+    "4a2206d7fd7b6e63",
+    "6137ca9204ae87fe"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "helmer danny boyle": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to receive gotham": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film awards": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "director tribute": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "danny boyle": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice film festival": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gotham director tribute": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gotham film awards": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "november": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boyle": {
+      "count": 1,
+      "last_seen": "2026-09-30T18:13:33.909465+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "date": {
       "count": 2,
       "last_seen": "2026-09-30T15:34:13.993559+00:00",
@@ -17316,83 +17448,6 @@
     "american independent film": {
       "count": 1,
       "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "some": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "his best movies": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "were made": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studios half": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "minnie": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moskowitz": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new beverly": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boorman": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "devil": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "exorcist": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the heretic john": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
       "categories": [
         "movie_news"
       ]
