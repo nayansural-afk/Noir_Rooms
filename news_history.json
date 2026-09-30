@@ -10841,6 +10841,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c232391d693735986b67a6ba",
+      "story_id": "0610ec58ec250178",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+      "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
+      "category": "actors_directors",
+      "score": 68.17,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "reanimated",
+        "greta garbo",
+        "relatives",
+        "hollywood",
+        "more",
+        "swedish",
+        "continue"
+      ],
+      "hook": "گرتا گاربو دوباره در دنیای هوش مصنوعی می‌درخشد",
+      "hooks": [
+        "آینده سینما با دوباره زنده شدن گرتا گاربو",
+        "آینده‌ای نوین: گرتا گاربو در تبلیغ با مهره‌های چرخشی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "خویشاوندان گرتا گاربو به استفاده از نسخه هوش مصنوعی او در نقش‌های جدید اشاره کرده‌اند"
+      ],
+      "status": "published",
+      "telegram_message_id": 216,
+      "published_at": "2026-09-30T21:07:32.964107+00:00",
+      "text": "گرتا گاربو دوباره در دنیای هوش مصنوعی می‌درخشد\n\n🎬 گرتا گاربو: دوباره زنده شد در دنیای هوش مصنوعی\n\nخویشاوندان گرتا گاربو پیشنهاد می‌کنند که نسخه‌ی هوش مصنوعی او در نقش‌های جدید سینمایی ظاهر شود؛ این ایده پس از صد سال از اولین حضور او در پرده مطرح شد. در تبلیغی با مهره‌های چرخشی، تصویر دوباره زنده‌ی گاربو در نقش‌های گلامرآور نشان داده می‌شود، نمادی از ورود او به عصر هوش مصنوعی.\n\n📌 نکات مهم:\n• نسخه هوش مصنوعی گرتا گاربو در نقش‌های جدید سینمایی\n• تصویر او در تبلیغ با مهره‌های چرخشی\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11053,7 +11100,8 @@
     "8b794ce5701cde3b58c0dd9b",
     "35ab20bc8d5c39c8f22de789",
     "f43ce7338c4cdd131a21481e",
-    "1fc1e8fd7ed709082856774f"
+    "1fc1e8fd7ed709082856774f",
+    "c232391d693735986b67a6ba"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11265,7 +11313,8 @@
     "https://deadline.com/2026/09/madeleine-arthur-dianne-doan-psychological-horror-doula-1237129703",
     "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
     "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
-    "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742"
+    "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
+    "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert"
   ],
   "category_stats": {
     "movie_news": {
@@ -11275,7 +11324,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 76,
+      "published": 77,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11328,7 +11377,7 @@
       "published": 26
     },
     "21": {
-      "published": 9
+      "published": 10
     },
     "23": {
       "published": 6
@@ -11392,64 +11441,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-20T13:25:34.759030+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-20T16:39:02.676578+00:00",
       "version": 2,
@@ -14407,6 +14398,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-30T21:07:32.964203+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14618,9 +14667,60 @@
     "3128d425f59bb11e",
     "4251c17ebbf3f346",
     "4a2206d7fd7b6e63",
-    "6137ca9204ae87fe"
+    "6137ca9204ae87fe",
+    "0610ec58ec250178"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 6,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "reanimated": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "greta garbo": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "relatives": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "more": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "swedish": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-09-30T21:07:32.964137+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "venice": {
       "count": 1,
       "last_seen": "2026-09-30T18:13:33.909465+00:00",
@@ -16440,14 +16540,6 @@
         "movie_news"
       ]
     },
-    "hollywood": {
-      "count": 5,
-      "last_seen": "2026-09-26T09:45:56.641137+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "greta gerwig": {
       "count": 1,
       "last_seen": "2026-09-26T09:45:56.641137+00:00",
@@ -17408,48 +17500,6 @@
       "last_seen": "2026-09-23T19:55:24.900599+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "barbra streisand": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "los altos": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "calif": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john cassavetes practically": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "invented": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american independent film": {
-      "count": 1,
-      "last_seen": "2026-09-23T17:37:34.698341+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
