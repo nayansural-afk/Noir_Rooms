@@ -10888,6 +10888,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "691159f11346eaa9c9b31bfb",
+      "story_id": "ba1e9e89fc713d78",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
+      "title": "Peppino Mazzullo, Voice of Topo Gigio, the Italian Puppet on ‘The Ed Sullivan Show,’ Dies at 100",
+      "category": "actors_directors",
+      "score": 46.63,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "peppino mazzullo",
+        "voice",
+        "topo gigio",
+        "italian puppet",
+        "the ed sullivan",
+        "show",
+        "dies"
+      ],
+      "hook": "نقش صدای توپو گِیِو، ۱۰۰ سالگی و میراث",
+      "hooks": [
+        "صدای توپو گِیِو، در سال ۱۰۰ سالگی",
+        "پاپیانو مَزولو، صدای بی‌نظیر توپو گِیِو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "He was the voice of Topo Gigio"
+      ],
+      "status": "published",
+      "telegram_message_id": 217,
+      "published_at": "2026-09-30T23:38:39.269298+00:00",
+      "text": "نقش صدای توپو گِیِو، ۱۰۰ سالگی و میراث\n\n🎬 پاپیانو مَزولو، صدای توپو گِیِو، درگذشت در سن ۱۰۰ سالگی\n\nپاپیانو مَزولو، صدای محبوب توپو گِیِو، درگذشت در سن ۱۰۰ سالگی.\nاو در نمایش‌های ‘ایدو سولن‌لی شُو’ از سال ۱۹۶۲ تا ۱۹۷۱، با صدای گرم خود، جان تازه‌ای به شخصیت چوبی میزبان داد.\n\n📌 نکات مهم:\n• نام: پاپیانو مَزولو\n• صدای توپو گِیِو\n• دورنمایی در ایدو سولن‌لی شُو ۱۹۶۲-۱۹۷۱\n• مرگ در سن ۱۰۰ سالگی\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11101,7 +11148,8 @@
     "35ab20bc8d5c39c8f22de789",
     "f43ce7338c4cdd131a21481e",
     "1fc1e8fd7ed709082856774f",
-    "c232391d693735986b67a6ba"
+    "c232391d693735986b67a6ba",
+    "691159f11346eaa9c9b31bfb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11314,7 +11362,8 @@
     "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
     "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
     "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
-    "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert"
+    "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+    "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655"
   ],
   "category_stats": {
     "movie_news": {
@@ -11324,7 +11373,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 77,
+      "published": 78,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11380,7 +11429,7 @@
       "published": 10
     },
     "23": {
-      "published": 6
+      "published": 7
     },
     "3": {
       "published": 2
@@ -11441,64 +11490,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-20T16:39:02.676578+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-20T19:12:13.956095+00:00",
       "version": 2,
@@ -14456,6 +14447,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-30T23:38:39.269378+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14668,9 +14717,60 @@
     "4251c17ebbf3f346",
     "4a2206d7fd7b6e63",
     "6137ca9204ae87fe",
-    "0610ec58ec250178"
+    "0610ec58ec250178",
+    "ba1e9e89fc713d78"
   ],
   "entity_memory": {
+    "show": {
+      "count": 2,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "dies": {
+      "count": 4,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peppino mazzullo": {
+      "count": 1,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "voice": {
+      "count": 1,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "topo gigio": {
+      "count": 1,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "italian puppet": {
+      "count": 1,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the ed sullivan": {
+      "count": 1,
+      "last_seen": "2026-09-30T23:38:39.269322+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hollywood": {
       "count": 6,
       "last_seen": "2026-09-30T21:07:32.964137+00:00",
@@ -14963,13 +15063,6 @@
       ]
     },
     "the jennifer hudson": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "show": {
       "count": 1,
       "last_seen": "2026-09-30T11:01:28.377101+00:00",
       "categories": [
@@ -17453,49 +17546,7 @@
         "actors_directors"
       ]
     },
-    "dies": {
-      "count": 3,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "dick guttman": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "renowned hollywood publicist": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stars including barbra": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "streisand": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jay leno": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "clint eastwood": {
       "count": 1,
       "last_seen": "2026-09-23T19:55:24.900599+00:00",
       "categories": [
