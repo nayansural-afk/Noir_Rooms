@@ -10680,6 +10680,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "35ab20bc8d5c39c8f22de789",
+      "story_id": "4251c17ebbf3f346",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
+      "title": "Tom Cruise Pulls Out ‘Risky Business’ Dance Moves for ‘Jennifer Hudson Show’ Spirit Tunnel",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "tom cruise",
+        "tom cruise pulls",
+        "risky business",
+        "dance moves",
+        "jennifer hudson show",
+        "spirit tunnel tom",
+        "cruise",
+        "the jennifer hudson",
+        "show",
+        "spirit tunnel",
+        "digger",
+        "academy award"
+      ],
+      "hook": "کرایس در تونل روح، حرکات رِسکی بیزنس را به نمایش می‌گذارد",
+      "hooks": [
+        "دست‌نوشته‌ی رقص در برنامه‌ی جنیفر هودس",
+        "کرایس با شیک‌سینس در تونل روح",
+        "حرکات رِسکی بیزنس در «جنیفر هودس شو»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Tom Cruise performed the Risky Business dance moves on The Jennifer Hudson Show"
+      ],
+      "status": "published",
+      "telegram_message_id": 213,
+      "published_at": "2026-09-30T11:01:28.377071+00:00",
+      "text": "کرایس در تونل روح، حرکات رِسکی بیزنس را به نمایش می‌گذارد\n\n🎬 کرایس در تونل روح «جنیفر هودس شو» حرکات رِسکی بیزنس را اجرا می‌کند\n\nدر برنامه‌ی «جنیفر هودس شو»، کرایس با چشم‌های سیاه Ray‑Ban و حرکات رِسکی بیزنس، تونل روح را پر از انرژی کرد. این حضور، آخرین توقف او در تور تبلیغاتی برای فیلم «دِیگر» است. فیلمی که توسط الیاس گونزالس ایناوریو، دو بار برنده جایزه اسکار، کارگردانی می‌شود.\n\n📌 نکات مهم:\n• کرایس حرکات رِسکی بیزنس را در تونل روح اجرا کرد\n• برنامه «جنیفر هودس شو»\n• سفر تبلیغاتی برای فیلم «دِیگر»\n• فیلم توسط الیاس گونزالس ایناوریو کارگردانی شد\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10889,7 +10942,8 @@
     "c8385a7e6464094ef3d49af2",
     "a3a3870e791d5293173de445",
     "bcd82506691a62f066d37fe5",
-    "8b794ce5701cde3b58c0dd9b"
+    "8b794ce5701cde3b58c0dd9b",
+    "35ab20bc8d5c39c8f22de789"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11098,11 +11152,12 @@
     "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977",
     "https://variety.com/2026/film/news/sylvester-stallone-superhero-bodies-steroids-1236878101",
     "https://deadline.com/2026/09/lucien-laviscount-taylour-paige-tyler-perrys-confabulation-1237116258",
-    "https://deadline.com/2026/09/madeleine-arthur-dianne-doan-psychological-horror-doula-1237129703"
+    "https://deadline.com/2026/09/madeleine-arthur-dianne-doan-psychological-horror-doula-1237129703",
+    "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 108,
+      "published": 109,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11146,7 +11201,7 @@
       "published": 6
     },
     "11": {
-      "published": 8
+      "published": 9
     },
     "14": {
       "published": 5
@@ -11225,64 +11280,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-19T19:06:27.833232+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-19T22:17:20.580285+00:00",
       "version": 2,
@@ -14240,6 +14237,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-30T11:01:28.377169+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14448,9 +14503,96 @@
     "a9eed4d803f5f434",
     "57293aa769916896",
     "efd49381427bfd79",
-    "3128d425f59bb11e"
+    "3128d425f59bb11e",
+    "4251c17ebbf3f346"
   ],
   "entity_memory": {
+    "tom cruise": {
+      "count": 2,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "digger": {
+      "count": 2,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "tom cruise pulls": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "risky business": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dance moves": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jennifer hudson show": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spirit tunnel tom": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cruise": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the jennifer hudson": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "show": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spirit tunnel": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "academy award": {
+      "count": 1,
+      "last_seen": "2026-09-30T11:01:28.377101+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "october": {
       "count": 2,
       "last_seen": "2026-09-29T23:36:31.169190+00:00",
@@ -17191,91 +17333,6 @@
     "series before gilderoy": {
       "count": 1,
       "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lockhart casting the": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "game": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thrones": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lockhart casting": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cannes": {
-      "count": 4,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "la bola negra": {
-      "count": 2,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
-      "count": 3,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto": {
-      "count": 1,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the spanish": {
-      "count": 1,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peter bradshaw": {
-      "count": 1,
-      "last_seen": "2026-09-22T22:51:39.500310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom cruise": {
-      "count": 1,
-      "last_seen": "2026-09-22T19:58:52.026591+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "digger": {
-      "count": 1,
-      "last_seen": "2026-09-22T19:58:52.026591+00:00",
       "categories": [
         "actors_directors"
       ]
