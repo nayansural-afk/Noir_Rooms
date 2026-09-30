@@ -10733,6 +10733,62 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f43ce7338c4cdd131a21481e",
+      "story_id": "4a2206d7fd7b6e63",
+      "source": "Variety",
+      "sources": [
+        "Variety",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
+      "title": "‘Ted’ Animated Series Sets Peacock Release Date",
+      "category": "movie_news",
+      "score": 87.71,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "animated series sets",
+        "peacock release date",
+        "peacock",
+        "the animated series",
+        "additional",
+        "the animated",
+        "gets peacock release",
+        "date",
+        "first look peacock",
+        "thursday",
+        "december",
+        "seth",
+        "mark wahlberg",
+        "amanda seyfried",
+        "jessica barth"
+      ],
+      "hook": "تد: سریال انیمیشنی، در پیکاک در ۱۷ دسامبر به نمایش در می‌آید",
+      "hooks": [
+        "پیکاک اعلام کرد تد انیمیشن در ۱۷ دسامبر راه‌اندازی می‌شود",
+        "سریال جدید تد، در پیکاک از ۱۷ دسامبر آغاز می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال انیمیشنی 'تد' در پیکاک از ۱۷ دسامبر آغاز می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 214,
+      "published_at": "2026-09-30T15:34:13.993526+00:00",
+      "text": "تد: سریال انیمیشنی، در پیکاک در ۱۷ دسامبر به نمایش در می‌آید\n\n🎬 پیکاک تاریخ انتشار سریال انیمیشنی 'تد' را اعلام کرد\n\nپیکاک، سرویس استریمینگ آمریکایی، تاریخ انتشار اولین هشت قسمت از سریال انیمیشنی 'تد' را به ۱۷ دسامبر اعلام کرده است. سریال، که در می ۲۰۲۵ معرفی شد، ۱۲ سال پس از رویدادهای فیلم‌های 'تد' رخ می‌دهد و بخش‌های بعدی در سال ۲۰۲۷ به نمایش درمی‌آید.\n\n📌 نکات مهم:\n• پیکاک تاریخ انتشار اولین هشت قسمت را در ۱۷ دسامبر تعیین کرد\n• سریال در می ۲۰۲۵ معرفی شد و بخش‌های بعدی در ۲۰۲۷ منتشر می‌شود\n\n✅ تأیید چندمنبعی: Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -10943,7 +10999,8 @@
     "a3a3870e791d5293173de445",
     "bcd82506691a62f066d37fe5",
     "8b794ce5701cde3b58c0dd9b",
-    "35ab20bc8d5c39c8f22de789"
+    "35ab20bc8d5c39c8f22de789",
+    "f43ce7338c4cdd131a21481e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11153,11 +11210,12 @@
     "https://variety.com/2026/film/news/sylvester-stallone-superhero-bodies-steroids-1236878101",
     "https://deadline.com/2026/09/lucien-laviscount-taylour-paige-tyler-perrys-confabulation-1237116258",
     "https://deadline.com/2026/09/madeleine-arthur-dianne-doan-psychological-horror-doula-1237129703",
-    "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300"
+    "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300",
+    "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 109,
+      "published": 110,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11243,7 +11301,7 @@
       "published": 1
     },
     "15": {
-      "published": 4
+      "published": 5
     },
     "1": {
       "published": 1
@@ -11280,64 +11338,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-19T22:17:20.580285+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "First Look At ‘Sumo: Spirit Weighs Nothing,’ Documentary With Rare Access To Giants Of The Ring – Venice Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-20T09:40:20.135717+00:00",
       "version": 2,
@@ -14295,6 +14295,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-09-30T15:34:13.993633+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14504,9 +14562,116 @@
     "57293aa769916896",
     "efd49381427bfd79",
     "3128d425f59bb11e",
-    "4251c17ebbf3f346"
+    "4251c17ebbf3f346",
+    "4a2206d7fd7b6e63"
   ],
   "entity_memory": {
+    "date": {
+      "count": 2,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "animated series sets": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peacock release date": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peacock": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the animated series": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "additional": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the animated": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gets peacock release": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first look peacock": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "december": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seth": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mark wahlberg": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "amanda seyfried": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jessica barth": {
+      "count": 1,
+      "last_seen": "2026-09-30T15:34:13.993559+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "tom cruise": {
       "count": 2,
       "last_seen": "2026-09-30T11:01:28.377101+00:00",
@@ -14970,13 +15135,6 @@
       ]
     },
     "sets indian release": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "date": {
       "count": 1,
       "last_seen": "2026-09-29T11:13:39.486382+00:00",
       "categories": [
@@ -17237,104 +17395,6 @@
       "last_seen": "2026-09-23T14:02:55.525199+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "the exorcist": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "david kittredge": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john boorman": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the heretic": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "steadicam": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "linda blair": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sydow": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "richard burton": {
-      "count": 1,
-      "last_seen": "2026-09-23T14:02:55.525199+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harry potter": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hbo": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kit harington explains": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "why he was": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fully supportive": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series before gilderoy": {
-      "count": 1,
-      "last_seen": "2026-09-23T09:49:59.124609+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
