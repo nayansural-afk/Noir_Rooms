@@ -11088,6 +11088,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "832db63b223b7235f844085f",
+      "story_id": "ab5d76f9f93ade47",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
+      "title": "Chase Infiniti to Star in Dylan Clark Horror Movie ‘Portrait of God’ for Lionsgate",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "chase infiniti",
+        "star",
+        "dylan clark horror",
+        "portrait",
+        "lionsgate the",
+        "sam raimi",
+        "jordan peele"
+      ],
+      "hook": "چیس انفینی در ترسناک 'Portrait of God' نقش‌آفرینی می‌کند",
+      "hooks": [
+        "پیر و رامی در اولین همکاریشان، 'Portrait of God'",
+        "چیس انفینی در فیلم ترسناک جدید Lionsgate"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "چیس انفینی در نقش اصلی فیلم 'Portrait of God' حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 221,
+      "published_at": "2026-10-01T21:31:22.284783+00:00",
+      "text": "چیس انفینی در ترسناک 'Portrait of God' نقش‌آفرینی می‌کند\n\n🎬 چیس انفینی در نقش اصلی فیلم ترسناک 'Portrait of God'\n\nدر فیلم ترسناک جدید 'Portrait of God' که توسط Lionsgate تولید می‌شود، چیس انفینی نقش اصلی را بر عهده می‌گیرد.\nاین فیلم اولین همکاری بین دو تولیدکننده برجسته سام رامی و جردن پیل است.\n\n📌 نکات مهم:\n• چیس انفینی در فیلم ترسناک 'Portrait of God' نقش‌آفرینی می‌کند\n• این فیلم اولین همکاری سام رامی و جردن پیل است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11305,7 +11352,8 @@
     "691159f11346eaa9c9b31bfb",
     "1b7edc260342e078657217cc",
     "2314a8ca98cc9f84a8c34384",
-    "fcbe2fb0484180d11f7a91dc"
+    "fcbe2fb0484180d11f7a91dc",
+    "832db63b223b7235f844085f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11522,11 +11570,12 @@
     "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
     "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
     "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
-    "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856"
+    "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
+    "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 113,
+      "published": 114,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11585,7 +11634,7 @@
       "published": 26
     },
     "21": {
-      "published": 10
+      "published": 11
     },
     "23": {
       "published": 7
@@ -11649,64 +11698,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-21T15:37:22.265538+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-21T18:24:30.383318+00:00",
       "version": 2,
@@ -14664,6 +14655,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-01T21:31:22.284915+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14880,9 +14929,60 @@
     "ba1e9e89fc713d78",
     "010c98868537bf82",
     "71b2136fd33bdac8",
-    "f4c048b84f0ca528"
+    "f4c048b84f0ca528",
+    "ab5d76f9f93ade47"
   ],
   "entity_memory": {
+    "star": {
+      "count": 4,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "chase infiniti": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dylan clark horror": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "portrait": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lionsgate the": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sam raimi": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jordan peele": {
+      "count": 1,
+      "last_seen": "2026-10-01T21:31:22.284815+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "tom holland": {
       "count": 4,
       "last_seen": "2026-10-01T18:38:49.695542+00:00",
@@ -16067,13 +16167,6 @@
       "last_seen": "2026-09-28T22:22:01.425254+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "star": {
-      "count": 3,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "french": {
@@ -17670,48 +17763,6 @@
       ]
     },
     "deputy director unveils": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sean connery doc": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "talks mission to": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "expand french company": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "international reach": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scottish": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sean connery": {
       "count": 1,
       "last_seen": "2026-09-24T13:59:18.013571+00:00",
       "categories": [
