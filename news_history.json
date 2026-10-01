@@ -10935,6 +10935,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1b7edc260342e078657217cc",
+      "story_id": "010c98868537bf82",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
+      "title": "Garin Nugroho, Mishima Yukiko, Qiu Jiongjiong Titles Among 15 in Tokyo Film Festival Competition",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "garin nugroho",
+        "mishima yukiko",
+        "qiu jiongjiong titles",
+        "among",
+        "tokyo film festival",
+        "competition the",
+        "tokyo international film",
+        "festival",
+        "indonesian",
+        "japanese",
+        "hong kong",
+        "qiu jiongjiong"
+      ],
+      "hook": "فیلم‌های نروگو، میشیما و جیو در رقابت فستیوال توکیو",
+      "hooks": [
+        "نروگو، میشیما، جیو در رقابت ۱۵ فیلم توکیو",
+        "فستیوال توکیو: ۱۵ فیلم، ۷ پیش‌نمایش جهانی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال توکیو ۳۹م برنامه کامل خود را اعلام کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 218,
+      "published_at": "2026-10-01T11:28:07.881615+00:00",
+      "text": "فیلم‌های نروگو، میشیما و جیو در رقابت فستیوال توکیو\n\n🎬 نروگو، میشیما و جیو در رقابت ۱۵ فیلم فستیوال توکیو\n\nفستیوال بین‌المللی فیلم توکیو ۳۹م، برنامه کامل خود را اعلام کرد و ۱۵ فیلم را در رقابت اصلی معرفی کرد.\nدر این رقابت، کارهای کارگردان اندونزیایی گارین نُگروهو، فیلمساز ژاپنی میشیما یوکیکو و کارگردان هونگ‌کانگ Qiu Jiongjiong حضور دارند. همچنین هفت فیلم، از جمله «The Canary’s Lullaby»، در پیش‌نمایش‌های جهانی حضور خواهند داشت.\n\n📌 نکات مهم:\n• ۱۵ فیلم در رقابت اصلی\n• هفت فیلم در پیش‌نمایش جهانی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11149,7 +11202,8 @@
     "f43ce7338c4cdd131a21481e",
     "1fc1e8fd7ed709082856774f",
     "c232391d693735986b67a6ba",
-    "691159f11346eaa9c9b31bfb"
+    "691159f11346eaa9c9b31bfb",
+    "1b7edc260342e078657217cc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11363,11 +11417,12 @@
     "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582",
     "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
     "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-    "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655"
+    "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
+    "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 111,
+      "published": 112,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11411,7 +11466,7 @@
       "published": 6
     },
     "11": {
-      "published": 9
+      "published": 10
     },
     "14": {
       "published": 5
@@ -11490,64 +11545,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-20T19:12:13.956095+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-20T22:20:55.720079+00:00",
       "version": 2,
@@ -14505,6 +14502,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-01T11:28:07.881713+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14718,9 +14773,94 @@
     "4a2206d7fd7b6e63",
     "6137ca9204ae87fe",
     "0610ec58ec250178",
-    "ba1e9e89fc713d78"
+    "ba1e9e89fc713d78",
+    "010c98868537bf82"
   ],
   "entity_memory": {
+    "garin nugroho": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mishima yukiko": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "qiu jiongjiong titles": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "among": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tokyo film festival": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "competition the": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tokyo international film": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indonesian": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "japanese": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hong kong": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "qiu jiongjiong": {
+      "count": 1,
+      "last_seen": "2026-10-01T11:28:07.881648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "show": {
       "count": 2,
       "last_seen": "2026-09-30T23:38:39.269322+00:00",
@@ -17467,90 +17607,6 @@
       "last_seen": "2026-09-24T09:47:35.361696+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "the great experiment": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "directors stephen maing": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "and eric daniel": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "metzgar document america": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "at crucial moment": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "of division": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "president lincoln": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bible": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "america": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stephen maing": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eric daniel metzgar": {
-      "count": 1,
-      "last_seen": "2026-09-23T22:52:25.400364+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dick guttman": {
-      "count": 1,
-      "last_seen": "2026-09-23T19:55:24.900599+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
