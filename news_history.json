@@ -11041,6 +11041,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fcbe2fb0484180d11f7a91dc",
+      "story_id": "f4c048b84f0ca528",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
+      "title": "Talia Ryder Joins Tom Holland in Fred Astaire Biopic (Exclusive)",
+      "category": "actors_directors",
+      "score": 72.86,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "talia ryder joins",
+        "tom holland",
+        "fred astaire biopic",
+        "margaret qualley",
+        "sabrina carpenter",
+        "sony",
+        "paul king"
+      ],
+      "hook": "تلیا ریدر و تام هالند در بیوگرافی فرید استایر",
+      "hooks": [
+        "سینمایی جدید: تلیا ریدر و تام هالند در نقش فرید استایر",
+        "فیلم بیوگرافی فرید استایر: تلیا ریدر و تام هالند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تلیا ریدر و تام هالند در نقش فرید استایر"
+      ],
+      "status": "published",
+      "telegram_message_id": 220,
+      "published_at": "2026-10-01T18:38:49.695510+00:00",
+      "text": "تلیا ریدر و تام هالند در بیوگرافی فرید استایر\n\n🎬 تلیا ریدر و تام هالند در نقش فرید استایر، بازیگران جدید می‌پوشند\n\nسینمایی هیجان‌انگیز در راه است؛ تلیا ریدر و تام هالند در نقش فرید استایر حضور خواهند یافت. همچنین مارگارت کوئلی و سابرینا کارپنتور در پروژه سونی به کارگردان پل کینگ نیز نقش خواهند داشت.\n\n📌 نکات مهم:\n• تلیا ریدر در نقش فرید استایر\n• تام هالند در نقش فرید استایر\n• مارگارت کوئلی و سابرینا کارپنتور نیز در پروژه حضور دارند\n• پروژه سونی به کارگردان پل کینگ\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11257,7 +11304,8 @@
     "c232391d693735986b67a6ba",
     "691159f11346eaa9c9b31bfb",
     "1b7edc260342e078657217cc",
-    "2314a8ca98cc9f84a8c34384"
+    "2314a8ca98cc9f84a8c34384",
+    "fcbe2fb0484180d11f7a91dc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11473,7 +11521,8 @@
     "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
     "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
     "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
-    "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329"
+    "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
+    "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856"
   ],
   "category_stats": {
     "movie_news": {
@@ -11483,7 +11532,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 78,
+      "published": 79,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11530,7 +11579,7 @@
       "published": 6
     },
     "18": {
-      "published": 7
+      "published": 8
     },
     "20": {
       "published": 26
@@ -11600,64 +11649,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-21T10:32:58.698791+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-21T15:37:22.265538+00:00",
       "version": 2,
@@ -14615,6 +14606,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-01T18:38:49.695608+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 402,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14830,9 +14879,65 @@
     "0610ec58ec250178",
     "ba1e9e89fc713d78",
     "010c98868537bf82",
-    "71b2136fd33bdac8"
+    "71b2136fd33bdac8",
+    "f4c048b84f0ca528"
   ],
   "entity_memory": {
+    "tom holland": {
+      "count": 4,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "margaret qualley": {
+      "count": 2,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "fred astaire biopic": {
+      "count": 2,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "sabrina carpenter": {
+      "count": 2,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "paul king": {
+      "count": 2,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "talia ryder joins": {
+      "count": 1,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sony": {
+      "count": 1,
+      "last_seen": "2026-10-01T18:38:49.695542+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "best pancakes in": {
       "count": 1,
       "last_seen": "2026-10-01T15:58:18.391029+00:00",
@@ -15856,15 +15961,6 @@
       "last_seen": "2026-09-29T00:18:57.986824+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "tom holland": {
-      "count": 3,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors",
-        "trailers_first_look"
       ]
     },
     "spider-man": {
@@ -16991,21 +17087,7 @@
         "movie_news"
       ]
     },
-    "margaret qualley": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "sabrina carpenter join": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fred astaire biopic": {
       "count": 1,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
       "categories": [
@@ -17034,20 +17116,6 @@
       ]
     },
     "fred astaire": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sabrina carpenter": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paul king": {
       "count": 1,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
       "categories": [
@@ -17644,20 +17712,6 @@
       ]
     },
     "sean connery": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "titled sean connery": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the untold story": {
       "count": 1,
       "last_seen": "2026-09-24T13:59:18.013571+00:00",
       "categories": [
