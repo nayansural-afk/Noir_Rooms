@@ -11135,6 +11135,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "43b0b9774bac9249bbbec013",
+      "story_id": "102b493f030604d1",
+      "source": "Deadline",
+      "sources": [
+        "Deadline",
+        "TheWrap"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
+      "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+      "category": "movie_news",
+      "score": 88.96,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "fast",
+        "furious",
+        "series greenlit at",
+        "peacock",
+        "start",
+        "deadline",
+        "mike daniels",
+        "wolfe",
+        "series greenlit",
+        "peacock the",
+        "wolfe coleman",
+        "vin diesel"
+      ],
+      "hook": "سلسله سریال جدید Fast & Furious در Peacock",
+      "hooks": [
+        "Fast & Furious به دنیای تلویزیون می‌رود",
+        "Peacock با سریال Fast & Furious، هیجان را به خانه‌ها می‌آورد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Peacock سریال Fast & Furious را تأیید کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 222,
+      "published_at": "2026-10-01T23:50:34.049999+00:00",
+      "text": "سلسله سریال جدید Fast & Furious در Peacock\n\n🎬 سریال جدید Fast & Furious در Peacock تأیید شد\n\nPeacock سریال جدیدی بر پایهٔ مجموعهٔ Fast & Furious را تأیید کرده است. این سریال اولین پروژهٔ تلویزیونی این فرنچایز محبوب است.\nفرنچایز در ۲۵ سال گذشته بیش از ۷ میلیارد دلار در سراسر جهان کسب کرده است. این سریال توسط Mike Daniels و Wolfe ساخته می‌شود.\n\n📌 نکات مهم:\n• Peacock سریال Fast & Furious را تأیید کرد\n• فرنچایز Fast & Furious بیش از ۷ میلیارد دلار در ۲۵ سال گذشته کسب کرده است\n• سریال توسط Mike Daniels و Wolfe ساخته می‌شود\n\n✅ تأیید چندمنبعی: Deadline, TheWrap\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11353,7 +11406,8 @@
     "1b7edc260342e078657217cc",
     "2314a8ca98cc9f84a8c34384",
     "fcbe2fb0484180d11f7a91dc",
-    "832db63b223b7235f844085f"
+    "832db63b223b7235f844085f",
+    "43b0b9774bac9249bbbec013"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11571,11 +11625,12 @@
     "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
     "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
     "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
-    "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008"
+    "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
+    "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 114,
+      "published": 115,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11637,7 +11692,7 @@
       "published": 11
     },
     "23": {
-      "published": 7
+      "published": 8
     },
     "3": {
       "published": 2
@@ -11698,64 +11753,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-21T18:24:30.383318+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-21T20:43:20.730652+00:00",
       "version": 2,
@@ -14713,6 +14710,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-01T23:50:34.050102+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14930,9 +14985,94 @@
     "010c98868537bf82",
     "71b2136fd33bdac8",
     "f4c048b84f0ca528",
-    "ab5d76f9f93ade47"
+    "ab5d76f9f93ade47",
+    "102b493f030604d1"
   ],
   "entity_memory": {
+    "peacock": {
+      "count": 2,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fast": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "furious": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "series greenlit at": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "start": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "deadline": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mike daniels": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wolfe": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "series greenlit": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peacock the": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wolfe coleman": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vin diesel": {
+      "count": 1,
+      "last_seen": "2026-10-01T23:50:34.050030+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 4,
       "last_seen": "2026-10-01T21:31:22.284815+00:00",
@@ -15399,13 +15539,6 @@
       ]
     },
     "peacock release date": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peacock": {
       "count": 1,
       "last_seen": "2026-09-30T15:34:13.993559+00:00",
       "categories": [
@@ -17688,83 +17821,6 @@
     "matthew leone": {
       "count": 1,
       "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christine taylor join": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indie addiction drama": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "madison": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the boroughs": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "atonement": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christine taylor": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dink": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "east coast": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marking": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joe camara": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "deputy director unveils": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
       "categories": [
         "movie_news"
       ]
