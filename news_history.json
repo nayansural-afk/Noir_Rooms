@@ -10988,6 +10988,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2314a8ca98cc9f84a8c34384",
+      "story_id": "71b2136fd33bdac8",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
+      "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "best pancakes in",
+        "the county",
+        "picks up domestic",
+        "rights to nicolas",
+        "cage",
+        "justin long",
+        "shelley hennig action",
+        "thriller",
+        "first look revealed",
+        "independent film company",
+        "ken sanzel",
+        "kill chain"
+      ],
+      "hook": "IFC به‌دست‌گیری حقوق در آمریکا برای 'Best Pancakes In The County'",
+      "hooks": [
+        "نیکلاس کیج، جستین لانگ و شلی هِنک در فیلم اکشن‌تردی",
+        "IFC حقوق در آمریکا برای 'Best Pancakes In The County' را به دست آورد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "IFC حقوق در آمریکا برای فیلم 'Best Pancakes In The County' را به دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 219,
+      "published_at": "2026-10-01T15:58:18.390998+00:00",
+      "text": "IFC به‌دست‌گیری حقوق در آمریکا برای 'Best Pancakes In The County'\n\n🎬 IFC حقوق در آمریکا برای فیلم اکشن‌تردی 'Best Pancakes In The County' را به دست آورد\n\nIndependent Film Company در آمریکا حقوق فیلم 'Best Pancakes In The County' را به دست آورد. این فیلم اکشن‌تردی توسط کن سانزل نوشته و کارگردانی شده است.\nنیکلاس کیج، جستین لانگ و شلی هِنک در نقش‌های اصلی حضور دارند و معامله توسط مارک ورد و ادوارد اوسیپوف مذاکره شد.\n\n📌 نکات مهم:\n• IFC حقوق در آمریکا برای 'Best Pancakes In The County' را به دست آورد\n• فیلم توسط کن سانزل نوشته و کارگردانی شد\n• نیکلاس کیج، جستین لانگ و شلی هِنک در نقش‌های اصلی حضور دارند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11203,7 +11256,8 @@
     "1fc1e8fd7ed709082856774f",
     "c232391d693735986b67a6ba",
     "691159f11346eaa9c9b31bfb",
-    "1b7edc260342e078657217cc"
+    "1b7edc260342e078657217cc",
+    "2314a8ca98cc9f84a8c34384"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11418,11 +11472,12 @@
     "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742",
     "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
     "https://www.hollywoodreporter.com/tv/tv-news/peppino-mazzullo-dead-topo-gigio-ed-sullivan-show-puppet-1236717655",
-    "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433"
+    "https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433",
+    "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 112,
+      "published": 113,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11508,7 +11563,7 @@
       "published": 1
     },
     "15": {
-      "published": 5
+      "published": 6
     },
     "1": {
       "published": 1
@@ -11545,64 +11600,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-20T22:20:55.720079+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-21T10:32:58.698791+00:00",
       "version": 2,
@@ -14560,6 +14557,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-01T15:58:18.391102+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14774,9 +14829,94 @@
     "6137ca9204ae87fe",
     "0610ec58ec250178",
     "ba1e9e89fc713d78",
-    "010c98868537bf82"
+    "010c98868537bf82",
+    "71b2136fd33bdac8"
   ],
   "entity_memory": {
+    "best pancakes in": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the county": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "picks up domestic": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rights to nicolas": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cage": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "justin long": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shelley hennig action": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thriller": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first look revealed": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "independent film company": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ken sanzel": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kill chain": {
+      "count": 1,
+      "last_seen": "2026-10-01T15:58:18.391029+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "garin nugroho": {
       "count": 1,
       "last_seen": "2026-10-01T11:28:07.881648+00:00",
@@ -17520,91 +17660,6 @@
     "the untold story": {
       "count": 1,
       "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "renouvin": {
-      "count": 1,
-      "last_seen": "2026-09-24T13:59:18.013571+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
-      "count": 5,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "all the songs": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the love hypothesis": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film adaptation": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gracie abrams to": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "haim": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "prime video": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ali hazelwood": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "claire scanlon": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "olive smith": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lili reinhart": {
-      "count": 1,
-      "last_seen": "2026-09-24T09:47:35.361696+00:00",
       "categories": [
         "movie_news"
       ]
