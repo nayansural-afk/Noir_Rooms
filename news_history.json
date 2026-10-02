@@ -11188,6 +11188,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "be3893e81225a73e6e89a4d6",
+      "story_id": "9d9c7d2b9614a61d",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
+      "title": "‘Clarissa’ Trailer: Sophie Okonedo, Ayo Edebiri, and More Lead a Modern ‘Mrs Dalloway’ Set in Nigeria",
+      "category": "trailers_first_look",
+      "score": 60.75,
+      "freshness": 82.0,
+      "credibility": 90.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "clarissa",
+        "trailer",
+        "sophie okonedo",
+        "ayo edebiri",
+        "more lead",
+        "modern",
+        "mrs dalloway",
+        "nigeria neon",
+        "arie",
+        "chuko esiri",
+        "december"
+      ],
+      "hook": "سریال Clarissa: Mrs Dalloway مدرن در دل نایجریه",
+      "hooks": [
+        "سریال Clarissa با سافی اوکوندو و آیو ادبیری",
+        "سریال Clarissa: داستانی جدید در نایجریه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال Clarissa در نایجریه ساخته شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 223,
+      "published_at": "2026-10-02T10:58:06.973950+00:00",
+      "text": "سریال Clarissa: Mrs Dalloway مدرن در دل نایجریه\n\n🎬 سریال Clarissa: Mrs Dalloway مدرن در دل نایجریه\n\nسریال Clarissa، برندهٔ جشنواره کن، در نایجریه ساخته شده و به سبک Mrs Dalloway مدرن روایت می‌شود.\nسینماستار Neon در دسامبر این اثر را منتشر می‌کند و بازیگران برجسته‌ای چون سافی اوکوندو و آیو ادبیری در آن حضور دارند.\n\n📌 نکات مهم:\n• سریال Clarissa در دسامبر توسط Neon منتشر می‌شود\n• سریال Clarissa در نایجریه ساخته شده است\n• سریال Clarissa توسط برادران آری و چوکو اسیری کارگردانی شده است\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11407,7 +11459,8 @@
     "2314a8ca98cc9f84a8c34384",
     "fcbe2fb0484180d11f7a91dc",
     "832db63b223b7235f844085f",
-    "43b0b9774bac9249bbbec013"
+    "43b0b9774bac9249bbbec013",
+    "be3893e81225a73e6e89a4d6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11626,7 +11679,8 @@
     "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329",
     "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
     "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
-    "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885"
+    "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
+    "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508"
   ],
   "category_stats": {
     "movie_news": {
@@ -11648,7 +11702,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 8,
+      "published": 9,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11671,7 +11725,7 @@
       "published": 3
     },
     "10": {
-      "published": 6
+      "published": 7
     },
     "11": {
       "published": 10
@@ -11753,64 +11807,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-21T20:43:20.730652+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-21T23:09:33.619224+00:00",
       "version": 2,
@@ -14768,6 +14764,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-02T10:58:06.974057+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -14986,9 +15040,96 @@
     "71b2136fd33bdac8",
     "f4c048b84f0ca528",
     "ab5d76f9f93ade47",
-    "102b493f030604d1"
+    "102b493f030604d1",
+    "9d9c7d2b9614a61d"
   ],
   "entity_memory": {
+    "december": {
+      "count": 2,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "movie_news",
+        "trailers_first_look"
+      ]
+    },
+    "trailer": {
+      "count": 3,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "cannes": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "clarissa": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sophie okonedo": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "ayo edebiri": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "more lead": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "modern": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mrs dalloway": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "nigeria neon": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "arie": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "chuko esiri": {
+      "count": 1,
+      "last_seen": "2026-10-02T10:58:06.973982+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "peacock": {
       "count": 2,
       "last_seen": "2026-10-01T23:50:34.050030+00:00",
@@ -15581,13 +15722,6 @@
       ]
     },
     "thursday": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "december": {
       "count": 1,
       "last_seen": "2026-09-30T15:34:13.993559+00:00",
       "categories": [
@@ -16378,14 +16512,6 @@
       "last_seen": "2026-09-28T19:55:46.946539+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "trailer": {
-      "count": 2,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
       ]
     },
     "elsinore": {
@@ -17751,76 +17877,6 @@
     "directed by mike": {
       "count": 1,
       "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nelson mike": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nelson": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lionsgate": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beware": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james wan": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gregory weidman": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "geoff tock": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "below": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alice kremelberg": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "matthew leone": {
-      "count": 1,
-      "last_seen": "2026-09-24T17:40:34.359190+00:00",
       "categories": [
         "movie_news"
       ]
