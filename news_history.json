@@ -11345,6 +11345,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a8f82a91674031d5fbcea190",
+      "story_id": "ced3230656442183",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729",
+      "title": "Mary Louise Weller, Who Played Sorority Girl in ‘Animal House,’ Dies at 79",
+      "category": "actors_directors",
+      "score": 64.12,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "mary louise weller",
+        "who played sorority",
+        "girl",
+        "animal house",
+        "dies",
+        "mandy pepperidge",
+        "thursday",
+        "michael roy curtis",
+        "weller",
+        "new york city",
+        "westwood",
+        "calif"
+      ],
+      "hook": "مریم لوئیس ویلر، بازیگر «انیمال هاوس»، درگذشت",
+      "hooks": [
+        "مریم لوئیس ویلر درگذشت",
+        "کاتالوگ زندگی او"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مریم لوئیس ویلر درگذشت در سن ۷۹ سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 226,
+      "published_at": "2026-10-02T21:06:53.424768+00:00",
+      "text": "مریم لوئیس ویلر، بازیگر «انیمال هاوس»، درگذشت\n\n🎬 مریم لوئیس ویلر، بازیگر «انیمال هاوس»، درگذشت در سن ۷۹ سالگی\n\nمریم لوئیس ویلر، بازیگر مشهور نقش ماندی پرِیجِد در فیلم «انیمال هاوس»، در روز پنج‌شنبه پس از بیماری طولانی درگذشت. او ۷۹ ساله بود و شریک زندگی‌اش، مایکل روي کرتس، در خبرهای متعدد تأیید شد.\n\nاو در نیویورک متولد شد و در وست‌وود، کالیفرنیا بزرگ شد.\n\n📌 نکات مهم:\n• مریم لوئیس ویلر درگذشت در سن ۷۹ سالگی\n• نقش او در فیلم «انیمال هاوس» به عنوان ماندی پرِیجِد بود\n• شریک زندگی او مایکل روي کرتس بود\n• او در نیویورک متولد شد و در وست‌وود، کالیفرنیا بزرگ شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11567,7 +11620,8 @@
     "43b0b9774bac9249bbbec013",
     "be3893e81225a73e6e89a4d6",
     "4755c0a2e9396a5f4fc47996",
-    "953673633ae765a1079fd8ac"
+    "953673633ae765a1079fd8ac",
+    "a8f82a91674031d5fbcea190"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11789,7 +11843,8 @@
     "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
     "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
     "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416",
-    "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505"
+    "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505",
+    "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729"
   ],
   "category_stats": {
     "movie_news": {
@@ -11799,7 +11854,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 81,
+      "published": 82,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11852,7 +11907,7 @@
       "published": 26
     },
     "21": {
-      "published": 11
+      "published": 12
     },
     "23": {
       "published": 8
@@ -11916,64 +11971,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-22T13:52:03.395263+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-22T17:28:02.029264+00:00",
       "version": 2,
@@ -14931,6 +14928,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-02T21:06:53.424873+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15152,9 +15207,96 @@
     "102b493f030604d1",
     "9d9c7d2b9614a61d",
     "c03d961dc286829a",
-    "0393403995c69e5c"
+    "0393403995c69e5c",
+    "ced3230656442183"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 5,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thursday": {
+      "count": 2,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "new york city": {
+      "count": 3,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "mary louise weller": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "who played sorority": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "girl": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "animal house": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mandy pepperidge": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michael roy curtis": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "weller": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "westwood": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "calif": {
+      "count": 1,
+      "last_seen": "2026-10-02T21:06:53.424799+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star": {
       "count": 5,
       "last_seen": "2026-10-02T18:08:44.903434+00:00",
@@ -15761,13 +15903,6 @@
         "actors_directors"
       ]
     },
-    "dies": {
-      "count": 4,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "peppino mazzullo": {
       "count": 1,
       "last_seen": "2026-09-30T23:38:39.269322+00:00",
@@ -15981,13 +16116,6 @@
       ]
     },
     "first look peacock": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thursday": {
       "count": 1,
       "last_seen": "2026-09-30T15:34:13.993559+00:00",
       "categories": [
@@ -17118,14 +17246,6 @@
         "movie_news"
       ]
     },
-    "new york city": {
-      "count": 2,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "yuval abraham": {
       "count": 1,
       "last_seen": "2026-09-27T17:22:45.605385+00:00",
@@ -17923,69 +18043,6 @@
       ]
     },
     "turkish distributor baska": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sinema boards": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "generated feature": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "woman asleep": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatrical release": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "turkish": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "baska sinema": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "english": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vikki bardot": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bardot": {
       "count": 1,
       "last_seen": "2026-09-25T14:23:50.443050+00:00",
       "categories": [
