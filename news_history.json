@@ -11240,6 +11240,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4755c0a2e9396a5f4fc47996",
+      "story_id": "c03d961dc286829a",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416",
+      "title": "‘Father Father’ Director on Doc About a Gay Israeli-Palestinian Couple Who Have a Child on Eve of Oct. 7: It’s a ‘Beautiful Lesson Right Now’ (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 71.76,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "father father",
+        "director",
+        "doc about",
+        "gay israeli",
+        "palestinian couple who",
+        "have",
+        "child",
+        "beautiful lesson right",
+        "timely",
+        "festival",
+        "jewish israeli",
+        "aviv"
+      ],
+      "hook": "مستند 'پدر پدر' دربارهٔ عشق و نسل در لحظهٔ مهم",
+      "hooks": [
+        "مستند دربارهٔ دو مرد و تولد فرزند در لحظهٔ مهم حملهٔ حماس",
+        "سفر عاشقانهٔ دو همسر فلسطینی-یهودی به تگزاس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند دربارهٔ سفر زوجی که در لحظهٔ مهم حملهٔ حماس به تگزاس می‌روند"
+      ],
+      "status": "published",
+      "telegram_message_id": 224,
+      "published_at": "2026-10-02T15:18:43.455161+00:00",
+      "text": "مستند 'پدر پدر' دربارهٔ عشق و نسل در لحظهٔ مهم\n\n🎬 مستند 'پدر پدر': سفر دو همسر یهودی-فلسطینی به تگزاس در لحظهٔ مهم حملهٔ حماس\n\nمستند 'پدر پدر' که در جشنوارهٔ ریو رونمایی می‌شود، داستان آوی و خادری را روایت می‌کند؛ مردی یهودی اسرائیلی و همسر فلسطینی-اسرائیلی که در تگزاس به دنبال تولد فرزندشان، البی، از طریق جایگزین، سفر می‌کنند. این سفر در شب قبل از حملهٔ حماس در ۷ اکتبر اتفاق می‌افتد و به‌عنوان یک درس زیبا در زمان حال مطرح می‌شود.\nسینماپیشهٔ بریتانیایی جیک وزتنفیلد، که در سال ۲۰۱۵ با مستند دیگری موفق شد، این اثر را به‌صورت مستندی انسانی و حساس به‌دست آورد. جشنوارهٔ ریو به‌عنوان سکوی نمایش این داستان در حال حاضر در صحنهٔ بین‌المللی قرار گرفته است.\n\n📌 نکات مهم:\n• مستند 'پدر پدر' در جشنوارهٔ ریو رونمایی می‌شود\n• آوی و خادری، یک زوج یهودی-فلسطینی، در تگزاس برای تولد فرزندشان، البی، سفر می‌کنند\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11460,7 +11512,8 @@
     "fcbe2fb0484180d11f7a91dc",
     "832db63b223b7235f844085f",
     "43b0b9774bac9249bbbec013",
-    "be3893e81225a73e6e89a4d6"
+    "be3893e81225a73e6e89a4d6",
+    "4755c0a2e9396a5f4fc47996"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11680,7 +11733,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
     "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
     "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
-    "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508"
+    "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
+    "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416"
   ],
   "category_stats": {
     "movie_news": {
@@ -11690,7 +11744,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 79,
+      "published": 80,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11770,7 +11824,7 @@
       "published": 1
     },
     "15": {
-      "published": 6
+      "published": 7
     },
     "1": {
       "published": 1
@@ -11807,64 +11861,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-21T23:09:33.619224+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-22T09:44:51.045813+00:00",
       "version": 2,
@@ -14822,6 +14818,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-02T15:18:43.455269+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15041,9 +15095,95 @@
     "f4c048b84f0ca528",
     "ab5d76f9f93ade47",
     "102b493f030604d1",
-    "9d9c7d2b9614a61d"
+    "9d9c7d2b9614a61d",
+    "c03d961dc286829a"
   ],
   "entity_memory": {
+    "festival": {
+      "count": 2,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "father father": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "doc about": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gay israeli": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "palestinian couple who": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "have": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "child": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "beautiful lesson right": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "timely": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jewish israeli": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "aviv": {
+      "count": 1,
+      "last_seen": "2026-10-02T15:18:43.455194+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "december": {
       "count": 2,
       "last_seen": "2026-10-02T10:58:06.973982+00:00",
@@ -15446,13 +15586,6 @@
       ]
     },
     "tokyo international film": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
       "count": 1,
       "last_seen": "2026-10-01T11:28:07.881648+00:00",
       "categories": [
@@ -17802,83 +17935,6 @@
       "last_seen": "2026-09-24T23:08:43.870651+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "hoeferle": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "graham campbell to": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "will gluck": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "olive bridge entertainment": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "graham campbell": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lynn painter": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "new york times": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "new lionsgate": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blumhouse atomic monster": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pic to be": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "directed by mike": {
-      "count": 1,
-      "last_seen": "2026-09-24T20:13:42.843969+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
