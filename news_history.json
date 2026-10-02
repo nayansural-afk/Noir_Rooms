@@ -11398,6 +11398,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "870b842b8ef9dd0c1989b378",
+      "story_id": "0c2de7f798157db2",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719",
+      "title": "Venice Prize-Winner ‘NAZA’ Brings Explosive Gaza Exposé to U.S. Theaters – Specialty Preview",
+      "category": "awards_festivals",
+      "score": 65.3,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "venice prize",
+        "winner",
+        "brings explosive gaza",
+        "theaters",
+        "specialty preview",
+        "yuval abraham",
+        "rachel szor",
+        "center",
+        "new york",
+        "wednesday",
+        "that"
+      ],
+      "hook": "سینمای نازا: نمایش حماسی از غزه در آمریکا",
+      "hooks": [
+        "فیلم نازا، برنده جایزه ویژه در ونیز، اکنون در نیویورک",
+        "پرده‌گشایی ویژه در IFC Center: نازا، روایت بی‌سابقه غزه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم نازا، نمایش حماسی از غزه"
+      ],
+      "status": "published",
+      "telegram_message_id": 227,
+      "published_at": "2026-10-02T23:41:12.136892+00:00",
+      "text": "سینمای نازا: نمایش حماسی از غزه در آمریکا\n\n🎬 فیلم نازا، برنده جایزه ویژه ونیز، در سینمای آمریکا رونمایی شد\n\nفیلم نازا، نوشته و کارگردانی یوال ابراهام و رچل سزار، در هفته گذشته در جشنواره فیلم نیویورک به نمایش درآمد و اکنون در مرکز IFC در نیویورک اجرا می‌شود. این فیلم در نمایش پیش‌نمایش ویژه در ونیز جایزه جوریه ویژه را با واکنش ۲۵ دقیقه‌ای درخشان دریافت کرد و اکنون در آمریکا به نمایش می‌رسد.\n\n📌 نکات مهم:\n• فیلم نازا برنده جایزه ویژه جوریه در ونیز است\n• فیلم در مرکز IFC نیویورک از چهارشنبه اجرا می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11621,7 +11674,8 @@
     "be3893e81225a73e6e89a4d6",
     "4755c0a2e9396a5f4fc47996",
     "953673633ae765a1079fd8ac",
-    "a8f82a91674031d5fbcea190"
+    "a8f82a91674031d5fbcea190",
+    "870b842b8ef9dd0c1989b378"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11844,7 +11898,8 @@
     "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
     "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416",
     "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505",
-    "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729"
+    "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729",
+    "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719"
   ],
   "category_stats": {
     "movie_news": {
@@ -11878,7 +11933,7 @@
       "samples_with_metrics": 0
     },
     "awards_festivals": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11910,7 +11965,7 @@
       "published": 12
     },
     "23": {
-      "published": 8
+      "published": 9
     },
     "3": {
       "published": 2
@@ -11971,64 +12026,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-22T17:28:02.029264+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-22T19:58:52.026671+00:00",
       "version": 2,
@@ -14986,6 +14983,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-02T23:41:12.137000+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15208,9 +15263,98 @@
     "9d9c7d2b9614a61d",
     "c03d961dc286829a",
     "0393403995c69e5c",
-    "ced3230656442183"
+    "ced3230656442183",
+    "0c2de7f798157db2"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 2,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "yuval abraham": {
+      "count": 2,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "rachel szor": {
+      "count": 2,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "new york": {
+      "count": 2,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "venice prize": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "winner": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "brings explosive gaza": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "theaters": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "specialty preview": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "center": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "that": {
+      "count": 1,
+      "last_seen": "2026-10-02T23:41:12.136925+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
     "dies": {
       "count": 5,
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
@@ -15986,13 +16130,6 @@
       "last_seen": "2026-09-30T21:07:32.964137+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "venice": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "helmer danny boyle": {
@@ -17246,20 +17383,6 @@
         "movie_news"
       ]
     },
-    "yuval abraham": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "palestinians": {
       "count": 1,
       "last_seen": "2026-09-27T17:22:45.605385+00:00",
@@ -17275,13 +17398,6 @@
       ]
     },
     "north american": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york": {
       "count": 1,
       "last_seen": "2026-09-27T17:22:45.605385+00:00",
       "categories": [
@@ -17989,62 +18105,6 @@
     "deadlocked": {
       "count": 1,
       "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studios": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john wick": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chapter": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tyrik johnson": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dedicated": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "morris burke": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "character": {
-      "count": 1,
-      "last_seen": "2026-09-25T17:40:54.539101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "turkish distributor baska": {
-      "count": 1,
-      "last_seen": "2026-09-25T14:23:50.443050+00:00",
       "categories": [
         "movie_news"
       ]
