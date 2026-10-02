@@ -11292,6 +11292,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "953673633ae765a1079fd8ac",
+      "story_id": "0393403995c69e5c",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505",
+      "title": "‘The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries & Platino Industria (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 65.02,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "the good girls",
+        "lead ilse salas",
+        "star",
+        "quijote films",
+        "to die",
+        "your feet",
+        "morir",
+        "project pitched",
+        "iberseries",
+        "platino industria",
+        "mexican",
+        "ilse salas"
+      ],
+      "hook": "Ilse Salas در نقش اصلی «Morir de Pie»",
+      "hooks": [
+        "Ilse Salas در نقش اصلی در «Morir de Pie»",
+        "«Morir de Pie» با بازی Ilse Salas به نمایش در می‌آید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Ilse Salas در نقش اصلی در «Morir de Pie» حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 225,
+      "published_at": "2026-10-02T18:08:44.903400+00:00",
+      "text": "Ilse Salas در نقش اصلی «Morir de Pie»\n\n🎬 Ilse Salas در نقش اصلی «Morir de Pie»\n\nبازیگر مکزیکی Ilse Salas، برنده جایزه بهترین بازیگر در آریل برای فیلم «Las niñas bien»، در نقش اصلی در فیلم درام-کمدی «Morir de Pie» (To Die on Your Feet) حضور پیدا می‌کند.\nاین پروژه، که توسط شرکت Quijote Films تولید می‌شود، در هفته گذشته در کنفرانس Iberseries & Platino Industria در مادرید معرفی شد.\n\n📌 نکات مهم:\n• Ilse Salas به عنوان بازیگر اصلی در فیلم «Morir de Pie» شرکت می‌کند\n• فیلم «Morir de Pie» در کنفرانس Iberseries & Platino Industria در مادرید معرفی شد\n• Ilse Salas برنده جایزه بهترین بازیگر در آریل برای فیلم «Las niñas bien» شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11513,7 +11566,8 @@
     "832db63b223b7235f844085f",
     "43b0b9774bac9249bbbec013",
     "be3893e81225a73e6e89a4d6",
-    "4755c0a2e9396a5f4fc47996"
+    "4755c0a2e9396a5f4fc47996",
+    "953673633ae765a1079fd8ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11734,7 +11788,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/chase-infiniti-dylan-clark-horror-movie-portrait-of-god-1236708008",
     "https://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885",
     "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508",
-    "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416"
+    "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416",
+    "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505"
   ],
   "category_stats": {
     "movie_news": {
@@ -11744,7 +11799,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 80,
+      "published": 81,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -11791,7 +11846,7 @@
       "published": 6
     },
     "18": {
-      "published": 8
+      "published": 9
     },
     "20": {
       "published": 26
@@ -11861,64 +11916,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-22T09:44:51.045813+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Trisha Krishnan Toplines Panorama Studios’ First Tamil Film, a Psychological Horror Shot in London (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-22T13:52:03.395263+00:00",
       "version": 2,
@@ -14876,6 +14873,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-02T18:08:44.903517+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15096,9 +15151,95 @@
     "ab5d76f9f93ade47",
     "102b493f030604d1",
     "9d9c7d2b9614a61d",
-    "c03d961dc286829a"
+    "c03d961dc286829a",
+    "0393403995c69e5c"
   ],
   "entity_memory": {
+    "star": {
+      "count": 5,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "the good girls": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lead ilse salas": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "quijote films": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to die": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "your feet": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "morir": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "project pitched": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "iberseries": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "platino industria": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mexican": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ilse salas": {
+      "count": 1,
+      "last_seen": "2026-10-02T18:08:44.903434+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "festival": {
       "count": 2,
       "last_seen": "2026-10-02T15:18:43.455194+00:00",
@@ -15351,14 +15492,6 @@
       "count": 1,
       "last_seen": "2026-10-01T23:50:34.050030+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "star": {
-      "count": 4,
-      "last_seen": "2026-10-01T21:31:22.284815+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -17857,84 +17990,6 @@
       "last_seen": "2026-09-25T14:23:50.443050+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "global releases": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "romantic pic starring": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nayanthara": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kavin": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "global": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the indian": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "vishnu edavan": {
-      "count": 1,
-      "last_seen": "2026-09-25T10:04:53.391870+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fake skating": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "feature adaptation at": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sony taps": {
-      "count": 1,
-      "last_seen": "2026-09-24T23:08:43.870651+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
