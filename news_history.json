@@ -11551,6 +11551,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a060a82e98d8c94ad79d8ce1",
+      "story_id": "5c95899360a03bfc",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972",
+      "title": "Guillermo Del Toro Buries ‘Digger’ In Praise, Slams “Petty” Review: “Decidedly A Theatrical Experience”",
+      "category": "movie_news",
+      "score": 81.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "tom cruise",
+        "oscar",
+        "guillermo del toro",
+        "buries",
+        "digger",
+        "in praise",
+        "slams",
+        "petty",
+        "review",
+        "decidedly",
+        "theatrical experience",
+        "although digger"
+      ],
+      "hook": "دلتور، ستارهٔ سینما، به دایگر تحسین می‌کند",
+      "hooks": [
+        "دلتور: دایگر تجربهٔ تئاتری است",
+        "نقدی خشن، دلتور در دفاع"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دلتور به دایگر تحسین می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 230,
+      "published_at": "2026-10-03T16:55:33.078612+00:00",
+      "text": "دلتور، ستارهٔ سینما، به دایگر تحسین می‌کند\n\n🎬 دلتور به دایگر تحسین می‌کند و نقدی خشن را سرزنش می‌کند\n\nفیلم دایگر، ساختهٔ آلان گ. اینارو، در آخر هفته به نمایش درآمد و نظرات مختلطی دریافت کرد. دلتور، برندهٔ سه جایزه اسکار، در شبکه‌های اجتماعی تحسین خود را ابراز کرد و به نقدی که فیلم را «عاجز از دیدن» نامید، پاسخ داد.\n\n📌 نکات مهم:\n• دلتور به دایگر تحسین می‌کند\n• نقدی فیلم را «عاجز از دیدن» نامید\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11777,7 +11830,8 @@
     "a8f82a91674031d5fbcea190",
     "870b842b8ef9dd0c1989b378",
     "94186a604b66f815eaec5477",
-    "5542c9d378c685cea1776e6d"
+    "5542c9d378c685cea1776e6d",
+    "a060a82e98d8c94ad79d8ce1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12003,11 +12057,12 @@
     "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729",
     "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719",
     "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season",
-    "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764"
+    "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764",
+    "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 116,
+      "published": 117,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12057,7 +12112,7 @@
       "published": 6
     },
     "16": {
-      "published": 6
+      "published": 7
     },
     "18": {
       "published": 9
@@ -12130,64 +12185,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-23T09:49:59.124686+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-23T14:02:55.525269+00:00",
       "version": 2,
@@ -15145,6 +15142,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-03T16:55:33.078717+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15370,9 +15425,98 @@
     "ced3230656442183",
     "0c2de7f798157db2",
     "c67d20e3cb973508",
-    "36c081a88e21f1e7"
+    "36c081a88e21f1e7",
+    "5c95899360a03bfc"
   ],
   "entity_memory": {
+    "tom cruise": {
+      "count": 3,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "digger": {
+      "count": 3,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "oscar": {
+      "count": 22,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "guillermo del toro": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "buries": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in praise": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "slams": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "petty": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "review": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "decidedly": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatrical experience": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "although digger": {
+      "count": 1,
+      "last_seen": "2026-10-03T16:55:33.078643+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 6,
       "last_seen": "2026-10-03T14:07:27.771040+00:00",
@@ -16486,22 +16630,6 @@
         "movie_news"
       ]
     },
-    "tom cruise": {
-      "count": 2,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "digger": {
-      "count": 2,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "tom cruise pulls": {
       "count": 1,
       "last_seen": "2026-09-30T11:01:28.377101+00:00",
@@ -16727,15 +16855,6 @@
       "last_seen": "2026-09-29T21:11:24.296511+00:00",
       "categories": [
         "streaming"
-      ]
-    },
-    "oscar": {
-      "count": 21,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "sylvester stallone says": {
@@ -18157,69 +18276,6 @@
     "fred astaire": {
       "count": 1,
       "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "amy pascal": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom holland in": {
-      "count": 1,
-      "last_seen": "2026-09-25T23:13:05.210611+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ben wang": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "minnie mills topline": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "admissions": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "road trip flick": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from aimee pham": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kai sampadian": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "karate kid": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
       "categories": [
         "movie_news"
       ]
