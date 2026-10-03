@@ -11657,6 +11657,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "df0d87a44a75c0359053697d",
+      "story_id": "a49768addae1a5b1",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033",
+      "title": "‘X-Men’s Christopher Abbott Admits He “Hasn’t Read Anything” Yet But “Can’t Wait” To Play Professor X",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "christopher abbott admits",
+        "hasn",
+        "read anything",
+        "yet but",
+        "wait",
+        "to play professor",
+        "although charles xavier",
+        "christopher abbott",
+        "professor",
+        "marvel studios",
+        "jake schreier"
+      ],
+      "hook": "آقای آبت، پروفسور X را بازی می‌کند، هنوز هیچ‌کدام را نخوانده",
+      "hooks": [
+        "آبت: هنوز هیچ‌کدام را نخوانده، اما مشتاق است",
+        "پروفسور X: بازیابی ذهنی، اما آبت هنوز نخوانده"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آبت در مصاحبه اعلام کرد که هنوز هیچ‌کدام را نخوانده"
+      ],
+      "status": "published",
+      "telegram_message_id": 232,
+      "published_at": "2026-10-03T22:48:42.677012+00:00",
+      "text": "آقای آبت، پروفسور X را بازی می‌کند، هنوز هیچ‌کدام را نخوانده\n\n🎬 کریستوفر آبت، پروفسور X را بازی می‌کند؛ هنوز هیچ‌کدام را نخوانده\n\nدر فیلم X-Men که توسط مارول استودیوها ساخته می‌شود، کریستوفر آبت نقش پروفسور X را بر عهده گرفته است. او هنوز هیچ کتابی دربارهٔ شخصیت را نخوانده، اما از شروع کار هیجان‌زده است.\nآبت در مصاحبه‌ای گفت که در انتظار دیدن فیلم است و مشتاق است تا با تیم کارگردان جیک شریر همکاری کند. او تأکید کرد که هنوز هیچ‌کدام را نخوانده، اما آمادهٔ ایفای نقش است.\n\n📌 نکات مهم:\n• کریستوفر آبت در نقش پروفسور X در فیلم X-Men انتخاب شد\n• او هنوز هیچ‌کدام را نخوانده اما مشتاق است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11885,7 +11938,8 @@
     "94186a604b66f815eaec5477",
     "5542c9d378c685cea1776e6d",
     "a060a82e98d8c94ad79d8ce1",
-    "cd0408a379330e15890d5724"
+    "cd0408a379330e15890d5724",
+    "df0d87a44a75c0359053697d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12113,11 +12167,12 @@
     "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season",
     "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764",
     "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972",
-    "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524"
+    "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524",
+    "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 118,
+      "published": 119,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12191,7 +12246,7 @@
       "published": 9
     },
     "22": {
-      "published": 9
+      "published": 10
     },
     "7": {
       "published": 2
@@ -12240,64 +12295,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-23T17:37:34.698405+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-23T19:55:24.900653+00:00",
       "version": 2,
@@ -15255,6 +15252,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-03T22:48:42.677114+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15482,9 +15537,96 @@
     "c67d20e3cb973508",
     "36c081a88e21f1e7",
     "5c95899360a03bfc",
-    "003dd0d0ad87eb08"
+    "003dd0d0ad87eb08",
+    "a49768addae1a5b1"
   ],
   "entity_memory": {
+    "marvel": {
+      "count": 4,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "christopher abbott admits": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hasn": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "read anything": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yet but": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wait": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to play professor": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "although charles xavier": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christopher abbott": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "professor": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marvel studios": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jake schreier": {
+      "count": 1,
+      "last_seen": "2026-10-03T22:48:42.677041+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "behemoth": {
       "count": 1,
       "last_seen": "2026-10-03T19:37:31.831294+00:00",
@@ -18088,15 +18230,6 @@
         "movie_news"
       ]
     },
-    "marvel": {
-      "count": 3,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "box_office"
-      ]
-    },
     "a24": {
       "count": 1,
       "last_seen": "2026-09-26T19:30:27.394364+00:00",
@@ -18256,83 +18389,6 @@
       "last_seen": "2026-09-26T13:35:46.592270+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "long time coming": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "finnish": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "somali": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "naima mohamud": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "best fiction project": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "finnish film affair": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "black": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "greta gerwig": {
-      "count": 1,
-      "last_seen": "2026-09-26T09:45:56.641137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "meryl streep": {
-      "count": 1,
-      "last_seen": "2026-09-26T09:45:56.641137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "aslan": {
-      "count": 1,
-      "last_seen": "2026-09-26T09:45:56.641137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christian": {
-      "count": 1,
-      "last_seen": "2026-09-26T09:45:56.641137+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
