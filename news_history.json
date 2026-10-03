@@ -11502,6 +11502,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5542c9d378c685cea1776e6d",
+      "story_id": "36c081a88e21f1e7",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764",
+      "title": "Mary Louise Weller Dies: ‘Animal House’s Mandy Pepperidge Was 79",
+      "category": "movie_news",
+      "score": 33.24,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "mary louise weller",
+        "dies",
+        "animal house",
+        "mandy pepperidge was",
+        "mandy pepperidge",
+        "october",
+        "weller",
+        "kojak"
+      ],
+      "hook": "مری لوئیس ولر درگذشت: بازیگر «Animal House» درگذشت",
+      "hooks": [
+        "مری لوئیس ولر درگذشت",
+        "مردی که در Animal House نقش داشت درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مری لوئیس ولر درگذشت در سن ۷۹ سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 229,
+      "published_at": "2026-10-03T14:07:27.771005+00:00",
+      "text": "مری لوئیس ولر درگذشت: بازیگر «Animal House» درگذشت\n\n🎬 مری لوئیس ولر، بازیگر «Animal House»، درگذشت\n\nمری لوئیس ولر، بازیگر مشهور نقش Mandy Pepperidge در فیلم کمدی کلاسیک Animal House، در تاریخ ۱ اکتبر پس از بیماری کوتاه‌مدت درگذشت. او در سن ۷۹ سالگی، یک روز قبل از تولد ۸۰ سالگی‌اش، از دنیا رفت.\n\nولر در طول زندگی‌اش بیش از بیست و دو نقش دیگر در فیلم و تلویزیون داشت و در چندین فیلم کوتاه و در سریال‌های تلویزیونی مانند Kojak حضور داشت.\n\n📌 نکات مهم:\n• مری لوئیس ولر در ۱ اکتبر درگذشت\n• نقش Mandy Pepperidge در Animal House\n• او بیش از ۲۲ نقش دیگر در فیلم و تلویزیون داشت\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11727,7 +11776,8 @@
     "953673633ae765a1079fd8ac",
     "a8f82a91674031d5fbcea190",
     "870b842b8ef9dd0c1989b378",
-    "94186a604b66f815eaec5477"
+    "94186a604b66f815eaec5477",
+    "5542c9d378c685cea1776e6d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -11952,11 +12002,12 @@
     "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505",
     "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729",
     "https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719",
-    "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season"
+    "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season",
+    "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 115,
+      "published": 116,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12003,7 +12054,7 @@
       "published": 10
     },
     "14": {
-      "published": 5
+      "published": 6
     },
     "16": {
       "published": 6
@@ -12079,64 +12130,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-22T22:51:39.500391+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-23T09:49:59.124686+00:00",
       "version": 2,
@@ -15094,6 +15087,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-03T14:07:27.771125+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 402,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15318,9 +15369,72 @@
     "0393403995c69e5c",
     "ced3230656442183",
     "0c2de7f798157db2",
-    "c67d20e3cb973508"
+    "c67d20e3cb973508",
+    "36c081a88e21f1e7"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 6,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "mary louise weller": {
+      "count": 2,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "animal house": {
+      "count": 2,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "mandy pepperidge": {
+      "count": 2,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "weller": {
+      "count": 2,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "october": {
+      "count": 3,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "mandy pepperidge was": {
+      "count": 1,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kojak": {
+      "count": 1,
+      "last_seen": "2026-10-03T14:07:27.771040+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "jordan peele": {
       "count": 2,
       "last_seen": "2026-10-03T10:17:29.888088+00:00",
@@ -15489,13 +15603,6 @@
         "awards_festivals"
       ]
     },
-    "dies": {
-      "count": 5,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "thursday": {
       "count": 2,
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
@@ -15512,13 +15619,6 @@
         "movie_news"
       ]
     },
-    "mary louise weller": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "who played sorority": {
       "count": 1,
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
@@ -15533,28 +15633,7 @@
         "actors_directors"
       ]
     },
-    "animal house": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mandy pepperidge": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "michael roy curtis": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "weller": {
       "count": 1,
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
       "categories": [
@@ -16484,13 +16563,6 @@
       "last_seen": "2026-09-30T11:01:28.377101+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "october": {
-      "count": 2,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "madeleine arthur": {
@@ -18146,20 +18218,6 @@
       ]
     },
     "karate kid": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "legends": {
-      "count": 1,
-      "last_seen": "2026-09-25T20:11:47.076347+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "minnie mills": {
       "count": 1,
       "last_seen": "2026-09-25T20:11:47.076347+00:00",
       "categories": [
