@@ -11812,6 +11812,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "bce1d60956757ec7037f98e9",
+      "story_id": "3b1327494b05e028",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534",
+      "title": "Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in ‘Earthquake,’ ‘Falcon Crest,’ Dies at 82",
+      "category": "actors_directors",
+      "score": 52.02,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "marjoe gortner",
+        "preacher",
+        "actor who was",
+        "subject",
+        "winning doc",
+        "appeared",
+        "earthquake",
+        "falcon crest",
+        "dies",
+        "marjoe",
+        "friday"
+      ],
+      "hook": "مرگ مارجو گورتنر، پیشکسوت و بازیگر",
+      "hooks": [
+        "سقوطی در زندگی مارجو گورتنر",
+        "یک زندگی در دو دنیای متفاوت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مارجو گورتنر در سن 82 سالگی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 235,
+      "published_at": "2026-10-04T17:13:55.101440+00:00",
+      "text": "مرگ مارجو گورتنر، پیشکسوت و بازیگر\n\n🎬 مارجو گورتنر، پیشکسوت و بازیگر، درگذشت\n\nمارجو گورتنر، پیشکسوت مذهبی که در مستند برنده اسکار \"مارجو\" به تصویر کشیده شد، در روز جمعه در سن 82 سالگی در سانتا فه، نیومکزیکو درگذشت. او در فیلم‌های \"Earthquake\" و \"Falcon Crest\" نقش داشت و همسرش، سوزان ماگاسترو، این خبر را به Variety گزارش کرد.\n\n📌 نکات مهم:\n• مارجو گورتنر در سن 82 سالگی درگذشت\n• موضوع مستند برنده اسکار 'مارجو' بود\n• در فیلم‌های 'Earthquake' و 'Falcon Crest' ایفای نقش داشت\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12043,7 +12096,8 @@
     "cd0408a379330e15890d5724",
     "df0d87a44a75c0359053697d",
     "b6aacc0baecb88808ab6cdad",
-    "f7097cc449ac76126be84538"
+    "f7097cc449ac76126be84538",
+    "bce1d60956757ec7037f98e9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12274,7 +12328,8 @@
     "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524",
     "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033",
     "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328",
-    "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680"
+    "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680",
+    "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534"
   ],
   "category_stats": {
     "movie_news": {
@@ -12284,7 +12339,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 84,
+      "published": 85,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12376,7 +12431,7 @@
       "published": 25
     },
     "17": {
-      "published": 27
+      "published": 28
     },
     "12": {
       "published": 1
@@ -12401,64 +12456,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-24T09:47:35.361773+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-24T13:59:18.013642+00:00",
       "version": 2,
@@ -15416,6 +15413,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-04T17:13:55.101538+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15646,9 +15701,97 @@
     "003dd0d0ad87eb08",
     "a49768addae1a5b1",
     "1afd6a619be6127d",
-    "a62531ea9525efec"
+    "a62531ea9525efec",
+    "3b1327494b05e028"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 23,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "dies": {
+      "count": 7,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "marjoe gortner": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "preacher": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor who was": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "subject": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winning doc": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "appeared": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "earthquake": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "falcon crest": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marjoe": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "friday": {
+      "count": 1,
+      "last_seen": "2026-10-04T17:13:55.101471+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 3,
       "last_seen": "2026-10-04T14:36:22.790735+00:00",
@@ -15984,15 +16127,6 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 22,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "guillermo del toro": {
       "count": 1,
       "last_seen": "2026-10-03T16:55:33.078643+00:00",
@@ -16053,14 +16187,6 @@
       "count": 1,
       "last_seen": "2026-10-03T16:55:33.078643+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 6,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -18427,77 +18553,6 @@
       "last_seen": "2026-09-26T22:38:07.255664+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "destruction": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "telling": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "audience": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this is what": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "your country is": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "supporting": {
-      "count": 1,
-      "last_seen": "2026-09-26T22:38:07.255664+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "resident evil": {
-      "count": 3,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office",
-        "movie_news"
-      ]
-    },
-    "a24": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "box office": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
