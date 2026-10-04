@@ -11763,6 +11763,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f7097cc449ac76126be84538",
+      "story_id": "a62531ea9525efec",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680",
+      "title": "Florence Pugh on How Zoe Kazan ‘East of Eden’ Collaboration Helped Boost Her Confidence",
+      "category": "actors_directors",
+      "score": 62.1,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": false,
+      "entities": [
+        "netflix",
+        "florence pugh",
+        "how zoe kazan",
+        "east",
+        "eden",
+        "collaboration helped boost",
+        "her confidence the",
+        "cathy",
+        "kazan"
+      ],
+      "hook": "فلورنس پو به همکاری با زو کازان اعتماد به نفس‌اش را بالا برد",
+      "hooks": [
+        "کازان و پو: همکاری که اعتماد به نفس فلورنس را تقویت کرد",
+        "فلورنس پو 'East of Eden' با زو کازان، اعتماد به نفس‌اش را بالا برد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "همکاری با زو کازان اعتماد به نفس فلورنس پو را بالا برد"
+      ],
+      "status": "published",
+      "telegram_message_id": 234,
+      "published_at": "2026-10-04T14:36:22.790703+00:00",
+      "text": "فلورنس پو به همکاری با زو کازان اعتماد به نفس‌اش را بالا برد\n\n🎬 فلورنس پو: چگونه همکاری با زو کازان اعتماد به نفس او را تقویت کرد\n\nفلورنس پو، بازیگر مرکزی در سریال 'East of Eden'، نقش کتی را به عهده دارد و به عنوان تهیه‌کننده اجرایی در این نسخه‌ی نیکو Netflix فعالیت می‌کند.\nزود کازان، کارگردان و نویسنده، او را به عنوان اولین و تنها انتخاب برای این نقش معرفی کرد؛ این همکاری باعث شد اعتماد به نفس پو در بازی‌گری اوضاع بهتری پیدا کند.\n\n📌 نکات مهم:\n• فلورنس پو نقش کتی را بازی می‌کند\n• زود کازان او را اولین و تنها انتخاب برای نقش کرد\n• فلورنس پو تهیه‌کننده اجرایی در نسخه Netflix 'East of Eden' است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11993,7 +12042,8 @@
     "a060a82e98d8c94ad79d8ce1",
     "cd0408a379330e15890d5724",
     "df0d87a44a75c0359053697d",
-    "b6aacc0baecb88808ab6cdad"
+    "b6aacc0baecb88808ab6cdad",
+    "f7097cc449ac76126be84538"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12223,7 +12273,8 @@
     "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972",
     "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524",
     "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033",
-    "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328"
+    "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328",
+    "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680"
   ],
   "category_stats": {
     "movie_news": {
@@ -12233,7 +12284,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 83,
+      "published": 84,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12274,7 +12325,7 @@
       "published": 11
     },
     "14": {
-      "published": 6
+      "published": 7
     },
     "16": {
       "published": 7
@@ -12350,64 +12401,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-23T22:52:25.400443+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-24T09:47:35.361773+00:00",
       "version": 2,
@@ -15365,6 +15358,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-04T14:36:22.790806+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15594,9 +15645,75 @@
     "5c95899360a03bfc",
     "003dd0d0ad87eb08",
     "a49768addae1a5b1",
-    "1afd6a619be6127d"
+    "1afd6a619be6127d",
+    "a62531ea9525efec"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 3,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "florence pugh": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "how zoe kazan": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "east": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eden": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "collaboration helped boost": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "her confidence the": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cathy": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kazan": {
+      "count": 1,
+      "last_seen": "2026-10-04T14:36:22.790735+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dc": {
       "count": 1,
       "last_seen": "2026-10-04T11:01:24.339552+00:00",
@@ -17192,14 +17309,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 2,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "movie_news",
-        "streaming"
-      ]
-    },
     "paris": {
       "count": 3,
       "last_seen": "2026-09-29T21:11:24.296511+00:00",
@@ -18389,62 +18498,6 @@
       "last_seen": "2026-09-26T19:30:27.394364+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "endgame encore": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "leads with": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "million": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "friday": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "primetime": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "takes second it": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "endgame": {
-      "count": 1,
-      "last_seen": "2026-09-26T19:30:27.394364+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "backrooms": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
