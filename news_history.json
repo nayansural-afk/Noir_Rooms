@@ -11917,6 +11917,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "52d01b5c256e8a8faa7ff32e",
+      "story_id": "7ffad99b0c0c29bc",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
+      "title": "Marjoe Gortner, Child Preacher and ‘Earthquake,’ ‘Falcon Crest’ Actor, Dies at 82",
+      "category": "actors_directors",
+      "score": 28.51,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "universal",
+        "oscar",
+        "marjoe gortner",
+        "child preacher",
+        "earthquake",
+        "falcon crest",
+        "actor",
+        "dies",
+        "universal pictures",
+        "lynda carter",
+        "bobbie jo",
+        "outlaw"
+      ],
+      "hook": "مرجو گورتنر، پیشوا و بازیگر، درگذشت در سن 82 سالگی",
+      "hooks": [
+        "مرداد درگذشت: پیشوا و ستاره سینمای آمریکا",
+        "مرجو گورتنر، بازیگر «زمین لرزه»، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مرجو گورتنر درگذشت در سن 82 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 237,
+      "published_at": "2026-10-04T22:58:41.940010+00:00",
+      "text": "مرجو گورتنر، پیشوا و بازیگر، درگذشت در سن 82 سالگی\n\n🎬 مرجو گورتنر، پیشوا و بازیگر سینمایی، درگذشت در سن 82 سالگی\n\nمرجو گورتنر، پیشوا کودک و بازیگر مشهور، درگذشت در سن 82 سالگی.\nاو در فیلم‌های «زمین لرزه» و سریال «Falcon Crest» نقش داشت و در فیلم «Bobbie Jo and the Outlaw» با لِیندا کارتر همکاری کرد.\n\n📌 نکات مهم:\n• مرجو گورتنر درگذشت در سن 82 سالگی\n• پیشوا کودک و بازیگر\n• نقش در فیلم Earthquake و سریال Falcon Crest\n• ستاره در Universal Pictures\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12150,7 +12202,8 @@
     "b6aacc0baecb88808ab6cdad",
     "f7097cc449ac76126be84538",
     "bce1d60956757ec7037f98e9",
-    "3009e4b5c813b1a9bee48f9b"
+    "3009e4b5c813b1a9bee48f9b",
+    "52d01b5c256e8a8faa7ff32e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12383,7 +12436,8 @@
     "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328",
     "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680",
     "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534",
-    "https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office"
+    "https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office",
+    "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873"
   ],
   "category_stats": {
     "movie_news": {
@@ -12393,7 +12447,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 85,
+      "published": 86,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12461,7 +12515,7 @@
       "published": 10
     },
     "22": {
-      "published": 10
+      "published": 11
     },
     "7": {
       "published": 2
@@ -12510,64 +12564,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-24T17:40:34.359255+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-24T20:13:42.844053+00:00",
       "version": 2,
@@ -15525,6 +15521,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-04T22:58:41.940137+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15757,9 +15811,97 @@
     "1afd6a619be6127d",
     "a62531ea9525efec",
     "3b1327494b05e028",
-    "a712d0e50802d76f"
+    "a712d0e50802d76f",
+    "7ffad99b0c0c29bc"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 24,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "dies": {
+      "count": 8,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "marjoe gortner": {
+      "count": 2,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "earthquake": {
+      "count": 2,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "falcon crest": {
+      "count": 2,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "universal": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "child preacher": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "universal pictures": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lynda carter": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bobbie jo": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "outlaw": {
+      "count": 1,
+      "last_seen": "2026-10-04T22:58:41.940048+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "marvel": {
       "count": 5,
       "last_seen": "2026-10-04T19:52:33.477050+00:00",
@@ -15847,30 +15989,6 @@
         "box_office"
       ]
     },
-    "oscar": {
-      "count": 23,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "dies": {
-      "count": 7,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "marjoe gortner": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "preacher": {
       "count": 1,
       "last_seen": "2026-10-04T17:13:55.101471+00:00",
@@ -15900,20 +16018,6 @@
       ]
     },
     "appeared": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "earthquake": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "falcon crest": {
       "count": 1,
       "last_seen": "2026-10-04T17:13:55.101471+00:00",
       "categories": [
@@ -18559,56 +18663,6 @@
       "last_seen": "2026-09-27T14:32:05.584918+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "lucasfilm simon kinberg": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "skywalker saga": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sept": {
-      "count": 3,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "film festival": {
-      "count": 5,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jia zhangke readies": {
-      "count": 1,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zhao tao road": {
-      "count": 1,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mamma dunhuang": {
-      "count": 1,
-      "last_seen": "2026-09-27T10:26:27.722654+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
