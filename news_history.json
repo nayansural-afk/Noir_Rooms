@@ -11710,6 +11710,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b6aacc0baecb88808ab6cdad",
+      "story_id": "1afd6a619be6127d",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328",
+      "title": "Jeremy Strong Defends Method Acting, Says He Doesn’t Feel the Need to ‘Apologize’ to Co-Stars Who May Think ‘I’m Taking It Too Seriously’",
+      "category": "actors_directors",
+      "score": 70.51,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "dc",
+        "jeremy strong defends",
+        "method acting",
+        "says he doesn",
+        "feel",
+        "need",
+        "apologize",
+        "stars who may",
+        "think",
+        "taking it too",
+        "seriously",
+        "jeremy strong"
+      ],
+      "hook": "استاد هنر، جریمی استرونگ، دفاع می‌کند از روش متد",
+      "hooks": [
+        "جریمی استرونگ: دفاع از هنر متد",
+        "دفاع جریمی استرونگ از روش متد بازیگری"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "او می‌گوید نیازی به عذرخواهی از همکاران ندارد."
+      ],
+      "status": "published",
+      "telegram_message_id": 233,
+      "published_at": "2026-10-04T11:01:24.339519+00:00",
+      "text": "استاد هنر، جریمی استرونگ، دفاع می‌کند از روش متد\n\n🎬 جریمی استرونگ: دفاع از هنر متد، بدون عذرخواهی\n\nدر یک اپیزود اخیر پادکست The New Yorker Radio Hour، جریمی استرونگ درباره روش متد بازیگری صحبت کرد. او بیان کرد که نیازی به عذرخواهی از همکاران ندارد، حتی اگر آن‌ها احساس کنند او بیش از حد جدی است.\nدر نقش ثروتمند فناوری، استرونگ به شدت درگیر جزئیات نقش خود بود. او تاکید کرد که این تعهد به هنر، نه به دیگران، است.\n\n📌 نکات مهم:\n• جریمی استرونگ دفاع از روش متد بازیگری می‌کند.\n• او می‌گوید نیازی به عذرخواهی از همکاران ندارد.\n• این گفتار در پادکست The New Yorker Radio Hour بود.\n• او نقش ثروتمند فناوری را بازی می‌کند.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -11939,7 +11992,8 @@
     "5542c9d378c685cea1776e6d",
     "a060a82e98d8c94ad79d8ce1",
     "cd0408a379330e15890d5724",
-    "df0d87a44a75c0359053697d"
+    "df0d87a44a75c0359053697d",
+    "b6aacc0baecb88808ab6cdad"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12168,7 +12222,8 @@
     "https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764",
     "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972",
     "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524",
-    "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033"
+    "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033",
+    "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328"
   ],
   "category_stats": {
     "movie_news": {
@@ -12178,7 +12233,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 82,
+      "published": 83,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12216,7 +12271,7 @@
       "published": 8
     },
     "11": {
-      "published": 10
+      "published": 11
     },
     "14": {
       "published": 6
@@ -12295,64 +12350,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-23T19:55:24.900653+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-23T22:52:25.400443+00:00",
       "version": 2,
@@ -15310,6 +15307,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-04T11:01:24.339630+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15538,9 +15593,94 @@
     "36c081a88e21f1e7",
     "5c95899360a03bfc",
     "003dd0d0ad87eb08",
-    "a49768addae1a5b1"
+    "a49768addae1a5b1",
+    "1afd6a619be6127d"
   ],
   "entity_memory": {
+    "dc": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jeremy strong defends": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "method acting": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says he doesn": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "feel": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "need": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "apologize": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stars who may": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "think": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "taking it too": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "seriously": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jeremy strong": {
+      "count": 1,
+      "last_seen": "2026-10-04T11:01:24.339552+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "marvel": {
       "count": 4,
       "last_seen": "2026-10-03T22:48:42.677041+00:00",
@@ -18303,90 +18443,6 @@
     "backrooms": {
       "count": 1,
       "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ushering": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shift similar": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "easy rider": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sony pictures classics": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chief says there": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kane parsons": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "curry barker": {
-      "count": 1,
-      "last_seen": "2026-09-26T16:50:18.371627+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "naima mohamud explains": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "why finland needs": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film like": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "halima": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "it was": {
-      "count": 1,
-      "last_seen": "2026-09-26T13:35:46.592270+00:00",
       "categories": [
         "movie_news"
       ]
