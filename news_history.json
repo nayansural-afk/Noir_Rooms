@@ -12021,6 +12021,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c2559335bc9b5fd3ef695a6e",
+      "story_id": "33c8d7d7a8a7f69a",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
+      "title": "Marisa Tomei and Rosanna Arquette to Star in ‘This Is Crazy’ NAMI Benefit in Memory of Chris Huvane",
+      "category": "actors_directors",
+      "score": 80.15,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marisa tomei",
+        "rosanna arquette",
+        "star",
+        "this is crazy",
+        "benefit",
+        "memory",
+        "chris huvane marisa",
+        "tomei",
+        "west coast",
+        "eve ensler",
+        "national alliance",
+        "mental illness"
+      ],
+      "hook": "ستارگان مارِسا تومی و رُسانا آرکیت برای کمک به سلامت روان",
+      "hooks": [
+        "پرده‌ای برای یادآوری چری هوانه",
+        "نمایش یک شبانه برای NAMI"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این اجرا برای حمایت از NAMI و یادآوری چری هوانه برگزار می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 239,
+      "published_at": "2026-10-05T17:48:14.700462+00:00",
+      "text": "ستارگان مارِسا تومی و رُسانا آرکیت برای کمک به سلامت روان\n\n🎬 مارِسا تومی و رُسانا آرکیت در نمایش «این دیوانه‌وار است» برای حمایت از NAMI\n\nدر اولین نمایش غربی، مارِسا تومی و رُسانا آرکیت در نقش‌های اصلی «این دیوانه‌وار است» حضور خواهند داشت. این اجرا یک شبانه‌یک‌بار است و به نفع اتحاد ملی سلامت روان (NAMI) برگزار می‌شود، در یادآوری مدیر استعداد هالیوود، چری هوانه، که در سال ۲۰۲۲ به خودکشی رفته بود.\n\n📌 نکات مهم:\n• مارِسا تومی و رُسانا آرکیت در نمایش «این دیوانه‌وار است» حضور دارند\n• این اجرا یک شبانه‌یک‌بار است و به نفع NAMI و یادآوری چری هوانه برگزار می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12256,7 +12309,8 @@
     "bce1d60956757ec7037f98e9",
     "3009e4b5c813b1a9bee48f9b",
     "52d01b5c256e8a8faa7ff32e",
-    "b23829a2b10719e2e33219e7"
+    "b23829a2b10719e2e33219e7",
+    "c2559335bc9b5fd3ef695a6e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12491,7 +12545,8 @@
     "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534",
     "https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office",
     "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
-    "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music"
+    "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+    "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152"
   ],
   "category_stats": {
     "movie_news": {
@@ -12501,7 +12556,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 87,
+      "published": 88,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12593,7 +12648,7 @@
       "published": 25
     },
     "17": {
-      "published": 28
+      "published": 29
     },
     "12": {
       "published": 2
@@ -12618,64 +12673,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-24T23:08:43.870744+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-25T10:04:53.391942+00:00",
       "version": 2,
@@ -15633,6 +15630,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-05T17:48:14.700565+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15867,9 +15922,95 @@
     "3b1327494b05e028",
     "a712d0e50802d76f",
     "7ffad99b0c0c29bc",
-    "7be712dacb0f7745"
+    "7be712dacb0f7745",
+    "33c8d7d7a8a7f69a"
   ],
   "entity_memory": {
+    "star": {
+      "count": 6,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "marisa tomei": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rosanna arquette": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this is crazy": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "benefit": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "memory": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chris huvane marisa": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tomei": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "west coast": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eve ensler": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "national alliance": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mental illness": {
+      "count": 1,
+      "last_seen": "2026-10-05T17:48:14.700494+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "this": {
       "count": 2,
       "last_seen": "2026-10-05T12:09:09.280905+00:00",
@@ -16826,14 +16967,6 @@
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "star": {
-      "count": 5,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "the good girls": {
@@ -18639,85 +18772,6 @@
     "friendships": {
       "count": 1,
       "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "avengers anna kendrick": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zurich film festival": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anna kendrick is": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "babies": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "george clooney": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israel": {
-      "count": 2,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "gaza": {
-      "count": 2,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "guardian": {
-      "count": 4,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "palestinians": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israeli": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "north american": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
       "categories": [
         "movie_news"
       ]
