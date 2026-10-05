@@ -12074,6 +12074,50 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "68304deaf66fb89c5ed69251",
+      "story_id": "2c89dcd27ae65553",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
+      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+      "category": "movie_news",
+      "score": 62.74,
+      "freshness": 100.0,
+      "credibility": 92.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "blue planet",
+        "gandhi",
+        "george fenton"
+      ],
+      "hook": "وفات جورج فنتون، آهنگساز بی‌نظیر طبیعت و گاندی",
+      "hooks": [
+        "آهنگساز بزرگ طبیعت و گاندی درگذشت",
+        "جورج فنتون، 76 ساله، از دنیا رفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پنج نامزد اسکار"
+      ],
+      "status": "published",
+      "telegram_message_id": 240,
+      "published_at": "2026-10-05T23:01:28.009722+00:00",
+      "text": "وفات جورج فنتون، آهنگساز بی‌نظیر طبیعت و گاندی\n\n🎬 جورج فنتون، آهنگساز بی‌نظیر طبیعت و گاندی، درگذشت\n\nجورج فنتون، آهنگساز برجسته که در ۵ فیلم طبیعت بی‌نظیر صداگذاری کرده بود، درگذشت.\nاو در طول زندگی‌اش پنج بار برای اسکار نامزد شد و آثارش در سراسر جهان شناخته می‌شد.\n\n📌 نکات مهم:\n• پنج نامزد اسکار\n• صداگذاری در فیلم‌های طبیعت\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12310,7 +12354,8 @@
     "3009e4b5c813b1a9bee48f9b",
     "52d01b5c256e8a8faa7ff32e",
     "b23829a2b10719e2e33219e7",
-    "c2559335bc9b5fd3ef695a6e"
+    "c2559335bc9b5fd3ef695a6e",
+    "68304deaf66fb89c5ed69251"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12546,11 +12591,12 @@
     "https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office",
     "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
     "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
-    "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152"
+    "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
+    "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 119,
+      "published": 120,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12612,7 +12658,7 @@
       "published": 12
     },
     "23": {
-      "published": 9
+      "published": 10
     },
     "3": {
       "published": 2
@@ -12673,64 +12719,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-25T10:04:53.391942+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-25T14:23:50.443117+00:00",
       "version": 2,
@@ -15688,6 +15676,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-05T23:01:28.009802+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15923,9 +15969,40 @@
     "a712d0e50802d76f",
     "7ffad99b0c0c29bc",
     "7be712dacb0f7745",
-    "33c8d7d7a8a7f69a"
+    "33c8d7d7a8a7f69a",
+    "2c89dcd27ae65553"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 25,
+      "last_seen": "2026-10-05T23:01:28.009747+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "blue planet": {
+      "count": 1,
+      "last_seen": "2026-10-05T23:01:28.009747+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gandhi": {
+      "count": 1,
+      "last_seen": "2026-10-05T23:01:28.009747+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "george fenton": {
+      "count": 1,
+      "last_seen": "2026-10-05T23:01:28.009747+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 6,
       "last_seen": "2026-10-05T17:48:14.700494+00:00",
@@ -16096,15 +16173,6 @@
       "last_seen": "2026-10-05T12:09:09.280905+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 24,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "dies": {
@@ -18749,27 +18817,6 @@
       ]
     },
     "evelyn hugo": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "compares": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pitch perfect": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "friendships": {
       "count": 1,
       "last_seen": "2026-09-27T19:56:00.227113+00:00",
       "categories": [
