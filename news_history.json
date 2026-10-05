@@ -11969,6 +11969,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b23829a2b10719e2e33219e7",
+      "story_id": "7be712dacb0f7745",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+      "title": "The Yellow Tie review – John Malkovich gives major hauteur as legendary record-hating maestro",
+      "category": "actors_directors",
+      "score": 70.16,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "the yellow tie",
+        "john malkovich",
+        "this",
+        "sergiu celibidache",
+        "romanian",
+        "here",
+        "europe",
+        "zen buddhist",
+        "serge ioan celebidachi",
+        "french",
+        "japanese",
+        "ben schnetzer"
+      ],
+      "hook": "سریجیو سلِبی‌دَک، آهنگساز بی‌ضبط در فیلم 'The Yellow Tie'",
+      "hooks": [
+        "فیلمی که جان مالکویچ در نقش سلِبی‌دَک ظاهر می‌شود",
+        "بی‌ضبط بودن سلِبی‌دَک در فیلم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'The Yellow Tie' در نقش سلِبی‌دَک، بازی جان مالکویچ را به نمایش می‌گذارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 238,
+      "published_at": "2026-10-05T12:09:09.280874+00:00",
+      "text": "سریجیو سلِبی‌دَک، آهنگساز بی‌ضبط در فیلم 'The Yellow Tie'\n\n🎬 The Yellow Tie: جان مالکویچ در نقش آهنگساز بی‌ضبط سلِبی‌دَک\n\nفیلم 'The Yellow Tie' بر اساس زندگی آهنگساز رومانیایی سریجیو سلِبی‌دَک ساخته شده است. کارگردان این اثر، پسر سلِبی‌دَک، با بازی جان مالکویچ، به‌صورت بی‌نظیر این شخصیت را به تصویر می‌کشد.\n\nسریجیو سلِبی‌دَک در پس‌زمینه جنگ جهانی دوم شهرت یافت و به‌دلیل فلسفه زنی‌اش که موسیقی نباید ضبط شود، به‌عنوان یک آهنگساز بی‌ضبط شناخته شد.\n\n📌 نکات مهم:\n• فیلم 'The Yellow Tie' بر اساس زندگی سلِبی‌دَک ساخته شده\n• کارگردان فیلم، پسر سلِبی‌دَک است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12203,7 +12255,8 @@
     "f7097cc449ac76126be84538",
     "bce1d60956757ec7037f98e9",
     "3009e4b5c813b1a9bee48f9b",
-    "52d01b5c256e8a8faa7ff32e"
+    "52d01b5c256e8a8faa7ff32e",
+    "b23829a2b10719e2e33219e7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12437,7 +12490,8 @@
     "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680",
     "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534",
     "https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office",
-    "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873"
+    "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
+    "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music"
   ],
   "category_stats": {
     "movie_news": {
@@ -12447,7 +12501,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 86,
+      "published": 87,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12542,7 +12596,7 @@
       "published": 28
     },
     "12": {
-      "published": 1
+      "published": 2
     },
     "0": {
       "published": 1
@@ -12564,64 +12618,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-24T20:13:42.844053+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-24T23:08:43.870744+00:00",
       "version": 2,
@@ -15579,6 +15575,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-05T12:09:09.280982+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15812,9 +15866,97 @@
     "a62531ea9525efec",
     "3b1327494b05e028",
     "a712d0e50802d76f",
-    "7ffad99b0c0c29bc"
+    "7ffad99b0c0c29bc",
+    "7be712dacb0f7745"
   ],
   "entity_memory": {
+    "this": {
+      "count": 2,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "japanese": {
+      "count": 2,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "french": {
+      "count": 4,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "the yellow tie": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "john malkovich": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sergiu celibidache": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "romanian": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "here": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "europe": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zen buddhist": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "serge ioan celebidachi": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ben schnetzer": {
+      "count": 1,
+      "last_seen": "2026-10-05T12:09:09.280905+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 24,
       "last_seen": "2026-10-04T22:58:41.940048+00:00",
@@ -16293,13 +16435,6 @@
       ]
     },
     "who did what": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
       "count": 1,
       "last_seen": "2026-10-03T19:37:31.831294+00:00",
       "categories": [
@@ -17263,13 +17398,6 @@
         "movie_news"
       ]
     },
-    "japanese": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "hong kong": {
       "count": 1,
       "last_seen": "2026-10-01T11:28:07.881648+00:00",
@@ -18165,14 +18293,6 @@
         "trailers_first_look"
       ]
     },
-    "french": {
-      "count": 3,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "kristen stewart": {
       "count": 1,
       "last_seen": "2026-09-28T19:55:46.946539+00:00",
@@ -18600,69 +18720,6 @@
       "last_seen": "2026-09-27T17:22:45.605385+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "saturday": {
-      "count": 1,
-      "last_seen": "2026-09-27T17:22:45.605385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star wars": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jon watts": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "direct next": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "watts": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "homecoming": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "far from home": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "no way home": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "direct next movie": {
-      "count": 1,
-      "last_seen": "2026-09-27T14:32:05.584918+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
