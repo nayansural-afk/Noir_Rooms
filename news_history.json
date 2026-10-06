@@ -12328,6 +12328,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8cbcf33533a39663ab59f645",
+      "story_id": "0a814e31df502a8a",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906",
+      "title": "Eva Marie Saint, Graceful Star of the Silver Screen, Dies at 102",
+      "category": "movie_news",
+      "score": 50.53,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "eva marie saint",
+        "graceful star",
+        "silver screen",
+        "dies",
+        "waterfront",
+        "cary grant",
+        "north",
+        "northwest"
+      ],
+      "hook": "ستاره‌ی نقره‌ای، 102 سالگی، درگذشت",
+      "hooks": [
+        "گذشته‌ی سینمایی، 102 سال، پایان",
+        "اوستار، اوکر، 102 سال"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "او در اولین فیلمش، 'On the Waterfront', جایزه اسکار را کسب کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 245,
+      "published_at": "2026-10-06T21:24:32.787158+00:00",
+      "text": "ستاره‌ی نقره‌ای، 102 سالگی، درگذشت\n\n🎬 Eva Marie Saint درگذشت؛ 102 سالگی\n\nاستاد سینما، EVA MARIE SAINT، درگذشت. او در سن 102 سالگی از جهان رفت.\nاو با برنده شدن جایزه اسکار در اولین فیلمش، 'On the Waterfront'، به شهرت رسید و در 'North by Northwest' در کنار Cary Grant بدرخشید.\n\n📌 نکات مهم:\n• درگذشت در سن 102 سالگی\n• برنده جایزه اسکار در 'On the Waterfront'\n• در 'North by Northwest' با Cary Grant بازی کرد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12569,7 +12618,8 @@
     "f06ca01eb0dbedc0042f174b",
     "b8571770fb5c970736ff7a96",
     "c0f098926755e63aca553863",
-    "fffc2c2a0021a5ffdf928eb9"
+    "fffc2c2a0021a5ffdf928eb9",
+    "8cbcf33533a39663ab59f645"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12810,11 +12860,12 @@
     "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
     "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
     "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv",
-    "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless"
+    "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
+    "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 123,
+      "published": 124,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12873,7 +12924,7 @@
       "published": 26
     },
     "21": {
-      "published": 12
+      "published": 13
     },
     "23": {
       "published": 10
@@ -12937,64 +12988,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-26T09:45:56.641214+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-26T13:35:46.592338+00:00",
       "version": 2,
@@ -15952,6 +15945,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T21:24:32.787264+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16192,9 +16243,76 @@
     "89dbcad995a2282d",
     "0cf9e633251f86ed",
     "e416c475abb8a672",
-    "701bb32ee7dded65"
+    "701bb32ee7dded65",
+    "0a814e31df502a8a"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 26,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "dies": {
+      "count": 9,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "eva marie saint": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "graceful star": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "silver screen": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "waterfront": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cary grant": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "northwest": {
+      "count": 1,
+      "last_seen": "2026-10-06T21:24:32.787191+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "the lost children": {
       "count": 1,
       "last_seen": "2026-10-06T18:43:13.101727+00:00",
@@ -16534,15 +16652,6 @@
         "actors_directors"
       ]
     },
-    "oscar": {
-      "count": 25,
-      "last_seen": "2026-10-05T23:01:28.009747+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "blue planet": {
       "count": 1,
       "last_seen": "2026-10-05T23:01:28.009747+00:00",
@@ -16726,14 +16835,6 @@
       "last_seen": "2026-10-05T12:09:09.280905+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "dies": {
-      "count": 8,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "marjoe gortner": {
@@ -18995,55 +19096,6 @@
       "last_seen": "2026-09-28T22:22:01.425254+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "release in works": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "with extra footage": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "the dish": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sources": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "rosario": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "kristen stewart": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "riley keough": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
