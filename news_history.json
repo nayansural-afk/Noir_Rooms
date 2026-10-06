@@ -12224,6 +12224,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c0f098926755e63aca553863",
+      "story_id": "e416c475abb8a672",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv",
+      "title": "‘Matchbox: The Movie’ Red Carpet Premiere Photos: John Cena, Jessica Biel, Teyonah Parris & More",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "matchbox",
+        "the movie",
+        "red carpet premiere",
+        "photos",
+        "john cena",
+        "jessica biel",
+        "teyonah parris",
+        "more the",
+        "lincoln square theater",
+        "new york",
+        "apple originals"
+      ],
+      "hook": "جشن رونمایی: بازیگران Matchbox در سالن AMC لندسکوئر",
+      "hooks": [
+        "ستارگان Matchbox در حفل رونمایی نیویورک",
+        "پوشش عکس‌های کرفت: جان سینا و جیسیکا بیل"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "رونمایی در سالن AMC Lincoln Square Theater"
+      ],
+      "status": "published",
+      "telegram_message_id": 243,
+      "published_at": "2026-10-06T15:39:47.365298+00:00",
+      "text": "جشن رونمایی: بازیگران Matchbox در سالن AMC لندسکوئر\n\n🎬 Matchbox: The Movie – رونمایی در سالن AMC لندسکوئر\n\nفیلم اکشن Matchbox: The Movie در سالن AMC Lincoln Square Theater در نیویورک رونمایی شد.\nستارگان بازیگرانی چون جان سینا، جیسیکا بیل، سام ریچاردسون، آرتورو کاسترو و تیوناه پارری حضور داشتند؛ کارگردان سام هارگرو و نویسنده دایوید کوگس‌هال، بر اساس برند اسباب‌بازی ماتل ساخته شد.\n\n📌 نکات مهم:\n• رونمایی در سالن AMC Lincoln Square Theater در نیویورک\n• کارگردان Sam Hargrave و نویسنده David Coggeshall\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12463,7 +12515,8 @@
     "c2559335bc9b5fd3ef695a6e",
     "68304deaf66fb89c5ed69251",
     "f06ca01eb0dbedc0042f174b",
-    "b8571770fb5c970736ff7a96"
+    "b8571770fb5c970736ff7a96",
+    "c0f098926755e63aca553863"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12702,11 +12755,12 @@
     "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
     "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
     "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
-    "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary"
+    "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
+    "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 121,
+      "published": 122,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12792,7 +12846,7 @@
       "published": 1
     },
     "15": {
-      "published": 7
+      "published": 8
     },
     "1": {
       "published": 2
@@ -12829,64 +12883,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-25T20:11:47.076436+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-25T23:13:05.210683+00:00",
       "version": 2,
@@ -15844,6 +15840,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T15:39:47.365413+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16082,9 +16136,95 @@
     "33c8d7d7a8a7f69a",
     "2c89dcd27ae65553",
     "89dbcad995a2282d",
-    "0cf9e633251f86ed"
+    "0cf9e633251f86ed",
+    "e416c475abb8a672"
   ],
   "entity_memory": {
+    "new york": {
+      "count": 3,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "matchbox": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the movie": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "red carpet premiere": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "photos": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john cena": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jessica biel": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "teyonah parris": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more the": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lincoln square theater": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "apple originals": {
+      "count": 1,
+      "last_seen": "2026-10-06T15:39:47.365329+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "the craft": {
       "count": 1,
       "last_seen": "2026-10-06T11:52:52.764641+00:00",
@@ -17182,14 +17322,6 @@
       ]
     },
     "rachel szor": {
-      "count": 2,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "new york": {
       "count": 2,
       "last_seen": "2026-10-02T23:41:12.136925+00:00",
       "categories": [
@@ -18857,83 +18989,6 @@
       "last_seen": "2026-09-28T17:18:23.750841+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "season entry we": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "simon stone": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "the dig": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "ian charleson": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "stephen beresford": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "pride": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "worldwide partners with": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "empire studios": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rascal entertainment": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "green": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "on survival thriller": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
