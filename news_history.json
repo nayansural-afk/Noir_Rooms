@@ -12118,6 +12118,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f06ca01eb0dbedc0042f174b",
+      "story_id": "89dbcad995a2282d",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
+      "category": "actors_directors",
+      "score": 44.32,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "french",
+        "macbeth",
+        "matt groening",
+        "life in hell",
+        "clever film critic",
+        "the french",
+        "well",
+        "bertrand usclat",
+        "martin darondeau",
+        "parisian",
+        "nina",
+        "pauline"
+      ],
+      "hook": "در پیش‌نمایش مکبث، کمدی فرانسه به طرز خنده‌داری می‌چرخد",
+      "hooks": [
+        "کمدی در پیش‌نمایش مکبث: شوخی‌های فرانسوی در لحظهٔ آغاز",
+        "تجربهٔ بی‌نظیر در پیش‌نمایش مکبث: کمدی فرانسوی با شوک"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کمدی در پیش‌نمایش مکبث به‌صورت خنده‌دار و بی‌نظیر اجرا شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 241,
+      "published_at": "2026-10-06T01:15:31.476344+00:00",
+      "text": "در پیش‌نمایش مکبث، کمدی فرانسه به طرز خنده‌داری می‌چرخد\n\n🎬 کمدی فرانسه در پیش‌نمایش مکبث: بی‌نظیر و خنده‌دار\n\nاین نمایش در سه ساعت پیش از شبۀ افتتاح مکبث در سالن Comédie Française اتفاق می‌افتد و با کمدی فرانسوی به‌صورت بی‌نظیری به نمایش درمی‌آید.\nبا حضور بازیگران برجسته و کارگردانی Bertrand Usclat و Martin Darondeau، لحظات شوخی و تعلیق در لحظهٔ آغاز، تماشاگران را درگیر می‌کند.\n\n📌 نکات مهم:\n• کمدی در سه ساعت پیش از افتتاح مکبث در Comédie Française\n• کارگردانی Bertrand Usclat و Martin Darondeau\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12355,7 +12407,8 @@
     "52d01b5c256e8a8faa7ff32e",
     "b23829a2b10719e2e33219e7",
     "c2559335bc9b5fd3ef695a6e",
-    "68304deaf66fb89c5ed69251"
+    "68304deaf66fb89c5ed69251",
+    "f06ca01eb0dbedc0042f174b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12592,7 +12645,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873",
     "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
     "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
-    "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o"
+    "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
+    "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement"
   ],
   "category_stats": {
     "movie_news": {
@@ -12602,7 +12656,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 88,
+      "published": 89,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12685,7 +12739,7 @@
       "published": 7
     },
     "1": {
-      "published": 1
+      "published": 2
     },
     "2": {
       "published": 1
@@ -12719,64 +12773,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-25T14:23:50.443117+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-25T17:40:54.539182+00:00",
       "version": 2,
@@ -15734,6 +15730,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T01:15:31.476489+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -15970,9 +16024,96 @@
     "7ffad99b0c0c29bc",
     "7be712dacb0f7745",
     "33c8d7d7a8a7f69a",
-    "2c89dcd27ae65553"
+    "2c89dcd27ae65553",
+    "89dbcad995a2282d"
   ],
   "entity_memory": {
+    "french": {
+      "count": 5,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "well": {
+      "count": 2,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "macbeth": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "matt groening": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "life in hell": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "clever film critic": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the french": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bertrand usclat": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "martin darondeau": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "parisian": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nina": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pauline": {
+      "count": 1,
+      "last_seen": "2026-10-06T01:15:31.476391+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 25,
       "last_seen": "2026-10-05T23:01:28.009747+00:00",
@@ -16098,14 +16239,6 @@
     },
     "japanese": {
       "count": 2,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "french": {
-      "count": 4,
       "last_seen": "2026-10-05T12:09:09.280905+00:00",
       "categories": [
         "movie_news",
@@ -16878,13 +17011,6 @@
       ]
     },
     "get out": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "well": {
       "count": 1,
       "last_seen": "2026-10-03T10:17:29.888088+00:00",
       "categories": [
@@ -18751,76 +18877,6 @@
       "last_seen": "2026-09-27T22:56:40.811861+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "following": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "arena stage": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "will power": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dough wright": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anna kendrick": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "over": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moon": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "about directing": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the seven husbands": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "evelyn hugo": {
-      "count": 1,
-      "last_seen": "2026-09-27T19:56:00.227113+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
