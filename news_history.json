@@ -12377,6 +12377,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2a16f1de3193f80984d00f38",
+      "story_id": "d92007374992b0c9",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "category": "movie_news",
+      "score": 50.18,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oppenheimer",
+        "artificial",
+        "luca guadagnino",
+        "new york",
+        "sam altman",
+        "andrew garfield on",
+        "vanity fair",
+        "altman",
+        "alongside",
+        "annie leibovitz",
+        "last",
+        "studies"
+      ],
+      "hook": "فیلم جدید گوادانیونو: داستان سرخوشی سام آلتمن در دنیای هوش مصنوعی",
+      "hooks": [
+        "سفر خنده‌دار سام آلتمن در سینمای آینده",
+        "کامیابی گوادانیونو با بازی اندرو گارفیلد در فیلم هوش مصنوعی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم گوادانیونو درباره سام آلتمن و OpenAI است"
+      ],
+      "status": "published",
+      "telegram_message_id": 246,
+      "published_at": "2026-10-06T23:43:36.718846+00:00",
+      "text": "فیلم جدید گوادانیونو: داستان سرخوشی سام آلتمن در دنیای هوش مصنوعی\n\n🎬 گوادانیونو با اندرو گارفیلد، فیلمی سرخوش درباره سام آلتمن و OpenAI\n\nفیلم جدید گوادانیونو در جشنواره فیلم نیویورک به نمایش درآمد و داستان سرخوشی سام آلتمن و OpenAI را با بازی اندرو گارفیلد روایت می‌کند.\n\nVanity Fair در همان روز پوشش ویژه‌ای با عکاسی آنی لیبویتز منتشر کرد و آلتمن را به‌عنوان اوپنهایمر دوران خود معرفی کرد، در حالی که در مصاحبه‌ای گفت که باید آماده پذیرش \"چیزهای بد\" باشیم.\n\n📌 نکات مهم:\n• فیلم گوادانیونو در جشنواره فیلم نیویورک به نمایش درآمد\n• اندرو گارفیلد در نقش سام آلتمن در فیلم حضور دارد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12619,7 +12671,8 @@
     "b8571770fb5c970736ff7a96",
     "c0f098926755e63aca553863",
     "fffc2c2a0021a5ffdf928eb9",
-    "8cbcf33533a39663ab59f645"
+    "8cbcf33533a39663ab59f645",
+    "2a16f1de3193f80984d00f38"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12861,11 +12914,12 @@
     "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
     "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv",
     "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
-    "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906"
+    "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906",
+    "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 124,
+      "published": 125,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12927,7 +12981,7 @@
       "published": 13
     },
     "23": {
-      "published": 10
+      "published": 11
     },
     "3": {
       "published": 2
@@ -12988,64 +13042,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-26T13:35:46.592338+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-26T16:50:18.371701+00:00",
       "version": 2,
@@ -16003,6 +15999,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T23:43:36.718951+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16244,9 +16298,95 @@
     "0cf9e633251f86ed",
     "e416c475abb8a672",
     "701bb32ee7dded65",
-    "0a814e31df502a8a"
+    "0a814e31df502a8a",
+    "d92007374992b0c9"
   ],
   "entity_memory": {
+    "new york": {
+      "count": 4,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "oppenheimer": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "artificial": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luca guadagnino": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sam altman": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "andrew garfield on": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vanity fair": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "altman": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alongside": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "annie leibovitz": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "last": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studies": {
+      "count": 1,
+      "last_seen": "2026-10-06T23:43:36.718877+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 26,
       "last_seen": "2026-10-06T21:24:32.787191+00:00",
@@ -16395,14 +16535,6 @@
       "last_seen": "2026-10-06T18:43:13.101727+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "new york": {
-      "count": 3,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "hbo": {
@@ -19011,91 +19143,6 @@
       "last_seen": "2026-09-29T00:18:57.986824+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "gary oldman": {
-      "count": 1,
-      "last_seen": "2026-09-29T00:18:57.986824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "slow horses": {
-      "count": 1,
-      "last_seen": "2026-09-29T00:18:57.986824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "spider-man": {
-      "count": 3,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
-    "spider": {
-      "count": 3,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
-    "brand new day": {
-      "count": 2,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
-    "destin daniel cretton": {
-      "count": 2,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
-    "variety": {
-      "count": 3,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "release": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "works with new": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "footage": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "july": {
-      "count": 1,
-      "last_seen": "2026-09-28T22:22:01.425254+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
