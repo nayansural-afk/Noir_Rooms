@@ -12276,6 +12276,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fffc2c2a0021a5ffdf928eb9",
+      "story_id": "701bb32ee7dded65",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
+      "title": "The Lost Children of Tuam review – deeply serious retelling of Ireland’s devastating tragedy",
+      "category": "movie_news",
+      "score": 73.75,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "the lost children",
+        "tuam",
+        "ireland",
+        "monica dolan",
+        "liam neeson",
+        "county galway",
+        "st mary",
+        "catherine corless",
+        "produced",
+        "new york times",
+        "corless",
+        "eventually"
+      ],
+      "hook": "کامیابی در بازگو کردن ترسناک‌ترین حوادث ایرلند",
+      "hooks": [
+        "حکایت تاریک کودکان گمشده در توام",
+        "سینمایی که تاریخ را به چالش می‌کشد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم بر اساس مقالهٔ ۲۰۱۷ نیویورک تایمز ساخته شده است."
+      ],
+      "status": "published",
+      "telegram_message_id": 244,
+      "published_at": "2026-10-06T18:43:13.101691+00:00",
+      "text": "کامیابی در بازگو کردن ترسناک‌ترین حوادث ایرلند\n\n🎬 فیلم 'کودکان گمشده توام'؛ بازگو کردن تراژدی تاریک ایرلند\n\nدر این فیلم، مونیکا دولان نقش تاریخ‌نگار آماتور را ایفا می‌کند که راز دفن‌های جماعی در خانه مادر و نوزاد توام را فاش می‌کند.\nبا تولید لایم نیسن و بر پایه مقالهٔ ۲۰۱۷ نیویورک تایمز، این اثر ۷۹۶ بدن کوچک را در یک تانک فاضلاب نشان می‌دهد.\n\n📌 نکات مهم:\n• مونیکا دولان در نقش کاترین کورلس نقش برجسته‌ای دارد.\n• حدود ۷۹۶ بدن در خانه مادر و نوزاد توام کشف شد.\n• فیلم توسط لایم نیسن تولید شد.\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12516,7 +12568,8 @@
     "68304deaf66fb89c5ed69251",
     "f06ca01eb0dbedc0042f174b",
     "b8571770fb5c970736ff7a96",
-    "c0f098926755e63aca553863"
+    "c0f098926755e63aca553863",
+    "fffc2c2a0021a5ffdf928eb9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12756,11 +12809,12 @@
     "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
     "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
     "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
-    "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv"
+    "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv",
+    "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 122,
+      "published": 123,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12813,7 +12867,7 @@
       "published": 7
     },
     "18": {
-      "published": 9
+      "published": 10
     },
     "20": {
       "published": 26
@@ -12883,64 +12937,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-25T23:13:05.210683+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-26T09:45:56.641214+00:00",
       "version": 2,
@@ -15898,6 +15894,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T18:43:13.101809+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16137,9 +16191,94 @@
     "2c89dcd27ae65553",
     "89dbcad995a2282d",
     "0cf9e633251f86ed",
-    "e416c475abb8a672"
+    "e416c475abb8a672",
+    "701bb32ee7dded65"
   ],
   "entity_memory": {
+    "the lost children": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tuam": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ireland": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "monica dolan": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "liam neeson": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "county galway": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "st mary": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "catherine corless": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "produced": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new york times": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "corless": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eventually": {
+      "count": 1,
+      "last_seen": "2026-10-06T18:43:13.101727+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "new york": {
       "count": 3,
       "last_seen": "2026-10-06T15:39:47.365329+00:00",
@@ -18905,90 +19044,6 @@
       "last_seen": "2026-09-28T19:55:46.946539+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "wagner moura": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "olivier assayas": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "next film": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "spiritual world": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the wizard": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kremlin": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "vicky krieps": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "assayas": {
-      "count": 1,
-      "last_seen": "2026-09-28T19:55:46.946539+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elsinore": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "first look at": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "andrew scott": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "buzzy awards": {
-      "count": 1,
-      "last_seen": "2026-09-28T17:18:23.750841+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
