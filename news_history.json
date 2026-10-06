@@ -12170,6 +12170,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b8571770fb5c970736ff7a96",
+      "story_id": "0cf9e633251f86ed",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
+      "title": "The Craft review – cult high-school horror a reminder of the fearless 90s",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "the craft",
+        "andrew fleming",
+        "heathers",
+        "mean girls",
+        "magritte",
+        "robin tunney",
+        "sarah",
+        "san francisco",
+        "los angeles",
+        "something",
+        "eastwick",
+        "nancy"
+      ],
+      "hook": "هستند به ترس‌های ۹۰ها در کلاس‌های دبیرستان",
+      "hooks": [
+        "ترس‌های ۹۰ها در کلاس‌های دبیرستان",
+        "سینمای ترسناک ۳۰ ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سینمای ۳۰ ساله «The Craft»",
+        "نویسندگی و کارگردانی اندرو فلیمن",
+        "روبین تونی در نقش سارا"
+      ],
+      "status": "published",
+      "telegram_message_id": 242,
+      "published_at": "2026-10-06T11:52:52.764609+00:00",
+      "text": "هستند به ترس‌های ۹۰ها در کلاس‌های دبیرستان\n\n🎬 «The Craft»؛ ترس‌های ۹۰ها در کلاس‌های دبیرستان\n\nفیلم «The Craft» که در سال ۱۹۹۶ ساخته شد، به‌عنوان یک کلاسیک ترسناک با محوریت دختران، با انرژی و اعتماد به نفس، اضطراب نوجوانان را به‌صورت تازه‌نظری بررسی می‌کند. این نسخه‌ی ۳۰ ساله، با همکاری نویسندگی و کارگردانی اندرو فلیمن، به‌صورت جدید به نمایش گذاشته می‌شود و با الهام از فیلم‌های Heathers و Mean Girls، لبه‌ای فراطبیعی و ترسناک به آن افزوده است.\n\nروبین تونی در نقش سارا، نوجوانی خجالتی و مطیع از سانفرانسیسکو، در این فیلم نقش مهمی ایفا می‌کند و با استفاده از تصویر «آینه‌ی رنه مارتری»، لحظه‌های ترسناکی را به نمایش می‌گذارد.\n\n📌 نکات مهم:\n• سینمای ۳۰ ساله «The Craft»\n• نویسندگی و کارگردانی اندرو فلیمن\n• روبین تونی در نقش سارا\n• تجربه‌ی ترس و هیجان در کلاس‌های دبیرستان\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12408,7 +12462,8 @@
     "b23829a2b10719e2e33219e7",
     "c2559335bc9b5fd3ef695a6e",
     "68304deaf66fb89c5ed69251",
-    "f06ca01eb0dbedc0042f174b"
+    "f06ca01eb0dbedc0042f174b",
+    "b8571770fb5c970736ff7a96"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12646,11 +12701,12 @@
     "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
     "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152",
     "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o",
-    "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement"
+    "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+    "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 120,
+      "published": 121,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -12694,7 +12750,7 @@
       "published": 8
     },
     "11": {
-      "published": 11
+      "published": 12
     },
     "14": {
       "published": 7
@@ -12773,64 +12829,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-25T17:40:54.539182+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-25T20:11:47.076436+00:00",
       "version": 2,
@@ -15788,6 +15786,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-06T11:52:52.764711+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16025,9 +16081,94 @@
     "7be712dacb0f7745",
     "33c8d7d7a8a7f69a",
     "2c89dcd27ae65553",
-    "89dbcad995a2282d"
+    "89dbcad995a2282d",
+    "0cf9e633251f86ed"
   ],
   "entity_memory": {
+    "the craft": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "andrew fleming": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "heathers": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mean girls": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "magritte": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "robin tunney": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sarah": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "san francisco": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "los angeles": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "something": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eastwick": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nancy": {
+      "count": 1,
+      "last_seen": "2026-10-06T11:52:52.764641+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "french": {
       "count": 5,
       "last_seen": "2026-10-06T01:15:31.476391+00:00",
@@ -18793,90 +18934,6 @@
       "last_seen": "2026-09-28T11:34:12.822652+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "snow predator": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "films": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "worldwide": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "coz greenop": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "charley": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shinfield studios": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "daniel stisen": {
-      "count": 1,
-      "last_seen": "2026-09-28T11:34:12.822652+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "neil patrick harris": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "damn yankees": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway revival": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "julianne hough": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway": {
-      "count": 1,
-      "last_seen": "2026-09-27T22:56:40.811861+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
