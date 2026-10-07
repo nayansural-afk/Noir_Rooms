@@ -12586,6 +12586,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "33105adf9d0d4a69c10947e3",
+      "story_id": "8bc907bf218a1a76",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
+      "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "ashes",
+        "mexican american",
+        "open",
+        "close los angeles",
+        "film festival the",
+        "film festival",
+        "los angeles",
+        "watermelon pictures",
+        "diego luna",
+        "united theater",
+        "lucila",
+        "spain"
+      ],
+      "hook": "فستیوال گوادالارا: آغاز با 'Ashes'",
+      "hooks": [
+        "فستیوال گوادالارا با 'Ashes'",
+        "'Ashes' در فستیوال گوادالارا آغاز می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فستیوال گوادالارا در لس آنجلس از 5 تا 7 نوامبر برگزار می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 250,
+      "published_at": "2026-10-07T21:42:51.055174+00:00",
+      "text": "فستیوال گوادالارا: آغاز با 'Ashes'\n\n🎬 فستیوال گوادالارا: 'Ashes' به‌عنوان فیلم افتتاحیه\n\nفستیوال گوادالارا در لس آنجلس از 5 تا 7 نوامبر برگزار می‌شود و در سالن United Theater فیلم «Ashes» کارگردان دیگو لونا به‌عنوان فیلم افتتاحیه نمایش داده می‌شود.\nفیلم «Ashes» داستان لوسِلا را دنبال می‌کند که با برادرش به اسپانیا می‌رود تا با مادرش که رفته بود، دوباره ارتباط برقرار کند.\n\n📌 نکات مهم:\n• فستیوال گوادالارا در لس آنجلس از 5 تا 7 نوامبر برگزار می‌شود\n• فیلم 'Ashes' به‌عنوان فیلم افتتاحیه، کارگردان دیگو لونا\n• فیلم 'Ashes' توسط Watermelon Pictures تولید شده\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12832,7 +12885,8 @@
     "2a16f1de3193f80984d00f38",
     "15370ffeb33d6451e33b9363",
     "5461d67be9867fd2482875e9",
-    "95ad91eee7f852433eb8904e"
+    "95ad91eee7f852433eb8904e",
+    "33105adf9d0d4a69c10947e3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13078,11 +13132,12 @@
     "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
     "https://deadline.com/2026/10/saoirse-ronan-husband-jack-lowden-cast-james-bond-1237148705",
     "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
-    "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258"
+    "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
+    "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 126,
+      "published": 127,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13141,7 +13196,7 @@
       "published": 26
     },
     "21": {
-      "published": 13
+      "published": 14
     },
     "23": {
       "published": 11
@@ -13205,64 +13260,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-27T10:26:27.722728+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-27T14:32:05.585019+00:00",
       "version": 2,
@@ -16220,6 +16217,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-07T21:42:51.055277+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16465,9 +16520,94 @@
     "d92007374992b0c9",
     "ed9a08ac35161479",
     "3a47be4dd089d464",
-    "1046cd8249450601"
+    "1046cd8249450601",
+    "8bc907bf218a1a76"
   ],
   "entity_memory": {
+    "los angeles": {
+      "count": 2,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ashes": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mexican american": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "open": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "close los angeles": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival the": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film festival": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "watermelon pictures": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "diego luna": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "united theater": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lucila": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spain": {
+      "count": 1,
+      "last_seen": "2026-10-07T21:42:51.055205+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 10,
       "last_seen": "2026-10-07T19:09:31.504226+00:00",
@@ -17069,13 +17209,6 @@
       ]
     },
     "san francisco": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "los angeles": {
       "count": 1,
       "last_seen": "2026-10-06T11:52:52.764641+00:00",
       "categories": [
@@ -19232,83 +19365,6 @@
       "last_seen": "2026-09-29T21:11:24.296511+00:00",
       "categories": [
         "streaming"
-      ]
-    },
-    "shamier anderson": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "sylvester stallone says": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "superhero movie bodies": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "aren": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "natural": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "taking steroids": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bulk up is": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "like": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "putting": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "part": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "costume": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
