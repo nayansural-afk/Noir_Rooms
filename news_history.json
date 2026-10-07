@@ -12481,6 +12481,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5461d67be9867fd2482875e9",
+      "story_id": "3a47be4dd089d464",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
+      "title": "Oscars: Saudi Arabia Picks ‘A Matter of Life and Death’ as Best Int’l Feature Submission",
+      "category": "actors_directors",
+      "score": 58.29,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "oscars",
+        "saudi arabia picks",
+        "matter",
+        "life",
+        "death",
+        "best int",
+        "feature submission written",
+        "sarah taibah",
+        "yaqoub al farhan",
+        "jeddah",
+        "anas ba tahaf"
+      ],
+      "hook": "سعودی‌ها، فیلمی را برای اسکار انتخاب کردند",
+      "hooks": [
+        "سفر در دل جده با رمانتیک و فانتزی",
+        "یک ترکیب طنز سیاه در سینمای سعودی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سعودی‌ها فیلم «A Matter of Life and Death» را برای اسکار انتخاب کردند"
+      ],
+      "status": "published",
+      "telegram_message_id": 248,
+      "published_at": "2026-10-07T16:03:44.437167+00:00",
+      "text": "سعودی‌ها، فیلمی را برای اسکار انتخاب کردند\n\n🎬 سعودی‌ها فیلم «A Matter of Life and Death» را برای اسکار انتخاب کردند\n\nسعودی‌ها فیلم «A Matter of Life and Death» را به عنوان بهترین فیلم بین‌المللی برای اسکار انتخاب کرده‌اند. این فیلم در جده ساخته شده و ترکیبی از رمانتیک، فانتزی و طنز سیاه است.\nسارا تاِبَ و یعقوب الفرحان در نقش‌های اصلی حضور دارند و فیلم توسط آناس با تفاهف کارگردانی شده است.\n\n📌 نکات مهم:\n• سعودی‌ها فیلم «A Matter of Life and Death» را برای اسکار انتخاب کردند\n• فیلم در جده ساخته شده و ترکیبی از رمانتیک، فانتزی و طنز سیاه است\n• سارا تاِبَ و یعقوب الفرحان در نقش‌های اصلی حضور دارند\n• کارگردان فیلم آناس با تفاهف است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12725,7 +12777,8 @@
     "fffc2c2a0021a5ffdf928eb9",
     "8cbcf33533a39663ab59f645",
     "2a16f1de3193f80984d00f38",
-    "15370ffeb33d6451e33b9363"
+    "15370ffeb33d6451e33b9363",
+    "5461d67be9867fd2482875e9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -12969,7 +13022,8 @@
     "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
     "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906",
     "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-    "https://deadline.com/2026/10/saoirse-ronan-husband-jack-lowden-cast-james-bond-1237148705"
+    "https://deadline.com/2026/10/saoirse-ronan-husband-jack-lowden-cast-james-bond-1237148705",
+    "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951"
   ],
   "category_stats": {
     "movie_news": {
@@ -12979,7 +13033,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 90,
+      "published": 91,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13023,7 +13077,7 @@
       "published": 7
     },
     "16": {
-      "published": 7
+      "published": 8
     },
     "18": {
       "published": 10
@@ -13096,64 +13150,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-26T19:30:27.394481+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-26T22:38:07.255748+00:00",
       "version": 2,
@@ -16111,6 +16107,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-07T16:03:44.437268+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16354,9 +16408,96 @@
     "701bb32ee7dded65",
     "0a814e31df502a8a",
     "d92007374992b0c9",
-    "ed9a08ac35161479"
+    "ed9a08ac35161479",
+    "3a47be4dd089d464"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 27,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "oscars": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "saudi arabia picks": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "matter": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "life": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "death": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "best int": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "feature submission written": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sarah taibah": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "yaqoub al farhan": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jeddah": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anas ba tahaf": {
+      "count": 1,
+      "last_seen": "2026-10-07T16:03:44.437198+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "well": {
       "count": 3,
       "last_seen": "2026-10-07T11:37:52.201042+00:00",
@@ -16525,15 +16666,6 @@
       "last_seen": "2026-10-06T23:43:36.718877+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 26,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "dies": {
@@ -19121,83 +19253,6 @@
       "last_seen": "2026-09-29T15:19:19.632753+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "big sky": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the marksman": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kaali kheti": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indian horror starring": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jackie shroff": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sharad kelkar": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "neha sargam": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sets indian release": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indian": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "above": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "haris imtiyaz khan": {
-      "count": 1,
-      "last_seen": "2026-09-29T11:13:39.486382+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
