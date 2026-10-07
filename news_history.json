@@ -12533,6 +12533,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "95ad91eee7f852433eb8904e",
+      "story_id": "1046cd8249450601",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
+      "title": "Frank G. Mancuso Sr. Dies: Former Head Of Paramount Pictures & MGM Was 93",
+      "category": "movie_news",
+      "score": 70.65,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "frank",
+        "mancuso sr",
+        "dies",
+        "former head of",
+        "paramount pictures",
+        "metro",
+        "goldwyn",
+        "mayer",
+        "top gun",
+        "beverly hills cop",
+        "fatal attraction"
+      ],
+      "hook": "فرانک مانکوسو، رئیس سابق پارتامون، درگذشت",
+      "hooks": [
+        "رئیس سابق MGM و Paramount درگذشت",
+        "فرانک مانکوسو، مدیر اجرایی سینما، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "او در دهه‌های 80 و 90، فیلم‌های Top Gun، Beverly Hills Cop، Fatal Attraction، The Untouchables، Coming to America و Ghost را رهبری کرد."
+      ],
+      "status": "published",
+      "telegram_message_id": 249,
+      "published_at": "2026-10-07T19:09:31.504196+00:00",
+      "text": "فرانک مانکوسو، رئیس سابق پارتامون، درگذشت\n\n🎬 فرانک G. مانکوسو، رئیس سابق Paramount و MGM، درگذشت\n\nفرانک G. مانکوسو، مدیر اجرایی سینما و رئیس سابق Paramount Pictures و Metro‑Goldwyn‑Mayer، درگذشت. او در دهه‌های 80 و 90، فیلم‌های موفق Top Gun، Beverly Hills Cop، Fatal Attraction، The Untouchables، Coming to America و Ghost را رهبری کرد.\n\n📌 نکات مهم:\n• فرانک G. مانکوسو درگذشت\n• او رئیس سابق Paramount Pictures و MGM بود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12778,7 +12831,8 @@
     "8cbcf33533a39663ab59f645",
     "2a16f1de3193f80984d00f38",
     "15370ffeb33d6451e33b9363",
-    "5461d67be9867fd2482875e9"
+    "5461d67be9867fd2482875e9",
+    "95ad91eee7f852433eb8904e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13023,11 +13077,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/eva-marie-saint-dead-on-the-waterfront-north-by-northwest-1236723906",
     "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
     "https://deadline.com/2026/10/saoirse-ronan-husband-jack-lowden-cast-james-bond-1237148705",
-    "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951"
+    "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
+    "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 125,
+      "published": 126,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13098,7 +13153,7 @@
       "published": 23
     },
     "19": {
-      "published": 10
+      "published": 11
     },
     "22": {
       "published": 11
@@ -13150,64 +13205,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-26T22:38:07.255748+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-27T10:26:27.722728+00:00",
       "version": 2,
@@ -16165,6 +16162,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-07T19:09:31.504301+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16409,9 +16464,95 @@
     "0a814e31df502a8a",
     "d92007374992b0c9",
     "ed9a08ac35161479",
-    "3a47be4dd089d464"
+    "3a47be4dd089d464",
+    "1046cd8249450601"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 10,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "paramount": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "frank": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mancuso sr": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "former head of": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount pictures": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "metro": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "goldwyn": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mayer": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "top gun": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beverly hills cop": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fatal attraction": {
+      "count": 1,
+      "last_seen": "2026-10-07T19:09:31.504226+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 27,
       "last_seen": "2026-10-07T16:03:44.437198+00:00",
@@ -16665,14 +16806,6 @@
       "count": 1,
       "last_seen": "2026-10-06T23:43:36.718877+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 9,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -19174,83 +19307,6 @@
     "costume": {
       "count": 1,
       "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sylvester stallone": {
-      "count": 1,
-      "last_seen": "2026-09-29T18:24:08.548008+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "daniel webber": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dermot mulroney": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "katheryn winnick": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead psychological thriller": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "compound": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "billy": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dirt": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anyone but you": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the hunting wives": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vikings": {
-      "count": 1,
-      "last_seen": "2026-09-29T15:19:19.632753+00:00",
       "categories": [
         "movie_news"
       ]
