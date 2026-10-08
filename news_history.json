@@ -12639,6 +12639,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3148e7ba5d16a46a668031c5",
+      "story_id": "e39726c9c2235ed5",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
+      "title": "‘You Can See Everything’: Elizabeth Holmes Docu Presales At Alamo Drafthouse A Record For A24 Film & No. 2 Behind ‘Avengers: Doomsday’",
+      "category": "movie_news",
+      "score": 78.19,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "you can see",
+        "everything",
+        "elizabeth holmes docu",
+        "presales at alamo",
+        "drafthouse",
+        "record for",
+        "behind",
+        "avengers",
+        "doomsday",
+        "theranos",
+        "elizabeth holmes"
+      ],
+      "hook": "دستاورد فروش پیش‌فروش مستند 'You Can See Everything'",
+      "hooks": [
+        "فروش پیش‌فروش مستند، رکورد A24",
+        "مستند درباره الیزابت هولمز، فروش برتر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فروش پیش‌فروش مستند 'You Can See Everything' رکورد A24 را شکست داد"
+      ],
+      "status": "published",
+      "telegram_message_id": 251,
+      "published_at": "2026-10-08T00:07:10.456014+00:00",
+      "text": "دستاورد فروش پیش‌فروش مستند 'You Can See Everything'\n\n🎬 فروش پیش‌فروش مستند 'You Can See Everything' رکورد A24 را شکست داد\n\nمستند 'You Can See Everything' درباره الیزابت هولمز، بنیان‌گذار Theranos، و روزهای پیش از زندان فدرال است. این فیلم توسط لانس اوپن‌هیم و ناتان فیلدر کارگردانی شده و در Alamo Drafthouse به‌عنوان برترین فروش پیش‌فروش برای هر عنوان A24 و هر مستندی که تاکنون در این سالن نمایش داده شده، شناخته می‌شود.\n\nفروش پیش‌فروش این مستند، جایگاه دوم را در پشت 'Avengers: Doomsday' در میان فیلم‌های A24 به دست آورده و نشان می‌دهد که مخاطبان علاقه‌مند به داستان‌های واقعی و تحولات فناوری هستند.\n\n📌 نکات مهم:\n• فروش پیش‌فروش مستند 'You Can See Everything' بالاترین فروش پیش‌فروش برای هر عنوان A24 و هر مستندی که در Alamo Drafthouse نمایش داده شده است\n• مستند توسط لانس اوپن‌هیم و ناتان فیلدر کارگردانی شده و درباره الیزابت هولمز، بنیان‌گذار Theranos است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12886,7 +12938,8 @@
     "15370ffeb33d6451e33b9363",
     "5461d67be9867fd2482875e9",
     "95ad91eee7f852433eb8904e",
-    "33105adf9d0d4a69c10947e3"
+    "33105adf9d0d4a69c10947e3",
+    "3148e7ba5d16a46a668031c5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13133,11 +13186,12 @@
     "https://deadline.com/2026/10/saoirse-ronan-husband-jack-lowden-cast-james-bond-1237148705",
     "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
     "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
-    "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838"
+    "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
+    "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 127,
+      "published": 128,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13241,7 +13295,7 @@
       "published": 2
     },
     "0": {
-      "published": 1
+      "published": 2
     }
   },
   "strategy": {
@@ -13260,64 +13314,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-27T14:32:05.585019+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Netflix Officially Confirms ‘The Inbetweeners’ Reunion Movie As Production Kicks Off With First Look At Original Cast In Reprised Roles",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-27T17:22:45.605456+00:00",
       "version": 2,
@@ -16275,6 +16271,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-08T00:07:10.456146+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16521,9 +16575,95 @@
     "ed9a08ac35161479",
     "3a47be4dd089d464",
     "1046cd8249450601",
-    "8bc907bf218a1a76"
+    "8bc907bf218a1a76",
+    "e39726c9c2235ed5"
   ],
   "entity_memory": {
+    "avengers": {
+      "count": 2,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "you can see": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "everything": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elizabeth holmes docu": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "presales at alamo": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drafthouse": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "record for": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "behind": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theranos": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elizabeth holmes": {
+      "count": 1,
+      "last_seen": "2026-10-08T00:07:10.456064+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "los angeles": {
       "count": 2,
       "last_seen": "2026-10-07T21:42:51.055205+00:00",
@@ -17587,13 +17727,6 @@
       ]
     },
     "avatar": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "avengers": {
       "count": 1,
       "last_seen": "2026-10-04T19:52:33.477050+00:00",
       "categories": [
@@ -19286,85 +19419,6 @@
       "last_seen": "2026-09-29T23:36:31.169190+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "winnipeg": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paris": {
-      "count": 3,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "streaming"
-      ]
-    },
-    "lucien laviscount": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "taylour paige to": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "topline netflix thriller": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "tyler perry": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "confabulation": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "emily": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "taylour paige": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "love boosters": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
-      ]
-    },
-    "perry": {
-      "count": 1,
-      "last_seen": "2026-09-29T21:11:24.296511+00:00",
-      "categories": [
-        "streaming"
       ]
     }
   },
