@@ -12848,6 +12848,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5ccf09111bdb861d68b3f0af",
+      "story_id": "9fb4274ea5c76a5f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
+      "title": "Rodrigo Santoro and Camila Pitanga to Star in Marcelo Gomes’ ‘Garota da Urca’ From a Script by Luciana Paes and Leonardo Moreira (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "rodrigo santoro",
+        "camila pitanga",
+        "star",
+        "marcelo gomes",
+        "garota",
+        "urca",
+        "script",
+        "luciana paes",
+        "leonardo moreira",
+        "brazil",
+        "the blue trail",
+        "basic sanitation"
+      ],
+      "hook": "ستارگان برزیلی در فیلم جدید مارکالو گومس",
+      "hooks": [
+        "رودرگو سانتورو و کامیلا پیتانگا در 'گاراودا'",
+        "دوربین مارکالو گومس با دو ستاره برزیلی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "رودرگو سانتورو و کامیلا پیتانگا در نقش‌های اصلی فیلم 'گاراودا'"
+      ],
+      "status": "published",
+      "telegram_message_id": 255,
+      "published_at": "2026-10-08T21:40:57.634735+00:00",
+      "text": "ستارگان برزیلی در فیلم جدید مارکالو گومس\n\n🎬 رودرگو سانتورو و کامیلا پیتانگا در نقش‌های برجسته در فیلم 'گاراودا'\n\nدر فیلم جدید مارکالو گومس، دو ستاره برزیلی بزرگ رودرگو سانتورو و کامیلا پیتانگا نقش‌های اصلی را ایفا می‌کنند.\nسیناریو توسط لوسیا پائس و لئوناردو موریا نوشته شده و این همکاری نوآورانه، انتظارهای بالایی را برانگیخته است.\n\n📌 نکات مهم:\n• رودرگو سانتورو و کامیلا پیتانگا در نقش‌های اصلی فیلم 'گاراودا'\n• فیلم 'گاراودا' توسط مارکالو گومس کارگردانی و لوسیا پائس و لئوناردو موریا نوشته شده\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13099,7 +13152,8 @@
     "3148e7ba5d16a46a668031c5",
     "7b5a6a8f95b73ba9fa1a4da2",
     "713b8d3f91340f74624bc2ea",
-    "5768fdda8d00d7d519cf8582"
+    "5768fdda8d00d7d519cf8582",
+    "5ccf09111bdb861d68b3f0af"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13350,7 +13404,8 @@
     "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
     "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
     "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
-    "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041"
+    "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
+    "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465"
   ],
   "category_stats": {
     "movie_news": {
@@ -13360,7 +13415,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 91,
+      "published": 92,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13413,7 +13468,7 @@
       "published": 26
     },
     "21": {
-      "published": 14
+      "published": 15
     },
     "23": {
       "published": 11
@@ -13477,64 +13532,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-28T11:34:12.822720+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-28T17:18:23.750912+00:00",
       "version": 2,
@@ -16492,6 +16489,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-08T21:40:57.634838+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16742,9 +16797,95 @@
     "e39726c9c2235ed5",
     "da20daf843cd8831",
     "92ec944f3149aa81",
-    "dc266445ad6ae94d"
+    "dc266445ad6ae94d",
+    "9fb4274ea5c76a5f"
   ],
   "entity_memory": {
+    "star": {
+      "count": 7,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "rodrigo santoro": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "camila pitanga": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "marcelo gomes": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "garota": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "urca": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "script": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "luciana paes": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "leonardo moreira": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "brazil": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the blue trail": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "basic sanitation": {
+      "count": 1,
+      "last_seen": "2026-10-08T21:40:57.634766+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "paul walter hauser": {
       "count": 1,
       "last_seen": "2026-10-08T19:05:39.915648+00:00",
@@ -17883,14 +18024,6 @@
       "count": 1,
       "last_seen": "2026-10-05T23:01:28.009747+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "star": {
-      "count": 6,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -19506,83 +19639,6 @@
       "last_seen": "2026-09-30T21:07:32.964137+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "reanimated": {
-      "count": 1,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "greta garbo": {
-      "count": 1,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "relatives": {
-      "count": 1,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "more": {
-      "count": 1,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "swedish": {
-      "count": 1,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "helmer danny boyle": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to receive gotham": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film awards": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "director tribute": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "danny boyle": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice film festival": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
         "movie_news"
       ]
     }
