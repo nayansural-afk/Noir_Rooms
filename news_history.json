@@ -12743,6 +12743,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "713b8d3f91340f74624bc2ea",
+      "story_id": "92ec944f3149aa81",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
+      "title": "Sofia Coppola on Releasing ‘Making Marie Antoinette’ as a Tribute to Late Mother Eleanor, Even Though She Finds Younger Self ‘Embarrassing’: ‘It’s a Gift’ to See ‘Through My Mom’s Eyes’",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "sofia coppola",
+        "releasing",
+        "making marie antoinette",
+        "tribute",
+        "late mother eleanor",
+        "even though she",
+        "finds younger self",
+        "embarrassing",
+        "gift",
+        "through my mom",
+        "eyes",
+        "directed"
+      ],
+      "hook": "سفیا کوپولا: یادبود مادر در مستند 'ساخت ماریا آنتوانیت'",
+      "hooks": [
+        "مستند مادر سفیا کوپولا، گواهی از عشق و خاطره",
+        "سفیا کوپولا: دیدن خود از چشم مادر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'ساخت ماریا آنتوانیت' توسط مادر سفیا، الیور کوپولا، ساخته شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 253,
+      "published_at": "2026-10-08T16:05:50.294843+00:00",
+      "text": "سفیا کوپولا: یادبود مادر در مستند 'ساخت ماریا آنتوانیت'\n\n🎬 سفیا کوپولا درباره مستند 'ساخت ماریا آنتوانیت'؛ یادبود مادر و دیدن خود از چشم او\n\nمستند 'ساخت ماریا آنتوانیت' که توسط مادر فوتی سفیا، الیور کوپولا، ساخته شد، بیش از 80 ساعت فیلمبرداری از پشت صحنه فیلم تاریخی 2006 او را نشان می‌دهد. سفیا کوپولا در مصاحبه‌ای صادقانه، می‌گوید که دیدن این مستند برای او گفتی است که از طریق چشم مادرش، خود را می‌بیند و در عین حال احساس شرم می‌کند که جوان‌تر بوده است.\n\n📌 نکات مهم:\n• مستند 'ساخت ماریا آنتوانیت' توسط مادر سفیا، الیور کوپولا، ساخته شد\n• مستند بیش از 80 ساعت فیلمبرداری از پشت صحنه فیلم 2006 'ماریا آنتوانیت' را شامل می‌شود\n• سفیا کوپولا در مصاحبه، گفت که دیدن مستند برای او گفتی است که از طریق چشم مادرش، خود را می‌بیند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12992,7 +13045,8 @@
     "95ad91eee7f852433eb8904e",
     "33105adf9d0d4a69c10947e3",
     "3148e7ba5d16a46a668031c5",
-    "7b5a6a8f95b73ba9fa1a4da2"
+    "7b5a6a8f95b73ba9fa1a4da2",
+    "713b8d3f91340f74624bc2ea"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13241,11 +13295,12 @@
     "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
     "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
     "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
-    "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400"
+    "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
+    "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 129,
+      "published": 130,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13295,7 +13350,7 @@
       "published": 7
     },
     "16": {
-      "published": 8
+      "published": 9
     },
     "18": {
       "published": 10
@@ -13368,64 +13423,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-27T19:56:00.227179+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 415,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-27T22:56:40.811949+00:00",
       "version": 2,
@@ -16383,6 +16380,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-08T16:05:50.294955+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16631,9 +16686,94 @@
     "1046cd8249450601",
     "8bc907bf218a1a76",
     "e39726c9c2235ed5",
-    "da20daf843cd8831"
+    "da20daf843cd8831",
+    "92ec944f3149aa81"
   ],
   "entity_memory": {
+    "sofia coppola": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "releasing": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "making marie antoinette": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tribute": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "late mother eleanor": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "even though she": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "finds younger self": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "embarrassing": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gift": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "through my mom": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eyes": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "directed": {
+      "count": 1,
+      "last_seen": "2026-10-08T16:05:50.294883+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "doha film festival": {
       "count": 1,
       "last_seen": "2026-10-08T11:52:32.631198+00:00",
@@ -19388,90 +19528,6 @@
     "first look peacock": {
       "count": 1,
       "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seth": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mark wahlberg": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "amanda seyfried": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jessica barth": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom cruise pulls": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "risky business": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dance moves": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jennifer hudson show": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spirit tunnel tom": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cruise": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the jennifer hudson": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spirit tunnel": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
       "categories": [
         "movie_news"
       ]
