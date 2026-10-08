@@ -12796,6 +12796,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5768fdda8d00d7d519cf8582",
+      "story_id": "dc266445ad6ae94d",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
+      "title": "Paul Walter Hauser Set For Crime Drama ‘Garden City’ From John Curran, Magenta Light Studios",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "paul walter hauser",
+        "set for crime",
+        "drama",
+        "garden city",
+        "from john curran",
+        "magenta light studios",
+        "fresh",
+        "resident evil",
+        "zach cregger",
+        "based",
+        "chappaquiddick",
+        "john curran"
+      ],
+      "hook": "پاول والتر هاوسر در فیلم جرائم‌گردی «گاردن سیتی»",
+      "hooks": [
+        "جریان جدید جرم در «گاردن سیتی» با پاول هاوسر",
+        "کارگردان جان کوران در فیلم واقعی «گاردن سیتی»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پاول والتر هاوسر در نقش اصلی «گاردن سیتی»"
+      ],
+      "status": "published",
+      "telegram_message_id": 254,
+      "published_at": "2026-10-08T19:05:39.915614+00:00",
+      "text": "پاول والتر هاوسر در فیلم جرائم‌گردی «گاردن سیتی»\n\n🎬 پاول والتر هاوسر در نقش اصلی «گاردن سیتی»، فیلمی بر پایه واقعیت\n\nپاول والتر هاوسر، که اخیراً در فیلم Resident Evil حضور داشت، در نقش اصلی در فیلم جدیدی به نام «گاردن سیتی» قرار گرفته است.\nاین فیلم در سبک درام جنایی، بر اساس داستان واقعی ساخته شده و توسط جان کوران، کارگردان فیلم Chappaquiddick، نوشته و کارگردانی می‌شود. تولید در آتلانتا آغاز خواهد شد و توسط استودیو Magenta Light Studios پشتیبانی می‌شود.\n\n📌 نکات مهم:\n• پاول والتر هاوسر در نقش اصلی «گاردن سیتی»\n• کارگردان و نویسنده جان کوران\n• تولید در آتلانتا آغاز می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13046,7 +13098,8 @@
     "33105adf9d0d4a69c10947e3",
     "3148e7ba5d16a46a668031c5",
     "7b5a6a8f95b73ba9fa1a4da2",
-    "713b8d3f91340f74624bc2ea"
+    "713b8d3f91340f74624bc2ea",
+    "5768fdda8d00d7d519cf8582"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13296,11 +13349,12 @@
     "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
     "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
     "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
-    "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373"
+    "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
+    "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 130,
+      "published": 131,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13371,7 +13425,7 @@
       "published": 23
     },
     "19": {
-      "published": 11
+      "published": 12
     },
     "22": {
       "published": 11
@@ -13423,64 +13477,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-27T22:56:40.811949+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-28T11:34:12.822720+00:00",
       "version": 2,
@@ -16438,6 +16434,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-08T19:05:39.915741+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16687,9 +16741,94 @@
     "8bc907bf218a1a76",
     "e39726c9c2235ed5",
     "da20daf843cd8831",
-    "92ec944f3149aa81"
+    "92ec944f3149aa81",
+    "dc266445ad6ae94d"
   ],
   "entity_memory": {
+    "paul walter hauser": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "set for crime": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drama": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "garden city": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from john curran": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "magenta light studios": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fresh": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "resident evil": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zach cregger": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "based": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chappaquiddick": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john curran": {
+      "count": 1,
+      "last_seen": "2026-10-08T19:05:39.915648+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sofia coppola": {
       "count": 1,
       "last_seen": "2026-10-08T16:05:50.294883+00:00",
@@ -19443,91 +19582,6 @@
     "venice film festival": {
       "count": 1,
       "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gotham director tribute": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gotham film awards": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "november": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boyle": {
-      "count": 1,
-      "last_seen": "2026-09-30T18:13:33.909465+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "date": {
-      "count": 2,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "animated series sets": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peacock release date": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the animated series": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "additional": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the animated": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gets peacock release": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look peacock": {
-      "count": 1,
-      "last_seen": "2026-09-30T15:34:13.993559+00:00",
       "categories": [
         "movie_news"
       ]
