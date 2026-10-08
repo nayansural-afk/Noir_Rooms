@@ -12691,6 +12691,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7b5a6a8f95b73ba9fa1a4da2",
+      "story_id": "da20daf843cd8831",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
+      "title": "Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "doha film festival",
+        "unveils competition lineup",
+        "with accent",
+        "female filmmakers",
+        "middle east fare",
+        "middle east",
+        "yemeni",
+        "scottish",
+        "sara ishaq",
+        "the station",
+        "yemen"
+      ],
+      "hook": "فستیوال قطر: ۱۵ فیلم، ۷ کارگردان زن",
+      "hooks": [
+        "فستیوال قطر، ۱۵ فیلم، ۷ کارگردان زن",
+        "فیلم‌های شرق میانه در فستیوال قطر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فهرست ۱۵ فیلم در رقابت"
+      ],
+      "status": "published",
+      "telegram_message_id": 252,
+      "published_at": "2026-10-08T11:52:32.631167+00:00",
+      "text": "فستیوال قطر: ۱۵ فیلم، ۷ کارگردان زن\n\n🎬 فستیوال قطر: ۱۵ فیلم، ۷ کارگردان زن در رقابت\n\nفستیوال فیلم قطر در حال حاضر ۱۵ فیلم را در بخش رقابت معرفی کرده است که بیشتر آن‌ها نخستین نمایش در منطقه‌ی خاورمیانه هستند. از این مجموعه، هفت فیلم توسط کارگردانان زن ساخته شده‌اند.\nیکی از این آثار، درام ایستگاه اثر سارا ایشاق، که تأثیر جنگ داخلی یمن را بررسی می‌کند، به عنوان یکی از فیلم‌های برجسته فهرست قرار گرفته است.\n\n📌 نکات مهم:\n• ۱۵ فیلم در رقابت\n• ۷ فیلم توسط کارگردانان زن\n• فیلم ایستگاه از سارا ایشاق\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -12939,7 +12991,8 @@
     "5461d67be9867fd2482875e9",
     "95ad91eee7f852433eb8904e",
     "33105adf9d0d4a69c10947e3",
-    "3148e7ba5d16a46a668031c5"
+    "3148e7ba5d16a46a668031c5",
+    "7b5a6a8f95b73ba9fa1a4da2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13187,11 +13240,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951",
     "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258",
     "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838",
-    "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411"
+    "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411",
+    "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 128,
+      "published": 129,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13235,7 +13289,7 @@
       "published": 8
     },
     "11": {
-      "published": 13
+      "published": 14
     },
     "14": {
       "published": 7
@@ -13314,64 +13368,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-27T17:22:45.605456+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-27T19:56:00.227179+00:00",
       "version": 2,
@@ -16329,6 +16325,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-08T11:52:32.631264+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16576,9 +16630,87 @@
     "3a47be4dd089d464",
     "1046cd8249450601",
     "8bc907bf218a1a76",
-    "e39726c9c2235ed5"
+    "e39726c9c2235ed5",
+    "da20daf843cd8831"
   ],
   "entity_memory": {
+    "doha film festival": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unveils competition lineup": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with accent": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "female filmmakers": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "middle east fare": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "middle east": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yemeni": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scottish": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sara ishaq": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the station": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yemen": {
+      "count": 1,
+      "last_seen": "2026-10-08T11:52:32.631198+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "avengers": {
       "count": 2,
       "last_seen": "2026-10-08T00:07:10.456064+00:00",
@@ -19342,83 +19474,6 @@
       "last_seen": "2026-09-30T11:01:28.377101+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "academy award": {
-      "count": 1,
-      "last_seen": "2026-09-30T11:01:28.377101+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "madeleine arthur": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dianne doan leading": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "psychological horror": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doula": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "devil in ohio": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dianne doan": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "warrior": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "canadian": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "goldie jones": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "principle": {
-      "count": 1,
-      "last_seen": "2026-09-29T23:36:31.169190+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
