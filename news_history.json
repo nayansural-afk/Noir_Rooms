@@ -13156,6 +13156,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "144ce90f89992824f8fb1703",
+      "story_id": "af6c30223a61752a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
+      "title": "‘The Exorcist: Martyrs’ Trailer: Scarlett Johansson Tracks A Demonic Killer In Mike Flanagan’s Take On Horror Classic",
+      "category": "trailers_first_look",
+      "score": 72.25,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "the exorcist",
+        "martyrs",
+        "trailer",
+        "scarlett johansson tracks",
+        "demonic killer in",
+        "mike flanagan",
+        "take on horror",
+        "classic as the",
+        "exorcist",
+        "on friday",
+        "blumhouse",
+        "march"
+      ],
+      "hook": "سکوت در تاریکی: جانسون در شکار قاتل شیطانی",
+      "hooks": [
+        "جستجوی جانسون در دنیای شیطانی",
+        "موت در سایهٔ شیطان: اولین تریلر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جانسون در نقش کارآگاه جودی میلر در تریلر جدید"
+      ],
+      "status": "published",
+      "telegram_message_id": 261,
+      "published_at": "2026-10-09T23:57:09.548688+00:00",
+      "text": "سکوت در تاریکی: جانسون در شکار قاتل شیطانی\n\n🎬 سکوت در تاریکی: جانسون در شکار قاتل شیطانی در «The Exorcist: Martyrs»\n\nدر تریلر جدید «The Exorcist: Martyrs»، بازیگر اسکارتل جانسون نقش کارآگاه جودی میلر را ایفا می‌کند.\nفیلم، که توسط مایک فلانگان ساخته شده، به بازگشت کلاسیک «The Exorcist» به دوربین‌های سینما می‌پردازد و داستانی تاریک درباره قتل‌های دینی را روایت می‌کند.\n\n📌 نکات مهم:\n• جانسون در نقش کارآگاه جودی میلر\n• فیلم توسط مایک فلانگان ساخته شده\n• پریمیر در 12 مارس 2027\n• تراکر اول توسط Blumhouse منتشر شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13413,7 +13466,8 @@
     "7d290e6db51eada507de1c05",
     "6602baba140c4f88d1eb44ed",
     "5d237b2b2cf2b0e86f36a4e1",
-    "312189cb85570e2585b35db3"
+    "312189cb85570e2585b35db3",
+    "144ce90f89992824f8fb1703"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13670,7 +13724,8 @@
     "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
     "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285",
     "https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475",
-    "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256"
+    "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256",
+    "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746"
   ],
   "category_stats": {
     "movie_news": {
@@ -13692,7 +13747,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 9,
+      "published": 10,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13742,7 +13797,7 @@
       "published": 16
     },
     "23": {
-      "published": 11
+      "published": 12
     },
     "3": {
       "published": 2
@@ -13803,64 +13858,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-29T15:19:19.632831+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-29T18:24:08.548089+00:00",
       "version": 2,
@@ -16818,6 +16815,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-09T23:57:09.548795+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17074,9 +17129,95 @@
     "e7792ff4454d420a",
     "42e459f22cba86a1",
     "5678200f0a09d5c0",
-    "371e71e287a44d02"
+    "371e71e287a44d02",
+    "af6c30223a61752a"
   ],
   "entity_memory": {
+    "trailer": {
+      "count": 4,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "the exorcist": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "martyrs": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "scarlett johansson tracks": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "demonic killer in": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "mike flanagan": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "take on horror": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "classic as the": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "exorcist": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "on friday": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "blumhouse": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "march": {
+      "count": 1,
+      "last_seen": "2026-10-09T23:57:09.548721+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "oscar": {
       "count": 28,
       "last_seen": "2026-10-09T21:24:49.224065+00:00",
@@ -19807,14 +19948,6 @@
         "trailers_first_look"
       ]
     },
-    "trailer": {
-      "count": 3,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
     "clarissa": {
       "count": 1,
       "last_seen": "2026-10-02T10:58:06.973982+00:00",
@@ -19834,83 +19967,6 @@
       "last_seen": "2026-10-02T10:58:06.973982+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "more lead": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "modern": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "mrs dalloway": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "nigeria neon": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "arie": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "chuko esiri": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "peacock": {
-      "count": 2,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fast": {
-      "count": 1,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "furious": {
-      "count": 1,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "series greenlit at": {
-      "count": 1,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "start": {
-      "count": 1,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
