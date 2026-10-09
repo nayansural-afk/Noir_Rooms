@@ -12999,6 +12999,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6602baba140c4f88d1eb44ed",
+      "story_id": "42e459f22cba86a1",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285",
+      "title": "Phoebe Bridgers Reunites Boygenius as Part of Three-Song Studio Performance Video, Directed by ‘Primetime’ Helmer Lance Oppenheim",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "phoebe bridgers reunites",
+        "boygenius",
+        "part",
+        "three",
+        "song studio performance",
+        "video",
+        "directed",
+        "primetime",
+        "helmer lance oppenheim",
+        "phoebe bridgers",
+        "lance oppenheim"
+      ],
+      "hook": "پابلیس در استودیو: برِیدجرز و بویژن در سه‌نفره",
+      "hooks": [
+        "برِیدجرز و بویژن: سه‌نفره در استودیو",
+        "فیلم سه‌نفره برِیدجرز با بویژن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "برِیدجرز با بویژن در استودیو اجرا کرده"
+      ],
+      "status": "published",
+      "telegram_message_id": 258,
+      "published_at": "2026-10-09T15:47:35.694209+00:00",
+      "text": "پابلیس در استودیو: برِیدجرز و بویژن در سه‌نفره\n\n🎬 پابلیس در استودیو: برِیدجرز و بویژن در سه‌نفره\n\nپابلیس در استودیو، برِیدجرز با بویژن سه‌نفره اجرا می‌کند.\nفیلم توسط لانس اوپنهایم، کارگردان «پرایم‌تایم»، ضبط شد.\n\n📌 نکات مهم:\n• برِیدجرز در استودیو سه‌نفره اجرا می‌کند\n• فیلم توسط لانس اوپنهایم ضبط شد\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13253,7 +13304,8 @@
     "5768fdda8d00d7d519cf8582",
     "5ccf09111bdb861d68b3f0af",
     "e8b35fd1488968907cd5b9dc",
-    "7d290e6db51eada507de1c05"
+    "7d290e6db51eada507de1c05",
+    "6602baba140c4f88d1eb44ed"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13507,11 +13559,12 @@
     "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
     "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
     "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928",
-    "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo"
+    "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
+    "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 132,
+      "published": 133,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13597,7 +13650,7 @@
       "published": 1
     },
     "15": {
-      "published": 8
+      "published": 9
     },
     "1": {
       "published": 2
@@ -13634,64 +13687,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-28T22:22:01.425329+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-29T00:18:57.986891+00:00",
       "version": 2,
@@ -16649,6 +16644,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-09T15:47:35.694308+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16902,9 +16955,87 @@
     "dc266445ad6ae94d",
     "9fb4274ea5c76a5f",
     "bce7fb090a1defdc",
-    "e7792ff4454d420a"
+    "e7792ff4454d420a",
+    "42e459f22cba86a1"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 2,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phoebe bridgers reunites": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boygenius": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "part": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "three": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "song studio performance": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "video": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "primetime": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "helmer lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phoebe bridgers": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-10-09T15:47:35.694238+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "outspoken indian": {
       "count": 1,
       "last_seen": "2026-10-09T11:44:25.812368+00:00",
@@ -17264,13 +17395,6 @@
       ]
     },
     "eyes": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "directed": {
       "count": 1,
       "last_seen": "2026-10-08T16:05:50.294883+00:00",
       "categories": [
@@ -19668,76 +19792,6 @@
       ]
     },
     "the county": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "picks up domestic": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rights to nicolas": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cage": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "justin long": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shelley hennig action": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thriller": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look revealed": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "independent film company": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ken sanzel": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kill chain": {
       "count": 1,
       "last_seen": "2026-10-01T15:58:18.391029+00:00",
       "categories": [
