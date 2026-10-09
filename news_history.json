@@ -12901,6 +12901,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e8b35fd1488968907cd5b9dc",
+      "story_id": "bce7fb090a1defdc",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928",
+      "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "hong kong",
+        "point five creations",
+        "readies",
+        "blacky the metal",
+        "arm cat",
+        "plots webtoon extension",
+        "another world",
+        "blacky",
+        "metal arm cat",
+        "busan",
+        "asian contents",
+        "film market"
+      ],
+      "hook": "کات و فلز در دنیای انیمیشن هانگ‌کنگ",
+      "hooks": [
+        "سفر جدید به دنیای انیمیشن با Blacky the Metal Arm Cat",
+        "Point Five Creations و Another World، دوباره در صحنه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Blacky the Metal Arm Cat is a second theatrical feature by Point Five Creations and Another World"
+      ],
+      "status": "published",
+      "telegram_message_id": 256,
+      "published_at": "2026-10-09T00:14:14.427847+00:00",
+      "text": "کات و فلز در دنیای انیمیشن هانگ‌کنگ\n\n🎬 Point Five Creations آماده می‌کند Blacky the Metal Arm Cat، ادامهٔ Webtoon Another World\n\nدست‌اندرکاران انیمیشن هانگ‌کنگ، تولیدکنندهٔ فیلم «Another World»، در حال توسعهٔ فیلم دوم تئاتری به نام Blacky the Metal Arm Cat هستند.\nاین پروژه در بازار محتوا و فیلم آسیایی بوسان به‌عنوان یک گسترش Webtoon معرفی می‌شود و در حال جلب توجه شرکای محتمل است.\n\n📌 نکات مهم:\n• Blacky the Metal Arm Cat\n• Point Five Creations\n• Another World\n• Busan Asian Contents & Film Market\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13153,7 +13206,8 @@
     "7b5a6a8f95b73ba9fa1a4da2",
     "713b8d3f91340f74624bc2ea",
     "5768fdda8d00d7d519cf8582",
-    "5ccf09111bdb861d68b3f0af"
+    "5ccf09111bdb861d68b3f0af",
+    "e8b35fd1488968907cd5b9dc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13405,11 +13459,12 @@
     "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400",
     "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
     "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
-    "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465"
+    "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
+    "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 131,
+      "published": 132,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13513,7 +13568,7 @@
       "published": 2
     },
     "0": {
-      "published": 2
+      "published": 3
     }
   },
   "strategy": {
@@ -13532,64 +13587,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-28T17:18:23.750912+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-28T19:55:46.946616+00:00",
       "version": 2,
@@ -16547,6 +16544,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-09T00:14:14.427967+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16798,9 +16853,94 @@
     "da20daf843cd8831",
     "92ec944f3149aa81",
     "dc266445ad6ae94d",
-    "9fb4274ea5c76a5f"
+    "9fb4274ea5c76a5f",
+    "bce7fb090a1defdc"
   ],
   "entity_memory": {
+    "hong kong": {
+      "count": 2,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "point five creations": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "readies": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blacky the metal": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "arm cat": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plots webtoon extension": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "another world": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blacky": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "metal arm cat": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "busan": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "asian contents": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film market": {
+      "count": 1,
+      "last_seen": "2026-10-09T00:14:14.427880+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 7,
       "last_seen": "2026-10-08T21:40:57.634766+00:00",
@@ -19553,92 +19693,6 @@
       "count": 1,
       "last_seen": "2026-10-01T11:28:07.881648+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "competition the": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tokyo international film": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indonesian": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hong kong": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "qiu jiongjiong": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "show": {
-      "count": 2,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "peppino mazzullo": {
-      "count": 1,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "voice": {
-      "count": 1,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "topo gigio": {
-      "count": 1,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "italian puppet": {
-      "count": 1,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the ed sullivan": {
-      "count": 1,
-      "last_seen": "2026-09-30T23:38:39.269322+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hollywood": {
-      "count": 6,
-      "last_seen": "2026-09-30T21:07:32.964137+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
