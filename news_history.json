@@ -13050,6 +13050,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5d237b2b2cf2b0e86f36a4e1",
+      "story_id": "5678200f0a09d5c0",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475",
+      "title": "Sadie Sink And Lorene Scafaria Eyeing Adaptation Of Emma Cline’s ‘The Guest’ At A24 And Square Peg",
+      "category": "upcoming_movies",
+      "score": 75.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "sadie sink and",
+        "lorene scafaria eyeing",
+        "adaptation of emma",
+        "cline",
+        "the guest",
+        "and square peg",
+        "emma cline",
+        "deadline",
+        "square peg",
+        "sadie sink",
+        "lorene scafaria"
+      ],
+      "hook": "سریال جدید: سادی سِنک و لورین اسکافاریا درگیر اقتباس 'The Guest'",
+      "hooks": [
+        "سادی سِنک در نقش اصلی 'The Guest' در انتظار",
+        "لورین اسکافاریا در حال نوشتن و کارگردانی 'The Guest'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سادی سِنک در مذاکرات برای بازی در فیلم 'The Guest' است"
+      ],
+      "status": "published",
+      "telegram_message_id": 259,
+      "published_at": "2026-10-09T18:36:13.722283+00:00",
+      "text": "سریال جدید: سادی سِنک و لورین اسکافاریا درگیر اقتباس 'The Guest'\n\n🎬 سادی سِنک و لورین اسکافاریا درگیر اقتباس رمان 'The Guest' در A24\n\nرمان پرفروش امما کلین، 'The Guest'، در حال مذاکره برای تبدیل به فیلم است. شرکت‌های A24 و Square Peg درگیر خرید حق نشر هستند.\nسادی سِنک در حال گفتگو برای نقش اصلی و تولید فیلم است، در حالی که لورین اسکافاریا در حال نوشتن و کارگردانی است.\n\n📌 نکات مهم:\n• سادی سِنک در مذاکرات برای بازی در فیلم 'The Guest' است\n• لورین اسکافاریا در حال نوشتن و کارگردانی فیلم است\n• A24 و Square Peg درگیر خرید حق نشر رمان هستند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13305,7 +13358,8 @@
     "5ccf09111bdb861d68b3f0af",
     "e8b35fd1488968907cd5b9dc",
     "7d290e6db51eada507de1c05",
-    "6602baba140c4f88d1eb44ed"
+    "6602baba140c4f88d1eb44ed",
+    "5d237b2b2cf2b0e86f36a4e1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13560,7 +13614,8 @@
     "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
     "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928",
     "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
-    "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285"
+    "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285",
+    "https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475"
   ],
   "category_stats": {
     "movie_news": {
@@ -13598,6 +13653,12 @@
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
+    },
+    "upcoming_movies": {
+      "published": 1,
+      "avg_views": null,
+      "avg_reactions": null,
+      "samples_with_metrics": 0
     }
   },
   "time_stats": {
@@ -13617,7 +13678,7 @@
       "published": 9
     },
     "18": {
-      "published": 10
+      "published": 11
     },
     "20": {
       "published": 26
@@ -13687,64 +13748,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-29T00:18:57.986891+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-29T11:13:39.486448+00:00",
       "version": 2,
@@ -16702,6 +16705,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-09T18:36:13.722384+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16956,9 +17017,96 @@
     "9fb4274ea5c76a5f",
     "bce7fb090a1defdc",
     "e7792ff4454d420a",
-    "42e459f22cba86a1"
+    "42e459f22cba86a1",
+    "5678200f0a09d5c0"
   ],
   "entity_memory": {
+    "a24": {
+      "count": 2,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies"
+      ]
+    },
+    "deadline": {
+      "count": 2,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies"
+      ]
+    },
+    "sadie sink and": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "lorene scafaria eyeing": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "adaptation of emma": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "cline": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "the guest": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "and square peg": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "emma cline": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "square peg": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "sadie sink": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "lorene scafaria": {
+      "count": 1,
+      "last_seen": "2026-10-09T18:36:13.722313+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
     "directed": {
       "count": 2,
       "last_seen": "2026-10-09T15:47:35.694238+00:00",
@@ -17483,13 +17631,6 @@
       "last_seen": "2026-10-08T00:07:10.456064+00:00",
       "categories": [
         "box_office",
-        "movie_news"
-      ]
-    },
-    "a24": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -19645,13 +19786,6 @@
         "movie_news"
       ]
     },
-    "deadline": {
-      "count": 1,
-      "last_seen": "2026-10-01T23:50:34.050030+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "mike daniels": {
       "count": 1,
       "last_seen": "2026-10-01T23:50:34.050030+00:00",
@@ -19718,82 +19852,6 @@
     "lionsgate the": {
       "count": 1,
       "last_seen": "2026-10-01T21:31:22.284815+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sam raimi": {
-      "count": 1,
-      "last_seen": "2026-10-01T21:31:22.284815+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom holland": {
-      "count": 4,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
-    "margaret qualley": {
-      "count": 2,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "fred astaire biopic": {
-      "count": 2,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "sabrina carpenter": {
-      "count": 2,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "paul king": {
-      "count": 2,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "talia ryder joins": {
-      "count": 1,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sony": {
-      "count": 1,
-      "last_seen": "2026-10-01T18:38:49.695542+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "best pancakes in": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the county": {
-      "count": 1,
-      "last_seen": "2026-10-01T15:58:18.391029+00:00",
       "categories": [
         "movie_news"
       ]
