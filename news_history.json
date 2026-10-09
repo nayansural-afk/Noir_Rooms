@@ -12954,6 +12954,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7d290e6db51eada507de1c05",
+      "story_id": "e7792ff4454d420a",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "category": "actors_directors",
+      "score": 67.7,
+      "freshness": 82.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "outspoken indian",
+        "nana patekar",
+        "known",
+        "patekar",
+        "indian"
+      ],
+      "hook": "نانا پاتیکر، ستارهٔ بی‌نظیر سینمای هندی، درگذشت",
+      "hooks": [
+        "نانا پاتیکر، بازیگر برجسته هندی، درگذشت",
+        "نانا پاتیکر، ستارهٔ سینمای هندی، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نانا پاتیکر درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 257,
+      "published_at": "2026-10-09T11:44:25.812335+00:00",
+      "text": "نانا پاتیکر، ستارهٔ بی‌نظیر سینمای هندی، درگذشت\n\n🎬 نانا پاتیکر، بازیگر برجسته هندی، درگذشت\n\nنانا پاتیکر، بازیگر و کارگردان برجسته هندی، درگذشت.\nاو با بازی‌های شدید خود جایگاه خاصی در سینمای هندی به دست آورد.\n\n📌 نکات مهم:\n• نانا پاتیکر درگذشت\n• در 75 سالگی درگذشت\n• شهره‌انگیز با بازی‌های شدید\n• در سینمای هندی جایگاه خاصی داشت\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cj3vqr5rknpeo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13207,7 +13252,8 @@
     "713b8d3f91340f74624bc2ea",
     "5768fdda8d00d7d519cf8582",
     "5ccf09111bdb861d68b3f0af",
-    "e8b35fd1488968907cd5b9dc"
+    "e8b35fd1488968907cd5b9dc",
+    "7d290e6db51eada507de1c05"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13460,7 +13506,8 @@
     "https://variety.com/2026/film/festivals/sofia-coppola-making-marie-antoinette-tribute-late-mother-1236905373",
     "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041",
     "https://variety.com/2026/film/global/rodrigo-santoro-camila-pitanga-marcelo-gomes-garota-da-urca-1236899465",
-    "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928"
+    "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928",
+    "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo"
   ],
   "category_stats": {
     "movie_news": {
@@ -13470,7 +13517,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 92,
+      "published": 93,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13508,7 +13555,7 @@
       "published": 8
     },
     "11": {
-      "published": 14
+      "published": 15
     },
     "14": {
       "published": 7
@@ -13587,64 +13634,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-28T19:55:46.946616+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "John Turturro to Receive Zurich Film Festival’s Golden Eye Award",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Elon Musk’s MAGA Shift, Self-Driving Cars, Myths About Mars and More Get Examined in New Documentary: 5 Biggest Revelations",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-28T22:22:01.425329+00:00",
       "version": 2,
@@ -16602,6 +16591,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-09T11:44:25.812429+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -16854,9 +16901,45 @@
     "92ec944f3149aa81",
     "dc266445ad6ae94d",
     "9fb4274ea5c76a5f",
-    "bce7fb090a1defdc"
+    "bce7fb090a1defdc",
+    "e7792ff4454d420a"
   ],
   "entity_memory": {
+    "outspoken indian": {
+      "count": 1,
+      "last_seen": "2026-10-09T11:44:25.812368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nana patekar": {
+      "count": 1,
+      "last_seen": "2026-10-09T11:44:25.812368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "known": {
+      "count": 1,
+      "last_seen": "2026-10-09T11:44:25.812368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "patekar": {
+      "count": 1,
+      "last_seen": "2026-10-09T11:44:25.812368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indian": {
+      "count": 1,
+      "last_seen": "2026-10-09T11:44:25.812368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hong kong": {
       "count": 2,
       "last_seen": "2026-10-09T00:14:14.427880+00:00",
@@ -19657,41 +19740,6 @@
     "kill chain": {
       "count": 1,
       "last_seen": "2026-10-01T15:58:18.391029+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "garin nugroho": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mishima yukiko": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "qiu jiongjiong titles": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "among": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tokyo film festival": {
-      "count": 1,
-      "last_seen": "2026-10-01T11:28:07.881648+00:00",
       "categories": [
         "movie_news"
       ]
