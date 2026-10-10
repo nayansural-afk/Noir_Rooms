@@ -13417,6 +13417,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0dfbd37a1d8fa7e96ad3e8b7",
+      "story_id": "333869db8a6af24b",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
+      "title": "‘Memories of a Dead End’ Director Choi Hyunyoung Confronts the Lies That Follow Tragedy in Subway Disaster Drama ‘All’s Well That Ends Well’ at Busan Asian Project Market",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "memories",
+        "dead end",
+        "director choi hyunyoung",
+        "confronts",
+        "lies that follow",
+        "tragedy",
+        "subway disaster drama",
+        "well that ends",
+        "well",
+        "busan asian project",
+        "market",
+        "choi hyunyoung"
+      ],
+      "hook": "بالاترین رقص در زیرزمین: رازهای فاجعه‌ی مترو",
+      "hooks": [
+        "سینمایی که در مترو به حقیقت می‌رسد",
+        "رقصنده‌ی نوجوان، قربانی فاجعه‌ی مترو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم درباره رقصنده نوجوانی است که در فاجعه‌ی مترو جان خود را فدا کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 266,
+      "published_at": "2026-10-10T23:23:56.736042+00:00",
+      "text": "بالاترین رقص در زیرزمین: رازهای فاجعه‌ی مترو\n\n🎬 چوی هیون یانگ در بازار پروژه آسیایی بوسان، «All's Well That Ends Well» را معرفی می‌کند\n\nدر «All's Well That Ends Well»، چوی هیون یانگ به بررسی تراژدی مترو می‌پردازد؛ در این اثر، یک رقصنده نوجوان که برای نجات دیگران جان خود را فدا کرد، در مرکز شبکه‌ای پیچیده از دروغ‌ها قرار می‌گیرد.\nاین پروژه جدید، که از سریال «Memories of a Dead End» الهام گرفته است، در بازار پروژه آسیایی بوسان به نمایش گذاشته می‌شود و به دنبال ایجاد بحث در مورد حقیقت و فریب در جامعه است.\n\n📌 نکات مهم:\n• دستگاه: چوی هیون یانگ\n• فیلم: All's Well That Ends Well\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13679,7 +13732,8 @@
     "0e2a4b7d1ff515992cc115f1",
     "ac77fe0f224349823f8f18ba",
     "69438659c91af89d9cd3a1cb",
-    "891d7bcd2690494cecb16944"
+    "891d7bcd2690494cecb16944",
+    "0dfbd37a1d8fa7e96ad3e8b7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13941,7 +13995,8 @@
     "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
     "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
     "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
-    "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged"
+    "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+    "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802"
   ],
   "category_stats": {
     "movie_news": {
@@ -13951,7 +14006,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 94,
+      "published": 95,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14013,7 +14068,7 @@
       "published": 16
     },
     "23": {
-      "published": 12
+      "published": 13
     },
     "3": {
       "published": 2
@@ -14074,64 +14129,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-30T15:34:13.993633+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-30T18:13:33.909550+00:00",
       "version": 2,
@@ -17089,6 +17086,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-10T23:23:56.736216+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17350,9 +17405,95 @@
     "f513724cf1cd69a6",
     "9d11490e4da7dc62",
     "e5fffe2f6de7b93e",
-    "2443f214f12fdcf3"
+    "2443f214f12fdcf3",
+    "333869db8a6af24b"
   ],
   "entity_memory": {
+    "well": {
+      "count": 4,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "memories": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dead end": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director choi hyunyoung": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "confronts": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lies that follow": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tragedy": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "subway disaster drama": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "well that ends": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "busan asian project": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "market": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "choi hyunyoung": {
+      "count": 1,
+      "last_seen": "2026-10-10T23:23:56.736088+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "eva marie saint": {
       "count": 2,
       "last_seen": "2026-10-10T20:25:26.001319+00:00",
@@ -18758,14 +18899,6 @@
         "actors_directors"
       ]
     },
-    "well": {
-      "count": 3,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
     "james bond": {
       "count": 1,
       "last_seen": "2026-10-07T11:37:52.201042+00:00",
@@ -20105,86 +20238,6 @@
       "last_seen": "2026-10-03T10:17:29.888088+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "what": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "the substance": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "get out": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "they": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "venice": {
-      "count": 2,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "yuval abraham": {
-      "count": 2,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "rachel szor": {
-      "count": 2,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "venice prize": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "winner": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "brings explosive gaza": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "theaters": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
       ]
     }
   },
