@@ -13262,6 +13262,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ac77fe0f224349823f8f18ba",
+      "story_id": "9d11490e4da7dc62",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
+      "title": "Naomi Ackie Discusses “Hollywood Machine,” Her ‘Star Wars’ Experience and Buying a Crank Radio",
+      "category": "actors_directors",
+      "score": 71.28,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "star wars",
+        "naomi ackie discusses",
+        "hollywood machine",
+        "experience",
+        "buying",
+        "crank radio during",
+        "london film fest",
+        "obsession",
+        "whitney houston"
+      ],
+      "hook": "نایومی آکی درباره‌ی ماشین هالیوود و تجربه‌ی ستار وورز صحبت می‌کند",
+      "hooks": [
+        "نایومی آکی: ماشین هالیوود و ستار وورز",
+        "نایومی آکی: علاقه‌مندی به نقش‌های بی‌کلام"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نایومی آکی درباره‌ی ماشین هالیوود صحبت می‌کند",
+        "تجربه او در ستار وورز را به اشتراک گذاشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 263,
+      "published_at": "2026-10-10T15:00:07.595454+00:00",
+      "text": "نایومی آکی درباره‌ی ماشین هالیوود و تجربه‌ی ستار وورز صحبت می‌کند\n\n🎬 نایومی آکی: ماشین هالیوود، ستار وورز و خرید رادیوی کرانک\n\nدر گفتگویی در جشنواره فیلم لندن، نایومی آکی درباره‌ی ماشین هالیوود و تجربه‌ی او در ستار وورز صحبت کرد.\n\nاو همچنین به علاقه‌اش به بازی در موزیکال یا نقش بی‌کلام اشاره کرد و گفت که بازی در نقش ویوتنی هاروت تغییرات زیادی در او ایجاد کرده است.\n\n📌 نکات مهم:\n• نایومی آکی درباره‌ی ماشین هالیوود صحبت می‌کند\n• تجربه او در ستار وورز را به اشتراک گذاشت\n• او رادیوی کرانک خریداری کرد\n• علاقه‌مند به نقش‌های بی‌کلام است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13521,7 +13571,8 @@
     "5d237b2b2cf2b0e86f36a4e1",
     "312189cb85570e2585b35db3",
     "144ce90f89992824f8fb1703",
-    "0e2a4b7d1ff515992cc115f1"
+    "0e2a4b7d1ff515992cc115f1",
+    "ac77fe0f224349823f8f18ba"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13780,7 +13831,8 @@
     "https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475",
     "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256",
     "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
-    "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324"
+    "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
+    "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864"
   ],
   "category_stats": {
     "movie_news": {
@@ -13790,7 +13842,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 93,
+      "published": 94,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13876,7 +13928,7 @@
       "published": 1
     },
     "15": {
-      "published": 9
+      "published": 10
     },
     "1": {
       "published": 2
@@ -13913,64 +13965,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-29T21:11:24.296579+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-29T23:36:31.169270+00:00",
       "version": 2,
@@ -16928,6 +16922,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-10T15:00:07.595577+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17186,9 +17238,75 @@
     "5678200f0a09d5c0",
     "371e71e287a44d02",
     "af6c30223a61752a",
-    "f513724cf1cd69a6"
+    "f513724cf1cd69a6",
+    "9d11490e4da7dc62"
   ],
   "entity_memory": {
+    "obsession": {
+      "count": 3,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "movie_news",
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "star wars": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "naomi ackie discusses": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hollywood machine": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "experience": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "buying": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "crank radio during": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "london film fest": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "whitney houston": {
+      "count": 1,
+      "last_seen": "2026-10-10T15:00:07.595490+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "asian contents": {
       "count": 2,
       "last_seen": "2026-10-10T11:02:19.875249+00:00",
@@ -19717,14 +19835,6 @@
         "box_office"
       ]
     },
-    "obsession": {
-      "count": 2,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
     "horror": {
       "count": 1,
       "last_seen": "2026-10-03T10:17:29.888088+00:00",
@@ -19964,62 +20074,6 @@
     "platino industria": {
       "count": 1,
       "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mexican": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ilse salas": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "father father": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doc about": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gay israeli": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "palestinian couple who": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "have": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
       "categories": [
         "actors_directors"
       ]
