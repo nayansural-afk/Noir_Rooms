@@ -13364,6 +13364,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "891d7bcd2690494cecb16944",
+      "story_id": "2443f214f12fdcf3",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+      "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+      "category": "movie_news",
+      "score": 65.76,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "superman",
+        "eva marie saint",
+        "north",
+        "northwest",
+        "waterfront",
+        "landmark",
+        "elia kazan",
+        "alfred hitchcock",
+        "hollywood",
+        "saint",
+        "marlon brando",
+        "martha kent"
+      ],
+      "hook": "نقش‌های بی‌نظیر، 102 سالگی، پایان زندگی ستاره‌ی هالیوود",
+      "hooks": [
+        "یک زندگی سینمایی بی‌پایان، 102 سال، خداحافظ",
+        "ستاره‌ی هالیوود درگذشت، 102 سالگی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Eva Marie Saint died at age 102",
+        "She starred in On the Waterfront, North by Northwest, and Superman Returns"
+      ],
+      "status": "published",
+      "telegram_message_id": 265,
+      "published_at": "2026-10-10T20:25:26.001288+00:00",
+      "text": "نقش‌های بی‌نظیر، 102 سالگی، پایان زندگی ستاره‌ی هالیوود\n\n🎬 اوا ماریا سنت، ستاره‌ی کلاسیک‌های هالیوود، در سن 102 سالگی درگذشت\n\nاوا ماریا سنت، یکی از نایابان دوران طلایی هالیوود، در سن 102 سالگی درگذشت. او در نقش‌های برجسته‌ای چون مارلون براندو در فیلم «On the Waterfront» و در ترسناک Alfred Hitchcock «North by Northwest» حضور داشت.\nدر آخرین سال‌های زندگی، او نقش مادر آدما در فیلم «Superman Returns» را ایفا کرد. او در طول شش دهه فعالیت سینمایی، به‌عنوان یکی از نایابان باقی مانده در هالیوود شناخته می‌شود.\n\n📌 نکات مهم:\n• دوران طلایی هالیوود\n• 102 سالگی\n• نقش‌های برجسته در On the Waterfront, North by Northwest, و Superman Returns\n• همکاری با Elia Kazan و Alfred Hitchcock\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13625,7 +13678,8 @@
     "144ce90f89992824f8fb1703",
     "0e2a4b7d1ff515992cc115f1",
     "ac77fe0f224349823f8f18ba",
-    "69438659c91af89d9cd3a1cb"
+    "69438659c91af89d9cd3a1cb",
+    "891d7bcd2690494cecb16944"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13886,11 +13940,12 @@
     "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
     "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
     "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
-    "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508"
+    "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
+    "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 134,
+      "published": 135,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13952,7 +14007,7 @@
       "published": 11
     },
     "20": {
-      "published": 26
+      "published": 27
     },
     "21": {
       "published": 16
@@ -14019,64 +14074,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-30T11:01:28.377169+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-30T15:34:13.993633+00:00",
       "version": 2,
@@ -17034,6 +17031,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-10T20:25:26.001388+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17294,9 +17349,94 @@
     "af6c30223a61752a",
     "f513724cf1cd69a6",
     "9d11490e4da7dc62",
-    "e5fffe2f6de7b93e"
+    "e5fffe2f6de7b93e",
+    "2443f214f12fdcf3"
   ],
   "entity_memory": {
+    "eva marie saint": {
+      "count": 2,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "waterfront": {
+      "count": 2,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north": {
+      "count": 2,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "northwest": {
+      "count": 2,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "superman": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "landmark": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elia kazan": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alfred hitchcock": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hollywood": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "saint": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marlon brando": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "martha kent": {
+      "count": 1,
+      "last_seen": "2026-10-10T20:25:26.001319+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "burgers": {
       "count": 1,
       "last_seen": "2026-10-10T17:34:11.707173+00:00",
@@ -18788,13 +18928,6 @@
         "movie_news"
       ]
     },
-    "eva marie saint": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "graceful star": {
       "count": 1,
       "last_seen": "2026-10-06T21:24:32.787191+00:00",
@@ -18809,28 +18942,7 @@
         "movie_news"
       ]
     },
-    "waterfront": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "cary grant": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "north": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "northwest": {
       "count": 1,
       "last_seen": "2026-10-06T21:24:32.787191+00:00",
       "categories": [
@@ -20073,64 +20185,6 @@
       "last_seen": "2026-10-02T23:41:12.136925+00:00",
       "categories": [
         "awards_festivals"
-      ]
-    },
-    "specialty preview": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "center": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "wednesday": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "that": {
-      "count": 1,
-      "last_seen": "2026-10-02T23:41:12.136925+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "thursday": {
-      "count": 2,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "new york city": {
-      "count": 3,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "who played sorority": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "girl": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
