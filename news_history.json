@@ -13209,6 +13209,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0e2a4b7d1ff515992cc115f1",
+      "story_id": "f513724cf1cd69a6",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
+      "title": "Vietnamese Supernatural Horror ‘Bloodline: The Curse Within’ Heads to Busan Market With Mockingbird Pictures (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "vietnamese supernatural horror",
+        "bloodline",
+        "the curse within",
+        "heads",
+        "busan market with",
+        "mockingbird pictures",
+        "vietnamese",
+        "asian contents",
+        "film market",
+        "busan international film",
+        "festival",
+        "vietnam"
+      ],
+      "hook": "سینمای ویتنامی ترسناک، Bloodline: The Curse Within، در بازار بین‌المللی بوسان",
+      "hooks": [
+        "Mockingbird Pictures، Bloodline: The Curse Within را در بازار ACFM معرفی می‌کند",
+        "Bloodline: The Curse Within به بازار بین‌المللی بوسان می‌رود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم Bloodline: The Curse Within یک فیلم ترسناک ویتنامی است"
+      ],
+      "status": "published",
+      "telegram_message_id": 262,
+      "published_at": "2026-10-10T11:02:19.875216+00:00",
+      "text": "سینمای ویتنامی ترسناک، Bloodline: The Curse Within، در بازار بین‌المللی بوسان\n\n🎬 سینمای ویتنامی Bloodline: The Curse Within در بازار بوسان معرفی می‌شود\n\nفیلم ترسناک ویتنامی Bloodline: The Curse Within، که توسط کارگردان Đinh ساخته شده، در بازار محتوا و فیلم آسیایی (ACFM) در جشنواره بین‌المللی فیلم بوسان معرفی می‌شود.\nشرکت Mockingbird Pictures، که حقوق توزیع جهانی این اثر را در اختیار دارد، برنامه‌ریزی کرده است تا فیلم را در تاریخ 25 دسامبر در سینماهای سراسر ویتنام به نمایش بگذارد.\n\n📌 نکات مهم:\n• فیلم ترسناک ویتنامی Bloodline: The Curse Within\n• معرفی در بازار ACFM توسط Mockingbird Pictures\n• حقوق توزیع جهانی توسط Mockingbird Pictures\n• تاریخ انتشار در ویتنام: 25 دسامبر\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13467,7 +13520,8 @@
     "6602baba140c4f88d1eb44ed",
     "5d237b2b2cf2b0e86f36a4e1",
     "312189cb85570e2585b35db3",
-    "144ce90f89992824f8fb1703"
+    "144ce90f89992824f8fb1703",
+    "0e2a4b7d1ff515992cc115f1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13725,11 +13779,12 @@
     "https://variety.com/2026/music/news/phoebe-bridgers-performance-video-boygenius-lance-oppenheim-1236906285",
     "https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475",
     "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256",
-    "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746"
+    "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
+    "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 133,
+      "published": 134,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13779,7 +13834,7 @@
       "published": 8
     },
     "11": {
-      "published": 15
+      "published": 16
     },
     "14": {
       "published": 7
@@ -13858,64 +13913,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-29T18:24:08.548089+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Law Kar-ying, Paw Hee-ching to Topline Sri Kishore’s Cantonese Opera Drama ‘The Grand Tribute’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Gail’ First Look: Superfan Of Canadian Band Our Lady Peace Speaks Her Piece – Toronto Film Festival",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-29T21:11:24.296579+00:00",
       "version": 2,
@@ -16873,6 +16870,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-10T11:02:19.875336+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17130,9 +17185,95 @@
     "42e459f22cba86a1",
     "5678200f0a09d5c0",
     "371e71e287a44d02",
-    "af6c30223a61752a"
+    "af6c30223a61752a",
+    "f513724cf1cd69a6"
   ],
   "entity_memory": {
+    "asian contents": {
+      "count": 2,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film market": {
+      "count": 2,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival": {
+      "count": 3,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "vietnamese supernatural horror": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bloodline": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the curse within": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "heads": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "busan market with": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mockingbird pictures": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vietnamese": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "busan international film": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vietnam": {
+      "count": 1,
+      "last_seen": "2026-10-10T11:02:19.875249+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "trailer": {
       "count": 4,
       "last_seen": "2026-10-09T23:57:09.548721+00:00",
@@ -17567,20 +17708,6 @@
       ]
     },
     "busan": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asian contents": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film market": {
       "count": 1,
       "last_seen": "2026-10-09T00:14:14.427880+00:00",
       "categories": [
@@ -19855,14 +19982,6 @@
         "actors_directors"
       ]
     },
-    "festival": {
-      "count": 2,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "father father": {
       "count": 1,
       "last_seen": "2026-10-02T15:18:43.455194+00:00",
@@ -19903,70 +20022,6 @@
       "last_seen": "2026-10-02T15:18:43.455194+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "child": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "beautiful lesson right": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "timely": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jewish israeli": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "aviv": {
-      "count": 1,
-      "last_seen": "2026-10-02T15:18:43.455194+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "december": {
-      "count": 2,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "movie_news",
-        "trailers_first_look"
-      ]
-    },
-    "clarissa": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sophie okonedo": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "ayo edebiri": {
-      "count": 1,
-      "last_seen": "2026-10-02T10:58:06.973982+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
