@@ -13312,6 +13312,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "69438659c91af89d9cd3a1cb",
+      "story_id": "e5fffe2f6de7b93e",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
+      "title": "‘Bob’s Burgers’ Sets Holiday Hulu Special Release Date, Teases First Look at NYCC",
+      "category": "upcoming_movies",
+      "score": 67.95,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "burgers",
+        "sets holiday hulu",
+        "special release date",
+        "teases first look",
+        "christmas",
+        "belchers",
+        "hulu",
+        "fort day",
+        "creator",
+        "loren bouchard",
+        "new york comic",
+        "saturday"
+      ],
+      "hook": "بهار تعطیلات با «Bob’s Burgers» در هولو",
+      "hooks": [
+        "سریال محبوب با ویژه‌نامهٔ کریسمس",
+        "تاریخ انتشار ویژه در هولو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تاریخ انتشار ۷ دسامبر در هولو"
+      ],
+      "status": "published",
+      "telegram_message_id": 264,
+      "published_at": "2026-10-10T17:34:11.707137+00:00",
+      "text": "بهار تعطیلات با «Bob’s Burgers» در هولو\n\n🎬 «Bob’s Burgers» به‌سرعت به هولو می‌آید: تاریخ انتشار ویژه کریسمس اعلام شد\n\nدر جشنوارهٔ New York Comic-Con، خالق سریال «Bob’s Burgers»، لورن بوچارد، تاریخ انتشار کوتاه‌سری ویژهٔ کریسمس را اعلام کرد. این اثر، که فقط در هولو قابل مشاهده است، در تاریخ ۷ دسامبر منتشر می‌شود و اولین نگاه به آن در پنل NYCC به نمایش گذاشته شد\n\n📌 نکات مهم:\n• تاریخ انتشار: ۷ دسامبر\n• فقط در هولو\n• اولین نگاه در NYCC\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13572,7 +13624,8 @@
     "312189cb85570e2585b35db3",
     "144ce90f89992824f8fb1703",
     "0e2a4b7d1ff515992cc115f1",
-    "ac77fe0f224349823f8f18ba"
+    "ac77fe0f224349823f8f18ba",
+    "69438659c91af89d9cd3a1cb"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13832,7 +13885,8 @@
     "https://deadline.com/2026/10/indie-films-opening-elon-musk-documentary-misty-green-fjord-1237151256",
     "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746",
     "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324",
-    "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864"
+    "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
+    "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508"
   ],
   "category_stats": {
     "movie_news": {
@@ -13872,7 +13926,7 @@
       "samples_with_metrics": 0
     },
     "upcoming_movies": {
-      "published": 1,
+      "published": 2,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -13940,7 +13994,7 @@
       "published": 25
     },
     "17": {
-      "published": 29
+      "published": 30
     },
     "12": {
       "published": 2
@@ -13965,64 +14019,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-29T23:36:31.169270+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-30T11:01:28.377169+00:00",
       "version": 2,
@@ -16980,6 +16976,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-10T17:34:11.707252+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
+          "category": "movie_news",
+          "score": 96.3,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17239,9 +17293,94 @@
     "371e71e287a44d02",
     "af6c30223a61752a",
     "f513724cf1cd69a6",
-    "9d11490e4da7dc62"
+    "9d11490e4da7dc62",
+    "e5fffe2f6de7b93e"
   ],
   "entity_memory": {
+    "burgers": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "sets holiday hulu": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "special release date": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "teases first look": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "christmas": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "belchers": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "hulu": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "fort day": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "creator": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "loren bouchard": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "new york comic": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "saturday": {
+      "count": 1,
+      "last_seen": "2026-10-10T17:34:11.707173+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
     "obsession": {
       "count": 3,
       "last_seen": "2026-10-10T15:00:07.595490+00:00",
@@ -19990,90 +20129,6 @@
     "girl": {
       "count": 1,
       "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michael roy curtis": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "westwood": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "calif": {
-      "count": 1,
-      "last_seen": "2026-10-02T21:06:53.424799+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the good girls": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lead ilse salas": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "quijote films": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "to die": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "your feet": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "morir": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "project pitched": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "iberseries": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "platino industria": {
-      "count": 1,
-      "last_seen": "2026-10-02T18:08:44.903434+00:00",
       "categories": [
         "actors_directors"
       ]
