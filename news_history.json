@@ -13517,6 +13517,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a8f67fc16bf62d98023dab82",
+      "story_id": "6573f9d8fd527f11",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100",
+      "title": "Christopher Nolan’s ‘The Odyssey’ Overtakes ‘Avatar: The Way of Water’ as Korea’s Biggest International Film of All Time (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 82.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 70.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "christopher nolan",
+        "nolan",
+        "universal",
+        "avatar",
+        "the odyssey",
+        "overtakes",
+        "the way",
+        "water",
+        "korea",
+        "biggest international film",
+        "all time",
+        "korean"
+      ],
+      "hook": "نویسنده نولان، اوڈیسی، برتر از آواتار در کره",
+      "hooks": [
+        "نولان برتر از آواتار",
+        "اوڈیسی، فیلمی که برتر شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "اوڈیسی برتر از آواتار در کره شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 268,
+      "published_at": "2026-10-11T15:18:28.715819+00:00",
+      "text": "نویسنده نولان، اوڈیسی، برتر از آواتار در کره\n\n🎬 نولان با اوڈیسی، بزرگترین فیلم بین‌المللی کره را به دست آورد\n\nفیلم اوڈیسی کارگردان کریستوفر نولان، در کره جنوبی به‌صورت یک فیلم بین‌المللی، برتر شد و مجموع درآمد آن 139.2 میلیارد کره‌ای (101.5 میلیون دلار) به‌دست آورد.\n\nاین فیلم، جایگاه برتر فیلم‌های هالیوود در کره را به دست آورد و از فیلم‌های آواتار: راه آب پیشی گرفت.\n\n📌 نکات مهم:\n• اوڈیسی، 139.2 میلیارد کره‌ای درآمد جمعی\n• اوڈیسی، برتر از آواتار: راه آب در کره\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13781,7 +13834,8 @@
     "69438659c91af89d9cd3a1cb",
     "891d7bcd2690494cecb16944",
     "0dfbd37a1d8fa7e96ad3e8b7",
-    "d1d7fcae4c40015702ed820c"
+    "d1d7fcae4c40015702ed820c",
+    "a8f67fc16bf62d98023dab82"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14045,11 +14099,12 @@
     "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
     "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
     "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
-    "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173"
+    "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173",
+    "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 135,
+      "published": 136,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14141,7 +14196,7 @@
       "published": 1
     },
     "15": {
-      "published": 10
+      "published": 11
     },
     "1": {
       "published": 2
@@ -14178,64 +14233,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-30T21:07:32.964203+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-30T23:38:39.269378+00:00",
       "version": 2,
@@ -17193,6 +17190,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-11T15:18:28.715924+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17456,9 +17511,96 @@
     "e5fffe2f6de7b93e",
     "2443f214f12fdcf3",
     "333869db8a6af24b",
-    "233a75d813ed40dd"
+    "233a75d813ed40dd",
+    "6573f9d8fd527f11"
   ],
   "entity_memory": {
+    "universal": {
+      "count": 2,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "avatar": {
+      "count": 2,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "christopher nolan": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nolan": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the odyssey": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "overtakes": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the way": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "water": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korea": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "biggest international film": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "all time": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korean": {
+      "count": 1,
+      "last_seen": "2026-10-11T15:18:28.715850+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "after": {
       "count": 2,
       "last_seen": "2026-10-11T11:19:21.305995+00:00",
@@ -19689,13 +19831,6 @@
         "actors_directors"
       ]
     },
-    "universal": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "child preacher": {
       "count": 1,
       "last_seen": "2026-10-04T22:58:41.940048+00:00",
@@ -19752,13 +19887,6 @@
       "last_seen": "2026-10-04T19:52:33.477050+00:00",
       "categories": [
         "movie_news",
-        "box_office"
-      ]
-    },
-    "avatar": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
         "box_office"
       ]
     },
@@ -20210,81 +20338,6 @@
     "review": {
       "count": 1,
       "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "decidedly": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatrical experience": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "although digger": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mary louise weller": {
-      "count": 2,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "animal house": {
-      "count": 2,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "mandy pepperidge": {
-      "count": 2,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "weller": {
-      "count": 2,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "october": {
-      "count": 3,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "mandy pepperidge was": {
-      "count": 1,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kojak": {
-      "count": 1,
-      "last_seen": "2026-10-03T14:07:27.771040+00:00",
       "categories": [
         "movie_news"
       ]
