@@ -13619,6 +13619,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fdfafb5e2942e9871b86bc78",
+      "story_id": "985d1ace0945f846",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "The Hollywood Reporter",
+        "Deadline"
+      ],
+      "multi_source_count": 3,
+      "url": "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365",
+      "title": "R.L. Stine’s ‘The Babysitter’ Gets Tubi Adaptation Set For 2027",
+      "category": "actors_directors",
+      "score": 78.56,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": false,
+      "entities": [
+        "stine",
+        "the babysitter",
+        "gets tubi adaptation",
+        "set for",
+        "tubi",
+        "on sunday",
+        "trevor calverley",
+        "pumpkinhead",
+        "jem garrard",
+        "adaptation coming",
+        "afraid",
+        "clowns"
+      ],
+      "hook": "توبی به دنیای ترسناک R.L. Stine باز می‌گردد",
+      "hooks": [
+        "سریالی ترسناک جدید در راه",
+        "توبی با داستان‌های R.L. Stine ادامه می‌دهد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "توبی نسخهٔ فیلمی از سری کتاب‌های R.L. Stine «The Babysitter» را اعلام کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 270,
+      "published_at": "2026-10-11T20:43:40.907882+00:00",
+      "text": "توبی به دنیای ترسناک R.L. Stine باز می‌گردد\n\n🎬 توبی نسخهٔ فیلمی «The Babysitter» را برای سال ۲۰۲۷ اعلام کرد\n\nتوبی، سرویس استریمینگ، نسخهٔ فیلمی از سری کتاب‌های R.L. Stine با عنوان «The Babysitter» را اعلام کرد. این سری، که در سال‌های ۱۹۸۹ تا ۱۹۹۵ منتشر شد، اکنون به شکل فیلم زنده در حال تولید است.\nکارگردان این پروژه، ترویو کالورلی، بر اساس اسکریپت نوشتهٔ جیم گارد، کارگردان و نویسنده Pumpkinhead، به کار گرفته شده است. انتشار فیلم در سال ۲۰۲۷ برنامه‌ریزی شده است.\n\n📌 نکات مهم:\n• توبی نسخهٔ فیلمی از سری کتاب‌های R.L. Stine «The Babysitter» را اعلام کرد\n• کارگردان پروژه ترویو کالورلی و نویسنده اسکریپت جیم گارد است\n\n✅ تأیید چندمنبعی: Deadline Film, The Hollywood Reporter, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13885,7 +13939,8 @@
     "0dfbd37a1d8fa7e96ad3e8b7",
     "d1d7fcae4c40015702ed820c",
     "a8f67fc16bf62d98023dab82",
-    "a5742c396581e9761a74512d"
+    "a5742c396581e9761a74512d",
+    "fdfafb5e2942e9871b86bc78"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14151,7 +14206,8 @@
     "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
     "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173",
     "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100",
-    "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office"
+    "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office",
+    "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365"
   ],
   "category_stats": {
     "movie_news": {
@@ -14161,7 +14217,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 96,
+      "published": 97,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14217,7 +14273,7 @@
       "published": 11
     },
     "20": {
-      "published": 27
+      "published": 28
     },
     "21": {
       "published": 16
@@ -14284,64 +14340,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-01T11:28:07.881713+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-01T15:58:18.391102+00:00",
       "version": 2,
@@ -17299,6 +17297,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-11T20:43:40.907977+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17564,9 +17620,94 @@
     "333869db8a6af24b",
     "233a75d813ed40dd",
     "6573f9d8fd527f11",
-    "dd412f8af5b51a8f"
+    "dd412f8af5b51a8f",
+    "985d1ace0945f846"
   ],
   "entity_memory": {
+    "stine": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the babysitter": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gets tubi adaptation": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "set for": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tubi": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on sunday": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "trevor calverley": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pumpkinhead": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jem garrard": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "adaptation coming": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "afraid": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "clowns": {
+      "count": 1,
+      "last_seen": "2026-10-11T20:43:40.907908+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "digger": {
       "count": 4,
       "last_seen": "2026-10-11T17:51:53.172927+00:00",
@@ -20306,90 +20447,6 @@
     "christopher abbott": {
       "count": 1,
       "last_seen": "2026-10-03T22:48:42.677041+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "professor": {
-      "count": 1,
-      "last_seen": "2026-10-03T22:48:42.677041+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jake schreier": {
-      "count": 1,
-      "last_seen": "2026-10-03T22:48:42.677041+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "behemoth": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "why tony gilroy": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "needed nine composers": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "score his latest": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "guide": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "who did what": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tony gilroy": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york film": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival friday": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lincoln center": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
       "categories": [
         "movie_news"
       ]
