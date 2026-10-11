@@ -13570,6 +13570,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a5742c396581e9761a74512d",
+      "story_id": "dd412f8af5b51a8f",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office",
+      "title": "‘Other Mommy’ Opens to $27.5 Million at Box Office Amid Poor Reviews",
+      "category": "box_office",
+      "score": 61.24,
+      "freshness": 92.0,
+      "credibility": 84.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "other mommy",
+        "opens",
+        "million",
+        "box office amid",
+        "poor reviews sony",
+        "the social reckoning",
+        "digger",
+        "verity",
+        "poor reviews"
+      ],
+      "hook": "مومی دیگر با 27.5 میلیون دلار در بازاریابی آغاز شد",
+      "hooks": [
+        "مومی دیگر با فروش 27.5 میلیون دلار در هفته اول",
+        "مومی دیگر در حالی که نقدها ضعیف، 27.5 میلیون دلار کسب کرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مومی دیگر با 27.5 میلیون دلار در هفته اول آغاز شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 269,
+      "published_at": "2026-10-11T17:51:53.172896+00:00",
+      "text": "مومی دیگر با 27.5 میلیون دلار در بازاریابی آغاز شد\n\n🎬 مومی دیگر با 27.5 میلیون دلار در بازاریابی آغاز شد، نقدها ضعیف\n\nفیلم 'مومی دیگر' در هفته اول با 27.5 میلیون دلار در بکس آفیس آغاز شد، در حالی که نقدها آن را ضعیف می‌دانند.\nدر همین زمان، 'The Social Reckoning' از سونی تنها 5.5 میلیون دلار کسب کرد و فیلم‌های 'Digger' و 'Verity' 64٪ از مجموع بازاریابی هفته اول خود را از دست دادند.\n\n📌 نکات مهم:\n• مومی دیگر با 27.5 میلیون دلار در هفته اول آغاز شد\n• نقدهای فیلم 'مومی دیگر' ضعیف است\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13835,7 +13884,8 @@
     "891d7bcd2690494cecb16944",
     "0dfbd37a1d8fa7e96ad3e8b7",
     "d1d7fcae4c40015702ed820c",
-    "a8f67fc16bf62d98023dab82"
+    "a8f67fc16bf62d98023dab82",
+    "a5742c396581e9761a74512d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14100,7 +14150,8 @@
     "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
     "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
     "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173",
-    "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100"
+    "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100",
+    "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office"
   ],
   "category_stats": {
     "movie_news": {
@@ -14128,7 +14179,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 11,
+      "published": 12,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14208,7 +14259,7 @@
       "published": 25
     },
     "17": {
-      "published": 30
+      "published": 31
     },
     "12": {
       "published": 2
@@ -14233,64 +14284,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-30T23:38:39.269378+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-01T11:28:07.881713+00:00",
       "version": 2,
@@ -17248,6 +17241,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-11T17:51:53.173005+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17512,9 +17563,75 @@
     "2443f214f12fdcf3",
     "333869db8a6af24b",
     "233a75d813ed40dd",
-    "6573f9d8fd527f11"
+    "6573f9d8fd527f11",
+    "dd412f8af5b51a8f"
   ],
   "entity_memory": {
+    "digger": {
+      "count": 4,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "other mommy": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "opens": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "million": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "box office amid": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "poor reviews sony": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "the social reckoning": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "verity": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "poor reviews": {
+      "count": 1,
+      "last_seen": "2026-10-11T17:51:53.172927+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "universal": {
       "count": 2,
       "last_seen": "2026-10-11T15:18:28.715850+00:00",
@@ -20273,71 +20390,6 @@
     "lincoln center": {
       "count": 1,
       "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tully hall": {
-      "count": 1,
-      "last_seen": "2026-10-03T19:37:31.831294+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tom cruise": {
-      "count": 3,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "digger": {
-      "count": 3,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "guillermo del toro": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "buries": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in praise": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "slams": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "petty": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "review": {
-      "count": 1,
-      "last_seen": "2026-10-03T16:55:33.078643+00:00",
       "categories": [
         "movie_news"
       ]
