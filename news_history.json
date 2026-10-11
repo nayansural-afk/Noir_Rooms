@@ -13470,6 +13470,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d1d7fcae4c40015702ed820c",
+      "story_id": "233a75d813ed40dd",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173",
+      "title": "Rohan Campbell Teases Directorial Debut Plans: “A Very Personal Story”",
+      "category": "actors_directors",
+      "score": 69.39,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "rohan campbell teases",
+        "directorial debut plans",
+        "very personal story",
+        "after",
+        "rohan campbell",
+        "the below"
+      ],
+      "hook": "روهان کلمپ به‌دنبال اولین فیلم‌نامه‌اش می‌رود",
+      "hooks": [
+        "روهان کلمپ: از بازیگری به کارگردانی",
+        "روهان کلمپ، اولین کارگردانی‌اش در تابستان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "روهان کلمپ در حال برنامه‌ریزی برای کارگردانی در تابستان آینده"
+      ],
+      "status": "published",
+      "telegram_message_id": 267,
+      "published_at": "2026-10-11T11:19:21.305967+00:00",
+      "text": "روهان کلمپ به‌دنبال اولین فیلم‌نامه‌اش می‌رود\n\n🎬 روهان کلمپ، ستاره Below، در انتظار اولین کارگردانی‌اش\n\nروهان کلمپ، بازیگر موفق در سریال «Below»، در حال برنامه‌ریزی برای اولین کارگردانی‌اش است.\nاو قصد دارد در تابستان آینده فیلمی با مضمون شخصی خود بسازد و در حال انتظار برای اخذ گرین‌لاین است.\n\n📌 نکات مهم:\n• روهان کلمپ، ستاره سریال Below\n• برنامه‌ریزی برای کارگردانی در تابستان آینده\n• فیلم شخصی، در انتظار گرین‌لاین\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13733,7 +13780,8 @@
     "ac77fe0f224349823f8f18ba",
     "69438659c91af89d9cd3a1cb",
     "891d7bcd2690494cecb16944",
-    "0dfbd37a1d8fa7e96ad3e8b7"
+    "0dfbd37a1d8fa7e96ad3e8b7",
+    "d1d7fcae4c40015702ed820c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -13996,7 +14044,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864",
     "https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508",
     "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
-    "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802"
+    "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802",
+    "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173"
   ],
   "category_stats": {
     "movie_news": {
@@ -14006,7 +14055,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 95,
+      "published": 96,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14050,7 +14099,7 @@
       "published": 8
     },
     "11": {
-      "published": 16
+      "published": 17
     },
     "14": {
       "published": 7
@@ -14129,64 +14178,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-09-30T18:13:33.909550+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-09-30T21:07:32.964203+00:00",
       "version": 2,
@@ -17144,6 +17135,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-11T11:19:21.306062+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17406,9 +17455,53 @@
     "9d11490e4da7dc62",
     "e5fffe2f6de7b93e",
     "2443f214f12fdcf3",
-    "333869db8a6af24b"
+    "333869db8a6af24b",
+    "233a75d813ed40dd"
   ],
   "entity_memory": {
+    "after": {
+      "count": 2,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "rohan campbell teases": {
+      "count": 1,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "directorial debut plans": {
+      "count": 1,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "very personal story": {
+      "count": 1,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rohan campbell": {
+      "count": 1,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the below": {
+      "count": 1,
+      "last_seen": "2026-10-11T11:19:21.305995+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "well": {
       "count": 4,
       "last_seen": "2026-10-10T23:23:56.736088+00:00",
@@ -19697,13 +19790,6 @@
         "box_office"
       ]
     },
-    "after": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "encore": {
       "count": 1,
       "last_seen": "2026-10-04T19:52:33.477050+00:00",
@@ -20201,43 +20287,6 @@
       "last_seen": "2026-10-03T14:07:27.771040+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "jordan peele": {
-      "count": 2,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "continue": {
-      "count": 2,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "actors_directors",
-        "box_office"
-      ]
-    },
-    "horror": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "golden globes": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "globes": {
-      "count": 1,
-      "last_seen": "2026-10-03T10:17:29.888088+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
