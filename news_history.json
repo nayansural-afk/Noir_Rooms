@@ -13829,6 +13829,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "3cea2580b51f857decb436d7",
+      "story_id": "54a42ff45633cfcd",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
+      "title": "Mysterious Japanese Artist JYuno Joins Soundtrack Of Destry Allyn Spielberg’s Starry Sophomore Film",
+      "category": "actors_directors",
+      "score": 72.88,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "spielberg",
+        "mysterious japanese artist",
+        "joins soundtrack of",
+        "destry allyn spielberg",
+        "starry sophomore film",
+        "japanese",
+        "girl",
+        "jason isaacs",
+        "sofia wylie",
+        "luke newton",
+        "maddie ziegler"
+      ],
+      "hook": "آهنگ‌های جِی‌یونو در فیلم 'Girl' به صدا می‌آید",
+      "hooks": [
+        "موسیقی رازآلود جِی‌یونو در سینمای آمریکایی",
+        "سه آهنگ جِی‌یونو در فیلم 'Girl'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جِی‌یونو در صداگذاری فیلم 'Girl' سه آهنگ دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 274,
+      "published_at": "2026-10-12T21:29:49.765814+00:00",
+      "text": "آهنگ‌های جِی‌یونو در فیلم 'Girl' به صدا می‌آید\n\n🎬 جِی‌یونو، هنرمند ژاپنی، در آهنگ‌نامهٔ فیلم 'Girl' حضور دارد\n\nدر فیلمی با عنوان 'Girl' که به تازگی در دوربین‌های فیلم‌سازی پایان یافت، آهنگ‌های سه‌تایی جِی‌یونو در صداگذاری حضور خواهند داشت.\nاین فیلم، یک تریلر جرم‌وچاپهٔ دومین اثر کارگردان Destry Allyn Spielberg است و بازیگران برجسته‌ای چون Jason Isaacs، Sofia Wylie، Luke Newton و Maddie Ziegler در آن نقش دارند.\n\n📌 نکات مهم:\n• جِی‌یونو سه آهنگ در فیلم 'Girl' دارد\n• فیلم 'Girl' یک تریلر جرم‌وچاپهٔ کارگردان Destry Allyn Spielberg است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14099,7 +14150,8 @@
     "fdfafb5e2942e9871b86bc78",
     "e9561f30981be9d2a93ed9b1",
     "d63d5769c4168242898298d4",
-    "63ae471922e449385960f4ef"
+    "63ae471922e449385960f4ef",
+    "3cea2580b51f857decb436d7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14369,7 +14421,8 @@
     "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365",
     "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528",
     "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
-    "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010"
+    "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
+    "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703"
   ],
   "category_stats": {
     "movie_news": {
@@ -14379,7 +14432,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 97,
+      "published": 98,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14438,7 +14491,7 @@
       "published": 28
     },
     "21": {
-      "published": 16
+      "published": 17
     },
     "23": {
       "published": 14
@@ -14502,64 +14555,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-01T23:50:34.050102+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-02T10:58:06.974057+00:00",
       "version": 2,
@@ -17517,6 +17512,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-12T21:29:49.765931+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17786,9 +17839,88 @@
     "985d1ace0945f846",
     "f4624cc46e131110",
     "8ab33ce0cae46a6f",
-    "01b616b88a1c0976"
+    "01b616b88a1c0976",
+    "54a42ff45633cfcd"
   ],
   "entity_memory": {
+    "japanese": {
+      "count": 3,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "spielberg": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mysterious japanese artist": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joins soundtrack of": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "destry allyn spielberg": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starry sophomore film": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "girl": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jason isaacs": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sofia wylie": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "luke newton": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maddie ziegler": {
+      "count": 1,
+      "last_seen": "2026-10-12T21:29:49.765851+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 4,
       "last_seen": "2026-10-12T18:31:57.537476+00:00",
@@ -20378,14 +20510,6 @@
         "actors_directors"
       ]
     },
-    "japanese": {
-      "count": 2,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "the yellow tie": {
       "count": 1,
       "last_seen": "2026-10-05T12:09:09.280905+00:00",
@@ -20548,76 +20672,6 @@
       "last_seen": "2026-10-04T19:52:33.477050+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "record from": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "encore": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "reissue with": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "reissue": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "preacher": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor who was": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "subject": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "winning doc": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "appeared": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marjoe": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
