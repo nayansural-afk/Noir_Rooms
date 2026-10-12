@@ -13880,6 +13880,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "28446e6b7f461ef4ebd39d01",
+      "story_id": "49d288139c9b64d5",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
+      "title": "Linda Duncombe, Beloved Banking Executive and Movie Producer, Dies at 55",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "linda duncombe",
+        "beloved banking executive",
+        "movie producer",
+        "dies",
+        "sunday",
+        "duncombe",
+        "stage"
+      ],
+      "hook": "موت لندین دنکومبه: بانکی‌ساز و تهیه‌کنندهٔ سینمایی",
+      "hooks": [
+        "سینما از دست می‌دهد: لندین دنکومبه درگذشت",
+        "بانک‌دار و تهیه‌کنندهٔ فیلم، لندین دنکومبه، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "لندین دنکومبه درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 275,
+      "published_at": "2026-10-12T23:24:30.514734+00:00",
+      "text": "موت لندین دنکومبه: بانکی‌ساز و تهیه‌کنندهٔ سینمایی\n\n🎬 لندین دنکومبه، بانکی‌ساز محبوب و تهیه‌کنندهٔ مستقل، درگذشت\n\nلندین دنکومبه، بانکی‌ساز برجسته‌ای که دو سال آخر زندگی‌اش را به تولید فیلم مستقل اختصاص داد، در روز یکشنبه به دلیل عوارض سکته مغزی درگذشت. قبل از مرگ، او به بیماری سرطان ریه مرحله ۲ تشخیص داده شد و با چهرهٔ دوستانه‌اش در رویدادهای صنعت سینما شناخته می‌شد.\n\n📌 نکات مهم:\n• لندین دنکومبه درگذشت\n• او 55 ساله بود\n• او دو سال آخر به عنوان تهیه‌کنندهٔ مستقل فیلم فعالیت می‌کرد\n• دلیل مرگ عوارض سکته مغزی بود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14151,7 +14199,8 @@
     "e9561f30981be9d2a93ed9b1",
     "d63d5769c4168242898298d4",
     "63ae471922e449385960f4ef",
-    "3cea2580b51f857decb436d7"
+    "3cea2580b51f857decb436d7",
+    "28446e6b7f461ef4ebd39d01"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14422,11 +14471,12 @@
     "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528",
     "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
     "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
-    "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703"
+    "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
+    "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 139,
+      "published": 140,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14494,7 +14544,7 @@
       "published": 17
     },
     "23": {
-      "published": 14
+      "published": 15
     },
     "3": {
       "published": 2
@@ -14555,64 +14605,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-02T10:58:06.974057+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-02T15:18:43.455269+00:00",
       "version": 2,
@@ -17570,6 +17562,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-12T23:24:30.514833+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17840,9 +17890,60 @@
     "f4624cc46e131110",
     "8ab33ce0cae46a6f",
     "01b616b88a1c0976",
-    "54a42ff45633cfcd"
+    "54a42ff45633cfcd",
+    "49d288139c9b64d5"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 11,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "linda duncombe": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beloved banking executive": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movie producer": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sunday": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "duncombe": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stage": {
+      "count": 1,
+      "last_seen": "2026-10-12T23:24:30.514765+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "japanese": {
       "count": 3,
       "last_seen": "2026-10-12T21:29:49.765851+00:00",
@@ -19743,14 +19844,6 @@
         "movie_news"
       ]
     },
-    "dies": {
-      "count": 10,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "paramount": {
       "count": 1,
       "last_seen": "2026-10-07T19:09:31.504226+00:00",
@@ -20627,51 +20720,6 @@
       "last_seen": "2026-10-04T22:58:41.940048+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "outlaw": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 5,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "marvel studios": {
-      "count": 2,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "endgame": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "takes back": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "time box office": {
-      "count": 1,
-      "last_seen": "2026-10-04T19:52:33.477050+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
