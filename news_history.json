@@ -13726,6 +13726,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d63d5769c4168242898298d4",
+      "story_id": "8ab33ce0cae46a6f",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
+      "title": "Zee 5 Global Drops ‘Sumo Didi’ Trailer Ahead Of Streaming Launch",
+      "category": "movie_news",
+      "score": 79.94,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "global drops",
+        "sumo didi",
+        "trailer ahead of",
+        "streaming launch",
+        "global",
+        "indian",
+        "the jio studios",
+        "fresh lime films",
+        "entertainment networks",
+        "hetal dave",
+        "india",
+        "directed"
+      ],
+      "hook": "سریال جدید: سمو دیدی، قهرمان سومی هند",
+      "hooks": [
+        "سومو دیدی: زندگی الهام‌بخش سومی هند",
+        "فیلم بایوگرافی سومی: Hetal Dave"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Zee 5 Global released the trailer"
+      ],
+      "status": "published",
+      "telegram_message_id": 272,
+      "published_at": "2026-10-12T12:55:27.919303+00:00",
+      "text": "سریال جدید: سمو دیدی، قهرمان سومی هند\n\n🎬 سومو دیدی: تریلر جدید از اولین سومی حرفه‌ای هند منتشر شد\n\nدر یک حرکت هیجان‌انگیز، Zee 5 Global تریلر جدید فیلم ورزشی \"سمو دیدی\" را منتشر کرد. این فیلم، بایوگرافی الهام‌بخش زندگی Hetal Dave، اولین سومی حرفه‌ای هند، را روایت می‌کند.\nسینمایی که توسط Jayant Rohatgi کارگردانی شده و توسط Jio Studios، Fresh Lime Films و MA+TH Entertainment Networks تولید می‌شود، به‌عنوان یک بایوگرافی ورزشی الهام‌بخش معرفی شده است.\n\n📌 نکات مهم:\n• تریلر توسط Zee 5 Global منتشر شد\n• فیلم بایوگرافی ورزشی درباره Hetal Dave\n• سینمایی توسط Jayant Rohatgi کارگردانی شد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -13994,7 +14046,8 @@
     "a8f67fc16bf62d98023dab82",
     "a5742c396581e9761a74512d",
     "fdfafb5e2942e9871b86bc78",
-    "e9561f30981be9d2a93ed9b1"
+    "e9561f30981be9d2a93ed9b1",
+    "d63d5769c4168242898298d4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14262,11 +14315,12 @@
     "https://variety.com/2026/film/box-office/odyssey-passes-avatar-korea-top-international-film-ever-1236908100",
     "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office",
     "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365",
-    "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528"
+    "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528",
+    "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 137,
+      "published": 138,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14373,7 +14427,7 @@
       "published": 31
     },
     "12": {
-      "published": 2
+      "published": 3
     },
     "0": {
       "published": 3
@@ -14395,64 +14449,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-01T18:38:49.695608+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 402,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-01T21:31:22.284915+00:00",
       "version": 2,
@@ -17410,6 +17406,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-12T12:55:27.919410+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17677,9 +17731,95 @@
     "6573f9d8fd527f11",
     "dd412f8af5b51a8f",
     "985d1ace0945f846",
-    "f4624cc46e131110"
+    "f4624cc46e131110",
+    "8ab33ce0cae46a6f"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 3,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indian": {
+      "count": 2,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "global drops": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sumo didi": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "trailer ahead of": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "streaming launch": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "global": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the jio studios": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fresh lime films": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "entertainment networks": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hetal dave": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "india": {
+      "count": 1,
+      "last_seen": "2026-10-12T12:55:27.919337+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "busan asian project": {
       "count": 2,
       "last_seen": "2026-10-11T23:33:35.415118+00:00",
@@ -18685,13 +18825,6 @@
         "upcoming_movies"
       ]
     },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-10-09T15:47:35.694238+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "phoebe bridgers reunites": {
       "count": 1,
       "last_seen": "2026-10-09T15:47:35.694238+00:00",
@@ -18784,13 +18917,6 @@
       ]
     },
     "patekar": {
-      "count": 1,
-      "last_seen": "2026-10-09T11:44:25.812368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indian": {
       "count": 1,
       "last_seen": "2026-10-09T11:44:25.812368+00:00",
       "categories": [
@@ -20434,76 +20560,6 @@
       ]
     },
     "dc": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jeremy strong defends": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "method acting": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says he doesn": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "feel": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "need": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "apologize": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stars who may": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "think": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "taking it too": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "seriously": {
       "count": 1,
       "last_seen": "2026-10-04T11:01:24.339552+00:00",
       "categories": [
