@@ -13778,6 +13778,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "63ae471922e449385960f4ef",
+      "story_id": "01b616b88a1c0976",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
+      "title": "‘Hatchet’ Movie: Netflix and Derek Cianfrance to Adapt Gary Paulsen’s Survival Book (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 78.98,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "hatchet",
+        "derek cianfrance",
+        "adapt gary paulsen",
+        "survival book",
+        "gary paulsen",
+        "blue valentine",
+        "the place beyond",
+        "pines",
+        "andrew mittman",
+        "wednesday"
+      ],
+      "hook": "نویسندهٔ بقا، دیکر سینمایی: هاتچِت در نیفلیکس",
+      "hooks": [
+        "دیکر سیانفرنس، نویسنده و کارگردان، هاتچِت را به صحنه می‌آورد",
+        "فیلمی درباره بقا در دل جنگل، با نیفلیکس و دیکر سیانفرنس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم بر اساس رمان ۱۹۸۷ گاری پائلسن 'هاتچِت' ساخته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 273,
+      "published_at": "2026-10-12T18:31:57.537441+00:00",
+      "text": "نویسندهٔ بقا، دیکر سینمایی: هاتچِت در نیفلیکس\n\n🎬 نیفلیکس و دیکر سیانفرنس، هاتچِت را به سینما می‌برند\n\nفیلمی که در حال توسعه است، بر اساس رمان جوانان ۱۹۸۷ گاری پائلسن 'هاتچِت' ساخته می‌شود. نیفلیکس این پروژه را به‌دست گرفته و در حال کار بر روی نسخهٔ سینمایی است.\nکارگردان و نویسندهٔ این اثر، دیکر سیانفرنس، که برای فیلم‌های 'بلو ولنتاین' و 'دستگاه فراتر از کوه‌ها' شناخته می‌شود، مسئول تمام بخش‌های نوشتاری و کارگردانی است. تولیدکنندهٔ اندرو میتمان، از شرکت ۱.۲۱ که پشت 'دوشنبه' نیفلیکس است، نقش تولید را بر عهده دارد.\n\n📌 نکات مهم:\n• نیفلیکس در حال توسعه فیلمی بر اساس رمان 'هاتچِت' است\n• دیکر سیانفرنس، نویسنده و کارگردانی فیلم، مسئول نوشتن و کارگردانی است\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14047,7 +14098,8 @@
     "a5742c396581e9761a74512d",
     "fdfafb5e2942e9871b86bc78",
     "e9561f30981be9d2a93ed9b1",
-    "d63d5769c4168242898298d4"
+    "d63d5769c4168242898298d4",
+    "63ae471922e449385960f4ef"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14316,11 +14368,12 @@
     "https://www.thewrap.com/creative-content/movies/other-mommy-27-million-box-office",
     "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365",
     "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528",
-    "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666"
+    "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
+    "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 138,
+      "published": 139,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14379,7 +14432,7 @@
       "published": 9
     },
     "18": {
-      "published": 11
+      "published": 12
     },
     "20": {
       "published": 28
@@ -14449,64 +14502,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-01T21:31:22.284915+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-01T23:50:34.050102+00:00",
       "version": 2,
@@ -17464,6 +17459,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-12T18:31:57.537557+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17732,9 +17785,89 @@
     "dd412f8af5b51a8f",
     "985d1ace0945f846",
     "f4624cc46e131110",
-    "8ab33ce0cae46a6f"
+    "8ab33ce0cae46a6f",
+    "01b616b88a1c0976"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 4,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "hatchet": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "derek cianfrance": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "adapt gary paulsen": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "survival book": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gary paulsen": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blue valentine": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the place beyond": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pines": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "andrew mittman": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-10-12T18:31:57.537476+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "directed": {
       "count": 3,
       "last_seen": "2026-10-12T12:55:27.919337+00:00",
@@ -20483,85 +20616,6 @@
     "marjoe": {
       "count": 1,
       "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "friday": {
-      "count": 1,
-      "last_seen": "2026-10-04T17:13:55.101471+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix": {
-      "count": 3,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
-    "florence pugh": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "how zoe kazan": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "east": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eden": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "collaboration helped boost": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "her confidence the": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cathy": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kazan": {
-      "count": 1,
-      "last_seen": "2026-10-04T14:36:22.790735+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dc": {
-      "count": 1,
-      "last_seen": "2026-10-04T11:01:24.339552+00:00",
       "categories": [
         "actors_directors"
       ]
