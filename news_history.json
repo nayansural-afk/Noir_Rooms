@@ -13928,6 +13928,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "51e6ed2ce4575fccf0f92965",
+      "story_id": "d74eb4cc10a49db8",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
+      "category": "actors_directors",
+      "score": 65.46,
+      "freshness": 65.0,
+      "credibility": 92.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "tarantino",
+        "sacha baron cohen",
+        "quentin tarantino",
+        "west end",
+        "the borat",
+        "the popinjay cavalier",
+        "pulp fiction"
+      ],
+      "hook": "ساشا بارن کوهن در نقش اصلی در نمایش غربی تارانتینو",
+      "hooks": [
+        "بارن کوهن در تئاتر غربی با تارانتینو",
+        "نقش بارن کوهن در نمایش 'پاپینجای کلاویر'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ساشا بارن کوهن در نقش اصلی در نمایش غربی تارانتینو"
+      ],
+      "status": "published",
+      "telegram_message_id": 276,
+      "published_at": "2026-10-13T01:57:00.192670+00:00",
+      "text": "ساشا بارن کوهن در نقش اصلی در نمایش غربی تارانتینو\n\n🎬 ساشا بارن کوهن در نقش اصلی در نمایش غربی تارانتینو\n\nساشا بارن کوهن، ستاره فیلم 'بورات'، اعلام کرد که در نمایش غربی 'پاپینجای کلاویر' با کارگردان کوئنتن تارانتینو نقش اصلی را بر عهده می‌گیرد. او از همکاری با کارگردان مشهور، که در فیلم‌های 'پُلک فیکشن' شناخته شده است، بسیار خوشحال است و گفت که این پروژه برای او تجربه‌ای هیجان‌انگیز خواهد بود.\n\n📌 نکات مهم:\n• ساشا بارن کوهن در نقش اصلی در نمایش 'پاپینجای کلاویر'\n• کارگردان نمایش کوئنتن تارانتینو\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14200,7 +14247,8 @@
     "d63d5769c4168242898298d4",
     "63ae471922e449385960f4ef",
     "3cea2580b51f857decb436d7",
-    "28446e6b7f461ef4ebd39d01"
+    "28446e6b7f461ef4ebd39d01",
+    "51e6ed2ce4575fccf0f92965"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14472,7 +14520,8 @@
     "https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666",
     "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
     "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
-    "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543"
+    "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
+    "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo"
   ],
   "category_stats": {
     "movie_news": {
@@ -14482,7 +14531,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 98,
+      "published": 99,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14571,7 +14620,7 @@
       "published": 11
     },
     "1": {
-      "published": 2
+      "published": 3
     },
     "2": {
       "published": 1
@@ -14605,64 +14654,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-02T15:18:43.455269+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-02T18:08:44.903517+00:00",
       "version": 2,
@@ -17620,6 +17611,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T01:57:00.192775+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17891,9 +17940,59 @@
     "8ab33ce0cae46a6f",
     "01b616b88a1c0976",
     "54a42ff45633cfcd",
-    "49d288139c9b64d5"
+    "49d288139c9b64d5",
+    "d74eb4cc10a49db8"
   ],
   "entity_memory": {
+    "tarantino": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sacha baron cohen": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "quentin tarantino": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "west end": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the borat": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the popinjay cavalier": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pulp fiction": {
+      "count": 1,
+      "last_seen": "2026-10-13T01:57:00.192702+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 11,
       "last_seen": "2026-10-12T23:24:30.514765+00:00",
@@ -20668,55 +20767,6 @@
     },
     "marjoe gortner": {
       "count": 2,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "earthquake": {
-      "count": 2,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "falcon crest": {
-      "count": 2,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "child preacher": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "universal pictures": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lynda carter": {
-      "count": 1,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bobbie jo": {
-      "count": 1,
       "last_seen": "2026-10-04T22:58:41.940048+00:00",
       "categories": [
         "actors_directors"
