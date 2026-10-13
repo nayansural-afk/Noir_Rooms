@@ -14133,6 +14133,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6afed5aa7e9ff1eb75224bbc",
+      "story_id": "238753581a7425f9",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
+      "title": "‘Elsinore’ And ‘La Bola Negra’ Continue Awards Momentum With Wins At Hamptons Film Festival",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "elsinore",
+        "la bola negra",
+        "continue awards momentum",
+        "with wins at",
+        "hamptons film festival",
+        "audiences",
+        "october",
+        "best narrative feature",
+        "javier calvo"
+      ],
+      "hook": "فیلمنامهٔ برندهٔ هامتونز: 'لا بولا نِرِا' و 'السینور' در جشنواره",
+      "hooks": [
+        "جشنواره هامتونز: 'لا بولا نِرِا' برندهٔ بهترین داستان",
+        "'السینور' و 'لا بولا نِرِا' در جشنواره هامتونز، برندهٔ جایزه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جشنواره هامتونز ۳۴ در بازهٔ ۲ تا ۱۱ اکتبر برگزار شد",
+        "فیلم 'لا بولا نِرِا' بهترین فیلم روایتی را برنده شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 280,
+      "published_at": "2026-10-13T21:40:25.825796+00:00",
+      "text": "فیلمنامهٔ برندهٔ هامتونز: 'لا بولا نِرِا' و 'السینور' در جشنواره\n\n🎬 جشنواره هامتونز: 'لا بولا نِرِا' برندهٔ بهترین داستان و 'السینور' هم در فهرست برندگان\n\nدر جشنواره فیلم هامتونز ۳۴، دو فیلم برجسته، 'لا بولا نِرِا' و 'السینور'، جایزه‌های مهمی را کسب کردند.\nفیلم 'لا بولا نِرِا' که توسط خاویر کالو کارگردانی شده، بهترین فیلم روایتی را برنده شد و در مجموع ۲۰۵ نمایش از بیش از ۱۴۰ فیلم و کوتاه در بازهٔ ۲ تا ۱۱ اکتبر برگزار شد.\n\n📌 نکات مهم:\n• فیلم 'لا بولا نِرِا' بهترین فیلم روایتی را در جشنواره هامتونز ۳۴ برنده شد\n• فیلم 'السینور' نیز جایزه دریافت کرد\n• جشنواره ۳۴ هامتونز در بازهٔ ۲ تا ۱۱ اکتبر برگزار شد\n• در جشنواره ۲۰۵ نمایش از بیش از ۱۴۰ فیلم و کوتاه برگزار شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14409,7 +14460,8 @@
     "51e6ed2ce4575fccf0f92965",
     "8a95fa1a25237623cc9e6fc2",
     "404dd64e05c0f728e2330174",
-    "76c19dfc4d88ba5042570e8d"
+    "76c19dfc4d88ba5042570e8d",
+    "6afed5aa7e9ff1eb75224bbc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14685,11 +14737,12 @@
     "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
     "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
     "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
-    "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996"
+    "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
+    "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 142,
+      "published": 143,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14754,7 +14807,7 @@
       "published": 28
     },
     "21": {
-      "published": 17
+      "published": 18
     },
     "23": {
       "published": 15
@@ -14818,64 +14871,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-03T10:17:29.888158+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-03T14:07:27.771125+00:00",
       "version": 2,
@@ -17833,6 +17828,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T21:40:25.825889+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18108,9 +18161,73 @@
     "d74eb4cc10a49db8",
     "30ec4035203191b5",
     "f508bf04ae9559b3",
-    "b5d2f12a2d616811"
+    "b5d2f12a2d616811",
+    "238753581a7425f9"
   ],
   "entity_memory": {
+    "elsinore": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "la bola negra": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue awards momentum": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with wins at": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hamptons film festival": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "audiences": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "october": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "best narrative feature": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "javier calvo": {
+      "count": 1,
+      "last_seen": "2026-10-13T21:40:25.825823+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "bafta": {
       "count": 1,
       "last_seen": "2026-10-13T19:41:09.945990+00:00",
@@ -20872,70 +20989,6 @@
       "last_seen": "2026-10-06T11:52:52.764641+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "mean girls": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "magritte": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "robin tunney": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sarah": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "san francisco": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "something": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eastwick": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nancy": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "french": {
-      "count": 5,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     }
   },
