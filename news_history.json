@@ -14184,6 +14184,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8f4045c5ccc6ee870d7dbdb7",
+      "story_id": "5608427f35bbbcbf",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214",
+      "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+      "category": "movie_news",
+      "score": 90.81,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 73.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oppenheimer",
+        "oscar",
+        "new york times",
+        "docs acquires",
+        "the revolution against",
+        "death",
+        "oscar nominee joshua",
+        "film on quest",
+        "for immortality",
+        "the new york",
+        "times",
+        "docs"
+      ],
+      "hook": "فیلمی که به دنبال جاودانگی می‌گردد، در نوارهای Op-Docs به نمایش می‌آید",
+      "hooks": [
+        "سفر به دنیای طول عمر در فیلم کوتاه اوپنهایمر",
+        "دستاورد نایاب: فیلم کوتاه درباره جاودانگی در Op-Docs"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "New York Times Op-Docs acquired The Revolution Against Death"
+      ],
+      "status": "published",
+      "telegram_message_id": 281,
+      "published_at": "2026-10-13T23:41:23.299859+00:00",
+      "text": "فیلمی که به دنبال جاودانگی می‌گردد، در نوارهای Op-Docs به نمایش می‌آید\n\n🎬 نویسندگان نایاب: اوپنهایمر در Op-Docs، فیلم کوتاه درباره جاودانگی\n\nفیلم کوتاه «The Revolution Against Death»، کارگردانی جوشوا اوپنهایمر، دو بار نامزد اسکار، در کنفرانس سالانه طول عمر به نام Revolution Against Aging and Death Festival به تصویر کشیده شده است.\nاین مستند در اوایل دسامبر به صورت همزمان در سراسر جهان توسط New York Op-Docs و MUBI منتشر خواهد شد.\n\n📌 نکات مهم:\n• فیلم کوتاه «The Revolution Against Death»\n• کارگردانی جوشوا اوپنهایمر، دو بار نامزد اسکار\n• مستند در کنفرانس Revolution Against Aging and Death Festival\n• انتشار مشترک در اوایل دسامبر توسط New York Op-Docs و MUBI\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14461,7 +14514,8 @@
     "8a95fa1a25237623cc9e6fc2",
     "404dd64e05c0f728e2330174",
     "76c19dfc4d88ba5042570e8d",
-    "6afed5aa7e9ff1eb75224bbc"
+    "6afed5aa7e9ff1eb75224bbc",
+    "8f4045c5ccc6ee870d7dbdb7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14738,11 +14792,12 @@
     "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
     "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
     "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
-    "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925"
+    "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
+    "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 143,
+      "published": 144,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14810,7 +14865,7 @@
       "published": 18
     },
     "23": {
-      "published": 15
+      "published": 16
     },
     "3": {
       "published": 2
@@ -14871,64 +14926,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-03T14:07:27.771125+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 402,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-03T16:55:33.078717+00:00",
       "version": 2,
@@ -17886,6 +17883,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T23:41:23.299977+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18162,9 +18217,97 @@
     "30ec4035203191b5",
     "f508bf04ae9559b3",
     "b5d2f12a2d616811",
-    "238753581a7425f9"
+    "238753581a7425f9",
+    "5608427f35bbbcbf"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 29,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "death": {
+      "count": 2,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "oppenheimer": {
+      "count": 2,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new york times": {
+      "count": 2,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "docs acquires": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the revolution against": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "oscar nominee joshua": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film on quest": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "for immortality": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the new york": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "times": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "docs": {
+      "count": 1,
+      "last_seen": "2026-10-13T23:41:23.299895+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "elsinore": {
       "count": 1,
       "last_seen": "2026-10-13T21:40:25.825823+00:00",
@@ -19654,15 +19797,6 @@
         "trailers_first_look"
       ]
     },
-    "oscar": {
-      "count": 28,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "indies flex as": {
       "count": 1,
       "last_seen": "2026-10-09T21:24:49.224065+00:00",
@@ -20577,13 +20711,6 @@
         "actors_directors"
       ]
     },
-    "death": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "best int": {
       "count": 1,
       "last_seen": "2026-10-07T16:03:44.437198+00:00",
@@ -20709,13 +20836,6 @@
       "categories": [
         "movie_news",
         "awards_festivals"
-      ]
-    },
-    "oppenheimer": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "artificial": {
@@ -20872,13 +20992,6 @@
         "movie_news"
       ]
     },
-    "new york times": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "corless": {
       "count": 1,
       "last_seen": "2026-10-06T18:43:13.101727+00:00",
@@ -20931,62 +21044,6 @@
     "john cena": {
       "count": 1,
       "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jessica biel": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "teyonah parris": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "more the": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lincoln square theater": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "apple originals": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the craft": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andrew fleming": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "heathers": {
-      "count": 1,
-      "last_seen": "2026-10-06T11:52:52.764641+00:00",
       "categories": [
         "movie_news"
       ]
