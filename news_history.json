@@ -14080,6 +14080,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "76c19dfc4d88ba5042570e8d",
+      "story_id": "b5d2f12a2d616811",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
+      "title": "BAFTA Winner Narges Rashidi Signs With TFC Management",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "bafta",
+        "winner narges rashidi",
+        "signs with",
+        "management",
+        "narges rashidi",
+        "leading actress",
+        "nazanin zaghari ratcliffe",
+        "prisoner",
+        "phillipa lowthorpe",
+        "joseph fiennes",
+        "zaghari ratfcliffe",
+        "iran"
+      ],
+      "hook": "نرگس رشیدی، برنده BAFTA، با TFC Management قرارداد بست",
+      "hooks": [
+        "نرگس رشیدی با TFC Management به‌روز شد",
+        "پادشاهی BAFTA نرگس رشیدی، TFC Management"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نرگس رشیدی برنده BAFTA برای نقش Nazanin Zaghari Ratcliffe در Prisoner 951 است"
+      ],
+      "status": "published",
+      "telegram_message_id": 279,
+      "published_at": "2026-10-13T19:41:09.945959+00:00",
+      "text": "نرگس رشیدی، برنده BAFTA، با TFC Management قرارداد بست\n\n🎬 نرگس رشیدی، برنده BAFTA، قرارداد جدید با TFC Management امضا کرد\n\nنرگس رشیدی، بازیگر برجسته ایرانی، با برنده شدن در جایزه BAFTA بهترین بازیگر نقش اول در سریال BBC Prisoner 951، به‌عنوان نماد هنر و مقاومت شناخته شد. در همین حال، او قرارداد جدیدی با TFC Management امضا کرده و در مسیرهای جدیدی در صنعت فیلم و تلویزیون گام برداشته است.\n\n📌 نکات مهم:\n• نرگس رشیدی برنده BAFTA بهترین بازیگر نقش اول در Prisoner 951\n• او قرارداد جدیدی با TFC Management امضا کرده\n• سریال Prisoner 951 توسط Phillipa Lowthorpe کارگردانی شد\n• Joseph Fiennes در Prisoner 951 ایفای نقش کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14355,7 +14408,8 @@
     "28446e6b7f461ef4ebd39d01",
     "51e6ed2ce4575fccf0f92965",
     "8a95fa1a25237623cc9e6fc2",
-    "404dd64e05c0f728e2330174"
+    "404dd64e05c0f728e2330174",
+    "76c19dfc4d88ba5042570e8d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14630,7 +14684,8 @@
     "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
     "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
     "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
-    "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809"
+    "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
+    "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996"
   ],
   "category_stats": {
     "movie_news": {
@@ -14640,7 +14695,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 99,
+      "published": 100,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14711,7 +14766,7 @@
       "published": 23
     },
     "19": {
-      "published": 12
+      "published": 13
     },
     "22": {
       "published": 11
@@ -14763,64 +14818,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-02T23:41:12.137000+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-03T10:17:29.888158+00:00",
       "version": 2,
@@ -17778,6 +17775,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T19:41:09.946077+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18052,9 +18107,94 @@
     "49d288139c9b64d5",
     "d74eb4cc10a49db8",
     "30ec4035203191b5",
-    "f508bf04ae9559b3"
+    "f508bf04ae9559b3",
+    "b5d2f12a2d616811"
   ],
   "entity_memory": {
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winner narges rashidi": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "signs with": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "management": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "narges rashidi": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "leading actress": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nazanin zaghari ratcliffe": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "prisoner": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "phillipa lowthorpe": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joseph fiennes": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zaghari ratfcliffe": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "iran": {
+      "count": 1,
+      "last_seen": "2026-10-13T19:41:09.945990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "kevin hart": {
       "count": 1,
       "last_seen": "2026-10-13T16:41:34.348216+00:00",
@@ -20796,90 +20936,6 @@
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "macbeth": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "matt groening": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "life in hell": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "clever film critic": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the french": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bertrand usclat": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "martin darondeau": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "parisian": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nina": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pauline": {
-      "count": 1,
-      "last_seen": "2026-10-06T01:15:31.476391+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "blue planet": {
-      "count": 1,
-      "last_seen": "2026-10-05T23:01:28.009747+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gandhi": {
-      "count": 1,
-      "last_seen": "2026-10-05T23:01:28.009747+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
