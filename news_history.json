@@ -13975,6 +13975,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8a95fa1a25237623cc9e6fc2",
+      "story_id": "30ec4035203191b5",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
+      "title": "Horror Adaptation of Dante’s ‘The Divine Comedy,’ by ‘Invoking Yell’ Director Patricio Valladares, Gets First Look From Skincrawl Studios",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "horror adaptation",
+        "dante",
+        "the divine comedy",
+        "invoking yell",
+        "director patricio valladares",
+        "gets first look",
+        "from skincrawl studios",
+        "skincrawl studios",
+        "chilean",
+        "patricio valladares",
+        "inferno",
+        "the irish"
+      ],
+      "hook": "نقاشی ترسناک دنت با نگاه جدید اسکینکراول",
+      "hooks": [
+        "دنت در دنیای تاریک با دید تازه اسکینکراول",
+        "سینمای چلی در قالب ترس با اسکینکراول"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "اولین نگاه توسط اسکینکراول منتشر شد",
+        "فیلم ویژگی‌های ترسناک و ماورایی دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 277,
+      "published_at": "2026-10-13T12:32:31.701585+00:00",
+      "text": "نقاشی ترسناک دنت با نگاه جدید اسکینکراول\n\n🎬 سکینکراول اولین نگاه را به فیلم ترسناک «دیوین کامی» دنت می‌فرستد\n\nسکینکراول استودیوهای ایرلندی، که به تولید و توزیع فیلم‌های ترسناک تخصص دارد، اولین نگاه به فیلم «دیوین کامی» را ارائه داد. این اثر، که توسط کارگردان چلی Patricio Valladares ساخته شده، بازنگری مدرن از «نار» دنت است.\nتصاویر اولیه نشان می‌دهد که فیلم به تازگی دوربین‌های اصلی را بسته است و در حال آماده‌سازی برای فروش جهانی توسط اسکینکراول است.\n\n📌 نکات مهم:\n• Patricio Valladares کارگردان چلی\n• Skincrawl Studios شرکت ایرلندی تخصصی در ترسناک\n• فیلم بازنگری مدرن از «نار» دنت\n• تصاویر اولیه پس از پایان فیلمبرداری اصلی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14248,7 +14302,8 @@
     "63ae471922e449385960f4ef",
     "3cea2580b51f857decb436d7",
     "28446e6b7f461ef4ebd39d01",
-    "51e6ed2ce4575fccf0f92965"
+    "51e6ed2ce4575fccf0f92965",
+    "8a95fa1a25237623cc9e6fc2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14521,11 +14576,12 @@
     "https://variety.com/2026/film/news/hatchet-movie-netflix-derek-cianfrance-gary-paulsen-1236909010",
     "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
     "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
-    "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo"
+    "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
+    "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 140,
+      "published": 141,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14632,7 +14688,7 @@
       "published": 31
     },
     "12": {
-      "published": 3
+      "published": 4
     },
     "0": {
       "published": 3
@@ -14654,64 +14710,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-02T18:08:44.903517+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Maisie Williams Thriller ‘Ignition’ Bought by Saban for North America (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-02T21:06:53.424873+00:00",
       "version": 2,
@@ -17669,6 +17667,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T12:32:31.701699+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17941,9 +17997,94 @@
     "01b616b88a1c0976",
     "54a42ff45633cfcd",
     "49d288139c9b64d5",
-    "d74eb4cc10a49db8"
+    "d74eb4cc10a49db8",
+    "30ec4035203191b5"
   ],
   "entity_memory": {
+    "horror adaptation": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dante": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the divine comedy": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "invoking yell": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "director patricio valladares": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gets first look": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from skincrawl studios": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "skincrawl studios": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chilean": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "patricio valladares": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "inferno": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the irish": {
+      "count": 1,
+      "last_seen": "2026-10-13T12:32:31.701613+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "tarantino": {
       "count": 1,
       "last_seen": "2026-10-13T01:57:00.192702+00:00",
@@ -20683,91 +20824,6 @@
     "national alliance": {
       "count": 1,
       "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mental illness": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this": {
-      "count": 2,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "the yellow tie": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john malkovich": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sergiu celibidache": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "romanian": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "here": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "europe": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zen buddhist": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "serge ioan celebidachi": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ben schnetzer": {
-      "count": 1,
-      "last_seen": "2026-10-05T12:09:09.280905+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marjoe gortner": {
-      "count": 2,
-      "last_seen": "2026-10-04T22:58:41.940048+00:00",
       "categories": [
         "actors_directors"
       ]
