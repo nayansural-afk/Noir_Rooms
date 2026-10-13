@@ -14029,6 +14029,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "404dd64e05c0f728e2330174",
+      "story_id": "f508bf04ae9559b3",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
+      "title": "Kevin Hart’s Hartbeat Inks Vertical Series Deal With Fox Entertainment",
+      "category": "movie_news",
+      "score": 77.44,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "kevin hart",
+        "hartbeat inks vertical",
+        "series deal with",
+        "fox entertainment kevin",
+        "hart",
+        "hartbeat",
+        "fox entertainment",
+        "fox entertainment studios",
+        "codeblack",
+        "essence",
+        "revolt"
+      ],
+      "hook": "هارت با فاکس قرارداد سریال عمودی می‌بندد",
+      "hooks": [
+        "هارت و فاکس: همکاری جدید در سریال‌های عمودی",
+        "کدبلک، اسنس، رولت در قرارداد فاکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این قرارداد به فاکس امکان می‌دهد تا از محتوای هارتبِیت بهره‌مند شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 278,
+      "published_at": "2026-10-13T16:41:34.348185+00:00",
+      "text": "هارت با فاکس قرارداد سریال عمودی می‌بندد\n\n🎬 کِی‌وَن هارت و هارتبِیت، قرارداد سریال عمودی با فاکس را امضا کردند\n\nشرکت تولیدی هارتبِیت، زیرمجموعه‌ی کِی‌وَن هارت، قرارداد سریال عمودی با استودیو فاکس فِرنتری را امضا کرده است.\n\nاین توافق، فاکس را به‌عنوان اولین ناظر برای توسعه فیلم‌های سینمایی و سریال‌های تلویزیونی از سریال‌های عمودی تحت برندهای کدبلک، اسنس و رولت می‌کند.\n\n📌 نکات مهم:\n• هارتبِیت قرارداد سریال عمودی با فاکس فِرنتری امضا کرد\n• فاکس اولین ناظر برای توسعه فیلم و سریال از کدبلک، اسنس و رولت است\n• برندهای کدبلک، اسنس و رولت جمعاً بیش از 20 میلیون دنبال‌کننده در شبکه‌های اجتماعی دارند\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14303,7 +14354,8 @@
     "3cea2580b51f857decb436d7",
     "28446e6b7f461ef4ebd39d01",
     "51e6ed2ce4575fccf0f92965",
-    "8a95fa1a25237623cc9e6fc2"
+    "8a95fa1a25237623cc9e6fc2",
+    "404dd64e05c0f728e2330174"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14577,11 +14629,12 @@
     "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703",
     "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543",
     "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo",
-    "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263"
+    "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263",
+    "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 141,
+      "published": 142,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14637,7 +14690,7 @@
       "published": 7
     },
     "16": {
-      "published": 9
+      "published": 10
     },
     "18": {
       "published": 12
@@ -14710,64 +14763,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-02T21:06:53.424873+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-02T23:41:12.137000+00:00",
       "version": 2,
@@ -17725,6 +17720,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-13T16:41:34.348287+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -17998,9 +18051,87 @@
     "54a42ff45633cfcd",
     "49d288139c9b64d5",
     "d74eb4cc10a49db8",
-    "30ec4035203191b5"
+    "30ec4035203191b5",
+    "f508bf04ae9559b3"
   ],
   "entity_memory": {
+    "kevin hart": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hartbeat inks vertical": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "series deal with": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fox entertainment kevin": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hart": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hartbeat": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fox entertainment": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fox entertainment studios": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "codeblack": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "essence": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "revolt": {
+      "count": 1,
+      "last_seen": "2026-10-13T16:41:34.348216+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "horror adaptation": {
       "count": 1,
       "last_seen": "2026-10-13T12:32:31.701613+00:00",
@@ -20749,83 +20880,6 @@
       "last_seen": "2026-10-05T23:01:28.009747+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "george fenton": {
-      "count": 1,
-      "last_seen": "2026-10-05T23:01:28.009747+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marisa tomei": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rosanna arquette": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this is crazy": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "benefit": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "memory": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chris huvane marisa": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tomei": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "west coast": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eve ensler": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "national alliance": {
-      "count": 1,
-      "last_seen": "2026-10-05T17:48:14.700494+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
