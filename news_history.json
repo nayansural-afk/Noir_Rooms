@@ -14237,6 +14237,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7b4d81578efc16a48e5c4587",
+      "story_id": "7d6ae20edb0996ab",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618",
+      "title": "DC Studios’ ‘Clayface’: First Reactions",
+      "category": "movie_news",
+      "score": 77.2,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "dc",
+        "studios",
+        "clayface",
+        "first reactions the",
+        "mike flanagan",
+        "james watkins"
+      ],
+      "hook": "فیلم ترسناک Clayface در سینماهای آمریکا",
+      "hooks": [
+        "تجربه‌ی بدن‌تبدیل در Clayface",
+        "مخاطره‌ای جدید از DC Studios"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Film released on Oct. 23"
+      ],
+      "status": "published",
+      "telegram_message_id": 282,
+      "published_at": "2026-10-14T09:59:55.867614+00:00",
+      "text": "فیلم ترسناک Clayface در سینماهای آمریکا\n\n🎬 Clayface: اولین واکنش‌ها به فیلم ترسناک DC Studios\n\nClayface، یک فیلم بدن‌تبدیل ترسناک، توسط مایک فلانگان و جیمز واتکینز هم‌نویس و کارگردان شد.\nاین اثر در 23 اکتبر در سینماهای آمریکا به نمایش می‌رسد.\n\n📌 نکات مهم:\n• Clayface\n• body horror film\n• co-written by Mike Flanagan\n• directed by James Watkins\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14515,7 +14561,8 @@
     "404dd64e05c0f728e2330174",
     "76c19dfc4d88ba5042570e8d",
     "6afed5aa7e9ff1eb75224bbc",
-    "8f4045c5ccc6ee870d7dbdb7"
+    "8f4045c5ccc6ee870d7dbdb7",
+    "7b4d81578efc16a48e5c4587"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14793,11 +14840,12 @@
     "https://variety.com/2026/tv/global/kevin-harts-heartbeat-vertical-fox-entertaiment-1236909809",
     "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
     "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
-    "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214"
+    "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214",
+    "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 144,
+      "published": 145,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14883,7 +14931,7 @@
       "published": 2
     },
     "9": {
-      "published": 27
+      "published": 28
     },
     "6": {
       "published": 1
@@ -14926,64 +14974,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-03T16:55:33.078717+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-03T19:37:31.831366+00:00",
       "version": 2,
@@ -17941,6 +17931,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-14T09:59:55.867718+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18218,9 +18266,53 @@
     "f508bf04ae9559b3",
     "b5d2f12a2d616811",
     "238753581a7425f9",
-    "5608427f35bbbcbf"
+    "5608427f35bbbcbf",
+    "7d6ae20edb0996ab"
   ],
   "entity_memory": {
+    "mike flanagan": {
+      "count": 2,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "dc": {
+      "count": 1,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studios": {
+      "count": 1,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "clayface": {
+      "count": 1,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first reactions the": {
+      "count": 1,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james watkins": {
+      "count": 1,
+      "last_seen": "2026-10-14T09:59:55.867647+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 29,
       "last_seen": "2026-10-13T23:41:23.299895+00:00",
@@ -19748,13 +19840,6 @@
         "trailers_first_look"
       ]
     },
-    "mike flanagan": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
     "take on horror": {
       "count": 1,
       "last_seen": "2026-10-09T23:57:09.548721+00:00",
@@ -21007,41 +21092,6 @@
       ]
     },
     "hbo": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "matchbox": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the movie": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "red carpet premiere": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "photos": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john cena": {
       "count": 1,
       "last_seen": "2026-10-06T15:39:47.365329+00:00",
       "categories": [
