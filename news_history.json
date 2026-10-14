@@ -14283,6 +14283,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fff48407cbca9a62ec3b182d",
+      "story_id": "45c1778dda7a10cf",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
+      "title": "Gary Waddell dies aged 74: the brilliant Australian actor who turned small roles into great ones",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "gary waddell",
+        "australian",
+        "waddell",
+        "bert deling",
+        "pure shit",
+        "this",
+        "australia",
+        "melbourne herald",
+        "andrew",
+        "continue"
+      ],
+      "hook": "مرداد گاری ودل، ستارهٔ سخت‌گیر، درگذشت",
+      "hooks": [
+        "گاری ودل، بازیگر استثنایی، درگذشت",
+        "گاری ودل، ستارهٔ تلویزیون، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "گاری ودل در نقش‌های کوچک، لحظه‌های بزرگ را خلق می‌کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 283,
+      "published_at": "2026-10-14T14:18:09.858615+00:00",
+      "text": "مرداد گاری ودل، ستارهٔ سخت‌گیر، درگذشت\n\n🎬 گاری ودل، بازیگر برجستهٔ استرالیا، درگذشت؛ ۷۴ ساله\n\nگاری ودل، بازیگر استرالیایی که با نقش‌های کوچک خود، لحظه‌های بزرگ را خلق می‌کرد، درگذشت. او در سن ۷۴ سالگی از دنیا رفت.\nاو در فیلم‌های بی‌شماری حضور داشت و به خاطر نقش‌های سخت‌گیر و واقعی‌اش شناخته می‌شد. اولین نقش مهم او در فیلم «Pure Shit» بود که در سال ۱۹۷۶ به‌صورت سرکوب‌شده نمایش داده شد.\n\n📌 نکات مهم:\n• گاری ودل در سن ۷۴ سالگی درگذشت\n• او در فیلم «Pure Shit» نقش مهمی داشت\n• نقش‌های او به‌عنوان شخصیت‌های سخت‌گیر شناخته می‌شد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14562,7 +14612,8 @@
     "76c19dfc4d88ba5042570e8d",
     "6afed5aa7e9ff1eb75224bbc",
     "8f4045c5ccc6ee870d7dbdb7",
-    "7b4d81578efc16a48e5c4587"
+    "7b4d81578efc16a48e5c4587",
+    "fff48407cbca9a62ec3b182d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14841,11 +14892,12 @@
     "https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996",
     "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
     "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214",
-    "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618"
+    "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618",
+    "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 145,
+      "published": 146,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -14898,7 +14950,7 @@
       "published": 17
     },
     "14": {
-      "published": 7
+      "published": 8
     },
     "16": {
       "published": 10
@@ -14974,64 +15026,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-03T19:37:31.831366+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-03T22:48:42.677114+00:00",
       "version": 2,
@@ -17989,6 +17983,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-14T14:18:09.858736+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18267,9 +18319,80 @@
     "b5d2f12a2d616811",
     "238753581a7425f9",
     "5608427f35bbbcbf",
-    "7d6ae20edb0996ab"
+    "7d6ae20edb0996ab",
+    "45c1778dda7a10cf"
   ],
   "entity_memory": {
+    "gary waddell": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "australian": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "waddell": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bert deling": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pure shit": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "this": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "australia": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "melbourne herald": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "andrew": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 1,
+      "last_seen": "2026-10-14T14:18:09.858649+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "mike flanagan": {
       "count": 2,
       "last_seen": "2026-10-14T09:59:55.867647+00:00",
@@ -21024,76 +21147,6 @@
     "tuam": {
       "count": 1,
       "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ireland": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "monica dolan": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "liam neeson": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "county galway": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "st mary": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "catherine corless": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "produced": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "corless": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eventually": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hbo": {
-      "count": 1,
-      "last_seen": "2026-10-06T15:39:47.365329+00:00",
       "categories": [
         "movie_news"
       ]
