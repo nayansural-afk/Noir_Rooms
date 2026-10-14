@@ -14433,6 +14433,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f46c5c94f5f780c5b1e4c3ac",
+      "story_id": "34009ceed389066d",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+      "title": "Digger on course for $245m loss after box office collapse",
+      "category": "box_office",
+      "score": 36.54,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tom cruise",
+        "marvel",
+        "digger",
+        "estimates",
+        "cutthroat island",
+        "the marvels digger",
+        "alejandro",
+        "according",
+        "variety",
+        "north america",
+        "continue"
+      ],
+      "hook": "فیلم 'دِیگر' در مسیر خسارت 245 میلیون دلاری",
+      "hooks": [
+        "دِیگر: سقوط شگرف در بکس آفیس",
+        "کاهش 60٪ در دومین هفته، خسارت 245 میلیون"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "خسارت پیش‌بینی شده 245 میلیون دلار"
+      ],
+      "status": "published",
+      "telegram_message_id": 286,
+      "published_at": "2026-10-14T23:06:39.643855+00:00",
+      "text": "فیلم 'دِیگر' در مسیر خسارت 245 میلیون دلاری\n\n🎬 دِیگر: فیلم اکشن-سیاست‌مدار، با خسارت 245 میلیون دلار\n\nفیلم 'دِیگر' که در نقش تام کرایس به ایفای نقش می‌پردازد، در قالب یک فکاهی زیست‌محیطی ساخته شده است.\nدر هفته اول، 8 میلیون دلار در آمریکا کسب کرد، اما در هفته دوم به 3.2 میلیون دلار رسید؛ مجموع درآمد جهانی 35.3 میلیون دلار و تخمین زده می‌شود که تا پایان کارگردان آلیخاندرو گ. ایناریتو با 50 میلیون دلار به پایان برسد، در حالی که خسارت حدود 245 میلیون دلار خواهد بود.\n\n📌 نکات مهم:\n• فیلم 'دِیگر' با بازی تام کرایس و کارگردانی آلیخاندرو گ. ایناریتو\n• در هفته اول 8 میلیون دلار، هفته دوم 3.2 میلیون دلار\n• درآمد جهانی 35.3 میلیون دلار، تخمینی 50 میلیون دلار\n• خسارت پیش‌بینی شده 245 میلیون دلار\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14715,7 +14766,8 @@
     "7b4d81578efc16a48e5c4587",
     "fff48407cbca9a62ec3b182d",
     "e64f96f4f07b4bd23af4554f",
-    "51a2f502cb2571f331c94afa"
+    "51a2f502cb2571f331c94afa",
+    "f46c5c94f5f780c5b1e4c3ac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14997,7 +15049,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618",
     "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
     "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473",
-    "https://www.hollywoodreporter.com/music/music-news/eric-nam-singer-the-traitors-uta-signing-exclusive-1236730102"
+    "https://www.hollywoodreporter.com/music/music-news/eric-nam-singer-the-traitors-uta-signing-exclusive-1236730102",
+    "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse"
   ],
   "category_stats": {
     "movie_news": {
@@ -15025,7 +15078,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 12,
+      "published": 13,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15069,7 +15122,7 @@
       "published": 18
     },
     "23": {
-      "published": 16
+      "published": 17
     },
     "3": {
       "published": 2
@@ -15130,64 +15183,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-04T14:36:22.790806+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-04T17:13:55.101538+00:00",
       "version": 2,
@@ -18145,6 +18140,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-14T23:06:39.643954+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18426,9 +18479,90 @@
     "7d6ae20edb0996ab",
     "45c1778dda7a10cf",
     "1a42256bcfec634f",
-    "54d77089d43d2b67"
+    "54d77089d43d2b67",
+    "34009ceed389066d"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 2,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "digger": {
+      "count": 5,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "tom cruise": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "estimates": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "cutthroat island": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "the marvels digger": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "alejandro": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "according": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "variety": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "north america": {
+      "count": 1,
+      "last_seen": "2026-10-14T23:06:39.643885+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "star": {
       "count": 8,
       "last_seen": "2026-10-14T20:23:00.891465+00:00",
@@ -18630,13 +18764,6 @@
       ]
     },
     "andrew": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
       "count": 1,
       "last_seen": "2026-10-14T14:18:09.858649+00:00",
       "categories": [
@@ -19592,15 +19719,6 @@
       "last_seen": "2026-10-11T20:43:40.907908+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "digger": {
-      "count": 4,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "box_office"
       ]
     },
     "other mommy": {
@@ -21189,69 +21307,6 @@
       ]
     },
     "james bond": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "saoirse ronan addresses": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rumor that husband": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack lowden has": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "been cast as": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the new james": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bond saoirse ronan": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack lowden": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ronan": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lowden": {
       "count": 1,
       "last_seen": "2026-10-07T11:37:52.201042+00:00",
       "categories": [
