@@ -14333,6 +14333,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e64f96f4f07b4bd23af4554f",
+      "story_id": "1a42256bcfec634f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473",
+      "title": "‘La Tierra Del Valor’ Trailer: Nezza Bravely Sings Spanish-Language Version Of National Anthem In Film From Cristina Costantini, EP Eva Longoria",
+      "category": "movie_news",
+      "score": 80.74,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "la tierra del",
+        "valor",
+        "trailer",
+        "nezza bravely sings",
+        "spanish",
+        "language version of",
+        "national anthem in",
+        "film from cristina",
+        "costantini",
+        "eva longoria",
+        "actress eva longoria",
+        "la tierra"
+      ],
+      "hook": "نِزا در فیلم 'زمین شجاعت' صدا می‌زند",
+      "hooks": [
+        "نِزا در نسخه اسپانیایی نماد ملی آواز می‌خواند",
+        "ایوا لونگوریا تولیدکننده اجرایی فیلم 'زمین شجاعت'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نِزا در فیلم 'زمین شجاعت' صدا می‌زند"
+      ],
+      "status": "published",
+      "telegram_message_id": 284,
+      "published_at": "2026-10-14T17:42:40.179017+00:00",
+      "text": "نِزا در فیلم 'زمین شجاعت' صدا می‌زند\n\n🎬 نِزا در فیلم 'زمین شجاعت' صدا می‌زند؛ ایوا لونگوریا تولیدکننده اجرایی\n\nفیلم مستند 'زمین شجاعت' که توسط کارگردان برنده جایزه کریستینا کستانتینی ساخته شده، در روز پنج‌شنبه بر وب‌سایت L.A. Times Short Docs به نمایش گذاشته می‌شود.\nنِزا، خواننده لاتین آمریکایی، در این فیلم به شجاعت خود می‌پردازد و نسخه اسپانیایی نماد ملی را با صدای قوی خود اجرا می‌کند؛ ایوا لونگوریا به عنوان تولیدکننده اجرایی نقش مهمی در این پروژه دارد.\n\n📌 نکات مهم:\n• فیلم 'زمین شجاعت' توسط کریستینا کستانتینی کارگردانی شده است\n• نِزا در فیلم نسخه اسپانیایی نماد ملی را اجرا می‌کند\n• ایوا لونگوریا به عنوان تولیدکننده اجرایی در این فیلم مشارکت دارد\n• فیلم در روز پنج‌شنبه بر وب‌سایت L.A. Times Short Docs منتشر می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14613,7 +14665,8 @@
     "6afed5aa7e9ff1eb75224bbc",
     "8f4045c5ccc6ee870d7dbdb7",
     "7b4d81578efc16a48e5c4587",
-    "fff48407cbca9a62ec3b182d"
+    "fff48407cbca9a62ec3b182d",
+    "e64f96f4f07b4bd23af4554f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -14893,11 +14946,12 @@
     "https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925",
     "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214",
     "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618",
-    "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74"
+    "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
+    "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 146,
+      "published": 147,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15001,7 +15055,7 @@
       "published": 25
     },
     "17": {
-      "published": 31
+      "published": 32
     },
     "12": {
       "published": 4
@@ -15026,64 +15080,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-03T22:48:42.677114+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-04T11:01:24.339630+00:00",
       "version": 2,
@@ -18041,6 +18037,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-14T17:42:40.179122+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18320,9 +18374,96 @@
     "238753581a7425f9",
     "5608427f35bbbcbf",
     "7d6ae20edb0996ab",
-    "45c1778dda7a10cf"
+    "45c1778dda7a10cf",
+    "1a42256bcfec634f"
   ],
   "entity_memory": {
+    "trailer": {
+      "count": 5,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "la tierra del": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "valor": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nezza bravely sings": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spanish": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "language version of": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "national anthem in": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film from cristina": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "costantini": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "eva longoria": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actress eva longoria": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "la tierra": {
+      "count": 1,
+      "last_seen": "2026-10-14T17:42:40.179048+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "gary waddell": {
       "count": 1,
       "last_seen": "2026-10-14T14:18:09.858649+00:00",
@@ -19927,14 +20068,6 @@
         "movie_news"
       ]
     },
-    "trailer": {
-      "count": 4,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
     "the exorcist": {
       "count": 1,
       "last_seen": "2026-10-09T23:57:09.548721+00:00",
@@ -21070,83 +21203,6 @@
     "andrew garfield on": {
       "count": 1,
       "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vanity fair": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "altman": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alongside": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "annie leibovitz": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "last": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studies": {
-      "count": 1,
-      "last_seen": "2026-10-06T23:43:36.718877+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "graceful star": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "silver screen": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cary grant": {
-      "count": 1,
-      "last_seen": "2026-10-06T21:24:32.787191+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the lost children": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tuam": {
-      "count": 1,
-      "last_seen": "2026-10-06T18:43:13.101727+00:00",
       "categories": [
         "movie_news"
       ]
