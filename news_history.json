@@ -14537,6 +14537,67 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "249762d7c9947d93f6ffb9cd",
+      "story_id": "a860f115e533b8bc",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Deadline Film",
+        "The Hollywood Reporter",
+        "Variety",
+        "Deadline",
+        "IndieWire",
+        "TheWrap"
+      ],
+      "multi_source_count": 7,
+      "url": "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
+      "title": "Zendaya to Star in Alex Garland Sci-Fi Film at A24",
+      "category": "movie_news",
+      "score": 62.59,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "dune",
+        "zendaya",
+        "star",
+        "alex garland sci",
+        "fi film",
+        "alex garland",
+        "plot",
+        "hbo",
+        "zendaya set for",
+        "fi film at",
+        "as zendaya",
+        "this",
+        "euphoria",
+        "emmys"
+      ],
+      "hook": "Zendaya در فیلم علمی‌تخیلی جدید آلن گارلند",
+      "hooks": [
+        "Zendaya به‌عنوان ستاره در پروژه علمی‌تخیلی آلن گارلند",
+        "آلن گارلند با Zendaya در فیلم جدید A24"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Zendaya در فیلم علمی‌تخیلی آلن گارلند در A24"
+      ],
+      "status": "published",
+      "telegram_message_id": 288,
+      "published_at": "2026-10-15T13:53:51.223202+00:00",
+      "text": "Zendaya در فیلم علمی‌تخیلی جدید آلن گارلند\n\n🎬 Zendaya در فیلم علمی‌تخیلی آلن گارلند در A24\n\nZendaya، که در فیلم «Dune» نقش برجسته‌ای داشت، دوباره وارد دنیای علمی‌تخیلی می‌شود. او در پروژه‌ای بدون عنوان، که توسط آلن گارلند نوشته و کارگردانی می‌شود، نقش اصلی را بر عهده گرفته است.\nاین فیلم در سال ۲۰۲۷ در حال فیلمبرداری است و همکاری جدیدی بین Zendaya و A24 را نشان می‌دهد. جزئیات داستان هنوز مخفی مانده است.\n\n📌 نکات مهم:\n• Zendaya ستاره فیلم\n• آلن گارلند نویسنده و کارگردان\n• A24 تولیدکننده\n• فیلم بدون عنوان\n\n✅ تأیید چندمنبعی: Variety Film, Deadline Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14821,7 +14882,8 @@
     "e64f96f4f07b4bd23af4554f",
     "51a2f502cb2571f331c94afa",
     "f46c5c94f5f780c5b1e4c3ac",
-    "a95f35f78045cf6efecda54f"
+    "a95f35f78045cf6efecda54f",
+    "249762d7c9947d93f6ffb9cd"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15105,11 +15167,12 @@
     "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473",
     "https://www.hollywoodreporter.com/music/music-news/eric-nam-singer-the-traitors-uta-signing-exclusive-1236730102",
     "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
-    "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889"
+    "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
+    "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 148,
+      "published": 149,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15210,7 +15273,7 @@
       "published": 1
     },
     "13": {
-      "published": 25
+      "published": 26
     },
     "17": {
       "published": 32
@@ -15238,64 +15301,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-04T19:52:33.477124+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-04T22:58:41.940137+00:00",
       "version": 2,
@@ -18253,6 +18258,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-15T13:53:51.223318+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18536,9 +18599,117 @@
     "1a42256bcfec634f",
     "54d77089d43d2b67",
     "34009ceed389066d",
-    "075043de30ef2390"
+    "075043de30ef2390",
+    "a860f115e533b8bc"
   ],
   "entity_memory": {
+    "star": {
+      "count": 9,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "this": {
+      "count": 2,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "a24": {
+      "count": 3,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies"
+      ]
+    },
+    "dune": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zendaya": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alex garland sci": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fi film": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alex garland": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plot": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zendaya set for": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fi film at": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "as zendaya": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "euphoria": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emmys": {
+      "count": 1,
+      "last_seen": "2026-10-15T13:53:51.223234+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "cannes": {
       "count": 4,
       "last_seen": "2026-10-15T09:41:58.528973+00:00",
@@ -18703,14 +18874,6 @@
       "last_seen": "2026-10-14T23:06:39.643885+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "star": {
-      "count": 8,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "paramount": {
@@ -18878,13 +19041,6 @@
       ]
     },
     "pure shit": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
       "count": 1,
       "last_seen": "2026-10-14T14:18:09.858649+00:00",
       "categories": [
@@ -20568,14 +20724,6 @@
         "awards_festivals"
       ]
     },
-    "a24": {
-      "count": 2,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies"
-      ]
-    },
     "deadline": {
       "count": 2,
       "last_seen": "2026-10-09T18:36:13.722313+00:00",
@@ -21281,90 +21429,6 @@
     "united theater": {
       "count": 1,
       "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lucila": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spain": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "frank": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mancuso sr": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "former head of": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount pictures": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "metro": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "goldwyn": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mayer": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "top gun": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beverly hills cop": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fatal attraction": {
-      "count": 1,
-      "last_seen": "2026-10-07T19:09:31.504226+00:00",
       "categories": [
         "movie_news"
       ]
