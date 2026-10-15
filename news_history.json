@@ -14484,6 +14484,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a95f35f78045cf6efecda54f",
+      "story_id": "075043de30ef2390",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
+      "title": "Trine Dyrholm, Christian Slater & Dree Hemingway Join Zentropa’s Dogma25 Picture ‘Incidents of Intimacy’",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "trine dyrholm",
+        "christian slater",
+        "dree hemingway join",
+        "zentropa",
+        "picture",
+        "incidents",
+        "intimacy",
+        "dree hemingway",
+        "jesper just",
+        "danish",
+        "dogma manifesto"
+      ],
+      "hook": "نقش‌های برجسته در فیلم جدید دِنتروپا",
+      "hooks": [
+        "دری هیمنش، کریستین، و تراین دایرولم در سینمای دانمارک",
+        "جسپر جست و دِنتروپا، فیلم جدید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این ابتکار در جشنواره کن در ماه مه گذشته اعلام شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 287,
+      "published_at": "2026-10-15T09:41:58.528940+00:00",
+      "text": "نقش‌های برجسته در فیلم جدید دِنتروپا\n\n🎬 دِنتروپا با بازیگران برجسته، فیلم جدید 'Incidents of Intimacy' را معرفی می‌کند\n\nفیلم جدید 'Incidents of Intimacy' توسط کارگردان Jesper Just ساخته می‌شود و در آن Trine Dyrholm، Christian Slater و Dree Hemingway نقش‌های اصلی را بازی می‌کنند.\nاین فیلم دوم در مجموعه Dogma25 شرکت Zentropa است و در جشنواره کن در ماه مه گذشته معرفی شد.\n\n📌 نکات مهم:\n• Trine Dyrholm، Christian Slater و Dree Hemingway در فیلم 'Incidents of Intimacy' نقش دارند\n• فیلم توسط Jesper Just ساخته می‌شود\n• این فیلم دوم در مجموعه Dogma25 شرکت Zentropa است\n• مبادئ Dogma Manifesto 1995 در این پروژه بازسازی می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14767,7 +14820,8 @@
     "fff48407cbca9a62ec3b182d",
     "e64f96f4f07b4bd23af4554f",
     "51a2f502cb2571f331c94afa",
-    "f46c5c94f5f780c5b1e4c3ac"
+    "f46c5c94f5f780c5b1e4c3ac",
+    "a95f35f78045cf6efecda54f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15050,11 +15104,12 @@
     "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
     "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473",
     "https://www.hollywoodreporter.com/music/music-news/eric-nam-singer-the-traitors-uta-signing-exclusive-1236730102",
-    "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse"
+    "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+    "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 147,
+      "published": 148,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15140,7 +15195,7 @@
       "published": 2
     },
     "9": {
-      "published": 28
+      "published": 29
     },
     "6": {
       "published": 1
@@ -15183,64 +15238,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-04T17:13:55.101538+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-04T19:52:33.477124+00:00",
       "version": 2,
@@ -18198,6 +18195,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-15T09:41:58.529048+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18480,9 +18535,96 @@
     "45c1778dda7a10cf",
     "1a42256bcfec634f",
     "54d77089d43d2b67",
-    "34009ceed389066d"
+    "34009ceed389066d",
+    "075043de30ef2390"
   ],
   "entity_memory": {
+    "cannes": {
+      "count": 4,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "trailers_first_look",
+        "awards_festivals",
+        "movie_news"
+      ]
+    },
+    "trine dyrholm": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christian slater": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dree hemingway join": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zentropa": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "picture": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "incidents": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "intimacy": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dree hemingway": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jesper just": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "danish": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dogma manifesto": {
+      "count": 1,
+      "last_seen": "2026-10-15T09:41:58.528973+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "continue": {
       "count": 2,
       "last_seen": "2026-10-14T23:06:39.643885+00:00",
@@ -19562,15 +19704,6 @@
       "last_seen": "2026-10-11T23:33:35.415118+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "cannes": {
-      "count": 3,
-      "last_seen": "2026-10-11T23:33:35.415118+00:00",
-      "categories": [
-        "trailers_first_look",
-        "awards_festivals",
         "movie_news"
       ]
     },
@@ -21234,83 +21367,6 @@
       "last_seen": "2026-10-07T19:09:31.504226+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscars": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "saudi arabia picks": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "matter": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "life": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "best int": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "feature submission written": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sarah taibah": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "yaqoub al farhan": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jeddah": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anas ba tahaf": {
-      "count": 1,
-      "last_seen": "2026-10-07T16:03:44.437198+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james bond": {
-      "count": 1,
-      "last_seen": "2026-10-07T11:37:52.201042+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
