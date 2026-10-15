@@ -14703,6 +14703,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c47d02088bbffb7e6ee5a3c5",
+      "story_id": "8c038ef8f33bce40",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
+      "title": "‘Fourth Wing’ Finds Its Violet & Xaden: Esther McGregor & Emilio Sakraya To Lead Prime Video Series",
+      "category": "actors_directors",
+      "score": 71.5,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "fourth wing",
+        "finds its violet",
+        "xaden",
+        "esther",
+        "emilio sakraya to",
+        "lead prime video",
+        "series lightning",
+        "prime video",
+        "rebecca yarros",
+        "meredith averill",
+        "we were liars",
+        "babygirl"
+      ],
+      "hook": "ستارگان جدید سریال Fourth Wing در Prime Video",
+      "hooks": [
+        "Esther McGregor و Emilio Sakraya در نقش‌های اصلی Fourth Wing",
+        "Prime Video معرفی می‌کند Violet و Xaden در سریال Fourth Wing"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Title: ‘Fourth Wing’ Finds Its Violet & Xaden: Esther McGregor & Emilio Sakraya To Lead Prime Video Series"
+      ],
+      "status": "published",
+      "telegram_message_id": 291,
+      "published_at": "2026-10-15T22:59:08.614109+00:00",
+      "text": "ستارگان جدید سریال Fourth Wing در Prime Video\n\n🎬 استر ماکگرگر و امیلیو ساکرایا به‌عنوان ستارگان اصلی سریال Fourth Wing در Prime Video\n\nPrime Video با انتخاب Esther McGregor و Emilio Sakraya، ستارگان جدید سریال Fourth Wing را معرفی کرده است.\nاین سریال بر اساس رمان پرفروش Rebecca Yarros ساخته شده و توسط Meredith Averill به‌عنوان showrunner و EP هدایت می‌شود.\n\n📌 نکات مهم:\n• Esther McGregor در نقش Violet Sorrengail\n• Emilio Sakraya در نقش Xaden\n• Prime Video adaptation of Rebecca Yarros' novel\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14990,7 +15042,8 @@
     "a95f35f78045cf6efecda54f",
     "249762d7c9947d93f6ffb9cd",
     "f51268e11fd4a6589bcad0a1",
-    "9edc31eb01101dd4cc1d1456"
+    "9edc31eb01101dd4cc1d1456",
+    "c47d02088bbffb7e6ee5a3c5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15277,7 +15330,8 @@
     "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
     "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
     "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
-    "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate"
+    "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
+    "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221"
   ],
   "category_stats": {
     "movie_news": {
@@ -15287,7 +15341,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 101,
+      "published": 102,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15361,7 +15415,7 @@
       "published": 13
     },
     "22": {
-      "published": 11
+      "published": 12
     },
     "7": {
       "published": 2
@@ -15410,64 +15464,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-05T17:48:14.700565+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-05T23:01:28.009802+00:00",
       "version": 2,
@@ -18425,6 +18421,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-15T22:59:08.614228+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18711,9 +18765,94 @@
     "075043de30ef2390",
     "a860f115e533b8bc",
     "3ad0b68fa5c7605a",
-    "4419afa645cd2207"
+    "4419afa645cd2207",
+    "8c038ef8f33bce40"
   ],
   "entity_memory": {
+    "fourth wing": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "finds its violet": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "xaden": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "esther": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emilio sakraya to": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lead prime video": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series lightning": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "prime video": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rebecca yarros": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "meredith averill": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "we were liars": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "babygirl": {
+      "count": 1,
+      "last_seen": "2026-10-15T22:59:08.614145+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "the hunger games": {
       "count": 1,
       "last_seen": "2026-10-15T20:08:23.685733+00:00",
@@ -21458,90 +21597,6 @@
     "through my mom": {
       "count": 1,
       "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "eyes": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doha film festival": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "unveils competition lineup": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with accent": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "female filmmakers": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "middle east fare": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "middle east": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yemeni": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scottish": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sara ishaq": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the station": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yemen": {
-      "count": 1,
-      "last_seen": "2026-10-08T11:52:32.631198+00:00",
       "categories": [
         "movie_news"
       ]
