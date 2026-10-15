@@ -14651,6 +14651,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9edc31eb01101dd4cc1d1456",
+      "story_id": "4419afa645cd2207",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
+      "title": "‘The Hunger Games: Sunrise On The Reaping’ Character Posters: Joseph Zada, Mckenna Grace, Maya Hawke, Glenn Close & More",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "the hunger games",
+        "sunrise on the",
+        "reaping",
+        "character posters",
+        "joseph zada",
+        "mckenna grace",
+        "maya hawke",
+        "glenn close",
+        "more the hunger",
+        "games",
+        "sunrise",
+        "hunger games"
+      ],
+      "hook": "پوشه‌های شخصیت در بازی‌های گرسنه",
+      "hooks": [
+        "پوشه‌های جدید، شخصیت‌های تازه",
+        "پوشه‌های هیجان‌انگیز در بازی‌های گرسنه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم بر اساس رمان ۲۰۲۵ سوزان کالینز"
+      ],
+      "status": "published",
+      "telegram_message_id": 290,
+      "published_at": "2026-10-15T20:08:23.685698+00:00",
+      "text": "پوشه‌های شخصیت در بازی‌های گرسنه\n\n🎬 پوشه‌های شخصیت «بازی‌های گرسنه: طلوع بر فراز» معرفی شد\n\nفیلم «بازی‌های گرسنه: طلوع بر فراز»، پیش‌سری جدید بر اساس رمان ۲۰۲۵ سوزان کالینز، به زودی در دوربین قرار می‌گیرد.\n\nلایونزگیت مجموعه‌ای از پوسترهای شخصیت را منتشر کرده که در آن‌ها جوزف زادا در نقش جوان حیمیتش آبرنیتی، مکننا گرِس، مایا هاک، گلن کلوز و دیگر بازیگران حضور دارند.\n\n📌 نکات مهم:\n• فیلم بر اساس رمان ۲۰۲۵ سوزان کالینز\n• پوشه‌های شخصیت توسط لایونزگیت منتشر شد\n• جوزف زادا در نقش جوان حیمیتش آبرنیتی\n• فیلم توسط فرنسیس لارنسس کارگردانی شد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14937,7 +14989,8 @@
     "f46c5c94f5f780c5b1e4c3ac",
     "a95f35f78045cf6efecda54f",
     "249762d7c9947d93f6ffb9cd",
-    "f51268e11fd4a6589bcad0a1"
+    "f51268e11fd4a6589bcad0a1",
+    "9edc31eb01101dd4cc1d1456"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15223,11 +15276,12 @@
     "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
     "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
     "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
-    "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222"
+    "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
+    "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 150,
+      "published": 151,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15289,7 +15343,7 @@
       "published": 12
     },
     "20": {
-      "published": 29
+      "published": 30
     },
     "21": {
       "published": 18
@@ -15356,64 +15410,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-05T12:09:09.280982+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-05T17:48:14.700565+00:00",
       "version": 2,
@@ -18371,6 +18367,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-15T20:08:23.685814+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18656,9 +18710,94 @@
     "34009ceed389066d",
     "075043de30ef2390",
     "a860f115e533b8bc",
-    "3ad0b68fa5c7605a"
+    "3ad0b68fa5c7605a",
+    "4419afa645cd2207"
   ],
   "entity_memory": {
+    "the hunger games": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sunrise on the": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reaping": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "character posters": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joseph zada": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mckenna grace": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maya hawke": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "glenn close": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more the hunger": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "games": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sunrise": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hunger games": {
+      "count": 1,
+      "last_seen": "2026-10-15T20:08:23.685733+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "musk": {
       "count": 2,
       "last_seen": "2026-10-15T17:32:15.263105+00:00",
@@ -21403,91 +21542,6 @@
     "yemen": {
       "count": 1,
       "last_seen": "2026-10-08T11:52:32.631198+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "avengers": {
-      "count": 2,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "box_office",
-        "movie_news"
-      ]
-    },
-    "you can see": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everything": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elizabeth holmes docu": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "presales at alamo": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drafthouse": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "record for": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "behind": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "doomsday": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theranos": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elizabeth holmes": {
-      "count": 1,
-      "last_seen": "2026-10-08T00:07:10.456064+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "los angeles": {
-      "count": 2,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
       "categories": [
         "movie_news"
       ]
