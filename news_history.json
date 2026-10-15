@@ -14598,6 +14598,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f51268e11fd4a6589bcad0a1",
+      "story_id": "3ad0b68fa5c7605a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
+      "title": "Indie Film Studio Bleecker Street Bought By Outerlight Entertainment",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "indie film studio",
+        "bleecker street bought",
+        "by outerlight entertainment",
+        "outerlight entertainment",
+        "first look entertainment",
+        "bleecker street media",
+        "financial",
+        "currently",
+        "bleecker street",
+        "alex gibney",
+        "musk",
+        "tesla"
+      ],
+      "hook": "شرکت Outerlight Entertainment، Bleecker Street را خریداری کرد",
+      "hooks": [
+        "Outerlight Entertainment Bleecker Street را به دست گرفت",
+        "Bleecker Street در دست شرکت Outerlight Entertainment"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Outerlight Entertainment خرید Bleecker Street Media را انجام داد"
+      ],
+      "status": "published",
+      "telegram_message_id": 289,
+      "published_at": "2026-10-15T17:32:15.263075+00:00",
+      "text": "شرکت Outerlight Entertainment، Bleecker Street را خریداری کرد\n\n🎬 Outerlight Entertainment Bleecker Street را خریداری کرد؛ آینده سینمای مستقل در انتظار\n\nOuterlight Entertainment، که پیش‌تر به نام First Look Entertainment شناخته می‌شد، استودیوی مستقل Bleecker Street Media را به‌دست آورد. جزئیات مالی معامله فاش نشد.\nBleecker Street در حال حاضر مستند «Musk» را در حال انتشار دارد که توسط الکس گیبنی دربارهٔ اسپیس‌اکس و تسلا و بنیان‌گذار آن، الون ماسک، ساخته شده است. این استودیوی در سال ۲۰۱۴ توسط مدیر اجرایی فوت شده اندرو کرپن تأسیس شد.\n\n📌 نکات مهم:\n• Outerlight Entertainment خرید Bleecker Street Media را انجام داد\n• Bleecker Street مستند 'Musk' را در حال انتشار دارد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -14883,7 +14936,8 @@
     "51a2f502cb2571f331c94afa",
     "f46c5c94f5f780c5b1e4c3ac",
     "a95f35f78045cf6efecda54f",
-    "249762d7c9947d93f6ffb9cd"
+    "249762d7c9947d93f6ffb9cd",
+    "f51268e11fd4a6589bcad0a1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15168,11 +15222,12 @@
     "https://www.hollywoodreporter.com/music/music-news/eric-nam-singer-the-traitors-uta-signing-exclusive-1236730102",
     "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
     "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889",
-    "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811"
+    "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
+    "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 149,
+      "published": 150,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15276,7 +15331,7 @@
       "published": 26
     },
     "17": {
-      "published": 32
+      "published": 33
     },
     "12": {
       "published": 4
@@ -15301,64 +15356,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-04T22:58:41.940137+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hawai’i Film Festival to Open With ‘The Navigator,’ Names ‘Drifter’ as Centerpiece (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-05T12:09:09.280982+00:00",
       "version": 2,
@@ -18316,6 +18313,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-15T17:32:15.263174+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18600,9 +18655,97 @@
     "54d77089d43d2b67",
     "34009ceed389066d",
     "075043de30ef2390",
-    "a860f115e533b8bc"
+    "a860f115e533b8bc",
+    "3ad0b68fa5c7605a"
   ],
   "entity_memory": {
+    "musk": {
+      "count": 2,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "awards_festivals",
+        "movie_news"
+      ]
+    },
+    "bleecker street": {
+      "count": 2,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "awards_festivals",
+        "movie_news"
+      ]
+    },
+    "alex gibney": {
+      "count": 2,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "awards_festivals",
+        "movie_news"
+      ]
+    },
+    "indie film studio": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bleecker street bought": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "by outerlight entertainment": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "outerlight entertainment": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first look entertainment": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bleecker street media": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "financial": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "currently": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tesla": {
+      "count": 1,
+      "last_seen": "2026-10-15T17:32:15.263105+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 9,
       "last_seen": "2026-10-15T13:53:51.223234+00:00",
@@ -20661,13 +20804,6 @@
         "awards_festivals"
       ]
     },
-    "musk": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
     "chris rock": {
       "count": 1,
       "last_seen": "2026-10-09T21:24:49.224065+00:00",
@@ -20704,20 +20840,6 @@
       ]
     },
     "specialty preview festival": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "bleecker street": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "alex gibney": {
       "count": 1,
       "last_seen": "2026-10-09T21:24:49.224065+00:00",
       "categories": [
@@ -21365,69 +21487,6 @@
     },
     "los angeles": {
       "count": 2,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ashes": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mexican american": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "open": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "close los angeles": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film festival the": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film festival": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "watermelon pictures": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "diego luna": {
-      "count": 1,
-      "last_seen": "2026-10-07T21:42:51.055205+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "united theater": {
-      "count": 1,
       "last_seen": "2026-10-07T21:42:51.055205+00:00",
       "categories": [
         "movie_news"
