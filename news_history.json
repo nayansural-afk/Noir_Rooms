@@ -14808,6 +14808,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "035c1c4cf9167a09cf455efc",
+      "story_id": "ebdbed7b5ccc256b",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
+      "title": "The Face of Horror review – a future cult classic delights with playful spin on Hammer horror",
+      "category": "movie_news",
+      "score": 73.75,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "the face",
+        "horror",
+        "hammer",
+        "london",
+        "anna biller",
+        "british",
+        "japanese",
+        "there",
+        "the love witch",
+        "technicolor",
+        "britain",
+        "hammer films"
+      ],
+      "hook": "فلمی که هارمر را با طنز بازی می‌کند",
+      "hooks": [
+        "فلمی که هارمر را با طنز بازی می‌کند",
+        "سایه‌های ترس در قالب شوخی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم به‌عنوان آینده‌ساز کلتیک شناخته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 293,
+      "published_at": "2026-10-16T13:43:05.595164+00:00",
+      "text": "فلمی که هارمر را با طنز بازی می‌کند\n\n🎬 The Face of Horror: بازی نوآورانه در سبک هارمر\n\nفیلم «The Face of Horror» اثر آنّا بیلر، تحسین‌برانگیزترین ادای سبک هارمر در دهه ۱۹۶۰ است. با ترکیبی از هارمونی‌های تاریخی و داستان‌های شبحی ژاپن، این اثر با طنز و رنگ‌های سرخ و بوی لبه‌دار، لحظه‌ای نوستالژیک و سرگرم‌کننده را ارائه می‌دهد.\n\nاین کار هنری، با تاکید بر رنگ سرخ و لایه‌های فریودین، به‌صورت بی‌وقفه به مخاطب نشان می‌دهد که ترس می‌تواند با شوخی هم‌زمان باشد.\n\n📌 نکات مهم:\n• فیلم «The Face of Horror» توسط آنّا بیلر ساخته شد\n• این فیلم به‌عنوان تحسین‌برانگیزترین ادای سبک هارمر در دهه ۱۹۶۰ شناخته می‌شود\n• ترکیبی از داستان شبحی ژاپن و هارمونی‌های تاریخی را به نمایش می‌گذارد\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15097,7 +15149,8 @@
     "f51268e11fd4a6589bcad0a1",
     "9edc31eb01101dd4cc1d1456",
     "c47d02088bbffb7e6ee5a3c5",
-    "99ec0bb84d9eb9143fdeb503"
+    "99ec0bb84d9eb9143fdeb503",
+    "035c1c4cf9167a09cf455efc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15386,11 +15439,12 @@
     "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
     "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
     "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
-    "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966"
+    "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
+    "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 152,
+      "published": 153,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15491,7 +15545,7 @@
       "published": 1
     },
     "13": {
-      "published": 26
+      "published": 27
     },
     "17": {
       "published": 33
@@ -15519,64 +15573,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-06T01:15:31.476489+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-06T11:52:52.764711+00:00",
       "version": 2,
@@ -18534,6 +18530,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-16T13:43:05.595302+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18822,9 +18876,95 @@
     "3ad0b68fa5c7605a",
     "4419afa645cd2207",
     "8c038ef8f33bce40",
-    "f80f40474e8a4283"
+    "f80f40474e8a4283",
+    "ebdbed7b5ccc256b"
   ],
   "entity_memory": {
+    "japanese": {
+      "count": 4,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "the face": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "horror": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hammer": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anna biller": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "there": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the love witch": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "technicolor": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "britain": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hammer films": {
+      "count": 1,
+      "last_seen": "2026-10-16T13:43:05.595221+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "the beekeeper": {
       "count": 1,
       "last_seen": "2026-10-16T09:35:40.317262+00:00",
@@ -20164,14 +20304,6 @@
       "last_seen": "2026-10-12T23:24:30.514765+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "japanese": {
-      "count": 3,
-      "last_seen": "2026-10-12T21:29:49.765851+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "spielberg": {
@@ -21578,83 +21710,6 @@
       "last_seen": "2026-10-08T21:40:57.634766+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "basic sanitation": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paul walter hauser": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "set for crime": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drama": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "garden city": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from john curran": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "magenta light studios": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fresh": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "resident evil": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zach cregger": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "based": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
