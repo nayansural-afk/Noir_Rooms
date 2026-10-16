@@ -14755,6 +14755,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "99ec0bb84d9eb9143fdeb503",
+      "story_id": "f80f40474e8a4283",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
+      "title": "‘The Beekeeper 2’ Teaser: Jason Statham Kicks Rogue Govt. Agent Butt To Metallica In First Look At Sequel",
+      "category": "movie_news",
+      "score": 84.35,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "the beekeeper",
+        "teaser",
+        "jason statham kicks",
+        "rogue govt",
+        "agent butt to",
+        "metallica in first",
+        "look at sequel",
+        "jason statham",
+        "beekeeper",
+        "adam clay",
+        "on thursday",
+        "amazon"
+      ],
+      "hook": "جیسون استاثام در ادامهٔ 'دباغ پرواز' باز می‌گردد!",
+      "hooks": [
+        "جیسون استاثام در 'دباغ پرواز ۲' به دشمنان خود می‌کوبد",
+        "سریال اکشن 'دباغ پرواز ۲' با تیزر جدید منتشر شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیسون استاثام در نقش آدم کلای باز می‌گردد"
+      ],
+      "status": "published",
+      "telegram_message_id": 292,
+      "published_at": "2026-10-16T09:35:40.317230+00:00",
+      "text": "جیسون استاثام در ادامهٔ 'دباغ پرواز' باز می‌گردد!\n\n🎬 جیسون استاثام در تیزر جدید 'دباغ پرواز ۲' به دشمنان خود می‌کوبد\n\nدر تیزر جدیدی که توسط Amazon MGM Studios منتشر شد، جیسون استاثام به عنوان آدم کلای، دباغ پرواز سابق، به دشمنان خود پاسخ می‌دهد. سریال توسط تیمو تیهاجانتو کارگردانی شده و در ۱۵ ژانویه ۲۰۲۷ در سینماها به نمایش در می‌آید\n\n📌 نکات مهم:\n• جیسون استاثام در نقش آدم کلای باز می‌گردد\n• سریال توسط تیمو تیهاجانتو کارگردانی شده\n• پیش‌نمایش در ۱۵ ژانویه ۲۰۲۷ در سینماها عرضه می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15043,7 +15096,8 @@
     "249762d7c9947d93f6ffb9cd",
     "f51268e11fd4a6589bcad0a1",
     "9edc31eb01101dd4cc1d1456",
-    "c47d02088bbffb7e6ee5a3c5"
+    "c47d02088bbffb7e6ee5a3c5",
+    "99ec0bb84d9eb9143fdeb503"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15331,11 +15385,12 @@
     "https://variety.com/2026/film/global/zendaya-to-star-in-alex-garland-sci-fi-film-a24-1236912811",
     "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222",
     "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
-    "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221"
+    "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
+    "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 151,
+      "published": 152,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15421,7 +15476,7 @@
       "published": 2
     },
     "9": {
-      "published": 29
+      "published": 30
     },
     "6": {
       "published": 1
@@ -15464,64 +15519,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-05T23:01:28.009802+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-06T01:15:31.476489+00:00",
       "version": 2,
@@ -18479,6 +18476,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-16T09:35:40.317354+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18766,9 +18821,94 @@
     "a860f115e533b8bc",
     "3ad0b68fa5c7605a",
     "4419afa645cd2207",
-    "8c038ef8f33bce40"
+    "8c038ef8f33bce40",
+    "f80f40474e8a4283"
   ],
   "entity_memory": {
+    "the beekeeper": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "teaser": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jason statham kicks": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rogue govt": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "agent butt to": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "metallica in first": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "look at sequel": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jason statham": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beekeeper": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "adam clay": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "on thursday": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "amazon": {
+      "count": 1,
+      "last_seen": "2026-10-16T09:35:40.317262+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "fourth wing": {
       "count": 1,
       "last_seen": "2026-10-15T22:59:08.614145+00:00",
@@ -21513,90 +21653,6 @@
     "based": {
       "count": 1,
       "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chappaquiddick": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john curran": {
-      "count": 1,
-      "last_seen": "2026-10-08T19:05:39.915648+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sofia coppola": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "releasing": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "making marie antoinette": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tribute": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "late mother eleanor": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "even though she": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "finds younger self": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "embarrassing": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gift": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "through my mom": {
-      "count": 1,
-      "last_seen": "2026-10-08T16:05:50.294883+00:00",
       "categories": [
         "movie_news"
       ]
