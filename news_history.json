@@ -14860,6 +14860,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7fe6eac89f52f4318ff329b5",
+      "story_id": "a0f2ec1a2339e8c3",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185",
+      "title": "Is Meme Casting a Viable Hollywood Marketing Strategy?",
+      "category": "actors_directors",
+      "score": 57.53,
+      "freshness": 100.0,
+      "credibility": 90.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "is meme casting",
+        "viable hollywood marketing",
+        "strategy",
+        "street fighter"
+      ],
+      "hook": "مکینگ میم: استراتژی بازاریابی هالیوود؟",
+      "hooks": [
+        "بازاریابی هالیوود با میم‌کاستینگ؟",
+        "کاستینگ WTF در سینمای هالیوود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کاستینگ میم می‌تواند به موفقیت در تبلور کمک کند."
+      ],
+      "status": "published",
+      "telegram_message_id": 294,
+      "published_at": "2026-10-16T17:07:41.639564+00:00",
+      "text": "مکینگ میم: استراتژی بازاریابی هالیوود؟\n\n🎬 کاستینگ میم در بازاریابی هالیوود: نمونه‌ای از «Street Fighter»\n\nپارتامون در بازسازی «Street Fighter» با انتخابی متفاوت، توجه مخاطبان را جلب کرده است. این انتخاب، به‌عنوان یک نمونه از استراتژی بازاریابی میم، ممکن است به موفقیت مالی در تبلور بپیوندد.\n\n📌 نکات مهم:\n• کاستینگ میم می‌تواند به عنوان یک استراتژی بازاریابی در هالیوود مورد استفاده قرار گیرد.\n• بازسازی «Street Fighter» توسط پارتامون با حضور بازیگران متنوع، هیجان زیادی ایجاد کرده است.\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15150,7 +15195,8 @@
     "9edc31eb01101dd4cc1d1456",
     "c47d02088bbffb7e6ee5a3c5",
     "99ec0bb84d9eb9143fdeb503",
-    "035c1c4cf9167a09cf455efc"
+    "035c1c4cf9167a09cf455efc",
+    "7fe6eac89f52f4318ff329b5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15440,7 +15486,8 @@
     "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate",
     "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
     "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
-    "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival"
+    "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
+    "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185"
   ],
   "category_stats": {
     "movie_news": {
@@ -15450,7 +15497,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 102,
+      "published": 103,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15548,7 +15595,7 @@
       "published": 27
     },
     "17": {
-      "published": 33
+      "published": 34
     },
     "12": {
       "published": 4
@@ -15573,64 +15620,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-06T11:52:52.764711+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-06T15:39:47.365413+00:00",
       "version": 2,
@@ -18588,6 +18577,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-16T17:07:41.639670+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 404,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18877,9 +18924,46 @@
     "4419afa645cd2207",
     "8c038ef8f33bce40",
     "f80f40474e8a4283",
-    "ebdbed7b5ccc256b"
+    "ebdbed7b5ccc256b",
+    "a0f2ec1a2339e8c3"
   ],
   "entity_memory": {
+    "paramount": {
+      "count": 3,
+      "last_seen": "2026-10-16T17:07:41.639600+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "is meme casting": {
+      "count": 1,
+      "last_seen": "2026-10-16T17:07:41.639600+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "viable hollywood marketing": {
+      "count": 1,
+      "last_seen": "2026-10-16T17:07:41.639600+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "strategy": {
+      "count": 1,
+      "last_seen": "2026-10-16T17:07:41.639600+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "street fighter": {
+      "count": 1,
+      "last_seen": "2026-10-16T17:07:41.639600+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "japanese": {
       "count": 4,
       "last_seen": "2026-10-16T13:43:05.595221+00:00",
@@ -19575,14 +19659,6 @@
       "last_seen": "2026-10-14T23:06:39.643885+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "paramount": {
-      "count": 2,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "eric nam": {
@@ -21678,34 +21754,6 @@
       ]
     },
     "script": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "luciana paes": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "leonardo moreira": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "brazil": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the blue trail": {
       "count": 1,
       "last_seen": "2026-10-08T21:40:57.634766+00:00",
       "categories": [
