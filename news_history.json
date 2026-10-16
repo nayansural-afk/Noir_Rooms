@@ -14958,6 +14958,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2a6fa96716bc86833fc55d4a",
+      "story_id": "494ed08d083c53dd",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987",
+      "title": "Michael Forest, Actor in Roger Corman Movies and ‘Star Trek,’ Dies at 97",
+      "category": "movie_news",
+      "score": 77.71,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "michael forest",
+        "actor",
+        "roger corman movies",
+        "star trek",
+        "dies",
+        "beast from haunted",
+        "cave",
+        "ski troop attack",
+        "atlas",
+        "shakespeare"
+      ],
+      "hook": "موتی که در سینمای B-movie و ستارگان ستاره‌سفر نقش داشت",
+      "hooks": [
+        "نقش‌پرداز B-movie و ستاره‌سفر درگذشت در سن ۹۷",
+        "یک ستاره‌سفر و بازیگر B-movie درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "موتی در سن ۹۷ ساله",
+        "نقش در فیلم‌های B-movie"
+      ],
+      "status": "published",
+      "telegram_message_id": 296,
+      "published_at": "2026-10-16T22:44:21.829426+00:00",
+      "text": "موتی که در سینمای B-movie و ستارگان ستاره‌سفر نقش داشت\n\n🎬 موتی که در فیلم‌های B-movie و ستاره‌سفر نقش داشت، ۹۷ ساله\n\nموتی که در فیلم‌های B-movie مانند 'Beast From Haunted Cave'، 'Ski Troop Attack' و 'Atlas' بازی کرده بود، درگذشت.\nعلاوه بر این، او در تئاتر شیکسپیر و فیلم‌های خارجی فعالیت داشت.\n\n📌 نکات مهم:\n• دوران زندگی ۹۷ ساله\n• نقش در فیلم‌های B-movie\n• بازی در تئاتر شیکسپیر\n• فعالیت در فیلم‌های خارجی\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15250,7 +15301,8 @@
     "99ec0bb84d9eb9143fdeb503",
     "035c1c4cf9167a09cf455efc",
     "7fe6eac89f52f4318ff329b5",
-    "289940f155053faeb98394c7"
+    "289940f155053faeb98394c7",
+    "2a6fa96716bc86833fc55d4a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15542,11 +15594,12 @@
     "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
     "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
     "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185",
-    "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898"
+    "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898",
+    "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 153,
+      "published": 154,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15626,7 +15679,7 @@
       "published": 14
     },
     "22": {
-      "published": 12
+      "published": 13
     },
     "7": {
       "published": 2
@@ -15675,64 +15728,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-06T18:43:13.101809+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-06T21:24:32.787264+00:00",
       "version": 2,
@@ -18690,6 +18685,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-16T22:44:21.829525+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18981,9 +19034,81 @@
     "f80f40474e8a4283",
     "ebdbed7b5ccc256b",
     "a0f2ec1a2339e8c3",
-    "0f5e1e49e3ce69ca"
+    "0f5e1e49e3ce69ca",
+    "494ed08d083c53dd"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 12,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "michael forest": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "roger corman movies": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "star trek": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beast from haunted": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cave": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ski troop attack": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "atlas": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shakespeare": {
+      "count": 1,
+      "last_seen": "2026-10-16T22:44:21.829456+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 30,
       "last_seen": "2026-10-16T19:46:30.032103+00:00",
@@ -20465,14 +20590,6 @@
         "actors_directors"
       ]
     },
-    "dies": {
-      "count": 11,
-      "last_seen": "2026-10-12T23:24:30.514765+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "linda duncombe": {
       "count": 1,
       "last_seen": "2026-10-12T23:24:30.514765+00:00",
@@ -21749,69 +21866,6 @@
     "lance oppenheim": {
       "count": 1,
       "last_seen": "2026-10-09T15:47:35.694238+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "outspoken indian": {
-      "count": 1,
-      "last_seen": "2026-10-09T11:44:25.812368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nana patekar": {
-      "count": 1,
-      "last_seen": "2026-10-09T11:44:25.812368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "known": {
-      "count": 1,
-      "last_seen": "2026-10-09T11:44:25.812368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "patekar": {
-      "count": 1,
-      "last_seen": "2026-10-09T11:44:25.812368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hong kong": {
-      "count": 2,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "point five creations": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "readies": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blacky the metal": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "arm cat": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
       "categories": [
         "movie_news"
       ]
