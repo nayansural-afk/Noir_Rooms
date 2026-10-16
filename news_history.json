@@ -14905,6 +14905,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "289940f155053faeb98394c7",
+      "story_id": "0f5e1e49e3ce69ca",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898",
+      "title": "Chase Infiniti-Starring ‘The Julia Set’ Acquired By Sony Pictures Classics After TIFF Premiere",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "chase infiniti",
+        "starring",
+        "the julia set",
+        "acquired by sony",
+        "pictures classics after",
+        "premiere sony pictures",
+        "classics",
+        "niki byrne",
+        "toronto film festival",
+        "infiniti",
+        "one battle after"
+      ],
+      "hook": "سونی پیکچرز کلاسیکس، «جولیا سِت» را به بازار می‌برد",
+      "hooks": [
+        "سونی، «جولیا سِت» را در آمریکا و جهان عرضه می‌کند",
+        "نیکی برن، کارگردان «جولیا سِت»، در تورنتو به نمایش درآمد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سونی پیکچرز کلاسیکس، حقایق آمریکایی و کلیدی بین‌المللی را به دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 295,
+      "published_at": "2026-10-16T19:46:30.032070+00:00",
+      "text": "سونی پیکچرز کلاسیکس، «جولیا سِت» را به بازار می‌برد\n\n🎬 سونی پیکچرز کلاسیکس، فیلم «جولیا سِت» را پس از نمایش در تورنتو به بازار می‌برد\n\nسونی پیکچرز کلاسیکس، حقایق آمریکایی و کلیدی بین‌المللی فیلم «جولیا سِت» را به دست آورد.\nاین درام دانشجویی، با بازی چیس انفینیتی و کارگردانی نیکی برن، پس از نمایش در جشنواره فیلم تورنتو، توجه زیادی را جلب کرد.\n\n📌 نکات مهم:\n• سونی پیکچرز کلاسیکس، حقایق آمریکایی و کلیدی بین‌المللی را به دست آورد\n• فیلم «جولیا سِت» توسط نیکی برن کارگردانی شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15196,7 +15249,8 @@
     "c47d02088bbffb7e6ee5a3c5",
     "99ec0bb84d9eb9143fdeb503",
     "035c1c4cf9167a09cf455efc",
-    "7fe6eac89f52f4318ff329b5"
+    "7fe6eac89f52f4318ff329b5",
+    "289940f155053faeb98394c7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15487,7 +15541,8 @@
     "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221",
     "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966",
     "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
-    "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185"
+    "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185",
+    "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898"
   ],
   "category_stats": {
     "movie_news": {
@@ -15497,7 +15552,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 103,
+      "published": 104,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15568,7 +15623,7 @@
       "published": 23
     },
     "19": {
-      "published": 13
+      "published": 14
     },
     "22": {
       "published": 12
@@ -15620,64 +15675,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-06T15:39:47.365413+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-06T18:43:13.101809+00:00",
       "version": 2,
@@ -18635,6 +18632,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-16T19:46:30.032197+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -18925,9 +18980,96 @@
     "8c038ef8f33bce40",
     "f80f40474e8a4283",
     "ebdbed7b5ccc256b",
-    "a0f2ec1a2339e8c3"
+    "a0f2ec1a2339e8c3",
+    "0f5e1e49e3ce69ca"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 30,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "chase infiniti": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the julia set": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "acquired by sony": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pictures classics after": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "premiere sony pictures": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "classics": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "niki byrne": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "toronto film festival": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "infiniti": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "one battle after": {
+      "count": 1,
+      "last_seen": "2026-10-16T19:46:30.032103+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "paramount": {
       "count": 3,
       "last_seen": "2026-10-16T17:07:41.639600+00:00",
@@ -19886,15 +20028,6 @@
       "last_seen": "2026-10-14T09:59:55.867647+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 29,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "death": {
@@ -21681,83 +21814,6 @@
       "last_seen": "2026-10-09T00:14:14.427880+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "plots webtoon extension": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "another world": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blacky": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "metal arm cat": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "busan": {
-      "count": 1,
-      "last_seen": "2026-10-09T00:14:14.427880+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rodrigo santoro": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "camila pitanga": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marcelo gomes": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "garota": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "urca": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "script": {
-      "count": 1,
-      "last_seen": "2026-10-08T21:40:57.634766+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
