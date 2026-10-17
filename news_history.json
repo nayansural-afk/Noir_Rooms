@@ -15114,6 +15114,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "51328676dbaa85cd09df168c",
+      "story_id": "41118ab1e8c1fccc",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/michael-forest-dead-1237166329",
+      "title": "Michael Forest Dies: Actor In Roger Corman B-Movies, ‘Star Trek’s Apollo Was 97",
+      "category": "actors_directors",
+      "score": 33.19,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "michael forest dies",
+        "actor in roger",
+        "corman",
+        "movies",
+        "star trek",
+        "apollo was",
+        "michael forest",
+        "roger corman",
+        "the adventures",
+        "rin tin tin",
+        "the twilight zone",
+        "the dick van"
+      ],
+      "hook": "موتی که در سینمای B-مرکوم نقش داشت",
+      "hooks": [
+        "یک ستاره‌ی B-مرکوم، مایکل فورست، درگذشت",
+        "مایکل فورست، بازیگر B-مرکوم، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مایکل فورست درگذشت در سن 97 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 299,
+      "published_at": "2026-10-17T16:03:16.549670+00:00",
+      "text": "موتی که در سینمای B-مرکوم نقش داشت\n\n🎬 مایکل فورست، بازیگر B-مرکوم و صداپرداز انیمه، درگذشت\n\nمایکل فورست، بازیگر برجسته‌ای بود که در فیلم‌های B-مرکوم روجر کورمان نقش‌آفرینی می‌کرد. او همچنین صدای بسیاری از انیمه‌ها را به ارمغان آورد و در سریال‌های تلویزیونی چون Adventures of Rin Tin Tin، Twilight Zone و Dick Van Dyke Show حضور داشت.\n\nدرگذشت او در سن 97 سالگی، او را به عنوان یکی از چهره‌های مهم سینمای B-مرکوم و صداپردازی انیمه یادآور می‌کند.\n\n📌 نکات مهم:\n• مایکل فورست درگذشت در سن 97 سالگی\n• بازیگر B-مرکوم و صداپرداز انیمه\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/michael-forest-dead-1237166329",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15409,7 +15462,8 @@
     "289940f155053faeb98394c7",
     "2a6fa96716bc86833fc55d4a",
     "9a9f3790672e493647b99a15",
-    "7c128a02d1e97c0de712e836"
+    "7c128a02d1e97c0de712e836",
+    "51328676dbaa85cd09df168c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15704,7 +15758,8 @@
     "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898",
     "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987",
     "https://deadline.com/2026/10/summoner-movie-cast-daniel-ings-stephanie-beatriz-1237165662",
-    "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573"
+    "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
+    "https://deadline.com/2026/10/michael-forest-dead-1237166329"
   ],
   "category_stats": {
     "movie_news": {
@@ -15714,7 +15769,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 105,
+      "published": 106,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15764,7 +15819,7 @@
       "published": 8
     },
     "16": {
-      "published": 10
+      "published": 11
     },
     "18": {
       "published": 12
@@ -15837,64 +15892,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-07T11:37:52.201125+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-07T16:03:44.437268+00:00",
       "version": 2,
@@ -18852,6 +18849,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-17T16:03:16.549774+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19146,9 +19201,96 @@
     "0f5e1e49e3ce69ca",
     "494ed08d083c53dd",
     "230f48ace4b55196",
-    "81faf315f2504d39"
+    "81faf315f2504d39",
+    "41118ab1e8c1fccc"
   ],
   "entity_memory": {
+    "michael forest": {
+      "count": 2,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star trek": {
+      "count": 2,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "michael forest dies": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor in roger": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "corman": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "movies": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "apollo was": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "roger corman": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the adventures": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rin tin tin": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the twilight zone": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the dick van": {
+      "count": 1,
+      "last_seen": "2026-10-17T16:03:16.549701+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 5,
       "last_seen": "2026-10-17T12:39:46.449309+00:00",
@@ -19327,13 +19469,6 @@
         "movie_news"
       ]
     },
-    "michael forest": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "actor": {
       "count": 1,
       "last_seen": "2026-10-16T22:44:21.829456+00:00",
@@ -19342,13 +19477,6 @@
       ]
     },
     "roger corman movies": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star trek": {
       "count": 1,
       "last_seen": "2026-10-16T22:44:21.829456+00:00",
       "categories": [
@@ -21908,76 +22036,6 @@
       "last_seen": "2026-10-09T23:57:09.548721+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "on friday": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "blumhouse": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "march": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "indies flex as": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "chris rock": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "misty green": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "cannes winner": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "fjord": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "ignite theatrical runs": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "specialty preview festival": {
-      "count": 1,
-      "last_seen": "2026-10-09T21:24:49.224065+00:00",
-      "categories": [
-        "awards_festivals"
       ]
     }
   },
