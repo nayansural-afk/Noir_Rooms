@@ -15167,6 +15167,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "50b9b7c885c11b4986ddfd9b",
+      "story_id": "6478636472ff9d27",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
+      "title": "‘Sense and Sensibility’ Costume Designer on Blending Historical Accuracy and Modern Styling for the Dashwood Sisters: ‘We Want to Do Jane Austen Justice’",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "sense",
+        "sensibility",
+        "costume designer",
+        "blending historical accuracy",
+        "modern styling",
+        "dashwood sisters",
+        "we want",
+        "do jane austen",
+        "justice",
+        "grace snell",
+        "georgia oakley",
+        "jane austen"
+      ],
+      "hook": "طراحی لباس در 'Sense and Sensibility': ترکیبی از تاریخ و مد",
+      "hooks": [
+        "لباس‌های داشوود: تاریخ و مد در یک ترکیب",
+        "دستگاه‌های مدرن در لباس‌های جین آستن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Grace Snell در مصاحبه به هدف انجام عدالت جین آستن اشاره کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 300,
+      "published_at": "2026-10-17T18:57:48.979608+00:00",
+      "text": "طراحی لباس در 'Sense and Sensibility': ترکیبی از تاریخ و مد\n\n🎬 دستگاه‌های مدرن در لباس‌های داشوود: Grace Snell در 'Sense and Sensibility'\n\nGrace Snell، طراح لباس سریال 'Sense and Sensibility'، در این پروژه تلاش می‌کند تا با ترکیب دقیق تاریخ و مد، عدالت جین آستن را به نمایش بگذارد. او بر فصل‌های کشاورزی و شهری تمرکز کرده و در بخش Barton Cottage، با الهام از دیوونشایر، لباس‌های داشوود را طراحی کرده است.\n\n📌 نکات مهم:\n• Grace Snell طراحی لباس برای سریال 'Sense and Sensibility' است\n• سریال توسط Georgia Oakley ساخته شده و بازیگران Daisy Edgar-Jones و Esmé Creed-Miles هستند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15463,7 +15516,8 @@
     "2a6fa96716bc86833fc55d4a",
     "9a9f3790672e493647b99a15",
     "7c128a02d1e97c0de712e836",
-    "51328676dbaa85cd09df168c"
+    "51328676dbaa85cd09df168c",
+    "50b9b7c885c11b4986ddfd9b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15759,7 +15813,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987",
     "https://deadline.com/2026/10/summoner-movie-cast-daniel-ings-stephanie-beatriz-1237165662",
     "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
-    "https://deadline.com/2026/10/michael-forest-dead-1237166329"
+    "https://deadline.com/2026/10/michael-forest-dead-1237166329",
+    "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296"
   ],
   "category_stats": {
     "movie_news": {
@@ -15769,7 +15824,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 106,
+      "published": 107,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15822,7 +15877,7 @@
       "published": 11
     },
     "18": {
-      "published": 12
+      "published": 13
     },
     "20": {
       "published": 30
@@ -15892,64 +15947,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-07T16:03:44.437268+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-07T19:09:31.504301+00:00",
       "version": 2,
@@ -18907,6 +18904,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-17T18:57:48.979715+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19202,9 +19257,94 @@
     "494ed08d083c53dd",
     "230f48ace4b55196",
     "81faf315f2504d39",
-    "41118ab1e8c1fccc"
+    "41118ab1e8c1fccc",
+    "6478636472ff9d27"
   ],
   "entity_memory": {
+    "sense": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sensibility": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "costume designer": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "blending historical accuracy": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "modern styling": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dashwood sisters": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "we want": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "do jane austen": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "justice": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grace snell": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "georgia oakley": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jane austen": {
+      "count": 1,
+      "last_seen": "2026-10-17T18:57:48.979641+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "michael forest": {
       "count": 2,
       "last_seen": "2026-10-17T16:03:16.549701+00:00",
@@ -21952,90 +22092,6 @@
       "last_seen": "2026-10-10T11:02:19.875249+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "busan market with": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mockingbird pictures": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vietnamese": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "busan international film": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vietnam": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the exorcist": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "martyrs": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "scarlett johansson tracks": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "demonic killer in": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "take on horror": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "classic as the": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "exorcist": {
-      "count": 1,
-      "last_seen": "2026-10-09T23:57:09.548721+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
