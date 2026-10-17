@@ -15061,6 +15061,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7c128a02d1e97c0de712e836",
+      "story_id": "81faf315f2504d39",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
+      "title": "How Netflix’s Messy Transition Will Rock Hollywood: Looking at You, NBCU",
+      "category": "actors_directors",
+      "score": 70.51,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "netflix",
+        "how netflix",
+        "messy transition will",
+        "rock hollywood",
+        "looking",
+        "peter rice",
+        "ynon kreiz",
+        "september",
+        "kreiz",
+        "mattel",
+        "skydance",
+        "david ellison"
+      ],
+      "hook": "تغییرات ناپایدار نِت‌فلیکس، Hollywood را می‌لرزاند",
+      "hooks": [
+        "نِت‌فلیکس و NBCU در نبرد Hollywood",
+        "پیشنهادات نِت‌فلیکس، Hollywood را تغییر می‌دهد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "نِت‌فلیکس در حال گذار ناپایدار است"
+      ],
+      "status": "published",
+      "telegram_message_id": 298,
+      "published_at": "2026-10-17T12:39:46.449277+00:00",
+      "text": "تغییرات ناپایدار نِت‌فلیکس، Hollywood را می‌لرزاند\n\n🎬 نِت‌فلیکس در گذر ناپایدار، Hollywood را به چالش می‌کشد\n\nنِت‌فلیکس در حال گذار ناپایدار خود است که Hollywood را به چالش می‌کشد. این تغییرات به ویژه برای NBCU و سایر شرکت‌های سرگرمی تأثیرگذار خواهد بود.\nدر همین حال، جلسه‌ای بین پیتر رای و ینون کریز در سپتامبر پیش از تغییر کریز به سمت اسکای‌دنس، به رسانه‌ها نشان داد که تغییرات در صنعت در حال وقوع است.\n\n📌 نکات مهم:\n• نِت‌فلیکس در حال گذار ناپایدار است\n• پیتر رای و ینون کریز در سپتامبر دیدار کردند\n• کریز از مدیرعامل ماتل به مدیرعامل مشترک اسکای‌دنس رفت\n• این تغییرات Hollywood و NBCU را تحت تأثیر قرار می‌دهد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15355,7 +15408,8 @@
     "7fe6eac89f52f4318ff329b5",
     "289940f155053faeb98394c7",
     "2a6fa96716bc86833fc55d4a",
-    "9a9f3790672e493647b99a15"
+    "9a9f3790672e493647b99a15",
+    "7c128a02d1e97c0de712e836"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15649,7 +15703,8 @@
     "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185",
     "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898",
     "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987",
-    "https://deadline.com/2026/10/summoner-movie-cast-daniel-ings-stephanie-beatriz-1237165662"
+    "https://deadline.com/2026/10/summoner-movie-cast-daniel-ings-stephanie-beatriz-1237165662",
+    "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573"
   ],
   "category_stats": {
     "movie_news": {
@@ -15659,7 +15714,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 104,
+      "published": 105,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15760,7 +15815,7 @@
       "published": 34
     },
     "12": {
-      "published": 4
+      "published": 5
     },
     "0": {
       "published": 3
@@ -15782,64 +15837,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-06T23:43:36.718951+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-07T11:37:52.201125+00:00",
       "version": 2,
@@ -18797,6 +18794,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-17T12:39:46.449380+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19090,9 +19145,96 @@
     "a0f2ec1a2339e8c3",
     "0f5e1e49e3ce69ca",
     "494ed08d083c53dd",
-    "230f48ace4b55196"
+    "230f48ace4b55196",
+    "81faf315f2504d39"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 5,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "how netflix": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "messy transition will": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rock hollywood": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "looking": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peter rice": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ynon kreiz": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "september": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kreiz": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mattel": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "skydance": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david ellison": {
+      "count": 1,
+      "last_seen": "2026-10-17T12:39:46.449309+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "amazon": {
       "count": 2,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
@@ -20827,15 +20969,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 4,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "hatchet": {
       "count": 1,
       "last_seen": "2026-10-12T18:31:57.537476+00:00",
@@ -21845,84 +21978,6 @@
       "last_seen": "2026-10-09T21:24:49.224065+00:00",
       "categories": [
         "awards_festivals"
-      ]
-    },
-    "deadline": {
-      "count": 2,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies"
-      ]
-    },
-    "sadie sink and": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "lorene scafaria eyeing": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "adaptation of emma": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "cline": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "the guest": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "and square peg": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "emma cline": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "square peg": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "sadie sink": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "lorene scafaria": {
-      "count": 1,
-      "last_seen": "2026-10-09T18:36:13.722313+00:00",
-      "categories": [
-        "upcoming_movies"
       ]
     }
   },
