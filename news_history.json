@@ -15220,6 +15220,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "13c84a3b902c757423ed0c5f",
+      "story_id": "eff19585b6ffc1a3",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
+      "title": "Harry Styles ‘Together, Together’ Tour Doc Coming From John Wilson, Universal Pictures Content Group (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 79.8,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "hbo",
+        "universal",
+        "harry styles",
+        "together",
+        "tour doc coming",
+        "from john wilson",
+        "universal pictures content",
+        "group",
+        "madison square garden",
+        "john wilson",
+        "the history",
+        "concrete"
+      ],
+      "hook": "سینمای پشت پرده تور هری استایلز با جانی ویلسون",
+      "hooks": [
+        "دستاورد مستند جانی ویلسون در سالن مادیسون",
+        "سینمایی از پشت صحنه تور هری استایلز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "John Wilson در حال ضبط مستند در MSG است"
+      ],
+      "status": "published",
+      "telegram_message_id": 301,
+      "published_at": "2026-10-17T22:09:34.924619+00:00",
+      "text": "سینمای پشت پرده تور هری استایلز با جانی ویلسون\n\n🎬 مستند جانی ویلسون درباره تور «Together, Together» هری استایلز در MSG\n\nجانی ویلسون، کارگردان مستندهای موفق «The History of Concrete» و «How To with John Wilson»، در حال ضبط پشت پرده تور «Together, Together» هری استایلز در سالن مادیسون سکو گاردن است. فیلم مستند، که توسط گروه محتوا یونیورسال پیکچرز منتشر می‌شود، به نگاهی عمیق به لحظات تاریخی این residency می‌پردازد و از اولین روزهای اوت ۲۰۲۳ تا کنون روایت می‌کند.\n\n📌 نکات مهم:\n• John Wilson در حال ضبط مستند تور هری استایلز در MSG است\n• فیلم توسط Universal Pictures Content Group تولید می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15517,7 +15570,8 @@
     "9a9f3790672e493647b99a15",
     "7c128a02d1e97c0de712e836",
     "51328676dbaa85cd09df168c",
-    "50b9b7c885c11b4986ddfd9b"
+    "50b9b7c885c11b4986ddfd9b",
+    "13c84a3b902c757423ed0c5f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15814,11 +15868,12 @@
     "https://deadline.com/2026/10/summoner-movie-cast-daniel-ings-stephanie-beatriz-1237165662",
     "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
     "https://deadline.com/2026/10/michael-forest-dead-1237166329",
-    "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296"
+    "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
+    "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 155,
+      "published": 156,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15898,7 +15953,7 @@
       "published": 14
     },
     "22": {
-      "published": 13
+      "published": 14
     },
     "7": {
       "published": 2
@@ -15947,64 +16002,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-07T19:09:31.504301+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-07T21:42:51.055277+00:00",
       "version": 2,
@@ -18962,6 +18959,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-17T22:09:34.924684+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19258,9 +19313,95 @@
     "230f48ace4b55196",
     "81faf315f2504d39",
     "41118ab1e8c1fccc",
-    "6478636472ff9d27"
+    "6478636472ff9d27",
+    "eff19585b6ffc1a3"
   ],
   "entity_memory": {
+    "hbo": {
+      "count": 2,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "universal": {
+      "count": 3,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "harry styles": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "together": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tour doc coming": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from john wilson": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "universal pictures content": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "group": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "madison square garden": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john wilson": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the history": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "concrete": {
+      "count": 1,
+      "last_seen": "2026-10-17T22:09:34.924639+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sense": {
       "count": 1,
       "last_seen": "2026-10-17T18:57:48.979641+00:00",
@@ -20256,13 +20397,6 @@
       ]
     },
     "plot": {
-      "count": 1,
-      "last_seen": "2026-10-15T13:53:51.223234+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hbo": {
       "count": 1,
       "last_seen": "2026-10-15T13:53:51.223234+00:00",
       "categories": [
@@ -21611,14 +21745,6 @@
         "box_office"
       ]
     },
-    "universal": {
-      "count": 2,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "avatar": {
       "count": 2,
       "last_seen": "2026-10-11T15:18:28.715850+00:00",
@@ -22021,77 +22147,6 @@
       "last_seen": "2026-10-10T15:00:07.595490+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "crank radio during": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "london film fest": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "whitney houston": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "asian contents": {
-      "count": 2,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film market": {
-      "count": 2,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 3,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "vietnamese supernatural horror": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bloodline": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the curse within": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "heads": {
-      "count": 1,
-      "last_seen": "2026-10-10T11:02:19.875249+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
