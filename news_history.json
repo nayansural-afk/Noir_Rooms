@@ -15325,6 +15325,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a69bf9e6c18ce28a881a3805",
+      "story_id": "7886d90411507471",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913",
+      "title": "El Gouna Unveils Third Cohort Of CineGouna Emerge Program’s Rising Stars",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "el gouna unveils",
+        "third cohort of",
+        "emerge program",
+        "rising stars",
+        "egypt",
+        "el gouna film",
+        "festival",
+        "arab",
+        "they",
+        "egyptian",
+        "abdallah dnewar",
+        "saudi arabian"
+      ],
+      "hook": "ستارگان نوظهور سینمای عربی در جشنواره ال گونا",
+      "hooks": [
+        "الگونا معرفی می‌کند نسل جدید فیلم‌سازان عرب",
+        "پنج هنرمند برجسته در برنامه Rising Stars"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جشنواره ال گونا اعلام کرد که این پنج هنرمند در برنامه Rising Stars انتخاب شده‌اند."
+      ],
+      "status": "published",
+      "telegram_message_id": 303,
+      "published_at": "2026-10-18T12:57:08.735015+00:00",
+      "text": "ستارگان نوظهور سینمای عربی در جشنواره ال گونا\n\n🎬 الگونا جشنواره: معرفی ستارگان نوظهور سینمای عربی\n\nجشنواره فیلم ال گونا در مصر، برنامه Rising Stars را به‌روزرسانی کرده و پنج هنرمند نوظهور را معرفی کرد.\nاین هنرمندان شامل کارگردان مصری عبدالله دنوار، نویسنده-کارگردان سعودی رزان السغائر، فیلمساز فلسطینی عمر رمّال، کارگردان-صنعت‌گر فلسطین-اردبیلی اسمانه بركات و دوربین‌ساز، ادیتور و کارگردان سوریه راما عبدي هستند.\n\n📌 نکات مهم:\n• جشنواره ال گونا در مصر\n• برنامه Rising Stars\n• پنج هنرمند نوظهور\n• عبدالله دنوار\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15624,7 +15677,8 @@
     "51328676dbaa85cd09df168c",
     "50b9b7c885c11b4986ddfd9b",
     "13c84a3b902c757423ed0c5f",
-    "b27118791288d97648e07f5e"
+    "b27118791288d97648e07f5e",
+    "a69bf9e6c18ce28a881a3805"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15923,7 +15977,8 @@
     "https://deadline.com/2026/10/michael-forest-dead-1237166329",
     "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
     "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
-    "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503"
+    "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503",
+    "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913"
   ],
   "category_stats": {
     "movie_news": {
@@ -15933,7 +15988,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 108,
+      "published": 109,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16034,7 +16089,7 @@
       "published": 34
     },
     "12": {
-      "published": 5
+      "published": 6
     },
     "0": {
       "published": 3
@@ -16056,64 +16111,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-08T00:07:10.456146+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-08T11:52:32.631264+00:00",
       "version": 2,
@@ -19071,6 +19068,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-18T12:57:08.735126+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19369,9 +19424,94 @@
     "41118ab1e8c1fccc",
     "6478636472ff9d27",
     "eff19585b6ffc1a3",
-    "64680c3403e99860"
+    "64680c3403e99860",
+    "7886d90411507471"
   ],
   "entity_memory": {
+    "el gouna unveils": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "third cohort of": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emerge program": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rising stars": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "egypt": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "el gouna film": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "festival": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "arab": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "they": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "egyptian": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "abdallah dnewar": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "saudi arabian": {
+      "count": 1,
+      "last_seen": "2026-10-18T12:57:08.735051+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "paul": {
       "count": 1,
       "last_seen": "2026-10-18T09:24:34.752655+00:00",
@@ -22116,90 +22256,6 @@
       "last_seen": "2026-10-10T20:25:26.001319+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "alfred hitchcock": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "saint": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marlon brando": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "martha kent": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "burgers": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "sets holiday hulu": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "special release date": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "teases first look": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "christmas": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "belchers": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "hulu": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
       ]
     }
   },
