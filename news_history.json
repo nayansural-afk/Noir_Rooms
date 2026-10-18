@@ -15378,6 +15378,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9bcbce91ae4c834dc8f377c7",
+      "story_id": "d67979430d513620",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539",
+      "title": "Inside ‘The New Stanford Prison Experiment,’ Netflix’s Controversial Reality Series: ‘People Are Going to Have Very Strong Feelings’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 63.96,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "inside",
+        "the new stanford",
+        "prison experiment",
+        "controversial reality series",
+        "people are going",
+        "have very strong",
+        "feelings",
+        "in august",
+        "stanford",
+        "philip zimbardo",
+        "office"
+      ],
+      "hook": "سریال جدید نتفلیکس بر اساس آزمایش استنفورد",
+      "hooks": [
+        "آزمایش استنفورد: واقعیت یا فانتزی؟",
+        "تجربهٔ زندان واقعی در سریال نتفلیکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال بر اساس آزمایش استنفورد است"
+      ],
+      "status": "published",
+      "telegram_message_id": 304,
+      "published_at": "2026-10-18T16:16:42.737334+00:00",
+      "text": "سریال جدید نتفلیکس بر اساس آزمایش استنفورد\n\n🎬 نتفلیکس معرفی می‌کند سریال جدید بر پایهٔ آزمایش استنفورد\n\nسریال جدید 'The New Stanford Prison Experiment' در نتفلیکس به بررسی تأثیرات زندان بر رفتار انسان می‌پردازد.\nاین سریال بر اساس آزمایشی استنفورد در اوت 1971 است که توسط پروفسور فیلیپ زیمنباردو و با بودجهٔ وزارت دفاع دریایی ایالات متحده انجام شد.\n\n📌 نکات مهم:\n• سریال واقعی در نتفلیکس\n• آزمایش استنفورد در اوت 1971\n• پروفسور فیلیپ زیمنباردو\n• 24 دانشجوی مرد\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15678,7 +15730,8 @@
     "50b9b7c885c11b4986ddfd9b",
     "13c84a3b902c757423ed0c5f",
     "b27118791288d97648e07f5e",
-    "a69bf9e6c18ce28a881a3805"
+    "a69bf9e6c18ce28a881a3805",
+    "9bcbce91ae4c834dc8f377c7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15978,11 +16031,12 @@
     "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
     "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
     "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503",
-    "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913"
+    "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913",
+    "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 156,
+      "published": 157,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16038,7 +16092,7 @@
       "published": 8
     },
     "16": {
-      "published": 11
+      "published": 12
     },
     "18": {
       "published": 13
@@ -16111,64 +16165,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-08T11:52:32.631264+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-08T16:05:50.294955+00:00",
       "version": 2,
@@ -19126,6 +19122,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-18T16:16:42.737460+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19425,9 +19479,96 @@
     "6478636472ff9d27",
     "eff19585b6ffc1a3",
     "64680c3403e99860",
-    "7886d90411507471"
+    "7886d90411507471",
+    "d67979430d513620"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 6,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "inside": {
+      "count": 2,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the new stanford": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "prison experiment": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "controversial reality series": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "people are going": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "have very strong": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feelings": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in august": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stanford": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "philip zimbardo": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "office": {
+      "count": 1,
+      "last_seen": "2026-10-18T16:16:42.737371+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "el gouna unveils": {
       "count": 1,
       "last_seen": "2026-10-18T12:57:08.735051+00:00",
@@ -19844,15 +19985,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 5,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "how netflix": {
       "count": 1,
       "last_seen": "2026-10-17T12:39:46.449309+00:00",
@@ -19987,13 +20119,6 @@
       ]
     },
     "stephanie beatriz": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "inside": {
       "count": 1,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
       "categories": [
@@ -22186,76 +22311,6 @@
       "last_seen": "2026-10-10T23:23:56.736088+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "subway disaster drama": {
-      "count": 1,
-      "last_seen": "2026-10-10T23:23:56.736088+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "well that ends": {
-      "count": 1,
-      "last_seen": "2026-10-10T23:23:56.736088+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "choi hyunyoung": {
-      "count": 1,
-      "last_seen": "2026-10-10T23:23:56.736088+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eva marie saint": {
-      "count": 2,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "waterfront": {
-      "count": 2,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "north": {
-      "count": 2,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "northwest": {
-      "count": 2,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "superman": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "landmark": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elia kazan": {
-      "count": 1,
-      "last_seen": "2026-10-10T20:25:26.001319+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
