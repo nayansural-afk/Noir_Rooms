@@ -15273,6 +15273,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b27118791288d97648e07f5e",
+      "story_id": "64680c3403e99860",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503",
+      "title": "Paul McCartney Was Concerned Paul Mescal Is “Markedly Shorter” Than ‘The Beatles’ Co-Stars",
+      "category": "actors_directors",
+      "score": 70.51,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "paul",
+        "was concerned paul",
+        "mescal is",
+        "markedly shorter",
+        "than",
+        "the beatles",
+        "stars as beatles",
+        "abbey road",
+        "sam mendes",
+        "paul mescal",
+        "mendes"
+      ],
+      "hook": "مکارتنی درباره قد کوتاه مسکال نگران شد",
+      "hooks": [
+        "مکارتنی: مسکال کوتاه‌تر از هم‌نویسندگان",
+        "نقش مسکال در بیوپیک: نگران قد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مکارتنی نگران قد مسکال بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 302,
+      "published_at": "2026-10-18T09:24:34.752621+00:00",
+      "text": "مکارتنی درباره قد کوتاه مسکال نگران شد\n\n🎬 مکارتنی نگران قد کوتاه مسکال در بیوپیک سام مدنس\n\nمکارتنی، یکی از اعضای بیتلز، در مورد انتخاب بازیگر برای بیوپیک سام مدنس نگران شد. او اظهار داشت که مسکال نسبت به هم‌نویسندگان خود قد کوتاه‌تر است و حتی با مدنس تماس گرفته است. مکارتنی هنوز نمی‌داند که مدنس چگونه به این نگرانی پاسخ خواهد داد. این موضوع در میان طرفداران بیتلز و علاقه‌مندان به سینما توجه زیادی را جلب کرده است.\n\n📌 نکات مهم:\n• مکارتنی نگران قد مسکال بود\n• مکارتنی با مدنس تماس گرفت\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15571,7 +15623,8 @@
     "7c128a02d1e97c0de712e836",
     "51328676dbaa85cd09df168c",
     "50b9b7c885c11b4986ddfd9b",
-    "13c84a3b902c757423ed0c5f"
+    "13c84a3b902c757423ed0c5f",
+    "b27118791288d97648e07f5e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -15869,7 +15922,8 @@
     "https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573",
     "https://deadline.com/2026/10/michael-forest-dead-1237166329",
     "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296",
-    "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875"
+    "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
+    "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503"
   ],
   "category_stats": {
     "movie_news": {
@@ -15879,7 +15933,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 107,
+      "published": 108,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -15959,7 +16013,7 @@
       "published": 2
     },
     "9": {
-      "published": 31
+      "published": 32
     },
     "6": {
       "published": 1
@@ -16002,64 +16056,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-07T21:42:51.055277+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-08T00:07:10.456146+00:00",
       "version": 2,
@@ -19017,6 +19013,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-18T09:24:34.752726+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19314,9 +19368,87 @@
     "81faf315f2504d39",
     "41118ab1e8c1fccc",
     "6478636472ff9d27",
-    "eff19585b6ffc1a3"
+    "eff19585b6ffc1a3",
+    "64680c3403e99860"
   ],
   "entity_memory": {
+    "paul": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "was concerned paul": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mescal is": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "markedly shorter": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "than": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the beatles": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stars as beatles": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "abbey road": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sam mendes": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paul mescal": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mendes": {
+      "count": 1,
+      "last_seen": "2026-10-18T09:24:34.752655+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hbo": {
       "count": 2,
       "last_seen": "2026-10-17T22:09:34.924639+00:00",
@@ -22068,85 +22200,6 @@
       "last_seen": "2026-10-10T17:34:11.707173+00:00",
       "categories": [
         "upcoming_movies"
-      ]
-    },
-    "fort day": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "creator": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "loren bouchard": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "new york comic": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "saturday": {
-      "count": 1,
-      "last_seen": "2026-10-10T17:34:11.707173+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "obsession": {
-      "count": 3,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "movie_news",
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "star wars": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "naomi ackie discusses": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hollywood machine": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "experience": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "buying": {
-      "count": 1,
-      "last_seen": "2026-10-10T15:00:07.595490+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
