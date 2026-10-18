@@ -15482,6 +15482,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "30cd6a6804ff124bd98c27ef",
+      "story_id": "4e250c2b89b2402b",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter",
+        "Deadline",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856",
+      "title": "Betty McGuire, Actress on Broadway and ‘Growing Pains,’ Dies at 100",
+      "category": "actors_directors",
+      "score": 68.32,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "betty",
+        "actress",
+        "broadway",
+        "growing pains",
+        "dies",
+        "ethel merman",
+        "bea arthur",
+        "susan hayward",
+        "joanna kerns",
+        "smoke",
+        "kate malone",
+        "motion picture",
+        "television fund",
+        "wasserman campus",
+        "woodland hills"
+      ],
+      "hook": "بازیگر بی‌نظیر، بی‌تردید، درگذشت: ۱۰۰ سال زندگی در صحنه و تلویزیون",
+      "hooks": [
+        "یک ستاره بی‌پایان: ۱۰۰ سال در هنر نمایشی",
+        "مادر جان‌وا کنرز در 'Growing Pains' و نقش نیکه در 'Up in Smoke'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "She worked alongside Ethel Merman, Bea Arthur, and Susan Hayward on stage."
+      ],
+      "status": "published",
+      "telegram_message_id": 306,
+      "published_at": "2026-10-18T22:21:37.381664+00:00",
+      "text": "بازیگر بی‌نظیر، بی‌تردید، درگذشت: ۱۰۰ سال زندگی در صحنه و تلویزیون\n\n🎬 بازیگر بی‌نظیر، بی‌تردید، درگذشت: ۱۰۰ سال زندگی در صحنه و تلویزیون\n\nبازیگر بی‌نظیر، بی‌تردید، درگذشت: ۱۰۰ سال زندگی در صحنه و تلویزیون. او در برادوی با ایتل مِرمن، بی آر آرتر و سوزان هیدور همکاری می‌کرد. \n\nدر تلویزیون، او نقش مادر جوآنّا کنرز در سریال Growing Pains و نقش راهب در فیلم Up in Smoke را ایفا کرد.\n\n📌 نکات مهم:\n• درگذشت در سن ۱۰۰ سالگی\n• نقش مادر جوآنّا کنرز در سریال Growing Pains\n\n✅ تأیید چندمنبعی: The Hollywood Reporter, Deadline, Variety\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15784,7 +15841,8 @@
     "b27118791288d97648e07f5e",
     "a69bf9e6c18ce28a881a3805",
     "9bcbce91ae4c834dc8f377c7",
-    "15631fee8e6c1203be3e8fe6"
+    "15631fee8e6c1203be3e8fe6",
+    "30cd6a6804ff124bd98c27ef"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16086,7 +16144,8 @@
     "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503",
     "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913",
     "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539",
-    "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129"
+    "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129",
+    "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856"
   ],
   "category_stats": {
     "movie_news": {
@@ -16096,7 +16155,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 110,
+      "published": 111,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16170,7 +16229,7 @@
       "published": 15
     },
     "22": {
-      "published": 14
+      "published": 15
     },
     "7": {
       "published": 2
@@ -16219,64 +16278,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-08T19:05:39.915741+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-08T21:40:57.634838+00:00",
       "version": 2,
@@ -19234,6 +19235,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-18T22:21:37.381766+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19535,9 +19594,116 @@
     "64680c3403e99860",
     "7886d90411507471",
     "d67979430d513620",
-    "a4fc61fb53d85253"
+    "a4fc61fb53d85253",
+    "4e250c2b89b2402b"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 13,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "betty": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actress": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "growing pains": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ethel merman": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bea arthur": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "susan hayward": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joanna kerns": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "smoke": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kate malone": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "motion picture": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "television fund": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wasserman campus": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "woodland hills": {
+      "count": 1,
+      "last_seen": "2026-10-18T22:21:37.381694+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "a24": {
       "count": 4,
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
@@ -20277,14 +20443,6 @@
       "count": 1,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 12,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -22266,106 +22424,6 @@
       "last_seen": "2026-10-11T17:51:53.172927+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "poor reviews": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "avatar": {
-      "count": 2,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "box_office",
-        "movie_news"
-      ]
-    },
-    "christopher nolan": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nolan": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the odyssey": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "overtakes": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the way": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "water": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "korea": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "biggest international film": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "all time": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "korean": {
-      "count": 1,
-      "last_seen": "2026-10-11T15:18:28.715850+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "after": {
-      "count": 2,
-      "last_seen": "2026-10-11T11:19:21.305995+00:00",
-      "categories": [
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "rohan campbell teases": {
-      "count": 1,
-      "last_seen": "2026-10-11T11:19:21.305995+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
