@@ -15701,6 +15701,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "bb99d5919f9e69752e62348e",
+      "story_id": "e6a87275db43cf80",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
+      "title": "NAZA directors: 'It's a film about systems of mass killing' – video",
+      "category": "movie_news",
+      "score": 67.01,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "naza",
+        "yuval abraham",
+        "rachel szor",
+        "guardian",
+        "katharine viner",
+        "london",
+        "thursday",
+        "israeli",
+        "tel aviv",
+        "abraham",
+        "szor"
+      ],
+      "hook": "NAZA: مستند درباره سیستم‌های قتل انبوه",
+      "hooks": [
+        "فیلم NAZA در ۵۰+ کشور نمایش داده شد",
+        "سینمایی که توسط یووال ابراهام و رچل سزار ساخته شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند NAZA شامل شهادت ۲۴ نفر از نیروهای نظامی اسرائیل است"
+      ],
+      "status": "published",
+      "telegram_message_id": 310,
+      "published_at": "2026-10-19T21:18:33.930863+00:00",
+      "text": "NAZA: مستند درباره سیستم‌های قتل انبوه\n\n🎬 NAZA: مستندی که در ۵۰ کشور سینما و در گواردین رایگان است\n\nفیلم NAZA، ساخته‌ی یووال ابراهام و رچل سزار، در لندن در اولین نمایش خود به سوالات ویرنر پاسخ داد. مستند شامل شهادت ۲۴ نفر از نیروهای نظامی اسرائیل است و در شب در بالکن‌های تل‌آویو فیلم‌برداری شد.\nاین فیلم در هفته جاری در بیش از ۵۰ کشور در سینما منتشر شد و از نوامبر آخر، رایگان در وب‌سایت گواردین پخش خواهد شد. منتقدان آن را «تسلیح‌آمیز، اما ضروری» می‌نامند.\n\n📌 نکات مهم:\n• فیلم NAZA در بیش از ۵۰ کشور در سینما منتشر شد\n• شهادت ۲۴ نفر از نیروهای نظامی اسرائیل در مستند گنجانده شده است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16007,7 +16059,8 @@
     "30cd6a6804ff124bd98c27ef",
     "8e89d19667edc08774a5f4b2",
     "a84de83657be2712a5fe4e95",
-    "88a9bbdae783d31aae171bba"
+    "88a9bbdae783d31aae171bba",
+    "bb99d5919f9e69752e62348e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16313,11 +16366,12 @@
     "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856",
     "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656",
     "https://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518",
-    "https://www.hollywoodreporter.com/tv/tv-news/ron-koslow-dead-beauty-and-beast-linda-hamilton-ron-perlman-1236735493"
+    "https://www.hollywoodreporter.com/tv/tv-news/ron-koslow-dead-beauty-and-beast-linda-hamilton-ron-perlman-1236735493",
+    "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 158,
+      "published": 159,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16382,7 +16436,7 @@
       "published": 30
     },
     "21": {
-      "published": 18
+      "published": 19
     },
     "23": {
       "published": 17
@@ -16446,64 +16500,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-09T15:47:35.694308+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-09T18:36:13.722384+00:00",
       "version": 2,
@@ -19461,6 +19457,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-19T21:18:33.930976+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19766,9 +19820,96 @@
     "4e250c2b89b2402b",
     "17aa5ac1d34a7a3a",
     "3083b15c9a852dae",
-    "d4eab3dbe912e61f"
+    "d4eab3dbe912e61f",
+    "e6a87275db43cf80"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 31,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "london": {
+      "count": 2,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "naza": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yuval abraham": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel szor": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "guardian": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "katharine viner": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "israeli": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tel aviv": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abraham": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "szor": {
+      "count": 1,
+      "last_seen": "2026-10-19T21:18:33.930893+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 14,
       "last_seen": "2026-10-19T18:55:36.752868+00:00",
@@ -20932,15 +21073,6 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 30,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "chase infiniti": {
       "count": 1,
       "last_seen": "2026-10-16T19:46:30.032103+00:00",
@@ -21070,13 +21202,6 @@
       ]
     },
     "hammer": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "london": {
       "count": 1,
       "last_seen": "2026-10-16T13:43:05.595221+00:00",
       "categories": [
@@ -22520,77 +22645,6 @@
     "gary paulsen": {
       "count": 1,
       "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blue valentine": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the place beyond": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pines": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andrew mittman": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wednesday": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "directed": {
-      "count": 3,
-      "last_seen": "2026-10-12T12:55:27.919337+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indian": {
-      "count": 2,
-      "last_seen": "2026-10-12T12:55:27.919337+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "global drops": {
-      "count": 1,
-      "last_seen": "2026-10-12T12:55:27.919337+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sumo didi": {
-      "count": 1,
-      "last_seen": "2026-10-12T12:55:27.919337+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trailer ahead of": {
-      "count": 1,
-      "last_seen": "2026-10-12T12:55:27.919337+00:00",
       "categories": [
         "movie_news"
       ]
