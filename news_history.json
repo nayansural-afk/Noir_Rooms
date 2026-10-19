@@ -15592,6 +15592,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a84de83657be2712a5fe4e95",
+      "story_id": "3083b15c9a852dae",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518",
+      "title": "Tony Revolori, Audrina Miranda, Maria Gabriella De Faria & Lou Lou Safran Starring In ‘Night At The Oasis’",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "superman",
+        "tony revolori",
+        "audrina miranda",
+        "maria gabriella de",
+        "faria",
+        "lou lou safran",
+        "starring in",
+        "night at the",
+        "oasis",
+        "primetime",
+        "jurassic world rebirth",
+        "maria gabriella"
+      ],
+      "hook": "سینمای نوآورانه با ستارگان برجسته",
+      "hooks": [
+        "سینمای نوآورانه با ستارگان برجسته",
+        "ستارگان جدید در فیلم نوآورانه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «Night At The Oasis» با بازی تونی رولیوری، آودرینا میرندا، ماریا گابریلا دِ فاری و لُو لُو سافران ساخته می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 308,
+      "published_at": "2026-10-19T16:09:11.071774+00:00",
+      "text": "سینمای نوآورانه با ستارگان برجسته\n\n🎬 تونی رولیوری و همکارانش در فیلم «Night At The Oasis»\n\nفیلم مستقل coming‑of‑age «Night At The Oasis» با بازی تونی رولیوری، آودرینا میرندا، ماریا گابریلا دِ فاری و لُو لُو سافران، در حال ساخت بر روی ۳۵ میلیمتر است. کارگردان و نویسندهٔ این اثر کیم کایسِدو است و در کنار آن‌ها بازیگران دیگری چون مارسلّا کارواژال، آلیسیای راینر، کانر آپولو، کن کیری و نوان پرس حضور دارند.\n\n📌 نکات مهم:\n• فیلم «Night At The Oasis» به‌صورت مستقل و coming‑of‑age است\n• کارگردان و نویسندهٔ فیلم کیم کایسِدو است\n• فیلم بر روی ۳۵ میلیمتر فیلم‌برداری می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15896,7 +15949,8 @@
     "9bcbce91ae4c834dc8f377c7",
     "15631fee8e6c1203be3e8fe6",
     "30cd6a6804ff124bd98c27ef",
-    "8e89d19667edc08774a5f4b2"
+    "8e89d19667edc08774a5f4b2",
+    "a84de83657be2712a5fe4e95"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16200,7 +16254,8 @@
     "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539",
     "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129",
     "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856",
-    "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656"
+    "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656",
+    "https://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518"
   ],
   "category_stats": {
     "movie_news": {
@@ -16210,7 +16265,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 112,
+      "published": 113,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16260,7 +16315,7 @@
       "published": 8
     },
     "16": {
-      "published": 12
+      "published": 13
     },
     "18": {
       "published": 13
@@ -16333,64 +16388,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-09T00:14:14.427967+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-09T11:44:25.812429+00:00",
       "version": 2,
@@ -19348,6 +19345,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-19T16:09:11.071887+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19651,9 +19706,94 @@
     "d67979430d513620",
     "a4fc61fb53d85253",
     "4e250c2b89b2402b",
-    "17aa5ac1d34a7a3a"
+    "17aa5ac1d34a7a3a",
+    "3083b15c9a852dae"
   ],
   "entity_memory": {
+    "superman": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tony revolori": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "audrina miranda": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maria gabriella de": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "faria": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lou lou safran": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring in": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "night at the": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "oasis": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "primetime": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jurassic world rebirth": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maria gabriella": {
+      "count": 1,
+      "last_seen": "2026-10-19T16:09:11.071810+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "starring": {
       "count": 2,
       "last_seen": "2026-10-19T10:37:15.358279+00:00",
@@ -22396,90 +22536,6 @@
       "last_seen": "2026-10-11T23:33:35.415118+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "uncle": {
-      "count": 1,
-      "last_seen": "2026-10-11T23:33:35.415118+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "taiwan": {
-      "count": 1,
-      "last_seen": "2026-10-11T23:33:35.415118+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yen hao": {
-      "count": 1,
-      "last_seen": "2026-10-11T23:33:35.415118+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asian project market": {
-      "count": 1,
-      "last_seen": "2026-10-11T23:33:35.415118+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stine": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the babysitter": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gets tubi adaptation": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "set for": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tubi": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on sunday": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "trevor calverley": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pumpkinhead": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
