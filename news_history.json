@@ -15539,6 +15539,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8e89d19667edc08774a5f4b2",
+      "story_id": "17aa5ac1d34a7a3a",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656",
+      "title": "Psychological Horror ‘Henry’s Ebb,’ Starring ‘Widow’s Bay’s’ Kingston Rumi Southwick, Boarded by Bridge Independent (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "psychological horror",
+        "henry",
+        "starring",
+        "widow",
+        "kingston rumi southwick",
+        "boarded",
+        "bridge independent",
+        "tallinn black nights",
+        "film festival",
+        "thomas mendolia",
+        "banks repeta",
+        "the black phone"
+      ],
+      "hook": "هستند در دل ترس: 'Henry's Ebb' به نمایش در تالین",
+      "hooks": [
+        "سینمای روان‌شناختی: 'Henry's Ebb' در تالین",
+        "کامیابی اولین فیلم‌نامه‌نویس: 'Henry's Ebb'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Bridge Independent فیلم را به‌دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 307,
+      "published_at": "2026-10-19T10:37:15.358246+00:00",
+      "text": "هستند در دل ترس: 'Henry's Ebb' به نمایش در تالین\n\n🎬 فیلم ترسناک روان‌شناختی 'Henry's Ebb' در تالین رونمایی می‌شود\n\nBridge Independent فیلم ترسناک روان‌شناختی 'Henry's Ebb' را به‌دست آورد. این اثر، که در اولین فیلم‌نامه‌نویسی‌اش توسط توماس مندولیا نوشته و کارگردانی شد، در جشنواره فیلم شب‌های سیاه تالین رونمایی می‌شود.\nستاره‌ی این فیلم، کنگستون رومی سوتویک، که در 'Widow's Bay' نقش‌آفرینی کرده بود، در کنار بنک ریپتا (از 'The Black Phone') و آشلی شلوت در صحنه‌های ترسناک حضور دارد.\n\n📌 نکات مهم:\n• فیلم 'Henry's Ebb' در جشنواره فیلم شب‌های سیاه تالین رونمایی می‌شود\n• کارگردان و نویسنده توماس مندولیا در اولین فیلم‌نامه‌نویسی‌اش است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -15842,7 +15895,8 @@
     "a69bf9e6c18ce28a881a3805",
     "9bcbce91ae4c834dc8f377c7",
     "15631fee8e6c1203be3e8fe6",
-    "30cd6a6804ff124bd98c27ef"
+    "30cd6a6804ff124bd98c27ef",
+    "8e89d19667edc08774a5f4b2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16145,7 +16199,8 @@
     "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913",
     "https://variety.com/2026/tv/features/new-stanford-prison-experiment-netflix-prison-reality-series-1236915539",
     "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129",
-    "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856"
+    "https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856",
+    "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656"
   ],
   "category_stats": {
     "movie_news": {
@@ -16155,7 +16210,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 111,
+      "published": 112,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16196,7 +16251,7 @@
       "published": 3
     },
     "10": {
-      "published": 8
+      "published": 9
     },
     "11": {
       "published": 17
@@ -16278,64 +16333,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-08T21:40:57.634838+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-09T00:14:14.427967+00:00",
       "version": 2,
@@ -19293,6 +19290,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-19T10:37:15.358362+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "streaming",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19595,9 +19650,94 @@
     "7886d90411507471",
     "d67979430d513620",
     "a4fc61fb53d85253",
-    "4e250c2b89b2402b"
+    "4e250c2b89b2402b",
+    "17aa5ac1d34a7a3a"
   ],
   "entity_memory": {
+    "starring": {
+      "count": 2,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "psychological horror": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "henry": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "widow": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kingston rumi southwick": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "boarded": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bridge independent": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tallinn black nights": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "film festival": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thomas mendolia": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "banks repeta": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the black phone": {
+      "count": 1,
+      "last_seen": "2026-10-19T10:37:15.358279+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 13,
       "last_seen": "2026-10-18T22:21:37.381694+00:00",
@@ -20505,13 +20645,6 @@
       ]
     },
     "chase infiniti": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring": {
       "count": 1,
       "last_seen": "2026-10-16T19:46:30.032103+00:00",
       "categories": [
@@ -22347,83 +22480,6 @@
       "last_seen": "2026-10-11T20:43:40.907908+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "jem garrard": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "adaptation coming": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "afraid": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "clowns": {
-      "count": 1,
-      "last_seen": "2026-10-11T20:43:40.907908+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "other mommy": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "opens": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "million": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "box office amid": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "poor reviews sony": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "the social reckoning": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "verity": {
-      "count": 1,
-      "last_seen": "2026-10-11T17:51:53.172927+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
