@@ -15753,6 +15753,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f9d705ac66fa598a736a48e2",
+      "story_id": "4d09873e8fab436b",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116",
+      "title": "Jeff Daniels To Star In ‘Bannerman’ TV Series For AMC & Netflix",
+      "category": "actors_directors",
+      "score": 59.0,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "jeff daniels to",
+        "star in",
+        "bannerman",
+        "series for",
+        "emmy",
+        "jeff daniels",
+        "john",
+        "maxim",
+        "daniels",
+        "studios"
+      ],
+      "hook": "جف دیانلز در سریال جاسوسی 'باننرمن' نقش‌آفرینی می‌کند",
+      "hooks": [
+        "جف دیانلز در سریال جاسوسی جدید AMC",
+        "سریال 'باننرمن' با همکاری Netflix"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جف دیانلز اولین بازیگر انتخاب‌شده برای سریال 'باننرمن' است"
+      ],
+      "status": "published",
+      "telegram_message_id": 311,
+      "published_at": "2026-10-19T23:31:00.579132+00:00",
+      "text": "جف دیانلز در سریال جاسوسی 'باننرمن' نقش‌آفرینی می‌کند\n\n🎬 جف دیانلز در سریال جاسوسی 'باننرمن' برای AMC و Netflix\n\nجف دیانلز، برنده جایزه امی، اولین بازیگر انتخاب‌شده برای سریال 'باننرمن' است. این سریال، بر اساس رمان‌های جاسوسی جان آر. مکسیم، در AMC تولید شده و در Netflix به نمایش در می‌آید.\n\n📌 نکات مهم:\n• جف دیانلز برنده جایزه امی است\n• سریال 'باننرمن' بر اساس رمان‌های جاسوسی جان آر. مکسیم ساخته می‌شود\n• این اولین سریال از توافق‌نامه مشترک AMC Studios و Netflix است\n• سریال در AMC تولید شده و در Netflix نمایش داده می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16060,7 +16111,8 @@
     "8e89d19667edc08774a5f4b2",
     "a84de83657be2712a5fe4e95",
     "88a9bbdae783d31aae171bba",
-    "bb99d5919f9e69752e62348e"
+    "bb99d5919f9e69752e62348e",
+    "f9d705ac66fa598a736a48e2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16367,7 +16419,8 @@
     "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656",
     "https://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518",
     "https://www.hollywoodreporter.com/tv/tv-news/ron-koslow-dead-beauty-and-beast-linda-hamilton-ron-perlman-1236735493",
-    "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video"
+    "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
+    "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116"
   ],
   "category_stats": {
     "movie_news": {
@@ -16377,7 +16430,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 113,
+      "published": 114,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16439,7 +16492,7 @@
       "published": 19
     },
     "23": {
-      "published": 17
+      "published": 18
     },
     "3": {
       "published": 2
@@ -16500,64 +16553,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-09T18:36:13.722384+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-09T21:24:49.224159+00:00",
       "version": 2,
@@ -19515,6 +19510,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-19T23:31:00.579237+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19821,9 +19874,90 @@
     "17aa5ac1d34a7a3a",
     "3083b15c9a852dae",
     "d4eab3dbe912e61f",
-    "e6a87275db43cf80"
+    "e6a87275db43cf80",
+    "4d09873e8fab436b"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 7,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "studios": {
+      "count": 3,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "jeff daniels to": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star in": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bannerman": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "series for": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emmy": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jeff daniels": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "john": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maxim": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "daniels": {
+      "count": 1,
+      "last_seen": "2026-10-19T23:31:00.579163+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 31,
       "last_seen": "2026-10-19T21:18:33.930893+00:00",
@@ -20365,15 +20499,6 @@
       "count": 1,
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix": {
-      "count": 6,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
         "actors_directors"
       ]
     },
@@ -20948,13 +21073,6 @@
       ]
     },
     "amazon": {
-      "count": 2,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studios": {
       "count": 2,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
       "categories": [
@@ -22584,69 +22702,6 @@
       "last_seen": "2026-10-12T21:29:49.765851+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "jason isaacs": {
-      "count": 1,
-      "last_seen": "2026-10-12T21:29:49.765851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sofia wylie": {
-      "count": 1,
-      "last_seen": "2026-10-12T21:29:49.765851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "luke newton": {
-      "count": 1,
-      "last_seen": "2026-10-12T21:29:49.765851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maddie ziegler": {
-      "count": 1,
-      "last_seen": "2026-10-12T21:29:49.765851+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hatchet": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "derek cianfrance": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "adapt gary paulsen": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "survival book": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gary paulsen": {
-      "count": 1,
-      "last_seen": "2026-10-12T18:31:57.537476+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
