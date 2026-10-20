@@ -16018,6 +16018,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e119dc814997b518693e9a48",
+      "story_id": "cf509558d8d9a644",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
+      "title": "‘The Cycle Of Love’ To Return To Cinemas For One-Day Only Engagement: Extraordinary Romantic Tale From Director Orlando Von Einsiedel",
+      "category": "actors_directors",
+      "score": 65.92,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "the cycle of",
+        "love",
+        "to return to",
+        "cinemas for one",
+        "day only engagement",
+        "extraordinary romantic tale",
+        "from director orlando",
+        "von einsiedel",
+        "fresh",
+        "critics choice documentary",
+        "awards"
+      ],
+      "hook": "سفر عاشقانه‌ای در یک روز، در سینما باز می‌شود",
+      "hooks": [
+        "یک روز، یک عشق، در پرده‌های سینما",
+        "یک شب ویژه: 'چرخه عشق' در سینما"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فایل دو نامزدی در جایزه انتخاب‌های منتقدان مستند"
+      ],
+      "status": "published",
+      "telegram_message_id": 316,
+      "published_at": "2026-10-20T23:05:37.816857+00:00",
+      "text": "سفر عاشقانه‌ای در یک روز، در سینما باز می‌شود\n\n🎬 سینمای یک روز: 'چرخه عشق' به نمایش در می‌آید\n\nسینمایی رمانتیک که توسط کارگردان برنده اسکار اورلاندو فون اینزیدل ساخته شده، پس از دریافت دو نامزدی در جایزه انتخاب‌های منتقدان مستند، به نمایش در می‌آید. این مستند در تاریخ ۱ نوامبر، به صورت یک روزه، در دوربین‌های سینمایی به نمایش گذاشته می‌شود و به عنوان یک \"شبانه‌روز ویژه\" معرفی شده است.\n\n📌 نکات مهم:\n• سینمایی رمانتیک، کارگردان برنده اسکار اورلاندو فون اینزیدل\n• نمایش یک روزه در ۱ نوامبر به عنوان 'شبانه‌روز ویژه'\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16330,7 +16383,8 @@
     "c3f7bb86365cce1007cb434e",
     "c01de22493d3b1915a2c1fd2",
     "51207ad7b317d5312f9fbdad",
-    "9500e9b584f1b96a612c21ae"
+    "9500e9b584f1b96a612c21ae",
+    "e119dc814997b518693e9a48"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16642,7 +16696,8 @@
     "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277",
     "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
     "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
-    "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945"
+    "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
+    "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088"
   ],
   "category_stats": {
     "movie_news": {
@@ -16652,7 +16707,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 115,
+      "published": 116,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16714,7 +16769,7 @@
       "published": 19
     },
     "23": {
-      "published": 18
+      "published": 19
     },
     "3": {
       "published": 2
@@ -16775,64 +16830,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-10T17:34:11.707252+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-10T20:25:26.001388+00:00",
       "version": 2,
@@ -19790,6 +19787,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-20T23:05:37.816945+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20101,9 +20156,96 @@
     "2aa69483fba60d7f",
     "daa3f4528923b76c",
     "0f3334c7f9765b66",
-    "b3389daf98ef9243"
+    "b3389daf98ef9243",
+    "cf509558d8d9a644"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 32,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "the cycle of": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "love": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to return to": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cinemas for one": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "day only engagement": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "extraordinary romantic tale": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from director orlando": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "von einsiedel": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fresh": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "critics choice documentary": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "awards": {
+      "count": 1,
+      "last_seen": "2026-10-20T23:05:37.816883+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star": {
       "count": 11,
       "last_seen": "2026-10-20T20:14:24.370052+00:00",
@@ -20509,15 +20651,6 @@
       "last_seen": "2026-10-19T23:31:00.579163+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 31,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "london": {
@@ -22853,83 +22986,6 @@
       "last_seen": "2026-10-13T19:41:09.945990+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "management": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "narges rashidi": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "leading actress": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nazanin zaghari ratcliffe": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "prisoner": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "phillipa lowthorpe": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joseph fiennes": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zaghari ratfcliffe": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "iran": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin hart": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hartbeat inks vertical": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
