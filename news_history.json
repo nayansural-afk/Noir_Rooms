@@ -15906,6 +15906,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "51207ad7b317d5312f9fbdad",
+      "story_id": "0f3334c7f9765b66",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
+      "title": "‘MobLand’ Actor Mandeep Dhillon to Star in Self-Written Short ‘The Things I Want to Do to You’ Alongside Golda Rosheuvel and Scott Karim (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 73.34,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "bafta",
+        "actor mandeep dhillon",
+        "star",
+        "self",
+        "written short",
+        "the things",
+        "want",
+        "alongside golda rosheuvel",
+        "scott karim",
+        "mandeep dhillon",
+        "directed",
+        "lynette linton"
+      ],
+      "hook": "دنیای تاریک، قصه‌ای از قدرت و عشق",
+      "hooks": [
+        "دنیای تاریک، قصه‌ای از قدرت و عشق",
+        "شخصیت‌های جدید در دنیای تاریک",
+        "سکوت در تاریکی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مندیپ دیلون در فیلم کوتاه خودنویس \"The Things I Want to Do to You\" نقش‌آفرینی می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 314,
+      "published_at": "2026-10-20T17:40:53.840908+00:00",
+      "text": "دنیای تاریک، قصه‌ای از قدرت و عشق\n\n🎬 مندیپ دیلون در فیلم کوتاه خودنویس \"The Things I Want to Do to You\"\n\nمندیپ دیلون، بازیگر «MobLand»، در حال ساخت فیلم کوتاه \"The Things I Want to Do to You\" است که خود آن را نوشت و در آن نقش‌آفرینی می‌کند. این اثر روانشناختی توسط لایت لنت، نامزد بایفای، کارگردانی می‌شود و با حضور گولدا رسه‌وال و اسکات کریم همراه است.\n\nفیلم توسط کیتی گلاستر تحت بنر هیزی پلانت تولید می‌شود و در حال حاضر در مرحله تولید است.\n\n📌 نکات مهم:\n• مندیپ دیلون در فیلم کوتاه خودنویس \"The Things I Want to Do to You\" نقش‌آفرینی می‌کند\n• کارگردان فیلم لایت لنت، نامزد بایفای است\n• گولدا رسه‌وال و اسکات کریم در فیلم حضور دارند\n• فیلم توسط کیتی گلاستر تحت بنر هیزی پلانت تولید می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16216,7 +16269,8 @@
     "bb99d5919f9e69752e62348e",
     "f9d705ac66fa598a736a48e2",
     "c3f7bb86365cce1007cb434e",
-    "c01de22493d3b1915a2c1fd2"
+    "c01de22493d3b1915a2c1fd2",
+    "51207ad7b317d5312f9fbdad"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16526,7 +16580,8 @@
     "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
     "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116",
     "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277",
-    "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation"
+    "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
+    "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375"
   ],
   "category_stats": {
     "movie_news": {
@@ -16536,7 +16591,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 114,
+      "published": 115,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16634,7 +16689,7 @@
       "published": 27
     },
     "17": {
-      "published": 34
+      "published": 35
     },
     "12": {
       "published": 6
@@ -16659,64 +16714,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-10T11:02:19.875336+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-10T15:00:07.595577+00:00",
       "version": 2,
@@ -19674,6 +19671,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-20T17:40:53.841039+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19983,9 +20038,95 @@
     "e6a87275db43cf80",
     "4d09873e8fab436b",
     "2aa69483fba60d7f",
-    "daa3f4528923b76c"
+    "daa3f4528923b76c",
+    "0f3334c7f9765b66"
   ],
   "entity_memory": {
+    "star": {
+      "count": 10,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "bafta": {
+      "count": 2,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor mandeep dhillon": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "self": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "written short": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the things": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "want": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alongside golda rosheuvel": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "scott karim": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mandeep dhillon": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "directed": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lynette linton": {
+      "count": 1,
+      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "they": {
       "count": 2,
       "last_seen": "2026-10-20T14:03:50.850912+00:00",
@@ -21944,14 +22085,6 @@
         "movie_news"
       ]
     },
-    "star": {
-      "count": 9,
-      "last_seen": "2026-10-15T13:53:51.223234+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "this": {
       "count": 2,
       "last_seen": "2026-10-15T13:53:51.223234+00:00",
@@ -22555,13 +22688,6 @@
         "movie_news"
       ]
     },
-    "bafta": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "winner narges rashidi": {
       "count": 1,
       "last_seen": "2026-10-13T19:41:09.945990+00:00",
@@ -22742,76 +22868,6 @@
       "last_seen": "2026-10-13T12:32:31.701613+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "director patricio valladares": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gets first look": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from skincrawl studios": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "skincrawl studios": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chilean": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "patricio valladares": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "inferno": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the irish": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tarantino": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sacha baron cohen": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
