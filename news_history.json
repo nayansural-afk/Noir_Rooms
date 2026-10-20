@@ -15858,6 +15858,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c01de22493d3b1915a2c1fd2",
+      "story_id": "daa3f4528923b76c",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
+      "title": "Monster Mia review – kooky kid discovers school of beastly besties in wholesome Halloween fun",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "monster mia",
+        "halloween",
+        "they",
+        "primrose",
+        "scrappy mia",
+        "rotwood academy",
+        "addams family lite",
+        "continue"
+      ],
+      "hook": "دختر شلوغ، دو برادر، و مدرسه‌ی ترسناک: ماجراهای هیجان‌انگیز",
+      "hooks": [
+        "مادران حمایت‌گر، و یک وامپاین وگان در مدرسه‌ی ترسناک",
+        "دختر کُکی، دو برادر، و مدرسه‌ی ترسناک: جشن هالووین"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مونیستر میا یک انیمیشن پیش‌سنی است که در آن دو برادر با شخصیت‌های متضاد در مدرسه‌ی ترسناک رقابت می‌کنند."
+      ],
+      "status": "published",
+      "telegram_message_id": 313,
+      "published_at": "2026-10-20T14:03:50.850881+00:00",
+      "text": "دختر شلوغ، دو برادر، و مدرسه‌ی ترسناک: ماجراهای هیجان‌انگیز\n\n🎬 مونیستر میا: دو برادر، وامپاین وگان و مدرسه‌ی ترسناک\n\nدر این انیمیشن پیش‌سنی، دختر شلوغ به نام میا در مدرسه‌ی برتر ترسناک، دوستان هیولایی پیدا می‌کند. او با برادرش، دانش‌آموزی با نمرات بالا و علاقه‌مند به باله، درگیر رقابت‌های هیجان‌انگیز می‌شود.\nدر شهر پرایمرز، که در ۵۰۰ سال گذشته آزاد از هیولاها بود، والدین دو برادر حمایت‌گر هستند. میان دوستان، یک وامپاین وگان حضور دارد که به جمع دوستان هیولایی می‌پیوندد.\n\n📌 نکات مهم:\n• دو برادر با شخصیت‌های متضاد در مدرسه‌ی ترسناک\n• وجود وامپاین وگان در جمع دوستان هیولایی\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16167,7 +16215,8 @@
     "88a9bbdae783d31aae171bba",
     "bb99d5919f9e69752e62348e",
     "f9d705ac66fa598a736a48e2",
-    "c3f7bb86365cce1007cb434e"
+    "c3f7bb86365cce1007cb434e",
+    "c01de22493d3b1915a2c1fd2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16476,11 +16525,12 @@
     "https://www.hollywoodreporter.com/tv/tv-news/ron-koslow-dead-beauty-and-beast-linda-hamilton-ron-perlman-1236735493",
     "https://www.theguardian.com/film/video/2026/oct/17/naza-directors-its-a-film-about-systems-of-mass-killings-video",
     "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116",
-    "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277"
+    "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277",
+    "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 160,
+      "published": 161,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16533,7 +16583,7 @@
       "published": 17
     },
     "14": {
-      "published": 8
+      "published": 9
     },
     "16": {
       "published": 13
@@ -16609,64 +16659,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-09T23:57:09.548795+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-10T11:02:19.875336+00:00",
       "version": 2,
@@ -19624,6 +19616,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-20T14:03:50.850981+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -19932,9 +19982,68 @@
     "d4eab3dbe912e61f",
     "e6a87275db43cf80",
     "4d09873e8fab436b",
-    "2aa69483fba60d7f"
+    "2aa69483fba60d7f",
+    "daa3f4528923b76c"
   ],
   "entity_memory": {
+    "they": {
+      "count": 2,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "continue": {
+      "count": 3,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "monster mia": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "halloween": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "primrose": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scrappy mia": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rotwood academy": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "addams family lite": {
+      "count": 1,
+      "last_seen": "2026-10-20T14:03:50.850912+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "film festival": {
       "count": 2,
       "last_seen": "2026-10-20T09:54:10.879024+00:00",
@@ -20764,13 +20873,6 @@
       ]
     },
     "arab": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "they": {
       "count": 1,
       "last_seen": "2026-10-18T12:57:08.735051+00:00",
       "categories": [
@@ -22020,14 +22122,6 @@
         "movie_news"
       ]
     },
-    "continue": {
-      "count": 2,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
     "digger": {
       "count": 5,
       "last_seen": "2026-10-14T23:06:39.643885+00:00",
@@ -22718,48 +22812,6 @@
       "last_seen": "2026-10-13T01:57:00.192702+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "quentin tarantino": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "west end": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the borat": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the popinjay cavalier": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pulp fiction": {
-      "count": 1,
-      "last_seen": "2026-10-13T01:57:00.192702+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "linda duncombe": {
-      "count": 1,
-      "last_seen": "2026-10-12T23:24:30.514765+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
