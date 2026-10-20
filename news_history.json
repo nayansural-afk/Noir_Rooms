@@ -15959,6 +15959,65 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9500e9b584f1b96a612c21ae",
+      "story_id": "b3389daf98ef9243",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Deadline Film",
+        "Variety",
+        "Deadline",
+        "TheWrap"
+      ],
+      "multi_source_count": 5,
+      "url": "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
+      "title": "Keanu Reeves in Talks to Star in James Wan’s ‘The Gangster, The Cop, The Devil’ at Paramount",
+      "category": "movie_news",
+      "score": 61.78,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "keanu reeves",
+        "talks",
+        "star",
+        "james wan",
+        "the gangster",
+        "the cop",
+        "the devil",
+        "paramount keanu reeves",
+        "paramount pictures",
+        "the paramount pictures",
+        "korean",
+        "keanu reeves circling",
+        "at paramount in",
+        "march"
+      ],
+      "hook": "کینو ریوز در مذاکرات برای بازی در فیلم جدید جیمز وان",
+      "hooks": [
+        "جیمز وان با کینو ریوز در پروژه جدید Paramount",
+        "دون لی در نقش اصلی در فیلم جدید جیمز وان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کینو ریوز در مذاکرات برای بازی در فیلم جدید جیمز وان"
+      ],
+      "status": "published",
+      "telegram_message_id": 315,
+      "published_at": "2026-10-20T20:14:24.370017+00:00",
+      "text": "کینو ریوز در مذاکرات برای بازی در فیلم جدید جیمز وان\n\n🎬 کینو ریوز در مذاکرات برای ایفای نقش در فیلم جدید جیمز وان در Paramount\n\nکینو ریوز در حال مذاکره برای ایفای نقش در فیلم جدید جیمز وان، کارگردان مشهور، در Paramount Pictures است. این فیلم، بازسازی فیلم هیجان‌انگیز کره‌ای ۲۰۱۹ 'The Gangster, The Cop, The Devil' است و دون لی نیز در نقش اصلی حضور دارد.\n\n📌 نکات مهم:\n• کینو ریوز در مذاکرات برای بازی در فیلم جدید جیمز وان\n• دون لی در نقش اصلی در فیلم جدید جیمز وان\n\n✅ تأیید چندمنبعی: Variety Film, Deadline Film, Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16270,7 +16329,8 @@
     "f9d705ac66fa598a736a48e2",
     "c3f7bb86365cce1007cb434e",
     "c01de22493d3b1915a2c1fd2",
-    "51207ad7b317d5312f9fbdad"
+    "51207ad7b317d5312f9fbdad",
+    "9500e9b584f1b96a612c21ae"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16581,11 +16641,12 @@
     "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116",
     "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277",
     "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
-    "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375"
+    "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
+    "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 161,
+      "published": 162,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16647,7 +16708,7 @@
       "published": 14
     },
     "20": {
-      "published": 30
+      "published": 31
     },
     "21": {
       "published": 19
@@ -16714,64 +16775,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-10T15:00:07.595577+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘La Bola Negra’ Wins Oscar-Predictive Toronto Film Festival People’s Choice Award",
-          "category": "movie_news",
-          "score": 96.3,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-10T17:34:11.707252+00:00",
       "version": 2,
@@ -19729,6 +19732,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-20T20:14:24.370134+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 413,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20039,14 +20100,114 @@
     "4d09873e8fab436b",
     "2aa69483fba60d7f",
     "daa3f4528923b76c",
-    "0f3334c7f9765b66"
+    "0f3334c7f9765b66",
+    "b3389daf98ef9243"
   ],
   "entity_memory": {
     "star": {
-      "count": 10,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
+      "count": 11,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
       "categories": [
         "actors_directors",
+        "movie_news"
+      ]
+    },
+    "paramount": {
+      "count": 4,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "keanu reeves": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "talks": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james wan": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the gangster": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the cop": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the devil": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount keanu reeves": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paramount pictures": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the paramount pictures": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "korean": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "keanu reeves circling": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "at paramount in": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "march": {
+      "count": 1,
+      "last_seen": "2026-10-20T20:14:24.370052+00:00",
+      "categories": [
         "movie_news"
       ]
     },
@@ -21639,14 +21800,6 @@
         "actors_directors"
       ]
     },
-    "paramount": {
-      "count": 3,
-      "last_seen": "2026-10-16T17:07:41.639600+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "is meme casting": {
       "count": 1,
       "last_seen": "2026-10-16T17:07:41.639600+00:00",
@@ -22775,97 +22928,6 @@
     "hartbeat inks vertical": {
       "count": 1,
       "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "series deal with": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fox entertainment kevin": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hart": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hartbeat": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fox entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fox entertainment studios": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "codeblack": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "essence": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "revolt": {
-      "count": 1,
-      "last_seen": "2026-10-13T16:41:34.348216+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "horror adaptation": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dante": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the divine comedy": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "invoking yell": {
-      "count": 1,
-      "last_seen": "2026-10-13T12:32:31.701613+00:00",
       "categories": [
         "movie_news"
       ]
