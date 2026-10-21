@@ -16121,6 +16121,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d918bcb010f3dde2e32ea552",
+      "story_id": "d589c1086b36b555",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005",
+      "title": "$1 Million Box Office Haul for ‘If I Go Will They Miss Me’ Provides a Release Template for the Smallest of Indies",
+      "category": "actors_directors",
+      "score": 71.91,
+      "freshness": 100.0,
+      "credibility": 90.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "sundance",
+        "million box office",
+        "haul",
+        "go will they",
+        "miss me",
+        "provides",
+        "release template",
+        "smallest",
+        "indies the sundance",
+        "walter thompson",
+        "hernandez",
+        "rich spirit"
+      ],
+      "hook": "یک میلیون دلار در 251 صحنه: راز موفقیت اندی",
+      "hooks": [
+        "سردرگمی در سینما: فیلمی که با 251 صحنه، یک میلیون دلار کسب کرد",
+        "راز سودآوری اندی: از 251 صحنه تا یک میلیون دلار"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم با 251 صحنه و یک میلیون دلار حاشیه سود، نمونه‌ای از موفقیت اندی برای فیلم‌های مستقل کوچک است"
+      ],
+      "status": "published",
+      "telegram_message_id": 318,
+      "published_at": "2026-10-21T14:19:04.587487+00:00",
+      "text": "یک میلیون دلار در 251 صحنه: راز موفقیت اندی\n\n🎬 فیلم 'اگر بروم، آیا خواهند افتاد؟' با 1 میلیون دلار در 251 صحنه، موفقیت اندی\n\nفیلم 'اگر بروم، آیا خواهند افتاد؟' که توسط کارگردان والتر توماس-هرناندز ساخته شد، در جشنواره سندنس به عنوان یک اثر کوچک ولی پرطرفدار شناخته شد. با توزیع توسط Rich Spirit، این فیلم در 251 صحنه به نمایش درآمد و با یک میلیون دلار در حاشیه سود، به‌عنوان الگوی موفقیت اندی برای فیلم‌های مستقل کوچک مطرح شد.\n\n📌 نکات مهم:\n• فیلم 'اگر بروم، آیا خواهند افتاد؟' توسط والتر توماس-هرناندز ساخته شد\n• در 251 صحنه نمایش داده شد و یک میلیون دلار در حاشیه سود کسب کرد\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16435,7 +16487,8 @@
     "51207ad7b317d5312f9fbdad",
     "9500e9b584f1b96a612c21ae",
     "e119dc814997b518693e9a48",
-    "827e2cf51214469bcfbb32bf"
+    "827e2cf51214469bcfbb32bf",
+    "d918bcb010f3dde2e32ea552"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16749,7 +16802,8 @@
     "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
     "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
     "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
-    "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend"
+    "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
+    "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005"
   ],
   "category_stats": {
     "movie_news": {
@@ -16759,7 +16813,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 116,
+      "published": 117,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16806,7 +16860,7 @@
       "published": 17
     },
     "14": {
-      "published": 9
+      "published": 10
     },
     "16": {
       "published": 13
@@ -16882,64 +16936,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-10T23:23:56.736216+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-11T11:19:21.306062+00:00",
       "version": 2,
@@ -19897,6 +19893,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-21T14:19:04.587591+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20210,9 +20264,94 @@
     "0f3334c7f9765b66",
     "b3389daf98ef9243",
     "cf509558d8d9a644",
-    "40238c2da9aa3d33"
+    "40238c2da9aa3d33",
+    "d589c1086b36b555"
   ],
   "entity_memory": {
+    "sundance": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "million box office": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "haul": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "go will they": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "miss me": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "provides": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "release template": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "smallest": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indies the sundance": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "walter thompson": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hernandez": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rich spirit": {
+      "count": 1,
+      "last_seen": "2026-10-21T14:19:04.587518+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "continue": {
       "count": 4,
       "last_seen": "2026-10-21T09:55:36.659628+00:00",
@@ -22958,90 +23097,6 @@
     "film on quest": {
       "count": 1,
       "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "for immortality": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the new york": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "times": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "docs": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elsinore": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "la bola negra": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue awards momentum": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with wins at": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hamptons film festival": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "audiences": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "october": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "best narrative feature": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
       "categories": [
         "movie_news"
       ]
