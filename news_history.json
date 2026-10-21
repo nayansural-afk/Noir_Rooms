@@ -16173,6 +16173,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "313e89fb9a40dfde70885e21",
+      "story_id": "d00f98275034a67f",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339",
+      "title": "Sauron Finally Puts on the One Ring in ‘Rings of Power’ Season 3 Official Trailer",
+      "category": "trailers_first_look",
+      "score": 64.77,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "sauron finally puts",
+        "one ring",
+        "rings",
+        "power",
+        "season",
+        "official trailer prime",
+        "video",
+        "the lord"
+      ],
+      "hook": "سائورون حلقهٔ واحد را می‌پوشاند؛ تریلر جدید حلقه‌ها",
+      "hooks": [
+        "حلقهٔ واحد در دست سِایورون؛ تریلر سه‌ام",
+        "سریال حلقه‌ها برمی‌گردد؛ تریلر و تاریخ عرضه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سائورون در نهایت حلقهٔ واحد را می‌پوشاند"
+      ],
+      "status": "published",
+      "telegram_message_id": 319,
+      "published_at": "2026-10-21T17:48:15.952813+00:00",
+      "text": "سائورون حلقهٔ واحد را می‌پوشاند؛ تریلر جدید حلقه‌ها\n\n🎬 سائورون حلقهٔ واحد را در تریلر رسمی حلقه‌های قدرت می‌پوشاند\n\nدر تریلر رسمی فصل سوم سریال 'حلقه‌های قدرت' بر روی پلتفرم Prime Video، سِایورون در نهایت حلقهٔ واحد را می‌پوشاند. این تریلر به همراه تاریخ عرضه جدید، بازگشت این مجموعه محبوب را اعلام می‌کند.\n\n📌 نکات مهم:\n• سائورون حلقهٔ واحد را می‌پوشاند\n• تریلر رسمی فصل سوم حلقه‌های قدرت در Prime Video\n• تاریخ عرضه جدید اعلام شد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16488,7 +16536,8 @@
     "9500e9b584f1b96a612c21ae",
     "e119dc814997b518693e9a48",
     "827e2cf51214469bcfbb32bf",
-    "d918bcb010f3dde2e32ea552"
+    "d918bcb010f3dde2e32ea552",
+    "313e89fb9a40dfde70885e21"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16803,7 +16852,8 @@
     "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
     "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
     "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
-    "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005"
+    "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005",
+    "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339"
   ],
   "category_stats": {
     "movie_news": {
@@ -16825,7 +16875,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 10,
+      "published": 11,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16911,7 +16961,7 @@
       "published": 27
     },
     "17": {
-      "published": 35
+      "published": 36
     },
     "12": {
       "published": 6
@@ -16936,64 +16986,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-11T11:19:21.306062+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-11T15:18:28.715924+00:00",
       "version": 2,
@@ -19951,6 +19943,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-21T17:48:15.952916+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20265,9 +20315,66 @@
     "b3389daf98ef9243",
     "cf509558d8d9a644",
     "40238c2da9aa3d33",
-    "d589c1086b36b555"
+    "d589c1086b36b555",
+    "d00f98275034a67f"
   ],
   "entity_memory": {
+    "sauron finally puts": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "one ring": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "rings": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "power": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "season": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "official trailer prime": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "video": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "the lord": {
+      "count": 1,
+      "last_seen": "2026-10-21T17:48:15.952842+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "sundance": {
       "count": 1,
       "last_seen": "2026-10-21T14:19:04.587518+00:00",
@@ -23040,63 +23147,6 @@
     "first reactions the": {
       "count": 1,
       "last_seen": "2026-10-14T09:59:55.867647+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james watkins": {
-      "count": 1,
-      "last_seen": "2026-10-14T09:59:55.867647+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "death": {
-      "count": 2,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "oppenheimer": {
-      "count": 2,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york times": {
-      "count": 2,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "docs acquires": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the revolution against": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "oscar nominee joshua": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film on quest": {
-      "count": 1,
-      "last_seen": "2026-10-13T23:41:23.299895+00:00",
       "categories": [
         "movie_news"
       ]
