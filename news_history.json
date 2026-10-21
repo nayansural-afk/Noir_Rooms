@@ -16221,6 +16221,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "343c66567ce80bcb4a6be029",
+      "story_id": "1f2e2c7d60886ebf",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901",
+      "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "los angeles unveils",
+        "documentary film festival",
+        "lineup featuring world",
+        "north american",
+        "premieres",
+        "more",
+        "los angeles",
+        "november",
+        "sergio",
+        "mirta",
+        "love story",
+        "fabrizio laurenti"
+      ],
+      "hook": "فستیوال مستند 2026: اولین نمایش در آمریکا",
+      "hooks": [
+        "دستاوردهای جهانی در فستیوال مستند LA",
+        "سریال و مستندهای نوآورانه در نمایشگاه DocuSlate"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "NewFilmmakers Los Angeles اعلام کرد فستیوال مستند DocuSlate 2026 را رونمایی کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 320,
+      "published_at": "2026-10-21T20:25:23.197587+00:00",
+      "text": "فستیوال مستند 2026: اولین نمایش در آمریکا\n\n🎬 فستیوال مستند DocuSlate 2026: برنامه‌ی جدید NewFilmmakers LA\n\nفستیوال مستند DocuSlate 2026، که توسط NFMLA برگزار می‌شود، تاریخ 12 تا 15 نوامبر در لس‌آنجلس برگزار خواهد شد.\nاولین نمایش آمریکایی فیلم «Sergio & Mirta, A Love Story in 8 mm»، کارگردانی Fabrizio Laurenti و Niccolò Vivarelli، در این فستیوال به نمایش گذاشته می‌شود.\n\n📌 نکات مهم:\n• فستیوال مستند DocuSlate 2026 در لس‌آنجلس از 12 تا 15 نوامبر برگزار می‌شود\n• اولین نمایش آمریکایی فیلم «Sergio & Mirta, A Love Story in 8 mm» در این فستیوال است\n• کارگردانان Fabrizio Laurenti و Niccolò Vivarelli\n• برنامه شامل نمایش‌های جهانی، آمریکایی و آمریکای شمالی است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16537,7 +16590,8 @@
     "e119dc814997b518693e9a48",
     "827e2cf51214469bcfbb32bf",
     "d918bcb010f3dde2e32ea552",
-    "313e89fb9a40dfde70885e21"
+    "313e89fb9a40dfde70885e21",
+    "343c66567ce80bcb4a6be029"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16853,11 +16907,12 @@
     "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
     "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
     "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005",
-    "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339"
+    "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339",
+    "https://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 163,
+      "published": 164,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16919,7 +16974,7 @@
       "published": 14
     },
     "20": {
-      "published": 31
+      "published": 32
     },
     "21": {
       "published": 19
@@ -16986,64 +17041,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-11T15:18:28.715924+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-11T17:51:53.173005+00:00",
       "version": 2,
@@ -20001,6 +19998,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-21T20:25:23.197688+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20316,9 +20371,94 @@
     "cf509558d8d9a644",
     "40238c2da9aa3d33",
     "d589c1086b36b555",
-    "d00f98275034a67f"
+    "d00f98275034a67f",
+    "1f2e2c7d60886ebf"
   ],
   "entity_memory": {
+    "los angeles unveils": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary film festival": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lineup featuring world": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north american": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "premieres": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "los angeles": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "november": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sergio": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mirta": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "love story": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fabrizio laurenti": {
+      "count": 1,
+      "last_seen": "2026-10-21T20:25:23.197617+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sauron finally puts": {
       "count": 1,
       "last_seen": "2026-10-21T17:48:15.952842+00:00",
@@ -23062,91 +23202,6 @@
     "la tierra": {
       "count": 1,
       "last_seen": "2026-10-14T17:42:40.179048+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gary waddell": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "australian": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "waddell": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bert deling": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pure shit": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "australia": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "melbourne herald": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andrew": {
-      "count": 1,
-      "last_seen": "2026-10-14T14:18:09.858649+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mike flanagan": {
-      "count": 2,
-      "last_seen": "2026-10-14T09:59:55.867647+00:00",
-      "categories": [
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
-    "dc": {
-      "count": 1,
-      "last_seen": "2026-10-14T09:59:55.867647+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "clayface": {
-      "count": 1,
-      "last_seen": "2026-10-14T09:59:55.867647+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first reactions the": {
-      "count": 1,
-      "last_seen": "2026-10-14T09:59:55.867647+00:00",
       "categories": [
         "movie_news"
       ]
