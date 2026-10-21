@@ -16071,6 +16071,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "827e2cf51214469bcfbb32bf",
+      "story_id": "40238c2da9aa3d33",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
+      "title": "Elizabeth Holmes documentary You Can See Everything debuts with huge $15m opening weekend",
+      "category": "movie_news",
+      "score": 52.61,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "elizabeth holmes",
+        "you can see",
+        "everything",
+        "nathan fielder",
+        "lance oppenheim",
+        "north america",
+        "fahrenheit",
+        "borat",
+        "continue"
+      ],
+      "hook": "دستاورد شگفت‌انگیز: $15 میلیون در هفته اول!",
+      "hooks": [
+        "سینمای مستند، رکورد جدید در بازاریابی!",
+        "دستاورد بی‌سابقه: بیش از 2,000 نمایش پرشکوه!"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'You Can See Everything' در هفته اول به 15 میلیون دلار رسید"
+      ],
+      "status": "published",
+      "telegram_message_id": 317,
+      "published_at": "2026-10-21T09:55:36.659593+00:00",
+      "text": "دستاورد شگفت‌انگیز: $15 میلیون در هفته اول!\n\n🎬 مستند 'You Can See Everything' با بازاریابی $15 میلیون، رکورد جدید را می‌نویسد\n\nمستند 'You Can See Everything' دربارهٔ الیزابت هولمز، کارگردانی ناثان فیلدر و لانس اوپنهایم، در هفته اول خود به 15 میلیون دلار در بازار داخلی رسید. این رقم، بزرگ‌ترین بازاریابی هفته اول برای مستند در آمریکای شمالی در بیش از 20 سال است و در 855 صفحه نمایش و بیش از 2,000 نمایش پرشکوه برگزار شد.\n\n📌 نکات مهم:\n• $15 میلیون در هفته اول، بزرگ‌ترین بازاریابی مستند در آمریکای شمالی در بیش از 20 سال\n• نمایش در 855 صفحه نمایش و بیش از 2,000 نمایش پرشکوه\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16384,7 +16434,8 @@
     "c01de22493d3b1915a2c1fd2",
     "51207ad7b317d5312f9fbdad",
     "9500e9b584f1b96a612c21ae",
-    "e119dc814997b518693e9a48"
+    "e119dc814997b518693e9a48",
+    "827e2cf51214469bcfbb32bf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16697,11 +16748,12 @@
     "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
     "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375",
     "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945",
-    "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088"
+    "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088",
+    "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 162,
+      "published": 163,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -16787,7 +16839,7 @@
       "published": 2
     },
     "9": {
-      "published": 33
+      "published": 34
     },
     "6": {
       "published": 1
@@ -16830,64 +16882,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-10T20:25:26.001388+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Sean Hogan’s ‘The Dark Gets In’ Boarded for Worldwide Sales by Blue Finch Films Ahead of Beyond Fest Bow (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-10T23:23:56.736216+00:00",
       "version": 2,
@@ -19845,6 +19839,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-21T09:55:36.659698+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
+          "category": "movie_news",
+          "score": 88.96,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20157,9 +20209,88 @@
     "daa3f4528923b76c",
     "0f3334c7f9765b66",
     "b3389daf98ef9243",
-    "cf509558d8d9a644"
+    "cf509558d8d9a644",
+    "40238c2da9aa3d33"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 4,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "a24": {
+      "count": 5,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "you can see": {
+      "count": 2,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "everything": {
+      "count": 2,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "nathan fielder": {
+      "count": 2,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "elizabeth holmes": {
+      "count": 2,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "north america": {
+      "count": 2,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "box_office",
+        "movie_news"
+      ]
+    },
+    "lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fahrenheit": {
+      "count": 1,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "borat": {
+      "count": 1,
+      "last_seen": "2026-10-21T09:55:36.659628+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 32,
       "last_seen": "2026-10-20T23:05:37.816883+00:00",
@@ -20436,14 +20567,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "continue": {
-      "count": 3,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
       ]
     },
     "monster mia": {
@@ -21095,15 +21218,6 @@
         "actors_directors"
       ]
     },
-    "a24": {
-      "count": 4,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies",
-        "actors_directors"
-      ]
-    },
     "spurred": {
       "count": 1,
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
@@ -21132,20 +21246,6 @@
         "actors_directors"
       ]
     },
-    "you can see": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "everything": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "documentary opens to": {
       "count": 1,
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
@@ -21160,21 +21260,7 @@
         "actors_directors"
       ]
     },
-    "nathan fielder": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "theranos": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elizabeth holmes": {
       "count": 1,
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
       "categories": [
@@ -22606,13 +22692,6 @@
         "box_office"
       ]
     },
-    "north america": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "eric nam": {
       "count": 1,
       "last_seen": "2026-10-14T20:23:00.891465+00:00",
@@ -22965,27 +23044,6 @@
       "last_seen": "2026-10-13T21:40:25.825823+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "javier calvo": {
-      "count": 1,
-      "last_seen": "2026-10-13T21:40:25.825823+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "winner narges rashidi": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "signs with": {
-      "count": 1,
-      "last_seen": "2026-10-13T19:41:09.945990+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
