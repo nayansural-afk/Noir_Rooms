@@ -16376,6 +16376,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "83bbc544e8151774be257722",
+      "story_id": "f2a18fa337c71003",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027",
+      "title": "Investigation Discovery Buys SXSW True-Crime Doc ‘My Brother’s Killer’",
+      "category": "movie_news",
+      "score": 78.69,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "investigation discovery buys",
+        "true",
+        "crime doc",
+        "my brother",
+        "killer",
+        "circus",
+        "books",
+        "rachel mason",
+        "investigation discovery",
+        "the decline",
+        "western civilization",
+        "penelope spheeris"
+      ],
+      "hook": "دستگاه Investigation Discovery، مستند واقعی 'My Brother’s Killer' را خریداری کرد",
+      "hooks": [
+        "مستند 'My Brother’s Killer' در شبکه Investigation Discovery به نمایش در می‌آید",
+        "سینمای واقعی: مستند 'My Brother’s Killer' در شبکه Investigation Discovery"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'My Brother’s Killer' در شبکه Investigation Discovery در تاریخ ۳ دسامبر به نمایش می‌رسد"
+      ],
+      "status": "published",
+      "telegram_message_id": 323,
+      "published_at": "2026-10-22T14:18:42.331755+00:00",
+      "text": "دستگاه Investigation Discovery، مستند واقعی 'My Brother’s Killer' را خریداری کرد\n\n🎬 Investigation Discovery مستند واقعی 'My Brother’s Killer' را خریداری کرد\n\nمستند 'My Brother’s Killer' که توسط رِچل ماسن از Circus of Books ساخته شده، به تازگی توسط شبکه Investigation Discovery خریداری شد.\nاین فیلم، که توسط پِنی‌پِل اسپِهیرس، کارگردان 'The Decline of Western Civilization'، به عنوان تولیدکننده اجرایی حضور دارد، در تاریخ ۳ دسامبر بر روی شبکه Skydance-owned به نمایش گذاشته خواهد شد و پیش از این در جشنواره SXSW نمایش داده شد.\n\n📌 نکات مهم:\n• مستند 'My Brother’s Killer' یک مستند واقعی است\n• کارگردان رِچل ماسن از Circus of Books است\n• تولیدکننده اجرایی پِنی‌پِل اسپِهیرس است\n• در شبکه Investigation Discovery در تاریخ ۳ دسامبر به نمایش می‌رسد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16695,7 +16747,8 @@
     "313e89fb9a40dfde70885e21",
     "343c66567ce80bcb4a6be029",
     "3c8153bb5541706f8e3913c3",
-    "5958ba29e66528c7736ba0d0"
+    "5958ba29e66528c7736ba0d0",
+    "83bbc544e8151774be257722"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17014,11 +17067,12 @@
     "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339",
     "https://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901",
     "https://variety.com/2026/film/news/california-film-credit-filmla-report-q3-1236918175",
-    "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855"
+    "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855",
+    "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 166,
+      "published": 167,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17071,7 +17125,7 @@
       "published": 17
     },
     "14": {
-      "published": 10
+      "published": 11
     },
     "16": {
       "published": 13
@@ -17147,64 +17201,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-11T23:33:35.415194+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-12T12:55:27.919410+00:00",
       "version": 2,
@@ -20162,6 +20158,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-22T14:18:42.331875+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20480,9 +20534,94 @@
     "d00f98275034a67f",
     "1f2e2c7d60886ebf",
     "213a2ad29d17c355",
-    "736425722ee7907a"
+    "736425722ee7907a",
+    "f2a18fa337c71003"
   ],
   "entity_memory": {
+    "investigation discovery buys": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "true": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "crime doc": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "my brother": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "killer": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "circus": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "books": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rachel mason": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "investigation discovery": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the decline": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "western civilization": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "penelope spheeris": {
+      "count": 1,
+      "last_seen": "2026-10-22T14:18:42.331790+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 8,
       "last_seen": "2026-10-22T09:55:47.031767+00:00",
@@ -23224,92 +23363,6 @@
       "last_seen": "2026-10-15T09:41:58.528973+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "intimacy": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dree hemingway": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jesper just": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "danish": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dogma manifesto": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "digger": {
-      "count": 5,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "tom cruise": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "marvel": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "estimates": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "cutthroat island": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "the marvels digger": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "alejandro": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
       ]
     }
   },
