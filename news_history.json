@@ -16324,6 +16324,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5958ba29e66528c7736ba0d0",
+      "story_id": "736425722ee7907a",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855",
+      "title": "Everything We Know About Greta Gerwig’s ‘Narnia: The Magician’s Nephew’ So Far",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "greta gerwig",
+        "everything we know",
+        "about greta gerwig",
+        "narnia",
+        "the magician",
+        "nephew",
+        "so far",
+        "barbie",
+        "lewis",
+        "the chronicles",
+        "read"
+      ],
+      "hook": "نارینای جدید، با گرتا گرجی و درخشش نیکو",
+      "hooks": [
+        "گرتا گرجی، نیاکان نارنیا را باز می‌کند",
+        "نارنیا: نوابغ جادوگر، در سینما و نِت‌فلیکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در سینماها قبل از نِت‌فلیکس عرضه می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 322,
+      "published_at": "2026-10-22T09:55:47.031737+00:00",
+      "text": "نارینای جدید، با گرتا گرجی و درخشش نیکو\n\n🎬 نارنیا: نوابغ جادوگر – گرتا گرجی در صحنهٔ جدید\n\nفیلم جدید نارنیا، بر اساس اولین کتاب سریال، در دست کارگردانی گرتا گرجی، به زودی در سینماها به نمایش درمی‌آید.\nپس از نمایش در سالن، نسخهٔ استریمینگ آن در نِت‌فلیکس در سال آینده منتشر خواهد شد.\n\n📌 نکات مهم:\n• کارگردان فیلم گرتا گرجی است\n• فیلم بر اساس کتاب 'The Magician’s Nephew' ساخته می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16642,7 +16694,8 @@
     "d918bcb010f3dde2e32ea552",
     "313e89fb9a40dfde70885e21",
     "343c66567ce80bcb4a6be029",
-    "3c8153bb5541706f8e3913c3"
+    "3c8153bb5541706f8e3913c3",
+    "5958ba29e66528c7736ba0d0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -16960,11 +17013,12 @@
     "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005",
     "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339",
     "https://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901",
-    "https://variety.com/2026/film/news/california-film-credit-filmla-report-q3-1236918175"
+    "https://variety.com/2026/film/news/california-film-credit-filmla-report-q3-1236918175",
+    "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 165,
+      "published": 166,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17050,7 +17104,7 @@
       "published": 2
     },
     "9": {
-      "published": 34
+      "published": 35
     },
     "6": {
       "published": 1
@@ -17093,64 +17147,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-11T20:43:40.907977+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-11T23:33:35.415194+00:00",
       "version": 2,
@@ -20108,6 +20104,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-22T09:55:47.031841+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20425,9 +20479,96 @@
     "d589c1086b36b555",
     "d00f98275034a67f",
     "1f2e2c7d60886ebf",
-    "213a2ad29d17c355"
+    "213a2ad29d17c355",
+    "736425722ee7907a"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 8,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "greta gerwig": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "everything we know": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "about greta gerwig": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "narnia": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the magician": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nephew": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "so far": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "barbie": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lewis": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the chronicles": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "read": {
+      "count": 1,
+      "last_seen": "2026-10-22T09:55:47.031767+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "california": {
       "count": 2,
       "last_seen": "2026-10-21T23:09:24.764385+00:00",
@@ -21203,15 +21344,6 @@
       "last_seen": "2026-10-20T09:54:10.879024+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "netflix": {
-      "count": 7,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
       ]
     },
     "studios": {
@@ -23178,85 +23310,6 @@
       "last_seen": "2026-10-14T23:06:39.643885+00:00",
       "categories": [
         "box_office"
-      ]
-    },
-    "according": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "variety": {
-      "count": 1,
-      "last_seen": "2026-10-14T23:06:39.643885+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
-    "eric nam": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "singer": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the traitors": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "signs": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hybe": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the debut": {
-      "count": 1,
-      "last_seen": "2026-10-14T20:23:00.891465+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "trailer": {
-      "count": 5,
-      "last_seen": "2026-10-14T17:42:40.179048+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
-    "la tierra del": {
-      "count": 1,
-      "last_seen": "2026-10-14T17:42:40.179048+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "valor": {
-      "count": 1,
-      "last_seen": "2026-10-14T17:42:40.179048+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
