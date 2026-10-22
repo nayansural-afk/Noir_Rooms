@@ -16428,6 +16428,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7222f438dd0e73205b65eb90",
+      "story_id": "0ebd168dd77244a1",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464",
+      "title": "‘Tangles’ Wins Grand Jury Prize at Animation Is Film Festival",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "tangles",
+        "wins grand jury",
+        "prize",
+        "animation is film",
+        "festival",
+        "grand jury prize",
+        "directed",
+        "leah nelson"
+      ],
+      "hook": "فیلمنامهٔ 2D 'Tangles' برنده جایزهٔ هیئت‌جانم",
+      "hooks": [
+        "سینمای 2D 'Tangles' برنده جایزهٔ هیئت‌جانم",
+        "دوران 2D 'Tangles' در جشنواره Animation Is Film جشن گرفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فایل 'Tangles' برنده جایزهٔ هیئت‌جانم در جشنواره Animation Is Film"
+      ],
+      "status": "published",
+      "telegram_message_id": 324,
+      "published_at": "2026-10-22T17:47:10.386631+00:00",
+      "text": "فیلمنامهٔ 2D 'Tangles' برنده جایزهٔ هیئت‌جانم\n\n🎬 'Tangles' برنده جایزهٔ هیئت‌جانم در جشنواره Animation Is Film\n\nفیلم انیمیشنی 2D 'Tangles' که توسط لیاه نلسون کارگردانی شده، در جشنواره Animation Is Film در سال 9 برنده جایزهٔ هیئت‌جانم شد.\nداستان فیلم دربارهٔ خانواده‌ای است که با بیماری دمانس مادرشان روبه‌رو می‌شود؛ انیمیشن با رنگ‌بندی موناکر و فریم‌های شفاف، لحظه‌های شخصی را به تصویر می‌کشد.\n\n📌 نکات مهم:\n• فایل 'Tangles' برنده جایزهٔ هیئت‌جانم در جشنواره Animation Is Film\n• فیلم 2D دربارهٔ خانواده‌ای است که با دمانس مادرشان مواجه می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16748,7 +16797,8 @@
     "343c66567ce80bcb4a6be029",
     "3c8153bb5541706f8e3913c3",
     "5958ba29e66528c7736ba0d0",
-    "83bbc544e8151774be257722"
+    "83bbc544e8151774be257722",
+    "7222f438dd0e73205b65eb90"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17068,11 +17118,12 @@
     "https://deadline.com/2026/10/2026-docuslate-documentary-film-festival-lineup-1237169901",
     "https://variety.com/2026/film/news/california-film-credit-filmla-report-q3-1236918175",
     "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855",
-    "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027"
+    "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027",
+    "https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 167,
+      "published": 168,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17176,7 +17227,7 @@
       "published": 27
     },
     "17": {
-      "published": 36
+      "published": 37
     },
     "12": {
       "published": 6
@@ -17201,64 +17252,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-12T12:55:27.919410+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-12T18:31:57.537557+00:00",
       "version": 2,
@@ -20216,6 +20209,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-22T17:47:10.386766+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20535,9 +20586,68 @@
     "1f2e2c7d60886ebf",
     "213a2ad29d17c355",
     "736425722ee7907a",
-    "f2a18fa337c71003"
+    "f2a18fa337c71003",
+    "0ebd168dd77244a1"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 2,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "festival": {
+      "count": 2,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "tangles": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins grand jury": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "prize": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "animation is film": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "grand jury prize": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "leah nelson": {
+      "count": 1,
+      "last_seen": "2026-10-22T17:47:10.386676+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "investigation discovery buys": {
       "count": 1,
       "last_seen": "2026-10-22T14:18:42.331790+00:00",
@@ -21330,13 +21440,6 @@
       ]
     },
     "mandeep dhillon": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "directed": {
       "count": 1,
       "last_seen": "2026-10-20T17:40:53.840943+00:00",
       "categories": [
@@ -22153,13 +22256,6 @@
       ]
     },
     "el gouna film": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "festival": {
       "count": 1,
       "last_seen": "2026-10-18T12:57:08.735051+00:00",
       "categories": [
@@ -23320,48 +23416,6 @@
       "categories": [
         "trailers_first_look",
         "awards_festivals",
-        "movie_news"
-      ]
-    },
-    "trine dyrholm": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christian slater": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dree hemingway join": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "zentropa": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "picture": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "incidents": {
-      "count": 1,
-      "last_seen": "2026-10-15T09:41:58.528973+00:00",
-      "categories": [
         "movie_news"
       ]
     }
