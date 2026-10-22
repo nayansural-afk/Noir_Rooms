@@ -16537,6 +16537,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5033aec11a4319616f781e8c",
+      "story_id": "38d1b672d7ce7445",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861",
+      "title": "Laysla De Oliveira & Riccardo Scamarcio Wrap On Sci-Fi Thriller ‘Telephone’; Gale Anne Hurd Among EPs",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "paramount",
+        "venice",
+        "laysla de oliveira",
+        "riccardo scamarcio wrap",
+        "on sci",
+        "fi thriller",
+        "telephone",
+        "gale anne hurd",
+        "among",
+        "lioness",
+        "italian"
+      ],
+      "hook": "سینمای علمی‌تخیلی: لایسل و ریکاردو در تلفون",
+      "hooks": [
+        "تلفون: فیلمی نوین با لایسل و ریکاردو",
+        "سازماندهی در تلفون: لایسل و ریکاردو در نقش‌های جدید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "لایسل د. اولیویرا در 'تلفون' نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 326,
+      "published_at": "2026-10-22T23:11:01.184304+00:00",
+      "text": "سینمای علمی‌تخیلی: لایسل و ریکاردو در تلفون\n\n🎬 لایسل د. اولیویرا و ریکاردو اسکمارچیو در فیلم علمی‌تخیلی 'تلفون' به اتمام رسیدند\n\nلایسل د. اولیویرا، ستاره سریال Lioness، و ریکاردو اسکمارچیو، بازیگر ایتالیایی، در فیلم علمی‌تخیلی مستقل 'تلفون' به کارگردانی آنتونی اسکات برنز، به اتمام رسیدند. تصاویر در سبدوری، انتاریو گرفته شد و گیل آین هارد، مدیر اجرایی 'The Walking Dead'، در نقش EP حضور دارد. داستان درباره ساندی است که توسط همسایگان مرموز خود ربوده می‌شود.\n\n📌 نکات مهم:\n• لایسل د. اولیویرا و ریکاردو اسکمارچیو در 'تلفون' به کارگردانی آنتونی اسکات برنز بازی می‌کنند\n• فیلم در سبدوری، انتاریو فیلمبرداری شد و گیل آین هارد EP است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16859,7 +16912,8 @@
     "5958ba29e66528c7736ba0d0",
     "83bbc544e8151774be257722",
     "7222f438dd0e73205b65eb90",
-    "90bdb3da581a3a5a7feb09a1"
+    "90bdb3da581a3a5a7feb09a1",
+    "5033aec11a4319616f781e8c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17181,7 +17235,8 @@
     "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855",
     "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027",
     "https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464",
-    "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694"
+    "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694",
+    "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861"
   ],
   "category_stats": {
     "movie_news": {
@@ -17191,7 +17246,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 118,
+      "published": 119,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17253,7 +17308,7 @@
       "published": 19
     },
     "23": {
-      "published": 20
+      "published": 21
     },
     "3": {
       "published": 2
@@ -17314,64 +17369,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-12T21:29:49.765931+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-12T23:24:30.514833+00:00",
       "version": 2,
@@ -20329,6 +20326,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-22T23:11:01.184402+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20650,9 +20705,96 @@
     "736425722ee7907a",
     "f2a18fa337c71003",
     "0ebd168dd77244a1",
-    "86408da0b0a0cb33"
+    "86408da0b0a0cb33",
+    "38d1b672d7ce7445"
   ],
   "entity_memory": {
+    "paramount": {
+      "count": 5,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "hbo": {
+      "count": 3,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "venice": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "laysla de oliveira": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "riccardo scamarcio wrap": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on sci": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fi thriller": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "telephone": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gale anne hurd": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "among": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lioness": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "italian": {
+      "count": 1,
+      "last_seen": "2026-10-22T23:11:01.184334+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "wednesday": {
       "count": 2,
       "last_seen": "2026-10-22T20:21:39.275406+00:00",
@@ -21437,14 +21579,6 @@
       "count": 1,
       "last_seen": "2026-10-20T23:05:37.816883+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "paramount": {
-      "count": 4,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -22508,13 +22642,6 @@
         "actors_directors"
       ]
     },
-    "hbo": {
-      "count": 2,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "universal": {
       "count": 3,
       "last_seen": "2026-10-17T22:09:34.924639+00:00",
@@ -23407,76 +23534,6 @@
     "indie film studio": {
       "count": 1,
       "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bleecker street bought": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "by outerlight entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "outerlight entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bleecker street media": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "financial": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "currently": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tesla": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "this": {
-      "count": 2,
-      "last_seen": "2026-10-15T13:53:51.223234+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dune": {
-      "count": 1,
-      "last_seen": "2026-10-15T13:53:51.223234+00:00",
       "categories": [
         "movie_news"
       ]
