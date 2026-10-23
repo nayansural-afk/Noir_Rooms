@@ -16590,6 +16590,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "240938ee02256bfb29cb97c9",
+      "story_id": "8fcbc14dc9930348",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088",
+      "title": "Richard Gadd, Bill Camp and Ray McKinnon Join Michael Keaton-Directed Western ‘Rode to Ruin’ (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 52.53,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "richard gadd",
+        "bill camp",
+        "join michael keaton",
+        "directed western",
+        "rode",
+        "ruin",
+        "emmy award",
+        "emmy",
+        "western",
+        "michael keaton",
+        "keaton"
+      ],
+      "hook": "کیوتن، گاد، کمپ، مک‌کینون در غربی جدید",
+      "hooks": [
+        "یک غربی هیجان‌انگیز با بازی‌های برجسته",
+        "کیوتن در نقش کارگردان و بازیگر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مایکل کیوتن در نقش کارگردان و بازیگر فیلم «Rode to Ruin»"
+      ],
+      "status": "published",
+      "telegram_message_id": 327,
+      "published_at": "2026-10-23T09:50:37.825747+00:00",
+      "text": "کیوتن، گاد، کمپ، مک‌کینون در غربی جدید\n\n🎬 کیوتن، گاد، کمپ و مک‌کینون در فیلم غربی «Rode to Ruin»\n\nفیلم «Rode to Ruin»، یک ترسناک غربی است که کارگردان و بازیگر مایکل کیوتن در آن نقش دارد.\nدر کنار کیوتن، بازیگران برجسته‌ای چون رِچارد گاد، بیل کمپ، و رِی مک‌کینون به همراه مورگان فریمان و لورا در این تولید در سانتا فه، نیومکزیکو حضور دارند.\n\n📌 نکات مهم:\n• کارگردان و بازیگر مایکل کیوتن در فیلم «Rode to Ruin»\n• بازیگران رِچارد گاد، بیل کمپ، رِی مک‌کینون، مورگان فریمان و لورا در تولید در سانتا فه حضور دارند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16913,7 +16966,8 @@
     "83bbc544e8151774be257722",
     "7222f438dd0e73205b65eb90",
     "90bdb3da581a3a5a7feb09a1",
-    "5033aec11a4319616f781e8c"
+    "5033aec11a4319616f781e8c",
+    "240938ee02256bfb29cb97c9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17236,7 +17290,8 @@
     "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027",
     "https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464",
     "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694",
-    "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861"
+    "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861",
+    "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088"
   ],
   "category_stats": {
     "movie_news": {
@@ -17246,7 +17301,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 119,
+      "published": 120,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17326,7 +17381,7 @@
       "published": 2
     },
     "9": {
-      "published": 35
+      "published": 36
     },
     "6": {
       "published": 1
@@ -17369,64 +17424,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-12T23:24:30.514833+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-13T01:57:00.192775+00:00",
       "version": 2,
@@ -20384,6 +20381,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-23T09:50:37.825851+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20706,9 +20761,96 @@
     "f2a18fa337c71003",
     "0ebd168dd77244a1",
     "86408da0b0a0cb33",
-    "38d1b672d7ce7445"
+    "38d1b672d7ce7445",
+    "8fcbc14dc9930348"
   ],
   "entity_memory": {
+    "emmy": {
+      "count": 3,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "oscar": {
+      "count": 33,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "richard gadd": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bill camp": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "join michael keaton": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "directed western": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rode": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ruin": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emmy award": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "western": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michael keaton": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "keaton": {
+      "count": 1,
+      "last_seen": "2026-10-23T09:50:37.825778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "paramount": {
       "count": 5,
       "last_seen": "2026-10-22T23:11:01.184334+00:00",
@@ -20809,13 +20951,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "emmy": {
-      "count": 2,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "dies": {
@@ -21494,15 +21629,6 @@
       "last_seen": "2026-10-21T09:55:36.659628+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 32,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "the cycle of": {
@@ -23461,79 +23587,6 @@
     "mckenna grace": {
       "count": 1,
       "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "maya hawke": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "glenn close": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "more the hunger": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "games": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sunrise": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hunger games": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "musk": {
-      "count": 2,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "awards_festivals",
-        "movie_news"
-      ]
-    },
-    "bleecker street": {
-      "count": 2,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "awards_festivals",
-        "movie_news"
-      ]
-    },
-    "alex gibney": {
-      "count": 2,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
-      "categories": [
-        "awards_festivals",
-        "movie_news"
-      ]
-    },
-    "indie film studio": {
-      "count": 1,
-      "last_seen": "2026-10-15T17:32:15.263105+00:00",
       "categories": [
         "movie_news"
       ]
