@@ -16749,6 +16749,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "660514adf935af833b12fb23",
+      "story_id": "8634a5eb58e3307c",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
+      "title": "All The Songs In ‘Love Language’: From Daddy Yankee To Royel Otis",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "all the songs",
+        "love language",
+        "from daddy yankee",
+        "to royel otis",
+        "after",
+        "vertical",
+        "grace moretz",
+        "anthony ramos",
+        "manny jacinto",
+        "isabel may",
+        "lukas gage",
+        "billie lourd"
+      ],
+      "hook": "کمدی عاشقانه «Love Language» با آهنگ‌های Daddy Yankee و Royel Otis",
+      "hooks": [
+        "«Love Language» با آهنگ‌های Daddy Yankee و Royel Otis",
+        "کمدی عاشقانه با موسیقی‌های Daddy Yankee و Royel Otis"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در جشنواره SXSW 2026 رونمایی شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 330,
+      "published_at": "2026-10-23T20:09:59.568279+00:00",
+      "text": "کمدی عاشقانه «Love Language» با آهنگ‌های Daddy Yankee و Royel Otis\n\n🎬 «Love Language» در سینما و VOD، با آهنگ‌های Daddy Yankee و Royel Otis\n\nفیلم کمدی رمانتیک «Love Language» که در جشنواره SXSW 2026 رونمایی شد، اکنون در سینماهای منتخب و پلتفرم‌های دیجیتال در دسترس است.\n\nسینما توسط جوی پاور نوشته و کارگردانی شده و بازیگران برجسته‌ای چون چلو گرِس مورِتز، آنتونی رَموس، مانوی جاکینتو، ایزابل مای، لوکاس گاج و بیلی لورد را در صحنه دارد.\n\n📌 نکات مهم:\n• فیلم «Love Language» کمدی رمانتیک است\n• پیش‌نمایش در جشنواره SXSW 2026\n• نویسنده و کارگردان جوی پاور\n• سینماهای منتخب و VOD\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17075,7 +17128,8 @@
     "5033aec11a4319616f781e8c",
     "240938ee02256bfb29cb97c9",
     "d951d1677db0b42a611285f3",
-    "7e4c962c9822119c269a33a6"
+    "7e4c962c9822119c269a33a6",
+    "660514adf935af833b12fb23"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17401,11 +17455,12 @@
     "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861",
     "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088",
     "https://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068",
-    "https://deadline.com/2026/10/dylan-douglas-movie-debut-hit-on-hitler-first-look-afm-1237171688"
+    "https://deadline.com/2026/10/dylan-douglas-movie-debut-hit-on-hitler-first-look-afm-1237171688",
+    "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 169,
+      "published": 170,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17467,7 +17522,7 @@
       "published": 14
     },
     "20": {
-      "published": 33
+      "published": 34
     },
     "21": {
       "published": 19
@@ -17534,64 +17589,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-13T16:41:34.348287+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-13T19:41:09.946077+00:00",
       "version": 2,
@@ -20549,6 +20546,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-23T20:09:59.568377+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20874,9 +20929,94 @@
     "38d1b672d7ce7445",
     "8fcbc14dc9930348",
     "7d0981c295aa3339",
-    "69319555a5c50df1"
+    "69319555a5c50df1",
+    "8634a5eb58e3307c"
   ],
   "entity_memory": {
+    "all the songs": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "love language": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from daddy yankee": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to royel otis": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "after": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vertical": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "grace moretz": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony ramos": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "manny jacinto": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "isabel may": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lukas gage": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "billie lourd": {
+      "count": 1,
+      "last_seen": "2026-10-23T20:09:59.568310+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dylan douglas": {
       "count": 1,
       "last_seen": "2026-10-23T17:37:59.090825+00:00",
@@ -23617,90 +23757,6 @@
     "the love witch": {
       "count": 1,
       "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "technicolor": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "britain": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hammer films": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the beekeeper": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "teaser": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jason statham kicks": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rogue govt": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "agent butt to": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "metallica in first": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "look at sequel": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jason statham": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beekeeper": {
-      "count": 1,
-      "last_seen": "2026-10-16T09:35:40.317262+00:00",
       "categories": [
         "movie_news"
       ]
