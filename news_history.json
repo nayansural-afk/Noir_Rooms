@@ -16643,6 +16643,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d951d1677db0b42a611285f3",
+      "story_id": "7d0981c295aa3339",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068",
+      "title": "Robert Carlyle, Elijah Wood, Orlando Bloom Join ‘The Gentlemen’ Cast as Production Starts on Season 3",
+      "category": "actors_directors",
+      "score": 37.76,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "robert carlyle",
+        "elijah wood",
+        "orlando bloom join",
+        "the gentlemen",
+        "cast",
+        "production starts",
+        "season",
+        "morocco",
+        "among",
+        "line",
+        "duty"
+      ],
+      "hook": "کامیله، الیاه و اورلاندو در فصل سوم «The Gentlemen»",
+      "hooks": [
+        "کامیله، الیاه و اورلاندو به «The Gentlemen» ملحق می‌شوند",
+        "فصل سوم «The Gentlemen» با بازی‌های جدید آغاز شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تولید فصل سوم در انگلستان و مراکش آغاز شد",
+        "کارلیل، وود و بلوم به عنوان بازیگران جدید به سریال ملحق شدند"
+      ],
+      "status": "published",
+      "telegram_message_id": 328,
+      "published_at": "2026-10-23T14:01:56.964141+00:00",
+      "text": "کامیله، الیاه و اورلاندو در فصل سوم «The Gentlemen»\n\n🎬 «The Gentlemen» فصل سوم: بازیگران جدید و آغاز تولید در انگلستان و مراکش\n\nدر این فصل سوم، ربات کارلیل، الیاه وود و اورلاندو بلوم به جمع بازیگران «The Gentlemen» ملحق می‌شوند. تولید در انگلستان و مراکش آغاز شد و این سه بازیگر، که در سریال‌های «Line of Duty»، «Yellowjackets» و «The Cut» شناخته شده‌اند، دوباره با هم همکاری می‌کنند.\n\nاین همکاری، فرصتی برای دیدن دوباره همکاری الیاه وود و اورلاندو بلوم است که در گذشته در پروژه‌های مختلف به هم پیوسته بودند.\n\n📌 نکات مهم:\n• تولید فصل سوم در انگلستان و مراکش آغاز شد\n• کارلیل، وود و بلوم به عنوان بازیگران جدید به سریال ملحق شدند\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -16967,7 +17020,8 @@
     "7222f438dd0e73205b65eb90",
     "90bdb3da581a3a5a7feb09a1",
     "5033aec11a4319616f781e8c",
-    "240938ee02256bfb29cb97c9"
+    "240938ee02256bfb29cb97c9",
+    "d951d1677db0b42a611285f3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17291,7 +17345,8 @@
     "https://variety.com/2026/film/news/tangles-grand-jury-prize-animation-is-film-festival-1236921464",
     "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694",
     "https://deadline.com/2026/10/laysla-de-oliveira-riccardo-scamarcio-star-telephone-1237170861",
-    "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088"
+    "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088",
+    "https://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068"
   ],
   "category_stats": {
     "movie_news": {
@@ -17301,7 +17356,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 120,
+      "published": 121,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17348,7 +17403,7 @@
       "published": 17
     },
     "14": {
-      "published": 11
+      "published": 12
     },
     "16": {
       "published": 13
@@ -17424,64 +17479,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-13T01:57:00.192775+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-13T12:32:31.701699+00:00",
       "version": 2,
@@ -20439,6 +20436,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-23T14:01:56.964265+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20762,9 +20817,98 @@
     "0ebd168dd77244a1",
     "86408da0b0a0cb33",
     "38d1b672d7ce7445",
-    "8fcbc14dc9930348"
+    "8fcbc14dc9930348",
+    "7d0981c295aa3339"
   ],
   "entity_memory": {
+    "among": {
+      "count": 2,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "netflix": {
+      "count": 9,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "season": {
+      "count": 2,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "trailers_first_look",
+        "actors_directors"
+      ]
+    },
+    "the gentlemen": {
+      "count": 2,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "robert carlyle": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "elijah wood": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "orlando bloom join": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "production starts": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "morocco": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "line": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "duty": {
+      "count": 1,
+      "last_seen": "2026-10-23T14:01:56.964173+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "emmy": {
       "count": 3,
       "last_seen": "2026-10-23T09:50:37.825778+00:00",
@@ -20910,13 +21054,6 @@
       ]
     },
     "gale anne hurd": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "among": {
       "count": 1,
       "last_seen": "2026-10-22T23:11:01.184334+00:00",
       "categories": [
@@ -21180,15 +21317,6 @@
         "movie_news"
       ]
     },
-    "netflix": {
-      "count": 8,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "greta gerwig": {
       "count": 1,
       "last_seen": "2026-10-22T09:55:47.031767+00:00",
@@ -21435,13 +21563,6 @@
       ]
     },
     "power": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "season": {
       "count": 1,
       "last_seen": "2026-10-21T17:48:15.952842+00:00",
       "categories": [
@@ -23135,13 +23256,6 @@
         "movie_news"
       ]
     },
-    "the gentlemen": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "stephanie beatriz": {
       "count": 1,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
@@ -23533,62 +23647,6 @@
       "last_seen": "2026-10-15T22:59:08.614145+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "we were liars": {
-      "count": 1,
-      "last_seen": "2026-10-15T22:59:08.614145+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "babygirl": {
-      "count": 1,
-      "last_seen": "2026-10-15T22:59:08.614145+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the hunger games": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sunrise on the": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reaping": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "character posters": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joseph zada": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mckenna grace": {
-      "count": 1,
-      "last_seen": "2026-10-15T20:08:23.685733+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
