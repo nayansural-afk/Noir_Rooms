@@ -16802,6 +16802,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9e805b4237b7a5f0652e1bae",
+      "story_id": "61056ddf2168dbe4",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
+      "title": "Leslie Bibb Boards Amazon MGM Studios’ ‘Upgraded 2’ Opposite Camila Mendes",
+      "category": "actors_directors",
+      "score": 71.76,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "leslie bibb boards",
+        "amazon",
+        "studios",
+        "upgraded",
+        "opposite camila mendes",
+        "leslie bibb",
+        "becca gleason",
+        "camila mendes",
+        "luke roberts",
+        "justin matthews",
+        "story",
+        "mendes"
+      ],
+      "hook": "لیسلی بیب در 'اپگرید ۲' با کایلا مندز",
+      "hooks": [
+        "لیسلی بیب در نقش جدید در 'اپگرید ۲'",
+        "کایلا مندز و لیسلی بیب در 'اپگرید ۲'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "لیسلی بیب در نقش اصلی در 'اپگرید ۲' به‌جای کایلا مندز"
+      ],
+      "status": "published",
+      "telegram_message_id": 331,
+      "published_at": "2026-10-23T23:01:31.785211+00:00",
+      "text": "لیسلی بیب در 'اپگرید ۲' با کایلا مندز\n\n🎬 لیسلی بیب در نقش جدید در 'اپگرید ۲' به‌جای کایلا مندز\n\nلیسلی بیب در فیلم «اپگرید ۲» به‌دست‌کاران آمازون و MGM Studios حضور پیدا می‌کند. او در کنار کایلا مندز، که در فیلم اول نقش آنا را بازی کرده بود، ایفای نقش می‌کند.\n\nکارگردان فیلم، بیکا گلیسون، و نویسندگان اسکریپت، لوک روبرتس و جستین ماتس، مسئول نوشتن متن فیلم هستند. جزئیات داستان هنوز در اسرار بسته است.\n\n📌 نکات مهم:\n• لیسلی بیب در نقش اصلی در 'اپگرید ۲'\n• کارگردان بیکا گلیسون\n• نویسندگان لوک روبرتس و جستین ماتس\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17129,7 +17181,8 @@
     "240938ee02256bfb29cb97c9",
     "d951d1677db0b42a611285f3",
     "7e4c962c9822119c269a33a6",
-    "660514adf935af833b12fb23"
+    "660514adf935af833b12fb23",
+    "9e805b4237b7a5f0652e1bae"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17456,7 +17509,8 @@
     "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088",
     "https://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068",
     "https://deadline.com/2026/10/dylan-douglas-movie-debut-hit-on-hitler-first-look-afm-1237171688",
-    "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018"
+    "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
+    "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787"
   ],
   "category_stats": {
     "movie_news": {
@@ -17466,7 +17520,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 121,
+      "published": 122,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17528,7 +17582,7 @@
       "published": 19
     },
     "23": {
-      "published": 21
+      "published": 22
     },
     "3": {
       "published": 2
@@ -17589,64 +17643,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-13T19:41:09.946077+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-13T21:40:25.825889+00:00",
       "version": 2,
@@ -20604,6 +20600,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-23T23:01:31.785338+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20930,9 +20984,96 @@
     "8fcbc14dc9930348",
     "7d0981c295aa3339",
     "69319555a5c50df1",
-    "8634a5eb58e3307c"
+    "8634a5eb58e3307c",
+    "61056ddf2168dbe4"
   ],
   "entity_memory": {
+    "studios": {
+      "count": 4,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "mendes": {
+      "count": 2,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amazon": {
+      "count": 3,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "leslie bibb boards": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "upgraded": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "opposite camila mendes": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "leslie bibb": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "becca gleason": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "camila mendes": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "luke roberts": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "justin matthews": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "story": {
+      "count": 1,
+      "last_seen": "2026-10-23T23:01:31.785264+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "all the songs": {
       "count": 1,
       "last_seen": "2026-10-23T20:09:59.568310+00:00",
@@ -22405,14 +22546,6 @@
         "movie_news"
       ]
     },
-    "studios": {
-      "count": 3,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "jeff daniels to": {
       "count": 1,
       "last_seen": "2026-10-19T23:31:00.579163+00:00",
@@ -23162,13 +23295,6 @@
         "actors_directors"
       ]
     },
-    "mendes": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "universal": {
       "count": 3,
       "last_seen": "2026-10-17T22:09:34.924639+00:00",
@@ -23494,13 +23620,6 @@
         "actors_directors"
       ]
     },
-    "amazon": {
-      "count": 2,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "daniel ings": {
       "count": 1,
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
@@ -23695,70 +23814,6 @@
       "last_seen": "2026-10-16T17:07:41.639600+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "street fighter": {
-      "count": 1,
-      "last_seen": "2026-10-16T17:07:41.639600+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "japanese": {
-      "count": 4,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "the face": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "horror": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hammer": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anna biller": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "british": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "there": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the love witch": {
-      "count": 1,
-      "last_seen": "2026-10-16T13:43:05.595221+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
