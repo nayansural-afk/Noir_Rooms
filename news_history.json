@@ -16854,6 +16854,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7bf8222793e44e0ba6082358",
+      "story_id": "8798de447c06a8d0",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian",
+        "BBC"
+      ],
+      "multi_source_count": 2,
+      "url": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+      "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
+      "category": "actors_directors",
+      "score": 58.29,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "tom skerritt",
+        "alien",
+        "top gun",
+        "actor",
+        "river runs through",
+        "picket fences",
+        "variety",
+        "continue",
+        "steel magnolias",
+        "century",
+        "wednesday"
+      ],
+      "hook": "توم اسکیرِت، بازیگر آلیان و تپ‌گن، درگذشت در سن ۹۳ سالگی",
+      "hooks": [
+        "حضور بی‌نظیر توم اسکیرِت در فیلم‌های کلاسیک",
+        "دوران ۶۰ ساله او در سینمای جهان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "توم اسکیرِت درگذشت در سن ۹۳ سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 332,
+      "published_at": "2026-10-24T09:21:53.883258+00:00",
+      "text": "توم اسکیرِت، بازیگر آلیان و تپ‌گن، درگذشت در سن ۹۳ سالگی\n\n🎬 توم اسکیرِت، بازیگر برجسته آلیان و تپ‌گن، درگذشت\n\nتوم اسکیرِت، بازیگر مشهور آمریکایی، در سن ۹۳ سالگی درگذشت. او در نقش‌های برجسته‌ای در فیلم‌های آلیان و تپ‌گن شناخته می‌شد.\nعلاوه بر این، او در سریال‌های M*A*S*H، A River Runs Through It و Picket Fences حضور داشت و در طول ۶۰ سال فعالیت در سینما و تلویزیون به‌عنوان یکی از چهره‌های معتبر شناخته شد. علل مرگ او به‌صورت طبیعی گزارش شد.\n\n📌 نکات مهم:\n• توم اسکیرِت درگذشت در سن ۹۳ سالگی\n• شخصیت‌های برجسته در آلیان و تپ‌گن\n• حضور در M*A*S*H، A River Runs Through It و Picket Fences\n• کسب ۶۰ سال تجربه در سینما و تلویزیون\n\n✅ تأیید چندمنبعی: The Guardian, BBC\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17182,7 +17234,8 @@
     "d951d1677db0b42a611285f3",
     "7e4c962c9822119c269a33a6",
     "660514adf935af833b12fb23",
-    "9e805b4237b7a5f0652e1bae"
+    "9e805b4237b7a5f0652e1bae",
+    "7bf8222793e44e0ba6082358"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17510,7 +17563,8 @@
     "https://variety.com/2026/tv/news/robert-carlyle-elijah-wood-orlando-bloom-the-gentlemen-cast-1236922068",
     "https://deadline.com/2026/10/dylan-douglas-movie-debut-hit-on-hitler-first-look-afm-1237171688",
     "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
-    "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787"
+    "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
+    "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead"
   ],
   "category_stats": {
     "movie_news": {
@@ -17520,7 +17574,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 122,
+      "published": 123,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17600,7 +17654,7 @@
       "published": 2
     },
     "9": {
-      "published": 36
+      "published": 37
     },
     "6": {
       "published": 1
@@ -17643,64 +17697,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-13T21:40:25.825889+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-13T23:41:23.299977+00:00",
       "version": 2,
@@ -20658,6 +20654,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-24T09:21:53.883362+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 401,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -20985,9 +21039,91 @@
     "7d0981c295aa3339",
     "69319555a5c50df1",
     "8634a5eb58e3307c",
-    "61056ddf2168dbe4"
+    "61056ddf2168dbe4",
+    "8798de447c06a8d0"
   ],
   "entity_memory": {
+    "wednesday": {
+      "count": 3,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "tom skerritt": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "picket fences": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alien": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "top gun": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "river runs through": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "variety": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "steel magnolias": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "continue": {
+      "count": 5,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "movie_news",
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "actor": {
+      "count": 2,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "century": {
+      "count": 1,
+      "last_seen": "2026-10-24T09:21:53.883289+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "studios": {
       "count": 4,
       "last_seen": "2026-10-23T23:01:31.785264+00:00",
@@ -21495,14 +21631,6 @@
         "actors_directors"
       ]
     },
-    "wednesday": {
-      "count": 2,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "star": {
       "count": 12,
       "last_seen": "2026-10-22T20:21:39.275406+00:00",
@@ -21517,48 +21645,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "tom skerritt": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "picket fences": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alien": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "top gun": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "river runs through": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "variety": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "mentored": {
@@ -21583,13 +21669,6 @@
       ]
     },
     "contact": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "steel magnolias": {
       "count": 1,
       "last_seen": "2026-10-22T20:21:39.275406+00:00",
       "categories": [
@@ -22093,14 +22172,6 @@
       "last_seen": "2026-10-21T14:19:04.587518+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "continue": {
-      "count": 4,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
       ]
     },
     "a24": {
@@ -23676,13 +23747,6 @@
         "movie_news"
       ]
     },
-    "actor": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "roger corman movies": {
       "count": 1,
       "last_seen": "2026-10-16T22:44:21.829456+00:00",
@@ -23803,13 +23867,6 @@
       ]
     },
     "viable hollywood marketing": {
-      "count": 1,
-      "last_seen": "2026-10-16T17:07:41.639600+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "strategy": {
       "count": 1,
       "last_seen": "2026-10-16T17:07:41.639600+00:00",
       "categories": [
