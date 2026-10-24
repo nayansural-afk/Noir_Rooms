@@ -17059,6 +17059,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "045d4acf26babd94f36f6c87",
+      "story_id": "55ad45390cfa4eb8",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584",
+      "title": "Jeff Garlin Considered Suicide After Tumultuous ‘Goldbergs’ Exit",
+      "category": "actors_directors",
+      "score": 64.54,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": false,
+      "entities": [
+        "jeff garlin considered",
+        "suicide after tumultuous",
+        "goldbergs",
+        "exit the",
+        "curb your enthusiasm",
+        "susie essman"
+      ],
+      "hook": "جف گارلین پس از خروج از گلدبرگ‌ها، به تفکر خودکشی رسید",
+      "hooks": [
+        "سیاست‌های HR در گلدبرگ‌ها باعث شد جف گارلین به خودکشی فکر کند",
+        "جف گارلین با مشاوره سوزی، به سوزی خودکشی فکر کرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جف گارلین پس از خروج از گلدبرگ‌ها، به تفکر خودکشی رسید"
+      ],
+      "status": "published",
+      "telegram_message_id": 336,
+      "published_at": "2026-10-24T22:23:25.980938+00:00",
+      "text": "جف گارلین پس از خروج از گلدبرگ‌ها، به تفکر خودکشی رسید\n\n🎬 جف گارلین پس از خروج از گلدبرگ‌ها، به تفکر خودکشی رسید\n\nجف گارلین، بازیگر محبوب سریال گلدبرگ‌ها، پس از خروجی ناگهانی و تحقیقات HR به دلیل شکایات متعدد در مورد رفتار او، به تفکر خودکشی رسید. او در این میان با همسر روی صحنه‌اش در سریال کراب یور اینثوسیاس، سوزی، تماس گرفت تا او را از برنامه‌های خود آگاه کند.\n\n📌 نکات مهم:\n• جف گارلین پس از خروج از گلدبرگ‌ها، به تفکر خودکشی رسید\n• تحقیقات HR به دلیل شکایات متعدد درباره رفتار او در مجموعه گلدبرگ‌ها انجام شد\n• او با سوزی، همسر روی صحنه‌اش در کراب یور اینثوسیاس، تماس گرفت\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17391,7 +17437,8 @@
     "7bf8222793e44e0ba6082358",
     "e2fd1139ff52f1e7b871a2e5",
     "df8829a1a72744b8c77a6f7b",
-    "e02ec406a9825d905c716c9a"
+    "e02ec406a9825d905c716c9a",
+    "045d4acf26babd94f36f6c87"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17723,7 +17770,8 @@
     "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
     "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
     "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
-    "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222"
+    "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222",
+    "https://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584"
   ],
   "category_stats": {
     "movie_news": {
@@ -17733,7 +17781,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 125,
+      "published": 126,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17807,7 +17855,7 @@
       "published": 16
     },
     "22": {
-      "published": 15
+      "published": 16
     },
     "7": {
       "published": 2
@@ -17856,64 +17904,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-14T17:42:40.179122+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-14T20:23:00.891533+00:00",
       "version": 2,
@@ -20871,6 +20861,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-24T22:23:25.981043+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21202,9 +21250,52 @@
     "8798de447c06a8d0",
     "6bcf440087d655d9",
     "6869ced286aefc20",
-    "2a163d24f783aa84"
+    "2a163d24f783aa84",
+    "55ad45390cfa4eb8"
   ],
   "entity_memory": {
+    "jeff garlin considered": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "suicide after tumultuous": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "goldbergs": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "exit the": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "curb your enthusiasm": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "susie essman": {
+      "count": 1,
+      "last_seen": "2026-10-24T22:23:25.980969+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "horror fans": {
       "count": 1,
       "last_seen": "2026-10-24T19:10:43.096520+00:00",
@@ -23989,48 +24080,6 @@
       ]
     },
     "messy transition will": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rock hollywood": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "looking": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "peter rice": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ynon kreiz": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "september": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kreiz": {
       "count": 1,
       "last_seen": "2026-10-17T12:39:46.449309+00:00",
       "categories": [
