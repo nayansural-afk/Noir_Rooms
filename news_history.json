@@ -17009,6 +17009,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e02ec406a9825d905c716c9a",
+      "story_id": "2a163d24f783aa84",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222",
+      "title": "Horror Fans, Rejoice: FilmQuest Breakout ‘The Crawling’ Is the Gutsy Alien Freakout of Your Dreams",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "horror fans",
+        "rejoice",
+        "breakout",
+        "the crawling",
+        "gutsy alien freakout",
+        "your dreams for",
+        "christian everhard",
+        "while",
+        "could"
+      ],
+      "hook": "فریادهای ترسناک در کابین تنهایی: 'The Crawling'",
+      "hooks": [
+        "حیف‌انگیزترین فریادهای فضایی در شب‌های تنهایی",
+        "یک کابین، یک فریاد، یک دنیای دیگر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Film is a gutsy alien freakout horror"
+      ],
+      "status": "published",
+      "telegram_message_id": 335,
+      "published_at": "2026-10-24T19:10:43.096489+00:00",
+      "text": "فریادهای ترسناک در کابین تنهایی: 'The Crawling'\n\n🎬 فریادهای فضایی در کابین تنهایی: 'The Crawling'، فیلمی که ترس را به اوج می‌برد\n\nنویسنده و کارگردان کریستین افرهارد، در یک شب‌پایانی در یک کابین تنهایی، ایدهٔ ترسناک فیلم خود را شکل داد. او به‌عنوان یک طرفدار ترس، به‌دنبال ترس‌های بدترین حالت ممکن بود و این خیال به یک فریاد فضایی تبدیل شد.\n\nفیلم «The Crawling»، که توسط افرهارد نوشته و کارگردانی شد، به‌عنوان یک فریاد فضایی جسورانه و ترسناک شناخته می‌شود. این اثر در فضای کابین تنهایی و با حضور یک خطر محلی، دنیای دیگری را به تصویر می‌کشد.\n\n📌 نکات مهم:\n• Christian Everhard wrote and directed 'The Crawling'\n• Film titled 'The Crawling' is a gutsy alien freakout horror\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17340,7 +17390,8 @@
     "9e805b4237b7a5f0652e1bae",
     "7bf8222793e44e0ba6082358",
     "e2fd1139ff52f1e7b871a2e5",
-    "df8829a1a72744b8c77a6f7b"
+    "df8829a1a72744b8c77a6f7b",
+    "e02ec406a9825d905c716c9a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17671,7 +17722,8 @@
     "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
     "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
     "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
-    "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
+    "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
+    "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222"
   ],
   "category_stats": {
     "movie_news": {
@@ -17681,7 +17733,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 124,
+      "published": 125,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17752,7 +17804,7 @@
       "published": 23
     },
     "19": {
-      "published": 15
+      "published": 16
     },
     "22": {
       "published": 15
@@ -17804,64 +17856,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-14T14:18:09.858736+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-14T17:42:40.179122+00:00",
       "version": 2,
@@ -20819,6 +20813,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-24T19:10:43.096592+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21149,9 +21201,73 @@
     "61056ddf2168dbe4",
     "8798de447c06a8d0",
     "6bcf440087d655d9",
-    "6869ced286aefc20"
+    "6869ced286aefc20",
+    "2a163d24f783aa84"
   ],
   "entity_memory": {
+    "horror fans": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rejoice": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "breakout": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the crawling": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gutsy alien freakout": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "your dreams for": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christian everhard": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "while": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "could": {
+      "count": 1,
+      "last_seen": "2026-10-24T19:10:43.096520+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 34,
       "last_seen": "2026-10-24T16:23:30.267077+00:00",
@@ -23919,69 +24035,6 @@
       "last_seen": "2026-10-17T12:39:46.449309+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "mattel": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "skydance": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "david ellison": {
-      "count": 1,
-      "last_seen": "2026-10-17T12:39:46.449309+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "daniel ings": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stephanie beatriz join": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "horror flick": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "summoner": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kevin bacon": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stephanie beatriz": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
