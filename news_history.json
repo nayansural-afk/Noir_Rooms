@@ -16906,6 +16906,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e2fd1139ff52f1e7b871a2e5",
+      "story_id": "6bcf440087d655d9",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
+      "title": "Quentin Tarantino Shows Off First 17 Minutes of ‘Cliff Booth’ and Explains Decision to Revive Character",
+      "category": "actors_directors",
+      "score": 72.86,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tarantino",
+        "quentin tarantino shows",
+        "off first",
+        "minutes",
+        "cliff booth",
+        "explains decision",
+        "revive character the",
+        "fest",
+        "once upon",
+        "time",
+        "hollywood"
+      ],
+      "hook": "تارانتینو: 17 دقیقه اول 'کلیف بوت' را در AFI Fest نشان داد",
+      "hooks": [
+        "تارانتینو: اولین 17 دقیقه 'کلیف بوت' در جشنواره AFI",
+        "تارانتینو بازگشت 'کلیف بوت' را در AFI Fest معرفی کرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تارانتینو 17 دقیقه اول 'کلیف بوت' را در AFI Fest به نمایش گذاشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 333,
+      "published_at": "2026-10-24T13:04:04.694335+00:00",
+      "text": "تارانتینو: 17 دقیقه اول 'کلیف بوت' را در AFI Fest نشان داد\n\n🎬 تارانتینو 17 دقیقه اول 'کلیف بوت' را در AFI Fest به نمایش گذاشت\n\nدر جشنواره AFI، کارگردان مشهور کوئنت تارانتینو، 17 دقیقه اول فیلم «کلیف بوت» را به نمایش گذاشت.\nاین فیلم، ادامهٔ داستان شخصیت «کلیف بوت» است که در فیلم «Once Upon a Time in Hollywood» معرفی شد و تارانتینو توضیح داد که چرا این شخصیت را دوباره زنده کرده است.\n\n📌 نکات مهم:\n• تارانتینو 17 دقیقه اول 'کلیف بوت' را نشان داد\n• نمایش در جشنواره AFI Fest پس از نمایش 'Once Upon a Time in Hollywood' بود\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17235,7 +17286,8 @@
     "7e4c962c9822119c269a33a6",
     "660514adf935af833b12fb23",
     "9e805b4237b7a5f0652e1bae",
-    "7bf8222793e44e0ba6082358"
+    "7bf8222793e44e0ba6082358",
+    "e2fd1139ff52f1e7b871a2e5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17564,7 +17616,8 @@
     "https://deadline.com/2026/10/dylan-douglas-movie-debut-hit-on-hitler-first-look-afm-1237171688",
     "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
     "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
-    "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead"
+    "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+    "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509"
   ],
   "category_stats": {
     "movie_news": {
@@ -17574,7 +17627,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 123,
+      "published": 124,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17669,7 +17722,7 @@
       "published": 1
     },
     "13": {
-      "published": 27
+      "published": 28
     },
     "17": {
       "published": 38
@@ -17697,64 +17750,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-13T23:41:23.299977+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-14T09:59:55.867718+00:00",
       "version": 2,
@@ -20712,6 +20707,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-24T13:04:04.694449+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21040,9 +21093,88 @@
     "69319555a5c50df1",
     "8634a5eb58e3307c",
     "61056ddf2168dbe4",
-    "8798de447c06a8d0"
+    "8798de447c06a8d0",
+    "6bcf440087d655d9"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 2,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "tarantino": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "quentin tarantino shows": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "off first": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "minutes": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cliff booth": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "explains decision": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "revive character the": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fest": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "once upon": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "time": {
+      "count": 1,
+      "last_seen": "2026-10-24T13:04:04.694363+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "wednesday": {
       "count": 3,
       "last_seen": "2026-10-24T09:21:53.883289+00:00",
@@ -21923,13 +22055,6 @@
       ]
     },
     "production keeps falling": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hollywood": {
       "count": 1,
       "last_seen": "2026-10-21T23:09:24.764385+00:00",
       "categories": [
@@ -23799,76 +23924,6 @@
     "the julia set": {
       "count": 1,
       "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "acquired by sony": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pictures classics after": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "premiere sony pictures": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "classics": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "niki byrne": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "toronto film festival": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "infiniti": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "one battle after": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "is meme casting": {
-      "count": 1,
-      "last_seen": "2026-10-16T17:07:41.639600+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "viable hollywood marketing": {
-      "count": 1,
-      "last_seen": "2026-10-16T17:07:41.639600+00:00",
       "categories": [
         "actors_directors"
       ]
