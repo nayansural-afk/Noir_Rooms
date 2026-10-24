@@ -16957,6 +16957,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "df8829a1a72744b8c77a6f7b",
+      "story_id": "6869ced286aefc20",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
+      "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
+      "category": "movie_news",
+      "score": 55.61,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 78.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "dc",
+        "batman",
+        "superman",
+        "spider-man",
+        "oscar",
+        "clayface",
+        "liverpool",
+        "gotham city",
+        "there",
+        "spider",
+        "covid"
+      ],
+      "hook": "فلم Clayface: بدن‌تبدیل، خونین، اما کم‌کیفیت",
+      "hooks": [
+        "Clayface: بدن‌تبدیل و خونین",
+        "فلم کم‌کیفیت با گورای زیاد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فلم بسیار خونین اما کیفیت پایین است"
+      ],
+      "status": "published",
+      "telegram_message_id": 334,
+      "published_at": "2026-10-24T16:23:30.267043+00:00",
+      "text": "فلم Clayface: بدن‌تبدیل، خونین، اما کم‌کیفیت\n\n🎬 Clayface: بدن‌تبدیل DC، گورای زیاد ولی کم‌کیفیت\n\nفلم Clayface، بر اساس شخصیت کم‌مشهور باتمن، در لندن ساخته شد و لندن را به گاتهام تبدیل می‌کند. در حالی که DC در حال خستگی از افسانه‌های ابرقهرمانی است، این فیلم به‌عنوان یک تلاش متوسط برای کسب سود معرفی می‌شود.\n\nفیلم با گورای فراوان، اما کیفیت پایین، در حالی که DC در تلاش برای بازسازی کیفیت است، به‌طور کلی کم‌کیفیت باقی می‌ماند.\n\n📌 نکات مهم:\n• فلم Clayface بر اساس شخصیت کم‌مشهور باتمن است\n• فیلم در لندن ساخته شد و لندن را به گاتهام تبدیل می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17287,7 +17339,8 @@
     "660514adf935af833b12fb23",
     "9e805b4237b7a5f0652e1bae",
     "7bf8222793e44e0ba6082358",
-    "e2fd1139ff52f1e7b871a2e5"
+    "e2fd1139ff52f1e7b871a2e5",
+    "df8829a1a72744b8c77a6f7b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17617,11 +17670,12 @@
     "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018",
     "https://deadline.com/2026/10/leslie-bibb-upgraded-2-camila-mendes-1237171787",
     "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
-    "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509"
+    "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
+    "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 170,
+      "published": 171,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17677,7 +17731,7 @@
       "published": 12
     },
     "16": {
-      "published": 13
+      "published": 14
     },
     "18": {
       "published": 14
@@ -17750,64 +17804,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-14T09:59:55.867718+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "CAPA Deputy Director Unveils Sean Connery Doc; Talks Mission To Expand French Company’s International Reach",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-14T14:18:09.858736+00:00",
       "version": 2,
@@ -20765,6 +20761,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-24T16:23:30.267151+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21094,9 +21148,97 @@
     "8634a5eb58e3307c",
     "61056ddf2168dbe4",
     "8798de447c06a8d0",
-    "6bcf440087d655d9"
+    "6bcf440087d655d9",
+    "6869ced286aefc20"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 34,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "superman": {
+      "count": 2,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dc": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "batman": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spider-man": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "clayface": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "liverpool": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gotham city": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "there": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "spider": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "covid": {
+      "count": 1,
+      "last_seen": "2026-10-24T16:23:30.267077+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hollywood": {
       "count": 2,
       "last_seen": "2026-10-24T13:04:04.694363+00:00",
@@ -21603,15 +21745,6 @@
       "last_seen": "2026-10-23T09:50:37.825778+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 33,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "richard gadd": {
@@ -22966,13 +23099,6 @@
         "movie_news"
       ]
     },
-    "superman": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "tony revolori": {
       "count": 1,
       "last_seen": "2026-10-19T16:09:11.071810+00:00",
@@ -23856,76 +23982,6 @@
       "last_seen": "2026-10-17T09:06:45.970646+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "written": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy slater": {
-      "count": 1,
-      "last_seen": "2026-10-17T09:06:45.970646+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roger corman movies": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beast from haunted": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cave": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ski troop attack": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "atlas": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shakespeare": {
-      "count": 1,
-      "last_seen": "2026-10-16T22:44:21.829456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chase infiniti": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the julia set": {
-      "count": 1,
-      "last_seen": "2026-10-16T19:46:30.032103+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
