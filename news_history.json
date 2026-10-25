@@ -17313,6 +17313,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "fc1be75214a280bd92ae322c",
+      "story_id": "e3ae4ae46b123796",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
+      "title": "Peggy King, ‘George Gobel Show’ Actress and Singer of the ’50s, Dies at 96",
+      "category": "actors_directors",
+      "score": 71.5,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "peggy king",
+        "george gobel show",
+        "actress",
+        "singer",
+        "dies",
+        "sunday",
+        "alzheimer",
+        "saunders house assisted",
+        "living",
+        "wynnewood",
+        "king",
+        "alan eicher"
+      ],
+      "hook": "مردن پرستار دوران طلایی تلویزیون",
+      "hooks": [
+        "مغز و صدا در ۵۰ها از دست رفت",
+        "یک ستاره ۵۰ها درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پِگی کینگ در سن ۹۶ سالگی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 341,
+      "published_at": "2026-10-25T22:25:34.795967+00:00",
+      "text": "مردن پرستار دوران طلایی تلویزیون\n\n🎬 پِگی کینگ، ستارهٔ تلویزیون و خوانندهٔ دههٔ ۵۰، درگذشت\n\nپِگی کینگ، ستارهٔ تلویزیون و خوانندهٔ دههٔ ۵۰، درگذشت.\n\nاو در سن ۹۶ سالگی در مرکز Saunders House Assisted Living در Wynnewood، پنسیلوانیا، جان باخت. او در برنامهٔ \"George Gobel Show\" از سال ۱۹۵۴ تا ۱۹۵۷ حضور داشت.\n\n📌 نکات مهم:\n• پِگی کینگ در سن ۹۶ سالگی درگذشت\n• او در برنامهٔ \"George Gobel Show\" از ۱۹۵۴ تا ۱۹۵۷ حضور داشت\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17650,7 +17702,8 @@
     "263abe2025e0655efe7c3982",
     "8a51a5146b436a7ed11fbe7b",
     "68e866079ef2364642d7840b",
-    "45f629188710a3c1b77b14ec"
+    "45f629188710a3c1b77b14ec",
+    "fc1be75214a280bd92ae322c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17987,7 +18040,8 @@
     "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503",
     "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
     "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
-    "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287"
+    "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
+    "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847"
   ],
   "category_stats": {
     "movie_news": {
@@ -17997,7 +18051,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 130,
+      "published": 131,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18071,7 +18125,7 @@
       "published": 17
     },
     "22": {
-      "published": 16
+      "published": 17
     },
     "7": {
       "published": 2
@@ -18120,64 +18174,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-15T17:32:15.263174+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-15T20:08:23.685814+00:00",
       "version": 2,
@@ -21135,6 +21131,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-25T22:25:34.796087+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21471,9 +21525,95 @@
     "7312c9fa22b2c875",
     "574407b84298fe35",
     "7ae9695d0abc50ab",
-    "7aa46a0beded9d62"
+    "7aa46a0beded9d62",
+    "e3ae4ae46b123796"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 16,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "actress": {
+      "count": 2,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peggy king": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "george gobel show": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "singer": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sunday": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alzheimer": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "saunders house assisted": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "living": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wynnewood": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "king": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alan eicher": {
+      "count": 1,
+      "last_seen": "2026-10-25T22:25:34.796003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "before": {
       "count": 1,
       "last_seen": "2026-10-25T19:24:25.227990+00:00",
@@ -22627,14 +22767,6 @@
     },
     "star": {
       "count": 12,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 15,
       "last_seen": "2026-10-22T20:21:39.275406+00:00",
       "categories": [
         "actors_directors",
@@ -23956,13 +24088,6 @@
         "actors_directors"
       ]
     },
-    "actress": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "broadway": {
       "count": 1,
       "last_seen": "2026-10-18T22:21:37.381694+00:00",
@@ -24232,76 +24357,6 @@
     "abdallah dnewar": {
       "count": 1,
       "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "saudi arabian": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paul": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "was concerned paul": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mescal is": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "markedly shorter": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "than": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the beatles": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stars as beatles": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "abbey road": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sam mendes": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
       "categories": [
         "actors_directors"
       ]
