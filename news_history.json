@@ -17208,6 +17208,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "68e866079ef2364642d7840b",
+      "story_id": "7ae9695d0abc50ab",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
+      "title": "‘Clayface’ Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
+      "category": "actors_directors",
+      "score": 75.2,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "dc",
+        "batman",
+        "clayface",
+        "director james watkins",
+        "explains that",
+        "cameo",
+        "introducing gotham city",
+        "universe",
+        "shape",
+        "shifting kills",
+        "this",
+        "matt reeves"
+      ],
+      "hook": "جنگ‌وای شکل‌پذیر در گاتهام: جیمز واتکینز توضیح می‌دهد",
+      "hooks": [
+        "جیمز واتکینز درباره کِیوم توضیح می‌دهد",
+        "گاتهام در دنیای DC بازتاب می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیمز واتکینز توضیح می‌دهد کِیوم در فیلم وجود دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 339,
+      "published_at": "2026-10-25T16:55:23.763894+00:00",
+      "text": "جنگ‌وای شکل‌پذیر در گاتهام: جیمز واتکینز توضیح می‌دهد\n\n🎬 جیمز واتکینز: کِیوم «Clayface» و معرفی گاتهام در دنیای DC\n\nفیلم «Clayface»، با رده R، در حال حاضر در سینماها به نمایش در می‌آید و به‌عنوان یک هورر بدنی شناخته می‌شود. در این فیلم، جیمز واتکینز توضیح می‌دهد که کِیوم کوتاه‌مدتی در فیلم حضور دارد و گاتهام را به دنیای DC معرفی می‌کند.\n\nفان‌های باتمن باید صبر کنند تا در سری بعدی که توسط مت ریوز و رابرت پاتینسون ساخته می‌شود، حضور یابند، اما در «Clayface» می‌توانند نگاهی به گاتهام تازه بازسازی‌شده بیندازند.\n\n📌 نکات مهم:\n• جیمز واتکینز توضیح می‌دهد کِیوم در فیلم وجود دارد\n• گاتهام در دنیای DC معرفی می‌شود\n• فیلم R-rated body horror است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17543,7 +17596,8 @@
     "e02ec406a9825d905c716c9a",
     "045d4acf26babd94f36f6c87",
     "263abe2025e0655efe7c3982",
-    "8a51a5146b436a7ed11fbe7b"
+    "8a51a5146b436a7ed11fbe7b",
+    "68e866079ef2364642d7840b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17878,7 +17932,8 @@
     "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222",
     "https://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584",
     "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503",
-    "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862"
+    "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
+    "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644"
   ],
   "category_stats": {
     "movie_news": {
@@ -17888,7 +17943,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 128,
+      "published": 129,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17938,7 +17993,7 @@
       "published": 12
     },
     "16": {
-      "published": 14
+      "published": 15
     },
     "18": {
       "published": 14
@@ -18011,64 +18066,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-15T09:41:58.529048+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-15T13:53:51.223318+00:00",
       "version": 2,
@@ -21026,6 +21023,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-25T16:55:23.764027+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21360,9 +21415,97 @@
     "2a163d24f783aa84",
     "55ad45390cfa4eb8",
     "7312c9fa22b2c875",
-    "574407b84298fe35"
+    "574407b84298fe35",
+    "7ae9695d0abc50ab"
   ],
   "entity_memory": {
+    "dc": {
+      "count": 2,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "batman": {
+      "count": 2,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "clayface": {
+      "count": 2,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "director james watkins": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "explains that": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cameo": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "introducing gotham city": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "universe": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shape": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shifting kills": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "this": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "matt reeves": {
+      "count": 1,
+      "last_seen": "2026-10-25T16:55:23.763926+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "a24": {
       "count": 6,
       "last_seen": "2026-10-25T13:32:14.556997+00:00",
@@ -21644,28 +21787,7 @@
         "movie_news"
       ]
     },
-    "dc": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "batman": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "spider-man": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "clayface": {
       "count": 1,
       "last_seen": "2026-10-24T16:23:30.267077+00:00",
       "categories": [
@@ -24128,69 +24250,6 @@
       "last_seen": "2026-10-17T22:09:34.924639+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "sense": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sensibility": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "costume designer": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "blending historical accuracy": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "modern styling": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dashwood sisters": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "we want": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "do jane austen": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "justice": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
