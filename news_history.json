@@ -17155,6 +17155,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8a51a5146b436a7ed11fbe7b",
+      "story_id": "574407b84298fe35",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
+      "title": "Nathan Fielder Negotiated a ‘Kill Switch’ on ‘You Can See Everything,’ Says Lance Oppenheim: ‘If We Didn’t Find Something, We Could Just Throw It All Away’",
+      "category": "actors_directors",
+      "score": 69.39,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "a24",
+        "nathan fielder negotiated",
+        "kill switch",
+        "you can see",
+        "everything",
+        "says lance oppenheim",
+        "if we didn",
+        "find something",
+        "we could just",
+        "throw it all",
+        "away",
+        "elizabeth holmes"
+      ],
+      "hook": "ناتان فیلدر قرارداد 'سوئیچ کشت' برای فیلم 'You Can See Everything'",
+      "hooks": [
+        "فیلدر و A24: سوئیچ کشت برای جلوگیری از بی‌فایده",
+        "سینمایی که می‌تواند همه چیز را ببرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ناتان فیلدر قرارداد 'سوئیچ کشت' با A24"
+      ],
+      "status": "published",
+      "telegram_message_id": 338,
+      "published_at": "2026-10-25T13:32:14.556965+00:00",
+      "text": "ناتان فیلدر قرارداد 'سوئیچ کشت' برای فیلم 'You Can See Everything'\n\n🎬 ناتان فیلدر قرارداد 'سوئیچ کشت' با A24 برای فیلم 'You Can See Everything'\n\nفیلم مستند 'You Can See Everything' که به زندگی الیزابت هولمز می‌پردازد، در حال حاضر یکی از پرطرفدارترین آثار سینمایی است. در حالی که لانس اپن‌هیم به عنوان هم‌کارگردان، به شک و تردید ناتان فیلدر درباره روایت‌سازی اشاره کرد، فیلدر با A24 قرارداد 'سوئیچ کشت' منعقد کرد تا در صورت عدم یافتن داستانی مناسب، بتوانند پروژه را کنار بگذارند.\n\n📌 نکات مهم:\n• ناتان فیلدر قرارداد 'سوئیچ کشت' با A24\n• لانس اپن‌هیم به شک و تردید فیلدر درباره روایت‌سازی اشاره کرد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17489,7 +17542,8 @@
     "df8829a1a72744b8c77a6f7b",
     "e02ec406a9825d905c716c9a",
     "045d4acf26babd94f36f6c87",
-    "263abe2025e0655efe7c3982"
+    "263abe2025e0655efe7c3982",
+    "8a51a5146b436a7ed11fbe7b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17823,7 +17877,8 @@
     "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
     "https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222",
     "https://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584",
-    "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503"
+    "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503",
+    "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862"
   ],
   "category_stats": {
     "movie_news": {
@@ -17833,7 +17888,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 127,
+      "published": 128,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -17928,7 +17983,7 @@
       "published": 1
     },
     "13": {
-      "published": 28
+      "published": 29
     },
     "17": {
       "published": 38
@@ -17956,64 +18011,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-14T23:06:39.643954+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-15T09:41:58.529048+00:00",
       "version": 2,
@@ -20971,6 +20968,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-25T13:32:14.557078+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21304,9 +21359,99 @@
     "6869ced286aefc20",
     "2a163d24f783aa84",
     "55ad45390cfa4eb8",
-    "7312c9fa22b2c875"
+    "7312c9fa22b2c875",
+    "574407b84298fe35"
   ],
   "entity_memory": {
+    "a24": {
+      "count": 6,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "you can see": {
+      "count": 3,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "everything": {
+      "count": 3,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "elizabeth holmes": {
+      "count": 3,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "nathan fielder negotiated": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kill switch": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "if we didn": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "find something": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "we could just": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "throw it all": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "away": {
+      "count": 1,
+      "last_seen": "2026-10-25T13:32:14.556997+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "extends duncan crabtree": {
       "count": 1,
       "last_seen": "2026-10-25T09:39:40.843840+00:00",
@@ -22755,40 +22900,7 @@
         "actors_directors"
       ]
     },
-    "a24": {
-      "count": 5,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies",
-        "actors_directors"
-      ]
-    },
-    "you can see": {
-      "count": 2,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "everything": {
-      "count": 2,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "nathan fielder": {
-      "count": 2,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "elizabeth holmes": {
       "count": 2,
       "last_seen": "2026-10-21T09:55:36.659628+00:00",
       "categories": [
@@ -24077,64 +24189,6 @@
     "justice": {
       "count": 1,
       "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "grace snell": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "georgia oakley": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jane austen": {
-      "count": 1,
-      "last_seen": "2026-10-17T18:57:48.979641+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michael forest": {
-      "count": 2,
-      "last_seen": "2026-10-17T16:03:16.549701+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "star trek": {
-      "count": 2,
-      "last_seen": "2026-10-17T16:03:16.549701+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "michael forest dies": {
-      "count": 1,
-      "last_seen": "2026-10-17T16:03:16.549701+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor in roger": {
-      "count": 1,
-      "last_seen": "2026-10-17T16:03:16.549701+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "corman": {
-      "count": 1,
-      "last_seen": "2026-10-17T16:03:16.549701+00:00",
       "categories": [
         "actors_directors"
       ]
