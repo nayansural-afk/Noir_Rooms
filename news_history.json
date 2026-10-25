@@ -17261,6 +17261,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "45f629188710a3c1b77b14ec",
+      "story_id": "7aa46a0beded9d62",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
+      "title": "Before ‘Obsession’ and ‘Backrooms,’ ‘Lights Out’ Blazed the Trail From YouTube to Studio Hit",
+      "category": "actors_directors",
+      "score": 64.54,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": false,
+      "entities": [
+        "before",
+        "obsession",
+        "backrooms",
+        "lights out",
+        "blazed",
+        "trail from",
+        "studio hit the",
+        "swedish",
+        "david",
+        "sandberg",
+        "reddit",
+        "new line"
+      ],
+      "hook": "Lights Out: از یوتیوب تا هالیوود، پیشگام ترس",
+      "hooks": [
+        "سریال ترسناک که به هالیوود رسید",
+        "دستگاه ترس: از Reddit تا بلوک‌بستر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Lights Out پیشگام ترس در هالیوود"
+      ],
+      "status": "published",
+      "telegram_message_id": 340,
+      "published_at": "2026-10-25T19:24:25.227957+00:00",
+      "text": "Lights Out: از یوتیوب تا هالیوود، پیشگام ترس\n\n🎬 Lights Out: پیشگام ترس از یوتیوب تا هالیوود\n\nدستگاه ترسناک کوتاه ساختهٔ دانیل ف. ساندبرگ، یک کارگردان سوئدی، 10 سال پیش در یوتیوب منتشر شد و در Reddit به سرعت پخش شد.\nاین پست به New Line رسید و تبدیل به یک بلوک‌بستر شد، مسیر را برای فیلم‌های ترسناک آینده مانند Obsession و Backrooms هموار کرد.\n\n📌 نکات مهم:\n• دانیل ف. ساندبرگ کارگردان سوئدی\n• 10 سال پیش در یوتیوب منتشر شد و در Reddit پخش شد\n• New Line تبدیل به بلوک‌بستر کرد\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17597,7 +17649,8 @@
     "045d4acf26babd94f36f6c87",
     "263abe2025e0655efe7c3982",
     "8a51a5146b436a7ed11fbe7b",
-    "68e866079ef2364642d7840b"
+    "68e866079ef2364642d7840b",
+    "45f629188710a3c1b77b14ec"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -17933,7 +17986,8 @@
     "https://www.hollywoodreporter.com/news/general-news/jeff-garlin-suicidal-goldbergs-exit-1236739584",
     "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503",
     "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
-    "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644"
+    "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
+    "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287"
   ],
   "category_stats": {
     "movie_news": {
@@ -17943,7 +17997,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 129,
+      "published": 130,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18014,7 +18068,7 @@
       "published": 23
     },
     "19": {
-      "published": 16
+      "published": 17
     },
     "22": {
       "published": 16
@@ -18066,64 +18120,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-15T13:53:51.223318+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature ‘A Woman Asleep’ for Theatrical Release (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film ‘Deadlocked’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-15T17:32:15.263174+00:00",
       "version": 2,
@@ -21081,6 +21077,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-25T19:24:25.228062+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        },
+        {
+          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
+          "category": "movie_news",
+          "score": 87.06,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21416,9 +21470,94 @@
     "55ad45390cfa4eb8",
     "7312c9fa22b2c875",
     "574407b84298fe35",
-    "7ae9695d0abc50ab"
+    "7ae9695d0abc50ab",
+    "7aa46a0beded9d62"
   ],
   "entity_memory": {
+    "before": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "obsession": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "backrooms": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lights out": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "blazed": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "trail from": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "studio hit the": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "swedish": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sandberg": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "reddit": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "new line": {
+      "count": 1,
+      "last_seen": "2026-10-25T19:24:25.227990+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dc": {
       "count": 2,
       "last_seen": "2026-10-25T16:55:23.763926+00:00",
@@ -24165,91 +24304,6 @@
       "last_seen": "2026-10-18T09:24:34.752655+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "paul mescal": {
-      "count": 1,
-      "last_seen": "2026-10-18T09:24:34.752655+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "universal": {
-      "count": 3,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "harry styles": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "together": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tour doc coming": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from john wilson": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "universal pictures content": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "group": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "madison square garden": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "john wilson": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the history": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "concrete": {
-      "count": 1,
-      "last_seen": "2026-10-17T22:09:34.924639+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
