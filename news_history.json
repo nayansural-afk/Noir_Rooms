@@ -17412,6 +17412,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f514f3a6c213768218854b49",
+      "story_id": "4e2616ba1f9552c6",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
+      "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "keanu reeves",
+        "star",
+        "netflix action movie",
+        "maelstrom",
+        "after alan ritchson",
+        "drops out keanu",
+        "reeves",
+        "reacher",
+        "alan ritchson",
+        "carry",
+        "jaume collet"
+      ],
+      "hook": "کینو ریوز در فیلم اکشن نِتفلیکس «مایل‌استرم»",
+      "hooks": [
+        "نِتفلیکس با کینو ریوز، فیلم جدید «مایل‌استرم»",
+        "کینو ریوز در نقش مارشال فدرال در «مایل‌استرم»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کینو ریوز در نقش اصلی فیلم «مایل‌استرم»"
+      ],
+      "status": "published",
+      "telegram_message_id": 343,
+      "published_at": "2026-10-26T15:48:37.387362+00:00",
+      "text": "کینو ریوز در فیلم اکشن نِتفلیکس «مایل‌استرم»\n\n🎬 کینو ریوز در نقش مارشال فدرال در فیلم اکشن نِتفلیکس «مایل‌استرم»\n\nنِتفلیکس با بازی کینو ریوز، فیلم اکشن جدیدی به نام «مایل‌استرم» را معرفی می‌کند. این پروژه پس از خروج آلن ریتشون، بازیگر سریال «ریچر»، به دست کینو ریوز رسید.\nفیلم توسط کارگردان «کری‑آن» جائومه کولِت‑سررا هدایت می‌شود و داستان مارشال فدرال را دنبال می‌کند که در حین محافظت از داماد یک تاجر اسلحه، او را در مسیر حفاظت از شاهد قرار می‌دهد.\n\n📌 نکات مهم:\n• کینو ریوز در نقش اصلی فیلم «مایل‌استرم»\n• جائومه کولِت‑سررا کارگردان فیلم\n• فیلم در نِتفلیکس منتشر می‌شود\n• داستان حول مارشال فدرال و محافظت از داماد تاجر اسلحه می‌چرخد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17751,7 +17804,8 @@
     "68e866079ef2364642d7840b",
     "45f629188710a3c1b77b14ec",
     "fc1be75214a280bd92ae322c",
-    "ecef91495c9d4723d67cb607"
+    "ecef91495c9d4723d67cb607",
+    "f514f3a6c213768218854b49"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18090,11 +18144,12 @@
     "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
     "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
     "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
-    "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949"
+    "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
+    "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 172,
+      "published": 173,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18186,7 +18241,7 @@
       "published": 1
     },
     "15": {
-      "published": 11
+      "published": 12
     },
     "1": {
       "published": 3
@@ -18223,64 +18278,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-15T22:59:08.614228+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-16T09:35:40.317354+00:00",
       "version": 2,
@@ -21238,6 +21235,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-26T15:48:37.387467+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21576,9 +21631,97 @@
     "7ae9695d0abc50ab",
     "7aa46a0beded9d62",
     "e3ae4ae46b123796",
-    "ef5a1707d295cbeb"
+    "ef5a1707d295cbeb",
+    "4e2616ba1f9552c6"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 10,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 13,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "keanu reeves": {
+      "count": 2,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "netflix action movie": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maelstrom": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "after alan ritchson": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drops out keanu": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reeves": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reacher": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "alan ritchson": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "carry": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jaume collet": {
+      "count": 1,
+      "last_seen": "2026-10-26T15:48:37.387394+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "leaves": {
       "count": 1,
       "last_seen": "2026-10-26T10:53:11.656791+00:00",
@@ -22620,15 +22763,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 9,
-      "last_seen": "2026-10-23T14:01:56.964173+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "season": {
       "count": 2,
       "last_seen": "2026-10-23T14:01:56.964173+00:00",
@@ -22855,14 +22989,6 @@
       "last_seen": "2026-10-22T23:11:01.184334+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "star": {
-      "count": 12,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "mentored": {
@@ -23497,13 +23623,6 @@
       "last_seen": "2026-10-20T23:05:37.816883+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "keanu reeves": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "talks": {
@@ -24346,69 +24465,6 @@
       "last_seen": "2026-10-18T16:16:42.737371+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "have very strong": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "feelings": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in august": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stanford": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "philip zimbardo": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "office": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "el gouna unveils": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "third cohort of": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "emerge program": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
