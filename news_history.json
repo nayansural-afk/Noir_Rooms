@@ -17518,6 +17518,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "647481a6fbee72f8f77a484f",
+      "story_id": "c84205c16b35fd4f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
+      "title": "Walter Koenig Dies: ‘Star Trek’s Original Ensign Chekov Was 90",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "walter koenig dies",
+        "star trek",
+        "original ensign chekov",
+        "walter koenig",
+        "ensign pavel chekov",
+        "enterprise",
+        "sunday",
+        "zachery",
+        "galactic productions",
+        "monday",
+        "facebook",
+        "koenig"
+      ],
+      "hook": "وولتر کوینک، ستارک ترک، درگذشت",
+      "hooks": [
+        "وولتر کوینک درگذشت",
+        "ستارک ترک: درگذشت وولتر کوینک"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "وولتر کوینک درگذشت به علت علل طبیعی",
+        "او ۹۰ سال داشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 345,
+      "published_at": "2026-10-26T21:16:45.343884+00:00",
+      "text": "وولتر کوینک، ستارک ترک، درگذشت\n\n🎬 وولتر کوینک، نقش چکوف در ستارک ترک، درگذشت در سن ۹۰ سالگی\n\nوولتر کوینک، بازیگر نقش چکوف در سریال ستارک ترک، درگذشت. او در سن ۹۰ سالگی به علت علل طبیعی در شمال هالیوود جان خود را از دست داد.\n\nاین خبر از طریق نماینده او و پست زکری مک‌گینس در فیسبوک تأیید شد.\n\n📌 نکات مهم:\n• وولتر کوینک در سن ۹۰ سالگی درگذشت\n• نقش چکوف در ستارک ترک را ایفا کرده بود\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17859,7 +17912,8 @@
     "fc1be75214a280bd92ae322c",
     "ecef91495c9d4723d67cb607",
     "f514f3a6c213768218854b49",
-    "c62f494321c0bbcb0c48bf2a"
+    "c62f494321c0bbcb0c48bf2a",
+    "647481a6fbee72f8f77a484f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18200,11 +18254,12 @@
     "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
     "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
     "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
-    "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271"
+    "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
+    "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 174,
+      "published": 175,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18269,7 +18324,7 @@
       "published": 34
     },
     "21": {
-      "published": 19
+      "published": 20
     },
     "23": {
       "published": 22
@@ -18333,64 +18388,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-16T13:43:05.595302+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-16T17:07:41.639670+00:00",
       "version": 2,
@@ -21348,6 +21345,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-26T21:16:45.343993+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21688,9 +21743,95 @@
     "e3ae4ae46b123796",
     "ef5a1707d295cbeb",
     "4e2616ba1f9552c6",
-    "936745b71d048043"
+    "936745b71d048043",
+    "c84205c16b35fd4f"
   ],
   "entity_memory": {
+    "sunday": {
+      "count": 2,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "walter koenig dies": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "star trek": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "original ensign chekov": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "walter koenig": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ensign pavel chekov": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "enterprise": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zachery": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "galactic productions": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "monday": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "facebook": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "koenig": {
+      "count": 1,
+      "last_seen": "2026-10-26T21:16:45.343916+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "emmy": {
       "count": 4,
       "last_seen": "2026-10-26T18:57:57.616151+00:00",
@@ -21935,13 +22076,6 @@
       ]
     },
     "singer": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sunday": {
       "count": 1,
       "last_seen": "2026-10-25T22:25:34.796003+00:00",
       "categories": [
@@ -24443,83 +24577,6 @@
     "ethel merman": {
       "count": 1,
       "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bea arthur": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "susan hayward": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joanna kerns": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "smoke": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kate malone": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "motion picture": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "television fund": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "wasserman campus": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "woodland hills": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "spurred": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "meme craze": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
       "categories": [
         "actors_directors"
       ]
