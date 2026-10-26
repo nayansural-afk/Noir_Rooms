@@ -17571,6 +17571,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d51d968cff2b169c1fe656a4",
+      "story_id": "ec5b9cccac39ddc9",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
+      "title": "Indio Downey Books First Lead Movie Role With Addiction Drama ‘Love In Vein’; ‘American Psycho’ Producer Aboard",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "indio downey books",
+        "first lead movie",
+        "role with addiction",
+        "drama",
+        "love in vein",
+        "american psycho",
+        "producer aboard indio",
+        "downey",
+        "robert downey jr",
+        "written",
+        "will de los",
+        "santos"
+      ],
+      "hook": "دونی، اولین نقش اصلی در فیلم «Love In Vein»",
+      "hooks": [
+        "دونی در نقش اصلی در فیلم «Love In Vein»",
+        "فیلم «Love In Vein» با حضور دونی، پسر رابرٹ دونی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Indio Downey is son of Robert Downey Jr."
+      ],
+      "status": "published",
+      "telegram_message_id": 346,
+      "published_at": "2026-10-26T23:42:59.495750+00:00",
+      "text": "دونی، اولین نقش اصلی در فیلم «Love In Vein»\n\n🎬 دونی، پسر رابرٹ دونی، در نقش اصلی در فیلم «Love In Vein»\n\nدونی، پسر رابرٹ دونی، اولین نقش اصلی خود را در فیلم مستقل «Love In Vein» بازی می‌کند. این فیلم، نوشته و کارگردانی ویلی دی لو سوتانز است و بر اساس رمان «Wasting Talent» اثر رایان لئون ساخته شده و توسط Muse Productions همراه با ArtHouse Gooning تولید می‌شود.\n\n📌 نکات مهم:\n• دونی، پسر رابرٹ دونی، در نقش اصلی فیلم «Love In Vein»\n• فیلم توسط Will De Los Santos نوشته و کارگردانی شده و بر اساس رمان Wasting Talent ساخته شده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17913,7 +17966,8 @@
     "ecef91495c9d4723d67cb607",
     "f514f3a6c213768218854b49",
     "c62f494321c0bbcb0c48bf2a",
-    "647481a6fbee72f8f77a484f"
+    "647481a6fbee72f8f77a484f",
+    "d51d968cff2b169c1fe656a4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18255,11 +18309,12 @@
     "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
     "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
     "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
-    "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812"
+    "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
+    "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 175,
+      "published": 176,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18327,7 +18382,7 @@
       "published": 20
     },
     "23": {
-      "published": 22
+      "published": 23
     },
     "3": {
       "published": 2
@@ -18388,64 +18443,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-16T17:07:41.639670+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-16T19:46:30.032197+00:00",
       "version": 2,
@@ -21403,6 +21400,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-26T23:42:59.495854+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21744,9 +21799,94 @@
     "ef5a1707d295cbeb",
     "4e2616ba1f9552c6",
     "936745b71d048043",
-    "c84205c16b35fd4f"
+    "c84205c16b35fd4f",
+    "ec5b9cccac39ddc9"
   ],
   "entity_memory": {
+    "indio downey books": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first lead movie": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "role with addiction": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "drama": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "love in vein": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american psycho": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "producer aboard indio": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "downey": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "robert downey jr": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "written": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "will de los": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "santos": {
+      "count": 1,
+      "last_seen": "2026-10-26T23:42:59.495783+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sunday": {
       "count": 2,
       "last_seen": "2026-10-26T21:16:45.343916+00:00",
@@ -24493,90 +24633,6 @@
     "henry": {
       "count": 1,
       "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "widow": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kingston rumi southwick": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boarded": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bridge independent": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tallinn black nights": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "thomas mendolia": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "banks repeta": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the black phone": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "betty": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "growing pains": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ethel merman": {
-      "count": 1,
-      "last_seen": "2026-10-18T22:21:37.381694+00:00",
       "categories": [
         "actors_directors"
       ]
