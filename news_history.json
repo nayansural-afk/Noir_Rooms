@@ -17365,6 +17365,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ecef91495c9d4723d67cb607",
+      "story_id": "ef5a1707d295cbeb",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
+      "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "leaves",
+        "audience roaring",
+        "celebrating human",
+        "made films",
+        "era who",
+        "that"
+      ],
+      "hook": "دوران جدیدی از دایناسورهای دست‌ساخته در جشن فیلم‌سازی انسانی",
+      "hooks": [
+        "سینمایی که دایناسورهای دست‌ساخته را به نمایش می‌گذارد",
+        "جشن فیلم‌سازی انسانی در عصر هوش مصنوعی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "‘VelociPastor 2’ جشن فیلم‌سازی انسانی در عصر هوش مصنوعی را به نمایش می‌گذارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 342,
+      "published_at": "2026-10-26T10:53:11.656757+00:00",
+      "text": "دوران جدیدی از دایناسورهای دست‌ساخته در جشن فیلم‌سازی انسانی\n\n🎬 ‘VelociPastor 2’ در جشن FilmQuest صداهای هیجان‌انگیز می‌سازد\n\n‘VelociPastor 2’، دنبالهٔ طولانی‌منتظر 2017، در جشن FilmQuest حضور داشت و تماشاگران را شگفت‌زده کرد. فیلم با دایناسورهای دست‌ساخته، دمی‌های واضح و خطوط ردیابی قابل مشاهده، جشن فیلم‌سازی انسانی در عصر هوش مصنوعی را جشن می‌گیرد.\n\n📌 نکات مهم:\n• دنبالهٔ 2017 فیلم ‘The VelociPastor’\n• استفاده از دایناسورهای دست‌ساخته و خطوط ردیابی واضح\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17703,7 +17750,8 @@
     "8a51a5146b436a7ed11fbe7b",
     "68e866079ef2364642d7840b",
     "45f629188710a3c1b77b14ec",
-    "fc1be75214a280bd92ae322c"
+    "fc1be75214a280bd92ae322c",
+    "ecef91495c9d4723d67cb607"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18041,11 +18089,12 @@
     "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
     "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644",
     "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
-    "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847"
+    "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
+    "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 171,
+      "published": 172,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18092,7 +18141,7 @@
       "published": 3
     },
     "10": {
-      "published": 9
+      "published": 10
     },
     "11": {
       "published": 17
@@ -18174,64 +18223,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-15T20:08:23.685814+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-15T22:59:08.614228+00:00",
       "version": 2,
@@ -21189,6 +21180,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-26T10:53:11.656870+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
+          "category": "actors_directors",
+          "score": 87.34,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21526,9 +21575,52 @@
     "574407b84298fe35",
     "7ae9695d0abc50ab",
     "7aa46a0beded9d62",
-    "e3ae4ae46b123796"
+    "e3ae4ae46b123796",
+    "ef5a1707d295cbeb"
   ],
   "entity_memory": {
+    "leaves": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "audience roaring": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "celebrating human": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "made films": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "era who": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "that": {
+      "count": 1,
+      "last_seen": "2026-10-26T10:53:11.656791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 16,
       "last_seen": "2026-10-25T22:25:34.796003+00:00",
@@ -24313,48 +24405,6 @@
       ]
     },
     "emerge program": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rising stars": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "egypt": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "el gouna film": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "arab": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "egyptian": {
-      "count": 1,
-      "last_seen": "2026-10-18T12:57:08.735051+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "abdallah dnewar": {
       "count": 1,
       "last_seen": "2026-10-18T12:57:08.735051+00:00",
       "categories": [
