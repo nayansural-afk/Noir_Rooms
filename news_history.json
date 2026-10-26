@@ -17465,6 +17465,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c62f494321c0bbcb0c48bf2a",
+      "story_id": "936745b71d048043",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
+      "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "abramorama dances to",
+        "north american rights",
+        "make work",
+        "about new york",
+        "city ballet",
+        "choreographic institute",
+        "abramorama",
+        "north american",
+        "new york choreographic",
+        "institute",
+        "emmy",
+        "linda saffire"
+      ],
+      "hook": "آبراموراما حق توزیع آمریکای شمالی مستند 'Make Work' را به دست آورد",
+      "hooks": [
+        "آبراموراما مستند 'Make Work' را در آمریکای شمالی به نمایش می‌گذارد",
+        "مستند 'Make Work' با حق توزیع آبراموراما در آمریکا رونمایی می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آبراموراما حق توزیع آمریکای شمالی مستند 'Make Work' را به دست آورد"
+      ],
+      "status": "published",
+      "telegram_message_id": 344,
+      "published_at": "2026-10-26T18:57:57.616101+00:00",
+      "text": "آبراموراما حق توزیع آمریکای شمالی مستند 'Make Work' را به دست آورد\n\n🎬 آبراموراما حق توزیع آمریکای شمالی مستند 'Make Work' را به دست آورد\n\nآبراموراما مستند 'Make Work' را که توسط لِیندا سافر و آدام شلنسگر ساخته شده، در آمریکای شمالی منتشر می‌کند.\nمستند دربارهٔ مؤسسهٔ رقص‌سازی نیویورک سیتی برکات و به‌دست آوردن حق توزیع در بازارهای سینمایی آمریکایی است.\n\n📌 نکات مهم:\n• آبراموراما حق توزیع آمریکای شمالی مستند 'Make Work' را به دست آورد\n• مستند توسط لِیندا سافر و آدام شلنسگر ساخته و توسط سافر، شلنسگر و ادریان دانچِیگ‑وارینگ تولید شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17805,7 +17858,8 @@
     "45f629188710a3c1b77b14ec",
     "fc1be75214a280bd92ae322c",
     "ecef91495c9d4723d67cb607",
-    "f514f3a6c213768218854b49"
+    "f514f3a6c213768218854b49",
+    "c62f494321c0bbcb0c48bf2a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18145,11 +18199,12 @@
     "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287",
     "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847",
     "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949",
-    "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242"
+    "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
+    "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 173,
+      "published": 174,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18208,7 +18263,7 @@
       "published": 15
     },
     "18": {
-      "published": 14
+      "published": 15
     },
     "20": {
       "published": 34
@@ -18278,64 +18333,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-16T09:35:40.317354+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-16T13:43:05.595302+00:00",
       "version": 2,
@@ -21293,6 +21290,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-26T18:57:57.616223+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21632,9 +21687,95 @@
     "7aa46a0beded9d62",
     "e3ae4ae46b123796",
     "ef5a1707d295cbeb",
-    "4e2616ba1f9552c6"
+    "4e2616ba1f9552c6",
+    "936745b71d048043"
   ],
   "entity_memory": {
+    "emmy": {
+      "count": 4,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "north american": {
+      "count": 2,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abramorama dances to": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north american rights": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "make work": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "about new york": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "city ballet": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "choreographic institute": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "abramorama": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new york choreographic": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "institute": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "linda saffire": {
+      "count": 1,
+      "last_seen": "2026-10-26T18:57:57.616151+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 10,
       "last_seen": "2026-10-26T15:48:37.387394+00:00",
@@ -22835,13 +22976,6 @@
         "actors_directors"
       ]
     },
-    "emmy": {
-      "count": 3,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "richard gadd": {
       "count": 1,
       "last_seen": "2026-10-23T09:50:37.825778+00:00",
@@ -23309,13 +23443,6 @@
       ]
     },
     "lineup featuring world": {
-      "count": 1,
-      "last_seen": "2026-10-21T20:25:23.197617+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "north american": {
       "count": 1,
       "last_seen": "2026-10-21T20:25:23.197617+00:00",
       "categories": [
@@ -24395,76 +24522,6 @@
       "last_seen": "2026-10-18T19:08:22.623855+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "got the many": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "to watch": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "documentary opens to": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "milestone less": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "theranos": {
-      "count": 1,
-      "last_seen": "2026-10-18T19:08:22.623855+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "inside": {
-      "count": 2,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the new stanford": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "prison experiment": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "controversial reality series": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "people are going": {
-      "count": 1,
-      "last_seen": "2026-10-18T16:16:42.737371+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
