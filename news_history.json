@@ -17676,6 +17676,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b61d751a82cfbd50de4a835b",
+      "story_id": "222b221a18146230",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
+      "title": "Sam Nivola, Nico Parker And Paul Giamatti To Star In ‘Grandgear’ From ‘Godzilla Minus One’ Director Takashi Yamazaki, J.J. Abrams And Sony Pictures",
+      "category": "actors_directors",
+      "score": 70.9,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "sam nivola",
+        "nico parker and",
+        "paul giamatti to",
+        "star in",
+        "grandgear",
+        "godzilla minus one",
+        "director takashi yamazaki",
+        "abrams and sony",
+        "pictures",
+        "takashi yamazaki",
+        "sources",
+        "deadline"
+      ],
+      "hook": "تیم نیا، نیکو پارکر و پل گایاماتی در 'Grandgear'",
+      "hooks": [
+        "دست‌نویس جدیدی از تاکاشی یامازاکی",
+        "پیش‌نمایش اولین فیلم استودیویی او"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تاکاشی یامازاکی در حال ساخت Grandgear است"
+      ],
+      "status": "published",
+      "telegram_message_id": 348,
+      "published_at": "2026-10-27T15:05:44.061832+00:00",
+      "text": "تیم نیا، نیکو پارکر و پل گایاماتی در 'Grandgear'\n\n🎬 تاکاشی یامازاکی، نیا، پارکر و گایاماتی در نقش‌های اصلی 'Grandgear'\n\nفیلم 'Grandgear' که توسط کارگردان سابق 'Godzilla Minus One'، تاکاشی یامازاکی، ساخته می‌شود، در حال آماده‌سازی است.\n\nدر این پروژه، سام نیا، نیکو پارکر و پل گایاماتی نقش‌های اصلی را بر عهده می‌گیرند.\n\n📌 نکات مهم:\n• تاکاشی یامازاکی کارگردان Grandgear است\n• سام نیا، نیکو پارکر و پل گایاماتی در نقش‌های اصلی حضور دارند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18020,7 +18072,8 @@
     "c62f494321c0bbcb0c48bf2a",
     "647481a6fbee72f8f77a484f",
     "d51d968cff2b169c1fe656a4",
-    "714e2c19c4b06915189e9613"
+    "714e2c19c4b06915189e9613",
+    "b61d751a82cfbd50de4a835b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18364,7 +18417,8 @@
     "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
     "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
     "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
-    "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859"
+    "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
+    "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160"
   ],
   "category_stats": {
     "movie_news": {
@@ -18374,7 +18428,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 131,
+      "published": 132,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18460,7 +18514,7 @@
       "published": 1
     },
     "15": {
-      "published": 12
+      "published": 13
     },
     "1": {
       "published": 3
@@ -18497,64 +18551,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-16T22:44:21.829525+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-17T09:06:45.970717+00:00",
       "version": 2,
@@ -21512,6 +21508,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-27T15:05:44.061962+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21855,9 +21909,94 @@
     "936745b71d048043",
     "c84205c16b35fd4f",
     "ec5b9cccac39ddc9",
-    "32246ba4cf6caa8d"
+    "32246ba4cf6caa8d",
+    "222b221a18146230"
   ],
   "entity_memory": {
+    "star in": {
+      "count": 2,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sam nivola": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nico parker and": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paul giamatti to": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grandgear": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "godzilla minus one": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director takashi yamazaki": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "abrams and sony": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pictures": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "takashi yamazaki": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sources": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "deadline": {
+      "count": 1,
+      "last_seen": "2026-10-27T15:05:44.061865+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "directed": {
       "count": 3,
       "last_seen": "2026-10-27T10:17:14.965538+00:00",
@@ -24454,13 +24593,6 @@
         "actors_directors"
       ]
     },
-    "star in": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "bannerman": {
       "count": 1,
       "last_seen": "2026-10-19T23:31:00.579163+00:00",
@@ -24613,83 +24745,6 @@
       "last_seen": "2026-10-19T18:55:36.752868+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "louis": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lifeguard": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "firstborn": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "into": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "night": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "screenwriter": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "series": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brentwood": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tony revolori": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "audrina miranda": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maria gabriella de": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
