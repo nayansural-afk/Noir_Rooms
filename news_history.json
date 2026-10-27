@@ -17624,6 +17624,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "714e2c19c4b06915189e9613",
+      "story_id": "32246ba4cf6caa8d",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
+      "title": "Milcho Manchevski Talks ‘Sister Brother Manhole Cover’, His Second Feature Of 2026 & Exposing Corruption At Macedonia’s Film Agency — Tokyo",
+      "category": "movie_news",
+      "score": 73.48,
+      "freshness": 82.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "milcho manchevski talks",
+        "sister brother manhole",
+        "cover",
+        "his second feature",
+        "exposing corruption at",
+        "macedonia",
+        "film agency",
+        "tokyo this",
+        "macedonian",
+        "milcho manchevski",
+        "tokyo film festival",
+        "directed"
+      ],
+      "hook": "سینمای مقدونی: مانچو مانچسکی درباره فیلم جدیدش در توکیو",
+      "hooks": [
+        "سینمای جدید مانچو مانچسکی در جشنواره توکیو",
+        "سفر به پساکمونیسم مقدونی در فیلم 'Sister Brother Manhole Cover'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Sister Brother Manhole Cover در رقابت جشنواره فیلم توکیو است"
+      ],
+      "status": "published",
+      "telegram_message_id": 347,
+      "published_at": "2026-10-27T10:17:14.965505+00:00",
+      "text": "سینمای مقدونی: مانچو مانچسکی درباره فیلم جدیدش در توکیو\n\n🎬 مانچو مانچسکی در توکیو: 'Sister Brother Manhole Cover' و افشای فساد در آژانس فیلم مقدونی\n\nمقدونی‌ساز ملچو مانچسکی با فیلم دوم خود در سال ۲۰۲۶، 'Sister Brother Manhole Cover'، در رقابت جشنواره فیلم توکیو حضور دارد.\nاین فیلم، که نویسنده و کارگردان مانچسکی است، داستان برادران مالینا و ویکتور را در حاشیه مقدونی پساکمونیسم روایت می‌کند و به افشای فساد در آژانس فیلم مقدونی می‌پردازد.\n\n📌 نکات مهم:\n• ملچو مانچسکی، فیلم‌ساز مقدونی\n• Sister Brother Manhole Cover، فیلم دوم سال ۲۰۲۶\n• در رقابت جشنواره فیلم توکیو نمایش داده می‌شود\n• نویسنده و کارگردان فیلم مانچسکی است\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -17967,7 +18019,8 @@
     "f514f3a6c213768218854b49",
     "c62f494321c0bbcb0c48bf2a",
     "647481a6fbee72f8f77a484f",
-    "d51d968cff2b169c1fe656a4"
+    "d51d968cff2b169c1fe656a4",
+    "714e2c19c4b06915189e9613"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18310,11 +18363,12 @@
     "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242",
     "https://deadline.com/2026/10/abramorama-buys-make-work-new-york-city-ballet-film-1237177271",
     "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
-    "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705"
+    "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
+    "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 176,
+      "published": 177,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18361,7 +18415,7 @@
       "published": 3
     },
     "10": {
-      "published": 10
+      "published": 11
     },
     "11": {
       "published": 17
@@ -18443,64 +18497,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-16T19:46:30.032197+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-16T22:44:21.829525+00:00",
       "version": 2,
@@ -21458,6 +21454,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-27T10:17:14.965615+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21800,9 +21854,95 @@
     "4e2616ba1f9552c6",
     "936745b71d048043",
     "c84205c16b35fd4f",
-    "ec5b9cccac39ddc9"
+    "ec5b9cccac39ddc9",
+    "32246ba4cf6caa8d"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 3,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "milcho manchevski talks": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sister brother manhole": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cover": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "his second feature": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exposing corruption at": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "macedonia": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film agency": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tokyo this": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "macedonian": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "milcho manchevski": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tokyo film festival": {
+      "count": 1,
+      "last_seen": "2026-10-27T10:17:14.965538+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "indio downey books": {
       "count": 1,
       "last_seen": "2026-10-26T23:42:59.495783+00:00",
@@ -23427,14 +23567,6 @@
         "actors_directors"
       ]
     },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "festival": {
       "count": 2,
       "last_seen": "2026-10-22T17:47:10.386676+00:00",
@@ -24556,83 +24688,6 @@
     "maria gabriella de": {
       "count": 1,
       "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "faria": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lou lou safran": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring in": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "night at the": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "oasis": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "primetime": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jurassic world rebirth": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maria gabriella": {
-      "count": 1,
-      "last_seen": "2026-10-19T16:09:11.071810+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring": {
-      "count": 2,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "psychological horror": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "henry": {
-      "count": 1,
-      "last_seen": "2026-10-19T10:37:15.358279+00:00",
       "categories": [
         "actors_directors"
       ]
