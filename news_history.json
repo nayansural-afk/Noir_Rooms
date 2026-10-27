@@ -17827,6 +17827,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5b71b57c40cd1ef875dfb863",
+      "story_id": "485825c5b5dcbfa0",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
+      "title": "City of Masks review – theatreland ghost story with female phantom of the opera out for revenge",
+      "category": "actors_directors",
+      "score": 68.17,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "city",
+        "masks",
+        "west end",
+        "this",
+        "phantom",
+        "opera",
+        "amanda jiang",
+        "that",
+        "christian",
+        "charlie goddard",
+        "then christian",
+        "part"
+      ],
+      "hook": "سایه‌های شبحی در تئاتر وست اند: موسیقی و انتقام",
+      "hooks": [
+        "شبحِ موسیقی در تئاتر وست اند: انتقام و صداهای بی‌صدا",
+        "پرده‌ی شبحی: اوضاع در تئاتر وست اند با موسیقی و انتقام"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این بازبینی داستان شبحی را به عنوان معکوس‌سازی جنسی «شبح اپرا» توصیف می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 351,
+      "published_at": "2026-10-27T23:40:20.247311+00:00",
+      "text": "سایه‌های شبحی در تئاتر وست اند: موسیقی و انتقام\n\n🎬 بررسی «شهر نقاب‌ها»: تئاتر وست اند با شبح موسیقی و انتقام\n\nدر بازسازی «شهر نقاب‌ها»، موسیقی‌ساز زن ایو در تئاتر وست اند در حین حریق جان خود را از دست داد. \n\nنقش جوانی به نام کریستین، بازیگر جوان، توسط صدای شبحی بی‌صدا هدایت می‌شود؛ این داستان، معکوس‌سازی جنسی از «شبح اپرا» را به نمایش می‌گذارد.\n\n📌 نکات مهم:\n• پخش بازی «شهر نقاب‌ها» در همان تئاتری است که ایو در حریق جان خود را از دست داد\n• شبح زن ایو صدای بی‌صدا را برای کریستین می‌دهد و او را در اجرای او راهنمایی می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18174,7 +18226,8 @@
     "714e2c19c4b06915189e9613",
     "b61d751a82cfbd50de4a835b",
     "530aad5cca73f67594ab404f",
-    "682bc2381c6a8bc74259164d"
+    "682bc2381c6a8bc74259164d",
+    "5b71b57c40cd1ef875dfb863"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18521,7 +18574,8 @@
     "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
     "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
     "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
-    "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary"
+    "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
+    "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge"
   ],
   "category_stats": {
     "movie_news": {
@@ -18531,7 +18585,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 133,
+      "published": 134,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18593,7 +18647,7 @@
       "published": 21
     },
     "23": {
-      "published": 23
+      "published": 24
     },
     "3": {
       "published": 2
@@ -18654,64 +18708,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-17T16:03:16.549774+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-17T18:57:48.979715+00:00",
       "version": 2,
@@ -21669,6 +21665,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-27T23:40:20.247426+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22015,9 +22069,95 @@
     "32246ba4cf6caa8d",
     "222b221a18146230",
     "d7c3c2b3e76d80ae",
-    "d89db10a7a1d704f"
+    "d89db10a7a1d704f",
+    "485825c5b5dcbfa0"
   ],
   "entity_memory": {
+    "that": {
+      "count": 2,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "this": {
+      "count": 2,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "city": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "masks": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "west end": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "phantom": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "opera": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amanda jiang": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "christian": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charlie goddard": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "then christian": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "part": {
+      "count": 1,
+      "last_seen": "2026-10-27T23:40:20.247343+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "tom skerritt": {
       "count": 3,
       "last_seen": "2026-10-27T21:03:35.829842+00:00",
@@ -22696,13 +22836,6 @@
         "movie_news"
       ]
     },
-    "that": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "dies": {
       "count": 16,
       "last_seen": "2026-10-25T22:25:34.796003+00:00",
@@ -22932,13 +23065,6 @@
       ]
     },
     "shifting kills": {
-      "count": 1,
-      "last_seen": "2026-10-25T16:55:23.763926+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "this": {
       "count": 1,
       "last_seen": "2026-10-25T16:55:23.763926+00:00",
       "categories": [
@@ -24778,76 +24904,6 @@
     "best feature narrative": {
       "count": 1,
       "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeff daniels to": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bannerman": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "series for": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jeff daniels": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maxim": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "daniels": {
-      "count": 1,
-      "last_seen": "2026-10-19T23:31:00.579163+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "london": {
-      "count": 2,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "naza": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yuval abraham": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
       "categories": [
         "movie_news"
       ]
