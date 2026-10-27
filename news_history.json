@@ -17728,6 +17728,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "530aad5cca73f67594ab404f",
+      "story_id": "d7c3c2b3e76d80ae",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
+      "title": "‘I Play Rocky’ Wins Virginia Film Fest Audience Award as Peter Farrelly’s Stallone Drama Readies for Theaters",
+      "category": "movie_news",
+      "score": 77.9,
+      "freshness": 100.0,
+      "credibility": 90.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "play rocky",
+        "wins virginia film",
+        "fest audience award",
+        "peter farrelly",
+        "stallone drama readies",
+        "theaters exclusive",
+        "the anthony ippolito"
+      ],
+      "hook": "فیلم 'I Play Rocky' برنده جایزه تماشاگران در جشنواره ویرجینیا",
+      "hooks": [
+        "در مسیر موفقیت، 'I Play Rocky' به جایزه تماشاگران دست یافت",
+        "پیش‌نمایش فیلمی که در جشنواره‌های بین‌المللی تأثیرگذار بود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'I Play Rocky' برنده جایزه تماشاگران در جشنواره ویرجینیا"
+      ],
+      "status": "published",
+      "telegram_message_id": 349,
+      "published_at": "2026-10-27T18:29:50.805692+00:00",
+      "text": "فیلم 'I Play Rocky' برنده جایزه تماشاگران در جشنواره ویرجینیا\n\n🎬 فیلم 'I Play Rocky' برنده جایزه تماشاگران در جشنواره ویرجینیا\n\nفیلم 'I Play Rocky' که در جشنواره فیلم TIFF به عنوان اولین رنر-آپ معرفی شد، اکنون جایزه تماشاگران را در جشنواره فیلم ویرجینیا کسب کرده است. این اثر، که در نقش استالون توسط پیتر فریللی ساخته شده و بازیگر نوظهور آنتونی ایپولوئتو را به نمایش می‌گذارد، در بین تماشاگران و منتقدان جشنواره‌ها و تاسک‌میکرها تأثیرگذار بوده است.\n\n📌 نکات مهم:\n• فیلم 'I Play Rocky' برنده جایزه تماشاگران در جشنواره فیلم ویرجینیا\n• فیلم در جشنواره TIFF به عنوان اولین رنر-آپ معرفی شد\n• فیلم در حال آماده‌سازی برای نمایش در سینماهای آمریکا است\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18073,7 +18120,8 @@
     "647481a6fbee72f8f77a484f",
     "d51d968cff2b169c1fe656a4",
     "714e2c19c4b06915189e9613",
-    "b61d751a82cfbd50de4a835b"
+    "b61d751a82cfbd50de4a835b",
+    "530aad5cca73f67594ab404f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18418,11 +18466,12 @@
     "https://deadline.com/2026/10/walter-koenig-star-trek-chekov-1237176812",
     "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
     "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
-    "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160"
+    "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
+    "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 177,
+      "published": 178,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18481,7 +18530,7 @@
       "published": 15
     },
     "18": {
-      "published": 15
+      "published": 16
     },
     "20": {
       "published": 34
@@ -18551,64 +18600,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-17T09:06:45.970717+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Jia Zhangke Readies Zhao Tao Road Movie ‘Mamma Dunhuang,’ Rules Out AI in Production (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-17T12:39:46.449380+00:00",
       "version": 2,
@@ -21566,6 +21557,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-27T18:29:50.805791+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21910,9 +21959,59 @@
     "c84205c16b35fd4f",
     "ec5b9cccac39ddc9",
     "32246ba4cf6caa8d",
-    "222b221a18146230"
+    "222b221a18146230",
+    "d7c3c2b3e76d80ae"
   ],
   "entity_memory": {
+    "play rocky": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins virginia film": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fest audience award": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peter farrelly": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stallone drama readies": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theaters exclusive": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the anthony ippolito": {
+      "count": 1,
+      "last_seen": "2026-10-27T18:29:50.805721+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star in": {
       "count": 2,
       "last_seen": "2026-10-27T15:05:44.061865+00:00",
@@ -24694,55 +24793,6 @@
     "tel aviv": {
       "count": 1,
       "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abraham": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "szor": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ron koslow": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "creator": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beauty": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beast": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the st": {
-      "count": 1,
-      "last_seen": "2026-10-19T18:55:36.752868+00:00",
       "categories": [
         "movie_news"
       ]
