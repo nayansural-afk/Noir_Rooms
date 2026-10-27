@@ -17775,6 +17775,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "682bc2381c6a8bc74259164d",
+      "story_id": "d89db10a7a1d704f",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
+      "title": "Tom Skerritt obituary",
+      "category": "actors_directors",
+      "score": 70.16,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tom skerritt",
+        "alien",
+        "top gun",
+        "river runs through",
+        "it the",
+        "picket fences",
+        "wisconsin",
+        "skerritt",
+        "robert altman",
+        "augustus",
+        "duke",
+        "forrest"
+      ],
+      "hook": "توفیق تام اسکیرِت، ستارهٔ قدرت در سینمای آمریکا",
+      "hooks": [
+        "یک بازیگر قدرت‌مند در فیلم‌های برجسته",
+        "حضور بی‌نظیر در Alien و Top Gun"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تام اسکیرِت درگذشت و در سن 93 بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 350,
+      "published_at": "2026-10-27T21:03:35.829813+00:00",
+      "text": "توفیق تام اسکیرِت، ستارهٔ قدرت در سینمای آمریکا\n\n🎬 تام اسکیرِت، بازیگر قدرت‌مند، درگذشت\n\nتام اسکیرِت، بازیگر آمریکایی که در نقش‌های قدرت‌مند در فیلم‌های Alien، Top Gun و A River Runs Through It شناخته شد، در سن 93 درگذشت. او در سریال Picket Fences به عنوان شِیرف نقش برجسته‌ای داشت و در فیلم M*A*S*H به عنوان جک‌فورست، نقش برجسته‌ای را ایفا کرد.\n\n📌 نکات مهم:\n• نقش‌های برجسته در Alien، Top Gun و A River Runs Through It\n• نقش شِیرف در سریال Picket Fences\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18121,7 +18173,8 @@
     "d51d968cff2b169c1fe656a4",
     "714e2c19c4b06915189e9613",
     "b61d751a82cfbd50de4a835b",
-    "530aad5cca73f67594ab404f"
+    "530aad5cca73f67594ab404f",
+    "682bc2381c6a8bc74259164d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18467,7 +18520,8 @@
     "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705",
     "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859",
     "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
-    "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919"
+    "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
+    "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary"
   ],
   "category_stats": {
     "movie_news": {
@@ -18477,7 +18531,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 132,
+      "published": 133,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18536,7 +18590,7 @@
       "published": 34
     },
     "21": {
-      "published": 20
+      "published": 21
     },
     "23": {
       "published": 23
@@ -18600,64 +18654,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-17T12:39:46.449380+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-17T16:03:16.549774+00:00",
       "version": 2,
@@ -21615,6 +21611,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-27T21:03:35.829915+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -21960,9 +22014,94 @@
     "ec5b9cccac39ddc9",
     "32246ba4cf6caa8d",
     "222b221a18146230",
-    "d7c3c2b3e76d80ae"
+    "d7c3c2b3e76d80ae",
+    "d89db10a7a1d704f"
   ],
   "entity_memory": {
+    "tom skerritt": {
+      "count": 3,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "picket fences": {
+      "count": 3,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alien": {
+      "count": 3,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "top gun": {
+      "count": 3,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "river runs through": {
+      "count": 3,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert altman": {
+      "count": 2,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "it the": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wisconsin": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "skerritt": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "augustus": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "duke": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "forrest": {
+      "count": 1,
+      "last_seen": "2026-10-27T21:03:35.829842+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "play rocky": {
       "count": 1,
       "last_seen": "2026-10-27T18:29:50.805721+00:00",
@@ -23222,41 +23361,6 @@
         "actors_directors"
       ]
     },
-    "tom skerritt": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "picket fences": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alien": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "top gun": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "river runs through": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "variety": {
       "count": 2,
       "last_seen": "2026-10-24T09:21:53.883289+00:00",
@@ -23778,13 +23882,6 @@
       ]
     },
     "mentored": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert altman": {
       "count": 1,
       "last_seen": "2026-10-22T20:21:39.275406+00:00",
       "categories": [
@@ -24749,48 +24846,6 @@
       ]
     },
     "yuval abraham": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "guardian": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "katharine viner": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thursday": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israeli": {
-      "count": 1,
-      "last_seen": "2026-10-19T21:18:33.930893+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tel aviv": {
       "count": 1,
       "last_seen": "2026-10-19T21:18:33.930893+00:00",
       "categories": [
