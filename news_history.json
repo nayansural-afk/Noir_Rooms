@@ -17879,6 +17879,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4c0cb6644255acd43654c83e",
+      "story_id": "98724c7dd235ee53",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
+      "title": "Doc Talk Podcast: ‘Nuisance Bear’ Directors On Their Ursine Oscar Contender, Shot From A Polar Bear POV",
+      "category": "actors_directors",
+      "score": 70.9,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "dc",
+        "oscar",
+        "sundance",
+        "doc talk podcast",
+        "nuisance bear",
+        "directors on their",
+        "ursine oscar contender",
+        "shot from",
+        "polar bear",
+        "january",
+        "at sundance",
+        "gabriela osio vanden"
+      ],
+      "hook": "فیلم 'نویزنس بیئر'، برنده جایزه جوریه در سندنس",
+      "hooks": [
+        "سینمایی که از چشم خرس قطبی ساخته شد",
+        "نویسندگان و کارگردانان در مورد 'نویزنس بیئر' صحبت می‌کنند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'نویزنس بیئر' برنده جایزه جوریه در جشنواره سندنس است."
+      ],
+      "status": "published",
+      "telegram_message_id": 352,
+      "published_at": "2026-10-28T11:09:53.633171+00:00",
+      "text": "فیلم 'نویزنس بیئر'، برنده جایزه جوریه در سندنس\n\n🎬 کارگردانان 'نویزنس بیئر' درباره فیلم برنده جایزه جوریه صحبت می‌کنند\n\nفیلم مستند 'نویزنس بیئر' که در ژانویه به نمایش گذاشته شد، به عنوان یکی از برترین آثار غیرتصویری سال شناخته می‌شود.\nکارگردانان گابریلا اوسیو وندن و جک ویسمین، این اثر را از دیدگاه خرس قطبی ضبط کرده و در جشنواره سندنس جایزه جوریه برای مستند آمریکا را کسب کردند.\n\n📌 نکات مهم:\n• فیلم 'نویزنس بیئر' در ژانویه به نمایش گذاشته شد.\n• کارگردانان گابریلا اوسیو وندن و جک ویسمین.\n• در جشنواره سندنس جایزه جوریه برای مستند آمریکا را برنده شد.\n• فیلم از دیدگاه خرس قطبی ضبط شده.\n\n#سینما #فیلم #سندنس\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18227,7 +18279,8 @@
     "b61d751a82cfbd50de4a835b",
     "530aad5cca73f67594ab404f",
     "682bc2381c6a8bc74259164d",
-    "5b71b57c40cd1ef875dfb863"
+    "5b71b57c40cd1ef875dfb863",
+    "4c0cb6644255acd43654c83e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18575,7 +18628,8 @@
     "https://deadline.com/2026/10/sam-nivola-nico-parker-paul-giamatti-grandgear-1237200160",
     "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
     "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
-    "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge"
+    "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
+    "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556"
   ],
   "category_stats": {
     "movie_news": {
@@ -18585,7 +18639,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 134,
+      "published": 135,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18629,7 +18683,7 @@
       "published": 11
     },
     "11": {
-      "published": 17
+      "published": 18
     },
     "14": {
       "published": 12
@@ -18708,64 +18762,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-17T18:57:48.979715+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-17T22:09:34.924684+00:00",
       "version": 2,
@@ -21723,6 +21719,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-28T11:09:53.633277+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22070,9 +22124,97 @@
     "222b221a18146230",
     "d7c3c2b3e76d80ae",
     "d89db10a7a1d704f",
-    "485825c5b5dcbfa0"
+    "485825c5b5dcbfa0",
+    "98724c7dd235ee53"
   ],
   "entity_memory": {
+    "dc": {
+      "count": 3,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "oscar": {
+      "count": 35,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "sundance": {
+      "count": 2,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "doc talk podcast": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nuisance bear": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "directors on their": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ursine oscar contender": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shot from": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "polar bear": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "january": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "at sundance": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gabriela osio vanden": {
+      "count": 1,
+      "last_seen": "2026-10-28T11:09:53.633205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "that": {
       "count": 2,
       "last_seen": "2026-10-27T23:40:20.247343+00:00",
@@ -22998,14 +23140,6 @@
         "actors_directors"
       ]
     },
-    "dc": {
-      "count": 2,
-      "last_seen": "2026-10-25T16:55:23.763926+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "batman": {
       "count": 2,
       "last_seen": "2026-10-25T16:55:23.763926+00:00",
@@ -23333,15 +23467,6 @@
       "last_seen": "2026-10-24T19:10:43.096520+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 34,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "superman": {
@@ -24421,13 +24546,6 @@
         "trailers_first_look"
       ]
     },
-    "sundance": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "million box office": {
       "count": 1,
       "last_seen": "2026-10-21T14:19:04.587518+00:00",
@@ -24839,69 +24957,6 @@
       ]
     },
     "mayilaa": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the gymnasts of": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fisherman colony": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "and more at": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seattle": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tasveer": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival the tasveer": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "semmalar annam": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jury award": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "best feature narrative": {
       "count": 1,
       "last_seen": "2026-10-20T09:54:10.879024+00:00",
       "categories": [
