@@ -18042,6 +18042,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "df8ff07b2538460f97f5e90a",
+      "story_id": "6f79beb536bfa71a",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
+      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
+      "category": "actors_directors",
+      "score": 67.7,
+      "freshness": 82.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "star trek",
+        "walter koenig",
+        "pavel chekov",
+        "russian",
+        "babylon"
+      ],
+      "hook": "والتر کوینک، ستاره‌ی چکوف، درگذشت",
+      "hooks": [
+        "حسرت در دنیای ستارگان: ولتر کوینک درگذشت",
+        "پالِه‌ی چکوف، ولتر کوینک، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "والتر کوینک در نقش Pavel Chekov در Star Trek ظاهر شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 355,
+      "published_at": "2026-10-28T21:28:00.509062+00:00",
+      "text": "والتر کوینک، ستاره‌ی چکوف، درگذشت\n\n🎬 والتر کوینک، بازیگر چکوف در ستارکرفت، درگذشت\n\nوالتر کوینک، بازیگر برجسته‌ی سریال Star Trek، درگذشت. او در نقش پافل چکوف، کارمند روسی مشتاق، در سریال اصلی حضور داشت.\nبعد از آن، او در سریال Babylon 5 نیز نقش داشت و به یادگار ماند.\n\n📌 نکات مهم:\n• والتر کوینک درگذشت در سن 90 سالگی\n• او در نقش Pavel Chekov در Star Trek بود\n• او در Babylon 5 ظاهر شد\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18393,7 +18438,8 @@
     "5b71b57c40cd1ef875dfb863",
     "4c0cb6644255acd43654c83e",
     "e54e720e6bca73c99fbcc9f1",
-    "b87a1ae32f2f7a8d48170d42"
+    "b87a1ae32f2f7a8d48170d42",
+    "df8ff07b2538460f97f5e90a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18744,7 +18790,8 @@
     "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
     "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
     "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340",
-    "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233"
+    "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233",
+    "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo"
   ],
   "category_stats": {
     "movie_news": {
@@ -18754,7 +18801,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 137,
+      "published": 138,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18813,7 +18860,7 @@
       "published": 34
     },
     "21": {
-      "published": 21
+      "published": 22
     },
     "23": {
       "published": 24
@@ -18877,64 +18924,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-18T12:57:08.735126+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-18T16:16:42.737460+00:00",
       "version": 2,
@@ -21892,6 +21881,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-28T21:28:00.509171+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22242,9 +22289,47 @@
     "485825c5b5dcbfa0",
     "98724c7dd235ee53",
     "b1769a4e0796da2d",
-    "fd79062227eb4433"
+    "fd79062227eb4433",
+    "6f79beb536bfa71a"
   ],
   "entity_memory": {
+    "star trek": {
+      "count": 2,
+      "last_seen": "2026-10-28T21:28:00.509096+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "walter koenig": {
+      "count": 2,
+      "last_seen": "2026-10-28T21:28:00.509096+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "pavel chekov": {
+      "count": 1,
+      "last_seen": "2026-10-28T21:28:00.509096+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "russian": {
+      "count": 1,
+      "last_seen": "2026-10-28T21:28:00.509096+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "babylon": {
+      "count": 1,
+      "last_seen": "2026-10-28T21:28:00.509096+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "selma blair": {
       "count": 1,
       "last_seen": "2026-10-28T18:35:24.384984+00:00",
@@ -23010,21 +23095,7 @@
         "movie_news"
       ]
     },
-    "star trek": {
-      "count": 1,
-      "last_seen": "2026-10-26T21:16:45.343916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "original ensign chekov": {
-      "count": 1,
-      "last_seen": "2026-10-26T21:16:45.343916+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "walter koenig": {
       "count": 1,
       "last_seen": "2026-10-26T21:16:45.343916+00:00",
       "categories": [
@@ -25053,27 +25124,6 @@
       ]
     },
     "the devil": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount keanu reeves": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount pictures": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the paramount pictures": {
       "count": 1,
       "last_seen": "2026-10-20T20:14:24.370052+00:00",
       "categories": [
