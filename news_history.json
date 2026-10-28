@@ -18087,6 +18087,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "652bcd465126f932bd681ad0",
+      "story_id": "3ac7e0134f772a8b",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/barbara-barrie-dead-1237207578",
+      "title": "Barbara Barrie Dies: Star Of Broadway And ‘Barney Miller’ Was 95",
+      "category": "actors_directors",
+      "score": 51.8,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "barbara barrie dies",
+        "star of broadway",
+        "barney miller",
+        "barbara barrie",
+        "tony",
+        "broadway",
+        "company",
+        "breaking away",
+        "hal linden",
+        "october",
+        "manhattan"
+      ],
+      "hook": "باربارا باریه، ستاره برادوی و بارنی میلر، درگذشت",
+      "hooks": [
+        "ستاره برادوی و تلویزیون، باربارا باریه درگذشت",
+        "باربارا باریه، ۹۵ ساله، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "باربارا باریه در ۲۸ اکتبر در منزل خود در منهتن درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 356,
+      "published_at": "2026-10-28T23:57:44.580925+00:00",
+      "text": "باربارا باریه، ستاره برادوی و بارنی میلر، درگذشت\n\n🎬 باربارا باریه، ستاره برادوی و بارنی میلر، درگذشت\n\nباربارا باریه، بازیگر برجستهٔ برادوی و تلویزیون، در ۲۸ اکتبر در منزل خود در منهتن درگذشت. او در سن ۹۵ سالگی از دست رفت.\nباریه برای نقش در نمایش اصلی «Company» برندهٔ نامزد تونی شد و در فیلم «Breaking Away» برای بهترین بازیگر زن نامزد اسکار شد. او به‌عنوان همسر کاپیتان پلیس در سریال «Barney Miller» شناخته می‌شد.\n\n📌 نکات مهم:\n• باربارا باریه در ۲۸ اکتبر در منزل خود در منهتن درگذشت\n• او در سن ۹۵ سالگی بود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/barbara-barrie-dead-1237207578",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18439,7 +18492,8 @@
     "4c0cb6644255acd43654c83e",
     "e54e720e6bca73c99fbcc9f1",
     "b87a1ae32f2f7a8d48170d42",
-    "df8ff07b2538460f97f5e90a"
+    "df8ff07b2538460f97f5e90a",
+    "652bcd465126f932bd681ad0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18791,7 +18845,8 @@
     "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
     "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340",
     "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233",
-    "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo"
+    "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
+    "https://deadline.com/2026/10/barbara-barrie-dead-1237207578"
   ],
   "category_stats": {
     "movie_news": {
@@ -18801,7 +18856,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 138,
+      "published": 139,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18863,7 +18918,7 @@
       "published": 22
     },
     "23": {
-      "published": 24
+      "published": 25
     },
     "3": {
       "published": 2
@@ -18924,64 +18979,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-18T16:16:42.737460+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-18T19:08:22.623926+00:00",
       "version": 2,
@@ -21939,6 +21936,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-28T23:57:44.581030+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22290,9 +22345,96 @@
     "98724c7dd235ee53",
     "b1769a4e0796da2d",
     "fd79062227eb4433",
-    "6f79beb536bfa71a"
+    "6f79beb536bfa71a",
+    "3ac7e0134f772a8b"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 36,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "barbara barrie dies": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star of broadway": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "barney miller": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "barbara barrie": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tony": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "company": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "breaking away": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hal linden": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "october": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "manhattan": {
+      "count": 1,
+      "last_seen": "2026-10-28T23:57:44.580955+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star trek": {
       "count": 2,
       "last_seen": "2026-10-28T21:28:00.509096+00:00",
@@ -22528,15 +22670,6 @@
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 35,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "sundance": {
@@ -25051,83 +25184,6 @@
       "last_seen": "2026-10-20T23:05:37.816883+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "extraordinary romantic tale": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from director orlando": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "von einsiedel": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fresh": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "critics choice documentary": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "awards": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "talks": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james wan": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the gangster": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the cop": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the devil": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
