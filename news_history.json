@@ -17989,6 +17989,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b87a1ae32f2f7a8d48170d42",
+      "story_id": "fd79062227eb4433",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233",
+      "title": "Selma Blair, Sierra McCormick, Logan Miller & Dylan Playfair Starring In ‘Dead At 27’; Iann Dior, Tommy Genesis & Kya (Bludnymph) Hansen With Music",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "selma blair",
+        "sierra",
+        "logan miller",
+        "dylan playfair starring",
+        "dead at",
+        "iann dior",
+        "tommy genesis",
+        "bludnymph",
+        "hansen with music",
+        "production",
+        "cruel intentions",
+        "american horror stories"
+      ],
+      "hook": "Dead At 27: موسیقی و ترس در دنیای Gen Z",
+      "hooks": [
+        "Dead At 27: ترس و موسیقی در سینمای Gen Z",
+        "Dead At 27: بازی‌گران و هنرمندان در یک ترسناک موسیقی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سینمای Dead At 27 با بازی سلما بلیئر و حضور هنرمندان موسیقی"
+      ],
+      "status": "published",
+      "telegram_message_id": 354,
+      "published_at": "2026-10-28T18:35:24.384951+00:00",
+      "text": "Dead At 27: موسیقی و ترس در دنیای Gen Z\n\n🎬 سینمای Dead At 27: بازی‌گران مشهور و هنرمندان موسیقی در یک ترسناک Gen Z\n\nسینمای Dead At 27 با بازی سلما بلیئر، سیرا مک‌کرمیک، لوگان میلر و دیلان پلیفر، به‌عنوان یک ترسناک موسیقی در دنیای Gen Z معرفی می‌شود. فیلم توسط کی. آشر لِیون رهبری شده و موسیقی‌های Iann Dior، Tommy Genesis و Kya Hansen را در بر می‌گیرد.\n\n📌 نکات مهم:\n• سینمای Dead At 27 با بازی سلما بلیئر، سیرا مک‌کرمیک، لوگان میلر و دیلان پلیفر\n• موسیقی‌های Iann Dior، Tommy Genesis و Kya Hansen در فیلم حضور دارد\n• فیلم توسط کی. آشر لِیون کارگردانی شده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18339,7 +18392,8 @@
     "682bc2381c6a8bc74259164d",
     "5b71b57c40cd1ef875dfb863",
     "4c0cb6644255acd43654c83e",
-    "e54e720e6bca73c99fbcc9f1"
+    "e54e720e6bca73c99fbcc9f1",
+    "b87a1ae32f2f7a8d48170d42"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18689,7 +18743,8 @@
     "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
     "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
     "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
-    "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340"
+    "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340",
+    "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233"
   ],
   "category_stats": {
     "movie_news": {
@@ -18699,7 +18754,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 136,
+      "published": 137,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18752,7 +18807,7 @@
       "published": 15
     },
     "18": {
-      "published": 16
+      "published": 17
     },
     "20": {
       "published": 34
@@ -18822,64 +18877,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-18T09:24:34.752726+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-18T12:57:08.735126+00:00",
       "version": 2,
@@ -21837,6 +21834,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-28T18:35:24.385075+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22186,9 +22241,94 @@
     "d89db10a7a1d704f",
     "485825c5b5dcbfa0",
     "98724c7dd235ee53",
-    "b1769a4e0796da2d"
+    "b1769a4e0796da2d",
+    "fd79062227eb4433"
   ],
   "entity_memory": {
+    "selma blair": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sierra": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "logan miller": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dylan playfair starring": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dead at": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "iann dior": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tommy genesis": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bludnymph": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hansen with music": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "production": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cruel intentions": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "american horror stories": {
+      "count": 1,
+      "last_seen": "2026-10-28T18:35:24.384984+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 17,
       "last_seen": "2026-10-28T15:41:43.701161+00:00",
@@ -24938,90 +25078,6 @@
       "last_seen": "2026-10-20T20:14:24.370052+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "korean": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "keanu reeves circling": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "at paramount in": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "march": {
-      "count": 1,
-      "last_seen": "2026-10-20T20:14:24.370052+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bafta": {
-      "count": 2,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor mandeep dhillon": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "self": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "written short": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the things": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "want": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alongside golda rosheuvel": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "scott karim": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
