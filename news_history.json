@@ -17931,6 +17931,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e54e720e6bca73c99fbcc9f1",
+      "story_id": "b1769a4e0796da2d",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340",
+      "title": "Peter Medak, Director of ‘The Changeling’ and ‘The Krays,’ Dies at 88",
+      "category": "actors_directors",
+      "score": 87.34,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "peter medak",
+        "director",
+        "the changeling",
+        "the krays",
+        "dies",
+        "hungarian",
+        "the ruling class",
+        "tuesday",
+        "los angeles",
+        "over",
+        "medak",
+        "after",
+        "hungary",
+        "england",
+        "death"
+      ],
+      "hook": "مردی که در 88 سالگی درگذشت، فیلم‌های او هنوز زنده‌اند",
+      "hooks": [
+        "دوران 6 دهه‌ای او، 27 فیلم، 88 ساله درگذشت",
+        "سینمای هابریایی و هالیوود در کنار هم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پیتری مداک درگذشت",
+        "او 27 فیلم کارگردانی کرده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 353,
+      "published_at": "2026-10-28T15:41:43.701131+00:00",
+      "text": "مردی که در 88 سالگی درگذشت، فیلم‌های او هنوز زنده‌اند\n\n🎬 پیتری مداک، کارگردان «تغییر» و «کریز» درگذشت؛ 88 ساله\n\nپیتری مداک، کارگردان و بازیگر هابریایی، در روز سه‌شنبه در لس آنجلس درگذشت. او در سن 88 سالگی، پس از شش دهه فعالیت در سینما، 27 فیلم را به‌دست آورد.\nفیلم‌های او از جمله «تغییر»، «کریز» و «کلاس حاکم»، در ژانرهای ترسناک روانی، کمدی سیاه و درام‌های جنایی شناخته می‌شوند و نشان‌دهنده تنوع هنری اوست.\n\n📌 نکات مهم:\n• پیتری مداک 88 ساله درگذشت\n• 27 فیلم در طول شش دهه فعالیت\n• فیلم‌های او شامل «تغییر»، «کریز» و «کلاس حاکم»\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18280,7 +18338,8 @@
     "530aad5cca73f67594ab404f",
     "682bc2381c6a8bc74259164d",
     "5b71b57c40cd1ef875dfb863",
-    "4c0cb6644255acd43654c83e"
+    "4c0cb6644255acd43654c83e",
+    "e54e720e6bca73c99fbcc9f1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18629,7 +18688,8 @@
     "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919",
     "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
     "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
-    "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556"
+    "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556",
+    "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340"
   ],
   "category_stats": {
     "movie_news": {
@@ -18639,7 +18699,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 135,
+      "published": 136,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18725,7 +18785,7 @@
       "published": 1
     },
     "15": {
-      "published": 13
+      "published": 14
     },
     "1": {
       "published": 3
@@ -18762,64 +18822,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-17T22:09:34.924684+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-18T09:24:34.752726+00:00",
       "version": 2,
@@ -21777,6 +21779,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-28T15:41:43.701233+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22125,9 +22185,118 @@
     "d7c3c2b3e76d80ae",
     "d89db10a7a1d704f",
     "485825c5b5dcbfa0",
-    "98724c7dd235ee53"
+    "98724c7dd235ee53",
+    "b1769a4e0796da2d"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 17,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "after": {
+      "count": 2,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "los angeles": {
+      "count": 2,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "peter medak": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the changeling": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the krays": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hungarian": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the ruling class": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tuesday": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "over": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "medak": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hungary": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "england": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "death": {
+      "count": 1,
+      "last_seen": "2026-10-28T15:41:43.701161+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dc": {
       "count": 3,
       "last_seen": "2026-10-28T11:09:53.633205+00:00",
@@ -22978,14 +23147,6 @@
         "movie_news"
       ]
     },
-    "dies": {
-      "count": 16,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "actress": {
       "count": 2,
       "last_seen": "2026-10-25T22:25:34.796003+00:00",
@@ -23764,13 +23925,6 @@
         "movie_news"
       ]
     },
-    "after": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "vertical": {
       "count": 1,
       "last_seen": "2026-10-23T20:09:59.568310+00:00",
@@ -24455,13 +24609,6 @@
         "movie_news"
       ]
     },
-    "los angeles": {
-      "count": 1,
-      "last_seen": "2026-10-21T20:25:23.197617+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "november": {
       "count": 1,
       "last_seen": "2026-10-21T20:25:23.197617+00:00",
@@ -24875,92 +25022,6 @@
       "last_seen": "2026-10-20T17:40:53.840943+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "mandeep dhillon": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lynette linton": {
-      "count": 1,
-      "last_seen": "2026-10-20T17:40:53.840943+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "they": {
-      "count": 2,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "monster mia": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "halloween": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "primrose": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scrappy mia": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rotwood academy": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "addams family lite": {
-      "count": 1,
-      "last_seen": "2026-10-20T14:03:50.850912+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film festival": {
-      "count": 2,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "awards go to": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mayilaa": {
-      "count": 1,
-      "last_seen": "2026-10-20T09:54:10.879024+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
