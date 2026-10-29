@@ -18245,6 +18245,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "30d9636d8739b06e21ce73f8",
+      "story_id": "53a22bfdc86afc95",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587",
+      "title": "Jim O’Heir & Zachary Levi Among Cast For Faith-Based Comedy Series ‘Shelf Life’ From Angel & ‘The Promised Land’ Producers",
+      "category": "actors_directors",
+      "score": 72.62,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "heir",
+        "zachary levi among",
+        "cast for faith",
+        "based comedy series",
+        "shelf life",
+        "from angel",
+        "the promised land",
+        "producers",
+        "angel",
+        "biblical",
+        "created",
+        "brian cates"
+      ],
+      "hook": "سریال کمدی مذهبی «Shelf Life» با جیم اوهیر و زکاری لیوی",
+      "hooks": [
+        "جیم اوهیر و زکاری لیوی در سریال «Shelf Life»",
+        "سریال «Shelf Life»: کمدی مذهبی با ستارگان جدید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جیم اوهیر و زکاری لیوی در سریال «Shelf Life» حضور دارند"
+      ],
+      "status": "published",
+      "telegram_message_id": 359,
+      "published_at": "2026-10-29T18:44:50.895510+00:00",
+      "text": "سریال کمدی مذهبی «Shelf Life» با جیم اوهیر و زکاری لیوی\n\n🎬 سریال «Shelf Life» با جیم اوهیر و زکاری لیوی، کمدی مذهبی در انتظار\n\nسریال کمدی مذهبی «Shelf Life» در حال تولید است و در سال ۲۰۲۷ در پلتفرم Angel به نمایش درمی‌آید.\nستارگان این سریال جیم اوهیر و زکاری لیوی هستند و این پروژه توسط تولیدکنندگان درام مذهبی «The Promised Land» و کارگردان-نویس برنای کاتس ساخته می‌شود.\n\n📌 نکات مهم:\n• سریال «Shelf Life» کمدی مذهبی است\n• ستارگان جیم اوهیر و زکاری لیوی\n• تولیدکنندگان «The Promised Land»\n• کارگردان-نویس برنای کاتس\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18600,7 +18652,8 @@
     "df8ff07b2538460f97f5e90a",
     "652bcd465126f932bd681ad0",
     "a1e5f4621049b72f286c66d4",
-    "042e053013c411e05294eecc"
+    "042e053013c411e05294eecc",
+    "30d9636d8739b06e21ce73f8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18955,7 +19008,8 @@
     "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
     "https://deadline.com/2026/10/barbara-barrie-dead-1237207578",
     "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
-    "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041"
+    "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041",
+    "https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587"
   ],
   "category_stats": {
     "movie_news": {
@@ -18965,7 +19019,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 139,
+      "published": 140,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19018,7 +19072,7 @@
       "published": 15
     },
     "18": {
-      "published": 17
+      "published": 18
     },
     "20": {
       "published": 34
@@ -19088,64 +19142,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-19T10:37:15.358362+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-19T16:09:11.071887+00:00",
       "version": 2,
@@ -22103,6 +22099,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-29T18:44:50.895620+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22457,9 +22511,94 @@
     "6f79beb536bfa71a",
     "3ac7e0134f772a8b",
     "c808c4dd102cc4ab",
-    "f3726f4ffdb68429"
+    "f3726f4ffdb68429",
+    "53a22bfdc86afc95"
   ],
   "entity_memory": {
+    "heir": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zachary levi among": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast for faith": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "based comedy series": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shelf life": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from angel": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the promised land": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "producers": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "angel": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "biblical": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "created": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "brian cates": {
+      "count": 1,
+      "last_seen": "2026-10-29T18:44:50.895544+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "avatar": {
       "count": 1,
       "last_seen": "2026-10-29T15:48:49.165794+00:00",
@@ -25216,90 +25355,6 @@
       "last_seen": "2026-10-21T20:25:23.197617+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "sauron finally puts": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "one ring": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "rings": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "power": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "official trailer prime": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "video": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "the lord": {
-      "count": 1,
-      "last_seen": "2026-10-21T17:48:15.952842+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "million box office": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "haul": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "go will they": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "miss me": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "provides": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
