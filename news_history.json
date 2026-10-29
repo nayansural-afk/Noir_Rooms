@@ -18350,6 +18350,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "09de0ce21d1dfe0d84e719d2",
+      "story_id": "e9bf1f1233e46e3a",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+      "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+      "category": "actors_directors",
+      "score": 70.16,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "elke sommer",
+        "german",
+        "shot",
+        "dark",
+        "and then there",
+        "were none",
+        "the berlin",
+        "hollywood",
+        "peter sellers",
+        "dick van dyke",
+        "paul newman elke",
+        "sommer"
+      ],
+      "hook": "یک ستارهٔ آلمانی در هالیوود، درگذشت",
+      "hooks": [
+        "یک ستارهٔ آلمانی در هالیوود، درگذشت",
+        "الکه سومر، ستارهٔ فیلم‌های پینک پانتر، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "الکه سومر در فیلم‌های A Shot in the Dark و And Then There Were None نقش داشت."
+      ],
+      "status": "published",
+      "telegram_message_id": 361,
+      "published_at": "2026-10-29T23:53:17.292846+00:00",
+      "text": "یک ستارهٔ آلمانی در هالیوود، درگذشت\n\n🎬 الکه سومر، ستارهٔ هالیوود، درگذشت در سن 85 سالگی\n\nالکه سومر، بازیگر آلمانی متولد برلین، در هالیوود نقش‌های مهمی ایفا کرد. او در فیلم‌های «A Shot in the Dark»، «And Then There Were None» و «Carry on Behind» حضور داشت و درگذشت در لس‌آنجلس به علت نارسایی قلبی.\n\n📌 نکات مهم:\n• متولد برلین و بازیگر آلمانی\n• نقش در فیلم‌های A Shot in the Dark, And Then There Were None, Carry on Behind\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18707,7 +18759,8 @@
     "a1e5f4621049b72f286c66d4",
     "042e053013c411e05294eecc",
     "30d9636d8739b06e21ce73f8",
-    "73ec716071578a3838c7eb80"
+    "73ec716071578a3838c7eb80",
+    "09de0ce21d1dfe0d84e719d2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19064,7 +19117,8 @@
     "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
     "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041",
     "https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587",
-    "https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424"
+    "https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424",
+    "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies"
   ],
   "category_stats": {
     "movie_news": {
@@ -19074,7 +19128,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 141,
+      "published": 142,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19136,7 +19190,7 @@
       "published": 23
     },
     "23": {
-      "published": 25
+      "published": 26
     },
     "3": {
       "published": 2
@@ -19197,64 +19251,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-19T18:55:36.752950+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-19T21:18:33.930976+00:00",
       "version": 2,
@@ -22212,6 +22208,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-29T23:53:17.292977+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22568,9 +22622,95 @@
     "c808c4dd102cc4ab",
     "f3726f4ffdb68429",
     "53a22bfdc86afc95",
-    "f9c21081b2c56bc5"
+    "f9c21081b2c56bc5",
+    "e9bf1f1233e46e3a"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 3,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "elke sommer": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "german": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shot": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dark": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "and then there": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "were none": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the berlin": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peter sellers": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dick van dyke": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paul newman elke": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sommer": {
+      "count": 1,
+      "last_seen": "2026-10-29T23:53:17.292882+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "marvel": {
       "count": 2,
       "last_seen": "2026-10-29T21:29:34.109948+00:00",
@@ -24534,14 +24674,6 @@
         "movie_news"
       ]
     },
-    "hollywood": {
-      "count": 2,
-      "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "tarantino": {
       "count": 1,
       "last_seen": "2026-10-24T13:04:04.694363+00:00",
@@ -25333,83 +25465,6 @@
     "so far": {
       "count": 1,
       "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barbie": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lewis": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the chronicles": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "read": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "california": {
-      "count": 2,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "california tried": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jumpstart": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film economy": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "production keeps falling": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "instead": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "location": {
-      "count": 1,
-      "last_seen": "2026-10-21T23:09:24.764385+00:00",
       "categories": [
         "movie_news"
       ]
