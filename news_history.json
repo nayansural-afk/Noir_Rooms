@@ -18192,6 +18192,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "042e053013c411e05294eecc",
+      "story_id": "f3726f4ffdb68429",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041",
+      "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "avatar",
+        "mini war",
+        "first look at",
+        "luke wilson",
+        "vanessa hudgens",
+        "nick swardson",
+        "rob morgan in",
+        "rated comedy",
+        "here",
+        "capture",
+        "american film market",
+        "reuniting"
+      ],
+      "hook": "کومیدی جدید 'Mini War' با لئو و واندا در صحنه",
+      "hooks": [
+        "دوربین‌های جدید در 'Mini War' با لئو و واندا",
+        "رکورد جدید: 'Mini War' با لئو و واندا در صحنه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Mini War یک کمدی R-rated است که در آن لئو ویلسون، واندا هادگنز، نیک سواردسون و روب مورگان نقش‌آفرینی می‌کنند"
+      ],
+      "status": "published",
+      "telegram_message_id": 358,
+      "published_at": "2026-10-29T15:48:49.165760+00:00",
+      "text": "کومیدی جدید 'Mini War' با لئو و واندا در صحنه\n\n🎬 کومیدی 'Mini War' با لئو ویلسون و واندا هادگنز، در مسیر جدید\n\nفیلم 'Mini War' یک کمدی R-rated است که در آن لئو ویلسون، واندا هادگنز، نیک سواردسون و روب مورگان نقش‌آفرینی می‌کنند.\nسینماکاران سابق 'Grandma’s Boy' دوباره با هم می‌آیند؛ کارگردان جوئل دیوید مور، که در 'Avatar' نقش داشته، این اثر را هدایت می‌کند. فیلم در بازار فیلم آمریکا در ده روز آینده به فروش می‌رسد.\n\n📌 نکات مهم:\n• فیلم 'Mini War' یک کمدی R-rated است\n• کارگردان جوئل دیوید مور\n• نقش‌آفرینی لئو ویلسون، واندا هادگنز، نیک سواردسون و روب مورگان\n• سینماکاران سابق 'Grandma’s Boy' دوباره با هم می‌آیند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18546,7 +18599,8 @@
     "b87a1ae32f2f7a8d48170d42",
     "df8ff07b2538460f97f5e90a",
     "652bcd465126f932bd681ad0",
-    "a1e5f4621049b72f286c66d4"
+    "a1e5f4621049b72f286c66d4",
+    "042e053013c411e05294eecc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -18900,11 +18954,12 @@
     "https://deadline.com/2026/10/selma-blair-sierra-mccormick-logan-miller-cast-dead-at-27-1237207233",
     "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo",
     "https://deadline.com/2026/10/barbara-barrie-dead-1237207578",
-    "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88"
+    "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
+    "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 179,
+      "published": 180,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -18996,7 +19051,7 @@
       "published": 1
     },
     "15": {
-      "published": 14
+      "published": 15
     },
     "1": {
       "published": 3
@@ -19033,64 +19088,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-18T22:21:37.381766+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-19T10:37:15.358362+00:00",
       "version": 2,
@@ -22048,6 +22045,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-29T15:48:49.165865+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22401,9 +22456,94 @@
     "fd79062227eb4433",
     "6f79beb536bfa71a",
     "3ac7e0134f772a8b",
-    "c808c4dd102cc4ab"
+    "c808c4dd102cc4ab",
+    "f3726f4ffdb68429"
   ],
   "entity_memory": {
+    "avatar": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mini war": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "first look at": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "luke wilson": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "vanessa hudgens": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nick swardson": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rob morgan in": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rated comedy": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "here": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "capture": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american film market": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reuniting": {
+      "count": 1,
+      "last_seen": "2026-10-29T15:48:49.165794+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "los angeles": {
       "count": 3,
       "last_seen": "2026-10-29T11:22:54.722348+00:00",
@@ -25158,92 +25298,6 @@
     "provides": {
       "count": 1,
       "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "release template": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "smallest": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indies the sundance": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "walter thompson": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hernandez": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rich spirit": {
-      "count": 1,
-      "last_seen": "2026-10-21T14:19:04.587518+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nathan fielder": {
-      "count": 2,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "north america": {
-      "count": 2,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "box_office",
-        "movie_news"
-      ]
-    },
-    "lance oppenheim": {
-      "count": 1,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fahrenheit": {
-      "count": 1,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "borat": {
-      "count": 1,
-      "last_seen": "2026-10-21T09:55:36.659628+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the cycle of": {
-      "count": 1,
-      "last_seen": "2026-10-20T23:05:37.816883+00:00",
       "categories": [
         "actors_directors"
       ]
