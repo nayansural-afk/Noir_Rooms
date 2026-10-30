@@ -18558,6 +18558,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0ce4b742e9a424f4a11a89fd",
+      "story_id": "53b6b837cb8676d6",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613",
+      "title": "Brittany O’Grady To Star In Thriller ‘State Of Emergency’ For ‘House Of The Dragon’ Director Greg Yaitanes & FilmNation — AFM",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "brittany",
+        "grady to star",
+        "in thriller",
+        "state of emergency",
+        "house of the",
+        "dragon",
+        "director greg yaitanes",
+        "entertainment",
+        "infrared pictures",
+        "starring brittany",
+        "grady",
+        "the white lotus"
+      ],
+      "hook": "بریتانی اوگرادی در ترسناک 'وضعیت اضطراری' نقش‌آفرینی می‌کند",
+      "hooks": [
+        "گروه فیلم‌سازی گریک یایتانز در 'وضعیت اضطراری' کار می‌کند",
+        "فیلم‌سازی جدید FilmNation در AFM رونق می‌یابد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "بریتانی اوگرادی در نقش اصلی بازی می‌کند",
+        "گریک یایتانز کارگردان فیلم است"
+      ],
+      "status": "published",
+      "telegram_message_id": 365,
+      "published_at": "2026-10-30T21:16:52.398263+00:00",
+      "text": "بریتانی اوگرادی در ترسناک 'وضعیت اضطراری' نقش‌آفرینی می‌کند\n\n🎬 فیلم 'وضعیت اضطراری' با بازی بریتانی اوگرادی و کارگردانی گریک یایتانز\n\nفیلم‌سازی جدید 'وضعیت اضطراری' توسط شرکت FilmNation Entertainment تحت برچسب Infrared Pictures تولید می‌شود. این ترسناک در نمایشگاه AFM به فروش می‌رسد و به‌عنوان یک پروژه ژانر برجسته معرفی می‌شود.\nبریتانی اوگرادی، بازیگر سریال The White Lotus، در نقش اصلی بازی می‌کند. کارگردان گریک یایتانز، برنده جایزه گلدن گلوب و امی، که برای سریال‌های House of the Dragon و Presumed Innocent شناخته می‌شود، مسئول کارگردانی این فیلم است.\n\n📌 نکات مهم:\n• بریتانی اوگرادی در نقش اصلی بازی می‌کند\n• گریک یایتانز کارگردان فیلم است\n• فیلم 'وضعیت اضطراری' تحت برچسب Infrared Pictures تولید می‌شود\n• FilmNation Entertainment فروش AFM را آغاز می‌کند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18919,7 +18973,8 @@
     "09de0ce21d1dfe0d84e719d2",
     "59ea0fb67341ed9de5ee211d",
     "4a45718eb6c5eb968de6b0c0",
-    "396e3fe31d27ae3cb82cb280"
+    "396e3fe31d27ae3cb82cb280",
+    "0ce4b742e9a424f4a11a89fd"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19280,7 +19335,8 @@
     "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
     "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545",
     "https://deadline.com/2026/10/asia-pacific-screen-awards-guria-9-temples-to-heaven-1237209398",
-    "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585"
+    "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585",
+    "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613"
   ],
   "category_stats": {
     "movie_news": {
@@ -19290,7 +19346,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 143,
+      "published": 144,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19349,7 +19405,7 @@
       "published": 34
     },
     "21": {
-      "published": 23
+      "published": 24
     },
     "23": {
       "published": 26
@@ -19413,64 +19469,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-20T14:03:50.850981+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-20T17:40:53.841039+00:00",
       "version": 2,
@@ -22428,6 +22426,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-30T21:16:52.398366+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22788,9 +22844,94 @@
     "e9bf1f1233e46e3a",
     "972466f0f78513f5",
     "8a378f09f300d195",
-    "bf0dff5cd6e5ecff"
+    "bf0dff5cd6e5ecff",
+    "53b6b837cb8676d6"
   ],
   "entity_memory": {
+    "brittany": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grady to star": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in thriller": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "state of emergency": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "house of the": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dragon": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director greg yaitanes": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "entertainment": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "infrared pictures": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring brittany": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grady": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the white lotus": {
+      "count": 1,
+      "last_seen": "2026-10-30T21:16:52.398293+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "heads to": {
       "count": 2,
       "last_seen": "2026-10-30T18:20:56.426731+00:00",
@@ -25545,92 +25686,6 @@
     "ruin": {
       "count": 1,
       "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "emmy award": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "western": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michael keaton": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "keaton": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paramount": {
-      "count": 5,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "hbo": {
-      "count": 3,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "venice": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "laysla de oliveira": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "riccardo scamarcio wrap": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on sci": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fi thriller": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "telephone": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
       "categories": [
         "actors_directors"
       ]
