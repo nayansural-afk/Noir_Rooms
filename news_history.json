@@ -18612,6 +18612,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f9e8f7e4a5cdf1ed33a1237c",
+      "story_id": "2680b1ebd5d3bb11",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/fire-country-sheriff-country-crossover-teaser-trailer-1237209861",
+      "title": "‘Fire Country’ & ‘Sheriff Country’ Crossover Teaser Drops As Matt Lopez Sets Up Action-Packed Event",
+      "category": "trailers_first_look",
+      "score": 63.15,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "fire country",
+        "sheriff country",
+        "crossover teaser drops",
+        "as matt lopez",
+        "sets up action",
+        "packed event fans",
+        "november",
+        "deadline"
+      ],
+      "hook": "فِی‌ری کُنتری و شِیرف کُنتری: تِیِزر کراس‌اوور هیجان‌انگیز",
+      "hooks": [
+        "یک شب هیجان‌انگیز: بازیگران Fire Country و Sheriff Country در کنار هم",
+        "تِیِزر کراس‌اوور: نگاهی به رویداد بزرگ 6 نوامبر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تِیِزر کراس‌اوور Fire Country و Sheriff Country در Deadline منتشر شد",
+        "رویداد در تاریخ 6 نوامبر برگزار می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 366,
+      "published_at": "2026-10-30T23:36:01.433102+00:00",
+      "text": "فِی‌ری کُنتری و شِیرف کُنتری: تِیِزر کراس‌اوور هیجان‌انگیز\n\n🎬 تِیِزر کراس‌اوور Fire Country و Sheriff Country به نمایش در می‌آید\n\nیک هفته تا رویداد بزرگ کراس‌اوور Fire Country و Sheriff Country باقی مانده است. Deadline اولین نگاه به تِیِزر این رویداد را منتشر کرده است.\n\nمات لوپس برگزاری این رویداد را هماهنگ می‌کند و کارگردان/صنعت‌گر Sheriff Country در این پروژه حضور دارد.\n\n📌 نکات مهم:\n• کراس‌اوور Fire Country و Sheriff Country در تاریخ 6 نوامبر\n• تِیِزر اولین نگاه در Deadline منتشر شد\n• مات لوپس مسئول برگزاری رویداد\n• کارگردان/صنعت‌گر Sheriff Country در این پروژه حضور دارد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/fire-country-sheriff-country-crossover-teaser-trailer-1237209861",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18974,7 +19023,8 @@
     "59ea0fb67341ed9de5ee211d",
     "4a45718eb6c5eb968de6b0c0",
     "396e3fe31d27ae3cb82cb280",
-    "0ce4b742e9a424f4a11a89fd"
+    "0ce4b742e9a424f4a11a89fd",
+    "f9e8f7e4a5cdf1ed33a1237c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19336,7 +19386,8 @@
     "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545",
     "https://deadline.com/2026/10/asia-pacific-screen-awards-guria-9-temples-to-heaven-1237209398",
     "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585",
-    "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613"
+    "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613",
+    "https://deadline.com/2026/10/fire-country-sheriff-country-crossover-teaser-trailer-1237209861"
   ],
   "category_stats": {
     "movie_news": {
@@ -19358,7 +19409,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 11,
+      "published": 12,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19408,7 +19459,7 @@
       "published": 24
     },
     "23": {
-      "published": 26
+      "published": 27
     },
     "3": {
       "published": 2
@@ -19469,64 +19520,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-20T17:40:53.841039+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-20T20:14:24.370134+00:00",
       "version": 2,
@@ -22484,6 +22477,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-30T23:36:01.433206+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22845,9 +22896,67 @@
     "972466f0f78513f5",
     "8a378f09f300d195",
     "bf0dff5cd6e5ecff",
-    "53b6b837cb8676d6"
+    "53b6b837cb8676d6",
+    "2680b1ebd5d3bb11"
   ],
   "entity_memory": {
+    "deadline": {
+      "count": 2,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look"
+      ]
+    },
+    "fire country": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sheriff country": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "crossover teaser drops": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "as matt lopez": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "sets up action": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "packed event fans": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "november": {
+      "count": 1,
+      "last_seen": "2026-10-30T23:36:01.433132+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "brittany": {
       "count": 1,
       "last_seen": "2026-10-30T21:16:52.398293+00:00",
@@ -24220,13 +24329,6 @@
       ]
     },
     "sources": {
-      "count": 1,
-      "last_seen": "2026-10-27T15:05:44.061865+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "deadline": {
       "count": 1,
       "last_seen": "2026-10-27T15:05:44.061865+00:00",
       "categories": [
@@ -25637,55 +25739,6 @@
     "line": {
       "count": 1,
       "last_seen": "2026-10-23T14:01:56.964173+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "duty": {
-      "count": 1,
-      "last_seen": "2026-10-23T14:01:56.964173+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "richard gadd": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bill camp": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "join michael keaton": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "directed western": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rode": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ruin": {
-      "count": 1,
-      "last_seen": "2026-10-23T09:50:37.825778+00:00",
       "categories": [
         "actors_directors"
       ]
