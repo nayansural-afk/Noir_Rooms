@@ -18505,6 +18505,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "396e3fe31d27ae3cb82cb280",
+      "story_id": "bf0dff5cd6e5ecff",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585",
+      "title": "Holt McCallany Serial Killer Thriller ‘Paradise Disturbed’ Heads To AFM With Stoic; See The First-Look Image",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "holt",
+        "serial killer thriller",
+        "paradise disturbed",
+        "heads to",
+        "with stoic",
+        "see the first",
+        "look image",
+        "stoic",
+        "mindhunter",
+        "james khanlarian",
+        "the ghost trap",
+        "james robert fuller"
+      ],
+      "hook": "هولت مک‌کالنی در ترسناک 'پارايدز دِستِرِد' به AFM می‌رود",
+      "hooks": [
+        "سینمای ترسناک با هولت مک‌کالنی در AFM",
+        "فیلمنامهٔ جیمز رابر فیلدر در 'پارايدز دِستِرِد'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Stoic در حال راه‌اندازی فروش جهانی برای 'پارايدز دِستِرِد' پیش از AFM است."
+      ],
+      "status": "published",
+      "telegram_message_id": 364,
+      "published_at": "2026-10-30T18:20:56.426702+00:00",
+      "text": "هولت مک‌کالنی در ترسناک 'پارايدز دِستِرِد' به AFM می‌رود\n\n🎬 هولت مک‌کالنی در ترسناک 'پارايدز دِستِرِد' به AFM می‌رود\n\nدر ترسناک جدید 'پارايدز دِستِرِد'، هولت مک‌کالنی به‌عنوان قاتل سریالی باز می‌گردد. فیلم توسط جیمز خانلارین ساخته شده و بر اساس رمان جیمز رابر فیلدر است.\nزاک استاینر نیز در نقش‌های مهمی حضور دارد و Stoic فروش جهانی را پیش از AFM آغاز کرده.\n\n📌 نکات مهم:\n• فیلم 'پارايدز دِستِرِد' در ژانر ترسناک/قاتل سریالی\n• هولت مک‌کالنی در نقش قاتل سریالی\n• سینمایی توسط جیمز خانلارین ساخته شده\n• بر اساس رمان جیمز رابر فیلدر\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18865,7 +18918,8 @@
     "73ec716071578a3838c7eb80",
     "09de0ce21d1dfe0d84e719d2",
     "59ea0fb67341ed9de5ee211d",
-    "4a45718eb6c5eb968de6b0c0"
+    "4a45718eb6c5eb968de6b0c0",
+    "396e3fe31d27ae3cb82cb280"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19225,7 +19279,8 @@
     "https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424",
     "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
     "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545",
-    "https://deadline.com/2026/10/asia-pacific-screen-awards-guria-9-temples-to-heaven-1237209398"
+    "https://deadline.com/2026/10/asia-pacific-screen-awards-guria-9-temples-to-heaven-1237209398",
+    "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585"
   ],
   "category_stats": {
     "movie_news": {
@@ -19235,7 +19290,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 142,
+      "published": 143,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19288,7 +19343,7 @@
       "published": 15
     },
     "18": {
-      "published": 18
+      "published": 19
     },
     "20": {
       "published": 34
@@ -19358,64 +19413,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-20T09:54:10.879106+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-20T14:03:50.850981+00:00",
       "version": 2,
@@ -22373,6 +22370,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-30T18:20:56.426808+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22732,9 +22787,95 @@
     "f9c21081b2c56bc5",
     "e9bf1f1233e46e3a",
     "972466f0f78513f5",
-    "8a378f09f300d195"
+    "8a378f09f300d195",
+    "bf0dff5cd6e5ecff"
   ],
   "entity_memory": {
+    "heads to": {
+      "count": 2,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "holt": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "serial killer thriller": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paradise disturbed": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "with stoic": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "see the first": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "look image": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stoic": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mindhunter": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james khanlarian": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the ghost trap": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james robert fuller": {
+      "count": 1,
+      "last_seen": "2026-10-30T18:20:56.426731+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "guria": {
       "count": 1,
       "last_seen": "2026-10-30T15:30:04.815456+00:00",
@@ -25238,13 +25379,6 @@
         "movie_news"
       ]
     },
-    "heads to": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "with bleiberg": {
       "count": 1,
       "last_seen": "2026-10-23T17:37:59.090825+00:00",
@@ -25499,84 +25633,6 @@
       "last_seen": "2026-10-22T23:11:01.184334+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "gale anne hurd": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lioness": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "italian": {
-      "count": 1,
-      "last_seen": "2026-10-22T23:11:01.184334+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mentored": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the turning point": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "contact": {
-      "count": 1,
-      "last_seen": "2026-10-22T20:21:39.275406+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "festival": {
-      "count": 2,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "tangles": {
-      "count": 1,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins grand jury": {
-      "count": 1,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "prize": {
-      "count": 1,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "animation is film": {
-      "count": 1,
-      "last_seen": "2026-10-22T17:47:10.386676+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
