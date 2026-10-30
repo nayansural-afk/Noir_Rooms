@@ -18402,6 +18402,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "59ea0fb67341ed9de5ee211d",
+      "story_id": "972466f0f78513f5",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545",
+      "title": "Rare Stanley Kubrick Interview Headed to TCM’s ‘Plot Thickens’ Podcast as Bonus Episode",
+      "category": "movie_news",
+      "score": 75.19,
+      "freshness": 82.0,
+      "credibility": 90.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "dc",
+        "rare stanley kubrick",
+        "interview headed",
+        "plot thickens",
+        "podcast",
+        "bonus episode exclusive",
+        "host ben mankiewicz",
+        "clockwork orange",
+        "newsday",
+        "joseph gelmis",
+        "january"
+      ],
+      "hook": "کالبریک در پادکست TCM: مصاحبه نادر 1972",
+      "hooks": [
+        "مصاحبه نادر کالبریک در پادکست TCM",
+        "کالبریک و جوزف گلمیس: گفتگوی 1972"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این مصاحبه در دوره 'A Clockwork Orange' اتفاق افتاد"
+      ],
+      "status": "published",
+      "telegram_message_id": 362,
+      "published_at": "2026-10-30T11:15:01.430897+00:00",
+      "text": "کالبریک در پادکست TCM: مصاحبه نادر 1972\n\n🎬 مصاحبه نادر ستانلی کالبریک در پادکست TCM 'Plot Thickens' به عنوان قسمت اضافه\n\nمصاحبه‌ای که در سال 1972 با منتقد فیلم نیوذی جوزف گلمیس انجام شد، اکنون در پادکست TCM 'Plot Thickens' به عنوان قسمت اضافه منتشر می‌شود. میزبان این قسمت بن مانکیویچ است و تاریخ انتشار آن 7 ژانویه 2027 است.\n\n📌 نکات مهم:\n• مصاحبه نادر ستانلی کالبریک در سال 1972\n• پادکست TCM 'Plot Thickens' به عنوان قسمت اضافه\n• میزبان بن مانکیویچ\n• مصاحبه با منتقد فیلم نیوذی جوزف گلمیس\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -18760,7 +18811,8 @@
     "042e053013c411e05294eecc",
     "30d9636d8739b06e21ce73f8",
     "73ec716071578a3838c7eb80",
-    "09de0ce21d1dfe0d84e719d2"
+    "09de0ce21d1dfe0d84e719d2",
+    "59ea0fb67341ed9de5ee211d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19118,11 +19170,12 @@
     "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041",
     "https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587",
     "https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424",
-    "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies"
+    "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+    "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 180,
+      "published": 181,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19172,7 +19225,7 @@
       "published": 11
     },
     "11": {
-      "published": 19
+      "published": 20
     },
     "14": {
       "published": 12
@@ -19251,64 +19304,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-19T21:18:33.930976+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "streaming",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-19T23:31:00.579237+00:00",
       "version": 2,
@@ -22266,6 +22261,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-30T11:15:01.431005+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22623,9 +22676,89 @@
     "f3726f4ffdb68429",
     "53a22bfdc86afc95",
     "f9c21081b2c56bc5",
-    "e9bf1f1233e46e3a"
+    "e9bf1f1233e46e3a",
+    "972466f0f78513f5"
   ],
   "entity_memory": {
+    "dc": {
+      "count": 4,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "january": {
+      "count": 2,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "rare stanley kubrick": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "interview headed": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plot thickens": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "podcast": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bonus episode exclusive": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "host ben mankiewicz": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "clockwork orange": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "newsday": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joseph gelmis": {
+      "count": 1,
+      "last_seen": "2026-10-30T11:15:01.430927+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hollywood": {
       "count": 3,
       "last_seen": "2026-10-29T23:53:17.292882+00:00",
@@ -23314,14 +23447,6 @@
         "actors_directors"
       ]
     },
-    "dc": {
-      "count": 3,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "sundance": {
       "count": 2,
       "last_seen": "2026-10-28T11:09:53.633205+00:00",
@@ -23365,13 +23490,6 @@
       ]
     },
     "polar bear": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "january": {
       "count": 1,
       "last_seen": "2026-10-28T11:09:53.633205+00:00",
       "categories": [
@@ -25402,69 +25520,6 @@
     "the decline": {
       "count": 1,
       "last_seen": "2026-10-22T14:18:42.331790+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "western civilization": {
-      "count": 1,
-      "last_seen": "2026-10-22T14:18:42.331790+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "penelope spheeris": {
-      "count": 1,
-      "last_seen": "2026-10-22T14:18:42.331790+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "greta gerwig": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everything we know": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "about greta gerwig": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "narnia": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the magician": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nephew": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "so far": {
-      "count": 1,
-      "last_seen": "2026-10-22T09:55:47.031767+00:00",
       "categories": [
         "movie_news"
       ]
