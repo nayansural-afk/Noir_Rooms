@@ -18870,6 +18870,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8831f74b810c348a372012b7",
+      "story_id": "75a04a74fe609013",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998",
+      "title": "Alex Gibney-Produced ‘Mohabat,’ Directed by James Longley, Wins at Ji.hlava: The Film Is ‘Meticulously Researched and Exquisitely Crafted’",
+      "category": "movie_news",
+      "score": 56.26,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "alex gibney",
+        "produced",
+        "mohabat",
+        "directed",
+        "james longley",
+        "wins",
+        "the film is",
+        "meticulously researched",
+        "exquisitely crafted",
+        "opus bonum",
+        "documentary film festival"
+      ],
+      "hook": "فیلم 'محبت' در جشنواره جی.هلاوا برنده شد",
+      "hooks": [
+        "جشنواره جی.هلاوا: 'محبت' برنده بخش اوپس بونوم",
+        "فیلم 'محبت' با داستانی دراماتیک در جشنواره جی.هلاوا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'محبت' برنده بخش اوپس بونوم جشنواره جی.هلاوا",
+        "فیلم توسط محمد شریف هوتک، جیمز لانگلی و آکس گِبنی تولید شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 371,
+      "published_at": "2026-10-31T23:16:18.745100+00:00",
+      "text": "فیلم 'محبت' در جشنواره جی.هلاوا برنده شد\n\n🎬 فیلم 'محبت' برنده بخش اوپس بونوم در جشنواره جی.هلاوا\n\nفیلم مستند 'محبت' که توسط جیمز لانگلی و آکس گِبنی تولید شد، در بخش اوپس بونوم جشنواره جی.هلاوا برنده شد. داستان فیلم درباره‌ی پسری ۱۲ ساله به نام محبت است که پس از کشته شدن پدرش در حمله‌ی بدون پرواز، در یک خانه‌ی یارانه‌ای شهر قرار می‌گیرد.\n\n📌 نکات مهم:\n• فیلم 'محبت' برنده بخش اوپس بونوم جشنواره جی.هلاوا\n• فیلم توسط محمد شریف هوتک، جیمز لانگلی و آکس گِبنی تولید شد\n• داستان درباره‌ی پسری ۱۲ ساله که پس از کشته شدن پدرش در حمله‌ی بدون پرواز، در خانه‌ی یارانه‌ای قرار می‌گیرد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19237,7 +19291,8 @@
     "9cc1f8ed1f5dd8efbe437b07",
     "dc6cdbdbb6087574e4d1470f",
     "8b3d09f4ecccf04ddb21602f",
-    "844a08f1612278305c886810"
+    "844a08f1612278305c886810",
+    "8831f74b810c348a372012b7"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19604,11 +19659,12 @@
     "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973",
     "https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571",
     "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
-    "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536"
+    "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536",
+    "https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 183,
+      "published": 184,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19676,7 +19732,7 @@
       "published": 24
     },
     "23": {
-      "published": 27
+      "published": 28
     },
     "3": {
       "published": 2
@@ -19737,64 +19793,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-21T17:48:15.952916+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-21T20:25:23.197688+00:00",
       "version": 2,
@@ -22752,6 +22750,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-31T23:16:18.745231+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23118,20 +23174,99 @@
     "46d3afc80ae8d80a",
     "0d107e16f6b42013",
     "4d1c2927e4772a66",
-    "6373dfe4552d99b1"
+    "6373dfe4552d99b1",
+    "75a04a74fe609013"
   ],
   "entity_memory": {
-    "death": {
-      "count": 3,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
+    "oscar": {
+      "count": 38,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
       "categories": [
         "actors_directors",
         "movie_news",
         "awards_festivals"
       ]
     },
-    "oscar": {
-      "count": 37,
+    "directed": {
+      "count": 4,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "alex gibney": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "produced": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mohabat": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james longley": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wins": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the film is": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "meticulously researched": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exquisitely crafted": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "opus bonum": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "documentary film festival": {
+      "count": 1,
+      "last_seen": "2026-10-31T23:16:18.745133+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "death": {
+      "count": 3,
       "last_seen": "2026-10-31T20:22:22.827979+00:00",
       "categories": [
         "actors_directors",
@@ -24845,14 +24980,6 @@
         "actors_directors"
       ]
     },
-    "directed": {
-      "count": 3,
-      "last_seen": "2026-10-27T10:17:14.965538+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "milcho manchevski talks": {
       "count": 1,
       "last_seen": "2026-10-27T10:17:14.965538+00:00",
@@ -25884,82 +26011,6 @@
     "time": {
       "count": 1,
       "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "wednesday": {
-      "count": 3,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "variety": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "steel magnolias": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "continue": {
-      "count": 5,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "movie_news",
-        "box_office",
-        "actors_directors"
-      ]
-    },
-    "actor": {
-      "count": 2,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "century": {
-      "count": 1,
-      "last_seen": "2026-10-24T09:21:53.883289+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "studios": {
-      "count": 4,
-      "last_seen": "2026-10-23T23:01:31.785264+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "mendes": {
-      "count": 2,
-      "last_seen": "2026-10-23T23:01:31.785264+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amazon": {
-      "count": 3,
-      "last_seen": "2026-10-23T23:01:31.785264+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "leslie bibb boards": {
-      "count": 1,
-      "last_seen": "2026-10-23T23:01:31.785264+00:00",
       "categories": [
         "actors_directors"
       ]
