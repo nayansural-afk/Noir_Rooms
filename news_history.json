@@ -18714,6 +18714,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "dc6cdbdbb6087574e4d1470f",
+      "story_id": "0d107e16f6b42013",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571",
+      "title": "Teodora Ana Mihai On Her Breakout Feature ‘Heysel 85’ & Plans For Her Next Film — Tokyo",
+      "category": "movie_news",
+      "score": 73.48,
+      "freshness": 82.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "teodora ana mihai",
+        "on her breakout",
+        "feature",
+        "heysel",
+        "plans for her",
+        "next film",
+        "tokyo after",
+        "berlin",
+        "romanian",
+        "belgian",
+        "tokyo film festival",
+        "asian"
+      ],
+      "hook": "فیلم «Heysel 85» در جشنواره توکیو رونق می‌یابد",
+      "hooks": [
+        "مخرج رومانی-بلژیک در توکیو، «Heysel 85»",
+        "پیشرفت «Heysel 85» در جشنواره توکیو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مخرج رومانی-بلژیک، تیودورا آنا میهای"
+      ],
+      "status": "published",
+      "telegram_message_id": 368,
+      "published_at": "2026-10-31T14:58:22.712942+00:00",
+      "text": "فیلم «Heysel 85» در جشنواره توکیو رونق می‌یابد\n\n🎬 مخرج رومانی-بلژیک، تیودورا آنا میهای، در توکیو «Heysel 85» را رونق می‌دهد\n\nتیودورا آنا میهای، مخرج رومانی-بلژیک، پس از نمایش موفق در برلین، اکنون «Heysel 85» را در جشنواره فیلم توکیو معرفی می‌کند.\nفیلم در این جشنواره، نخستین نمایش آسیایی خود را دارد و میهای به‌عنوان نویسنده مشترک نیز در پشت صحنه حضور دارد.\n\n📌 نکات مهم:\n• فیلم «Heysel 85» در برلین رونق گرفت\n• فیلم در جشنواره فیلم توکیو نمایش آسیایی اول خود را دارد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19078,7 +19130,8 @@
     "396e3fe31d27ae3cb82cb280",
     "0ce4b742e9a424f4a11a89fd",
     "f9e8f7e4a5cdf1ed33a1237c",
-    "9cc1f8ed1f5dd8efbe437b07"
+    "9cc1f8ed1f5dd8efbe437b07",
+    "dc6cdbdbb6087574e4d1470f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19442,11 +19495,12 @@
     "https://deadline.com/2026/10/holt-mccallany-serial-killer-movie-paradise-disturbed-sales-1237209585",
     "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613",
     "https://deadline.com/2026/10/fire-country-sheriff-country-crossover-teaser-trailer-1237209861",
-    "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973"
+    "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973",
+    "https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 182,
+      "published": 183,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19499,7 +19553,7 @@
       "published": 20
     },
     "14": {
-      "published": 12
+      "published": 13
     },
     "16": {
       "published": 15
@@ -19575,64 +19629,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-20T23:05:37.816945+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-21T09:55:36.659698+00:00",
       "version": 2,
@@ -22590,6 +22586,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-31T14:58:22.713050+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -22953,9 +23007,94 @@
     "bf0dff5cd6e5ecff",
     "53b6b837cb8676d6",
     "2680b1ebd5d3bb11",
-    "46d3afc80ae8d80a"
+    "46d3afc80ae8d80a",
+    "0d107e16f6b42013"
   ],
   "entity_memory": {
+    "tokyo film festival": {
+      "count": 2,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "teodora ana mihai": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "on her breakout": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feature": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "heysel": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plans for her": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "next film": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tokyo after": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "berlin": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "romanian": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "belgian": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "asian": {
+      "count": 1,
+      "last_seen": "2026-10-31T14:58:22.712974+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dies": {
       "count": 18,
       "last_seen": "2026-10-31T10:47:49.518540+00:00",
@@ -24546,13 +24685,6 @@
         "movie_news"
       ]
     },
-    "tokyo film festival": {
-      "count": 1,
-      "last_seen": "2026-10-27T10:17:14.965538+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "indio downey books": {
       "count": 1,
       "last_seen": "2026-10-26T23:42:59.495783+00:00",
@@ -25716,83 +25848,6 @@
     "lukas gage": {
       "count": 1,
       "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "billie lourd": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dylan douglas": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "movie debut": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the hit on": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hitler": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with bleiberg": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bleiberg entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the hit": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mobsters": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nazis": {
-      "count": 1,
-      "last_seen": "2026-10-23T17:37:59.090825+00:00",
       "categories": [
         "movie_news"
       ]
