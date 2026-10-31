@@ -18766,6 +18766,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8b3d09f4ecccf04ddb21602f",
+      "story_id": "4d1c2927e4772a66",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+      "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
+      "category": "actors_directors",
+      "score": 64.81,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "patrick stewart",
+        "star trek",
+        "men from jean",
+        "luc picard",
+        "charles xavier",
+        "shakespearean",
+        "hollywood patrick stewart",
+        "captain",
+        "william shatner",
+        "british",
+        "american",
+        "stewart"
+      ],
+      "hook": "پاتریک استوارت، ستاره‌ای که در ستارک و X-من تأثیر گذاشت",
+      "hooks": [
+        "حضور برجسته پاتریک استوارت در ستارک و X-من",
+        "شکوه و عمق در نقش‌های ستارک و X-من"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پاتریک استوارت در نقش Jean-Luc Picard و Charles Xavier حضور داشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 369,
+      "published_at": "2026-10-31T17:27:32.436736+00:00",
+      "text": "پاتریک استوارت، ستاره‌ای که در ستارک و X-من تأثیر گذاشت\n\n🎬 پاتریک استوارت، ستاره‌ای که در ستارک و X-من تأثیر گذاشت\n\nپاتریک استوارت، بازیگر بریتانیایی با آموزش شکسپیر، در نقش‌های برجسته‌ای چون Jean-Luc Picard در ستارک و Charles Xavier در X-من حضور داشت و با صدای برجسته‌اش، عمق و گرما را به صحنه می‌آورد.\n\nاو در سن 86 سالگی درگذشت و با حضور در این نقش‌ها، امید و انسانیت را برای بینندگان القا می‌کرد؛ همکارانش مانند William Shatner به او افتخار می‌کردند.\n\n📌 نکات مهم:\n• نقش‌های برجسته در ستارک و X-من\n• آموزش شکسپیر و صدای برجسته\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19131,7 +19183,8 @@
     "0ce4b742e9a424f4a11a89fd",
     "f9e8f7e4a5cdf1ed33a1237c",
     "9cc1f8ed1f5dd8efbe437b07",
-    "dc6cdbdbb6087574e4d1470f"
+    "dc6cdbdbb6087574e4d1470f",
+    "8b3d09f4ecccf04ddb21602f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19496,7 +19549,8 @@
     "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613",
     "https://deadline.com/2026/10/fire-country-sheriff-country-crossover-teaser-trailer-1237209861",
     "https://variety.com/2026/film/obituaries-people-news/sanjay-gupta-dead-kaante-zinda-1236935973",
-    "https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571"
+    "https://deadline.com/2026/10/teodora-ana-mihai-heysel-85-tokyo-1237210571",
+    "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero"
   ],
   "category_stats": {
     "movie_news": {
@@ -19506,7 +19560,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 145,
+      "published": 146,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19604,7 +19658,7 @@
       "published": 29
     },
     "17": {
-      "published": 38
+      "published": 39
     },
     "12": {
       "published": 6
@@ -19629,64 +19683,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-21T09:55:36.659698+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Best Pancakes In The County’: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 403,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-21T14:19:04.587591+00:00",
       "version": 2,
@@ -22644,6 +22640,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-10-31T17:27:32.436839+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23008,9 +23062,96 @@
     "53b6b837cb8676d6",
     "2680b1ebd5d3bb11",
     "46d3afc80ae8d80a",
-    "0d107e16f6b42013"
+    "0d107e16f6b42013",
+    "4d1c2927e4772a66"
   ],
   "entity_memory": {
+    "charles xavier": {
+      "count": 2,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "patrick stewart": {
+      "count": 2,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "british": {
+      "count": 2,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star trek": {
+      "count": 3,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "men from jean": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "luc picard": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shakespearean": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hollywood patrick stewart": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "captain": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "william shatner": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "american": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stewart": {
+      "count": 1,
+      "last_seen": "2026-10-31T17:27:32.436765+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "tokyo film festival": {
       "count": 2,
       "last_seen": "2026-10-31T14:58:22.712974+00:00",
@@ -23683,13 +23824,6 @@
         "actors_directors"
       ]
     },
-    "charles xavier": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "life with grace": {
       "count": 1,
       "last_seen": "2026-10-29T21:29:34.109948+00:00",
@@ -23719,13 +23853,6 @@
       ]
     },
     "kevin feige": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "patrick stewart": {
       "count": 1,
       "last_seen": "2026-10-29T21:29:34.109948+00:00",
       "categories": [
@@ -23985,13 +24112,6 @@
         "movie_news"
       ]
     },
-    "british": {
-      "count": 1,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "let him have": {
       "count": 1,
       "last_seen": "2026-10-29T11:22:54.722348+00:00",
@@ -24082,14 +24202,6 @@
       "count": 1,
       "last_seen": "2026-10-28T23:57:44.580955+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "star trek": {
-      "count": 2,
-      "last_seen": "2026-10-28T21:28:00.509096+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -25790,62 +25902,6 @@
       ]
     },
     "love language": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from daddy yankee": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to royel otis": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vertical": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "grace moretz": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony ramos": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "manny jacinto": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "isabel may": {
-      "count": 1,
-      "last_seen": "2026-10-23T20:09:59.568310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lukas gage": {
       "count": 1,
       "last_seen": "2026-10-23T20:09:59.568310+00:00",
       "categories": [
