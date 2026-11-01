@@ -19025,6 +19025,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6e73708e0d33cb009514d0d4",
+      "story_id": "4572f80f5bee73b5",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832",
+      "title": "Judi Dench Says Robin Williams Was ‘Gently Supportive’ During Her Late Husband’s Cancer Battle: ‘I’ve Often Thought About’ His ‘Sensitivity and Understanding’",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "judi dench says",
+        "robin williams was",
+        "gently supportive",
+        "during her late",
+        "husband",
+        "cancer battle",
+        "often thought about",
+        "sensitivity",
+        "understanding",
+        "judi dench",
+        "robin williams",
+        "michael williams"
+      ],
+      "hook": "دانیل دِنش و رابرین ویلیامز: حمایت ملایم در زمان سختی",
+      "hooks": [
+        "حمایت رابرین ویلیامز در نبرد مریضی همسر دِنش",
+        "دِنش دربارهٔ حمایت رابرین ویلیامز در زمان سرطان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دِنش بیان کرد رابرین ویلیامز در زمان سرطان همسرش حامی ملایم بود"
+      ],
+      "status": "published",
+      "telegram_message_id": 374,
+      "published_at": "2026-11-01T18:12:38.954961+00:00",
+      "text": "دانیل دِنش و رابرین ویلیامز: حمایت ملایم در زمان سختی\n\n🎬 دِنش: رابرین ویلیامز در زمان سرطان همسرش، حامی ملایم بود\n\nدر خاطراتی که در کتاب خاطرات آینده‌اش «آیا هنوز دیر است برای فرار؟» به اشتراک می‌گذارد، دِنش به صمیمی‌ترین لحظات دوران مبارزهٔ همسرش، مایکل ویلیامز، با سرطان ریه می‌پردازد.\nاو یاد می‌کند که رابرین ویلیامز در آن زمان، با حسی ملایم و درک عمیق، در کنار او بود و حمایت بی‌قید و شرطی ارائه داد؛ لحظه‌ای که در آن دو ستارهٔ سینما، در خانهٔ اسکاتلندی بلی کانولی، خاطراتی را به یاد می‌آورد.\n\n📌 نکات مهم:\n• دِنش دربارهٔ حمایت رابرین ویلیامز در زمان سرطان همسرش\n• کتاب خاطرات او «آیا هنوز دیر است برای فرار؟»\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19395,7 +19448,8 @@
     "844a08f1612278305c886810",
     "8831f74b810c348a372012b7",
     "d3e1238c51e6fa5c6aaa4756",
-    "b81c6f092784771668abd706"
+    "b81c6f092784771668abd706",
+    "6e73708e0d33cb009514d0d4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19765,7 +19819,8 @@
     "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536",
     "https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998",
     "https://deadline.com/2026/10/sanjay-gupta-dead-1237210607",
-    "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743"
+    "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743",
+    "https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832"
   ],
   "category_stats": {
     "movie_news": {
@@ -19775,7 +19830,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 147,
+      "published": 148,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19828,7 +19883,7 @@
       "published": 15
     },
     "18": {
-      "published": 19
+      "published": 20
     },
     "20": {
       "published": 35
@@ -19898,64 +19953,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-22T09:55:47.031841+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-22T14:18:42.331875+00:00",
       "version": 2,
@@ -22913,6 +22910,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-01T18:12:38.955063+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23282,9 +23337,94 @@
     "6373dfe4552d99b1",
     "75a04a74fe609013",
     "9084db04b759f9fd",
-    "2b0c006eda176aaf"
+    "2b0c006eda176aaf",
+    "4572f80f5bee73b5"
   ],
   "entity_memory": {
+    "judi dench says": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robin williams was": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gently supportive": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "during her late": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "husband": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cancer battle": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "often thought about": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sensitivity": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "understanding": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "judi dench": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robin williams": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michael williams": {
+      "count": 1,
+      "last_seen": "2026-11-01T18:12:38.954992+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 11,
       "last_seen": "2026-11-01T15:42:47.622297+00:00",
@@ -26035,91 +26175,6 @@
       "last_seen": "2026-10-24T19:10:43.096520+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "rejoice": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "breakout": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the crawling": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gutsy alien freakout": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "your dreams for": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christian everhard": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "while": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "could": {
-      "count": 1,
-      "last_seen": "2026-10-24T19:10:43.096520+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "superman": {
-      "count": 2,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "spider-man": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "liverpool": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gotham city": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
