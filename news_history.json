@@ -18977,6 +18977,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b81c6f092784771668abd706",
+      "story_id": "2b0c006eda176aaf",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743",
+      "title": "Netflix’s ‘Cliff Booth’ Won’t Play on Cinemark or Regal’s IMAX Screens",
+      "category": "movie_news",
+      "score": 63.45,
+      "freshness": 65.0,
+      "credibility": 90.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": false,
+      "entities": [
+        "netflix",
+        "cliff booth",
+        "play",
+        "cinemark",
+        "regal",
+        "screens david fincher",
+        "brad pitt",
+        "thanksgiving"
+      ],
+      "hook": "فیلم 'کلیف بوت' در IMAX نمایش داده نمی‌شود",
+      "hooks": [
+        "سینماهای Cinemark و Regal از نمایش 'کلیف بوت' در IMAX صرف‌نظر می‌کنند",
+        "فینچر و پِیت در 'کلیف بوت'، اما در IMAX فقط در AMC"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در ۵۰۰ صفحه نمایش AMC در شکرگزاری به نمایش درمی‌آید"
+      ],
+      "status": "published",
+      "telegram_message_id": 373,
+      "published_at": "2026-11-01T15:42:47.622266+00:00",
+      "text": "فیلم 'کلیف بوت' در IMAX نمایش داده نمی‌شود\n\n🎬 فیلم 'کلیف بوت' در IMAX نمایش داده نمی‌شود\n\nفیلم 'کلیف بوت' اثر دیوید فینچر و براد پِیت، در سینماهای Cinemark و Regal در نمایش‌های IMAX نمایش داده نمی‌شود.\nبا این حال، در هفته‌ی شکرگزاری، فیلم در ۵۰۰ صفحه نمایش AMC در سراسر جهان به صورت انحصاری در IMAX به نمایش درمی‌آید.\n\n📌 نکات مهم:\n• فیلم 'کلیف بوت' در IMAX نمایش داده نمی‌شود\n• فیلم در ۵۰۰ صفحه نمایش AMC در شکرگزاری به نمایش درمی‌آید\n• فیلم توسط دیوید فینچر ساخته شده و براد پِیت در آن بازی می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19346,7 +19394,8 @@
     "8b3d09f4ecccf04ddb21602f",
     "844a08f1612278305c886810",
     "8831f74b810c348a372012b7",
-    "d3e1238c51e6fa5c6aaa4756"
+    "d3e1238c51e6fa5c6aaa4756",
+    "b81c6f092784771668abd706"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -19715,11 +19764,12 @@
     "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
     "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536",
     "https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998",
-    "https://deadline.com/2026/10/sanjay-gupta-dead-1237210607"
+    "https://deadline.com/2026/10/sanjay-gupta-dead-1237210607",
+    "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 184,
+      "published": 185,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -19811,7 +19861,7 @@
       "published": 1
     },
     "15": {
-      "published": 16
+      "published": 17
     },
     "1": {
       "published": 3
@@ -19848,64 +19898,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-21T23:09:24.764454+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Fast & Furious’ TV Series Greenlit At Peacock",
-          "category": "movie_news",
-          "score": 88.96,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-22T09:55:47.031841+00:00",
       "version": 2,
@@ -22863,6 +22855,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-01T15:42:47.622363+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23231,9 +23281,68 @@
     "4d1c2927e4772a66",
     "6373dfe4552d99b1",
     "75a04a74fe609013",
-    "9084db04b759f9fd"
+    "9084db04b759f9fd",
+    "2b0c006eda176aaf"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 11,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "cliff booth": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "play": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cinemark": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "regal": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "screens david fincher": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "brad pitt": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thanksgiving": {
+      "count": 1,
+      "last_seen": "2026-11-01T15:42:47.622297+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "sanjay gupta": {
       "count": 2,
       "last_seen": "2026-11-01T11:44:52.547711+00:00",
@@ -25388,15 +25497,6 @@
         "movie_news"
       ]
     },
-    "netflix": {
-      "count": 10,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "star": {
       "count": 13,
       "last_seen": "2026-10-26T15:48:37.387394+00:00",
@@ -26020,55 +26120,6 @@
       "last_seen": "2026-10-24T16:23:30.267077+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "there": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "spider": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "covid": {
-      "count": 1,
-      "last_seen": "2026-10-24T16:23:30.267077+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tarantino": {
-      "count": 1,
-      "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "quentin tarantino shows": {
-      "count": 1,
-      "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "off first": {
-      "count": 1,
-      "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "minutes": {
-      "count": 1,
-      "last_seen": "2026-10-24T13:04:04.694363+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
