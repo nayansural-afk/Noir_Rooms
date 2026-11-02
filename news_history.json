@@ -19341,6 +19341,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "cd1ecd2088b0454943cd15f6",
+      "story_id": "aef0abe71f29fbdd",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647",
+      "title": "Josh Hartnett, Emma Thompson, Sally Hawkins, Danny Huston, Robert Aramayo & Chloe Pirrie Join Elle Fanning & Julianne Moore In Rebecca Miller’s ‘Moonsong: A Life In Seven Verses’ – AFM",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "josh hartnett",
+        "emma thompson",
+        "sally hawkins",
+        "danny huston",
+        "robert aramayo",
+        "chloe pirrie join",
+        "elle fanning",
+        "julianne moore in",
+        "rebecca miller",
+        "moonsong",
+        "life in seven",
+        "verses"
+      ],
+      "hook": "جوش هارتنت و امّا توماس در فیلم جدید ربیلا میلر",
+      "hooks": [
+        "سالی هاوکینز و دنی هستون در کنار جوش هارتنت",
+        "جوش هارتنت، امّا توماس، سالی هاوکینز در کنار آن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Moonsong: A Life In Seven Verses یک بیوگرافی درباره نویسنده مرجور واتس براون است"
+      ],
+      "status": "published",
+      "telegram_message_id": 380,
+      "published_at": "2026-11-02T23:44:59.141389+00:00",
+      "text": "جوش هارتنت و امّا توماس در فیلم جدید ربیلا میلر\n\n🎬 جوش هارتنت و امّا توماس در فیلم بیوگرافی ربیلا میلر\n\nفیلم بیوگرافی ‘Moonsong: A Life In Seven Verses’ اثر ربیلا میلر، در حال آماده‌سازی برای فروش بین‌المللی در AFM است. نقش‌های اصلی را ایل فینینگ به عنوان نویسنده مرجور واتس براون و جولیان مور، و همراه با جوش هارتنت، امّا توماس، سالی هاوکینز، دنی هستون، رابرت آرمایو و چلو پیرری بازی می‌کنند.\n\n📌 نکات مهم:\n• فیلم توسط ربیلا میلر ساخته شده\n• نقش‌های اصلی ایل فینینگ، جولیان مور، جوش هارتنت، امّا توماس، سالی هاوکینز، دنی هستون، رابرت آرمایو و چلو پیرری در این فیلم حضور دارند\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19717,7 +19770,8 @@
     "7b64b216973052929ca25799",
     "bdcb720d33a916631f3d2a1c",
     "08b7f03c0159e9e2785d1bed",
-    "d6a58b2871ead7e05b45bae2"
+    "d6a58b2871ead7e05b45bae2",
+    "cd1ecd2088b0454943cd15f6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20093,7 +20147,8 @@
     "https://variety.com/2026/film/global/five-takeaways-lucca-comic-and-games-1236936963",
     "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
     "https://deadline.com/2026/11/riverdale-casey-cott-movie-games-we-play-us-release-date-1237211372",
-    "https://deadline.com/2026/11/the-liberation-trailer-carrie-coon-guy-nattiv-1237211620"
+    "https://deadline.com/2026/11/the-liberation-trailer-carrie-coon-guy-nattiv-1237211620",
+    "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647"
   ],
   "category_stats": {
     "movie_news": {
@@ -20103,7 +20158,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 152,
+      "published": 153,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20165,7 +20220,7 @@
       "published": 24
     },
     "23": {
-      "published": 29
+      "published": 30
     },
     "3": {
       "published": 2
@@ -20226,64 +20281,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-23T14:01:56.964265+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-23T17:37:59.090899+00:00",
       "version": 2,
@@ -23241,6 +23238,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-02T23:44:59.141503+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
+          "category": "movie_news",
+          "score": 90.81,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23616,9 +23671,94 @@
     "082489cf8ab37cbc",
     "35414e0065a173ab",
     "b117f4dcc1f9ee76",
-    "ba07b990da112ad2"
+    "ba07b990da112ad2",
+    "aef0abe71f29fbdd"
   ],
   "entity_memory": {
+    "josh hartnett": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "emma thompson": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sally hawkins": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "danny huston": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert aramayo": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chloe pirrie join": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "elle fanning": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "julianne moore in": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rebecca miller": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "moonsong": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "life in seven": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "verses": {
+      "count": 1,
+      "last_seen": "2026-11-02T23:44:59.141424+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "monday": {
       "count": 2,
       "last_seen": "2026-11-02T22:02:20.017272+00:00",
@@ -26365,90 +26505,6 @@
       "last_seen": "2026-10-26T15:48:37.387394+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "leaves": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "audience roaring": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "celebrating human": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "made films": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "era who": {
-      "count": 1,
-      "last_seen": "2026-10-26T10:53:11.656791+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actress": {
-      "count": 2,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "peggy king": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "george gobel show": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "singer": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alzheimer": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "saunders house assisted": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "living": {
-      "count": 1,
-      "last_seen": "2026-10-25T22:25:34.796003+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
