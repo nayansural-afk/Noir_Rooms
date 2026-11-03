@@ -19551,6 +19551,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "191e820642bc8cd34f2a9f9a",
+      "story_id": "0b4d7d90076f55d8",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
+      "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "andrew scott",
+        "elsinore",
+        "british",
+        "bifas",
+        "scott",
+        "clio barnard",
+        "see buildings fall",
+        "like lightning",
+        "ashley walters",
+        "animol",
+        "mike leigh"
+      ],
+      "hook": "دوران نهایی برنده‌انگیز برای فیلم مستقل بریتانیا",
+      "hooks": [
+        "ایلسینور، برترین نام در فهرست بیفاس",
+        "آندرو اسکات در نقش هملت، در صدر فهرست جوایز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ایلسینور برترین نام در فهرست بیفاس است"
+      ],
+      "status": "published",
+      "telegram_message_id": 384,
+      "published_at": "2026-11-03T19:54:47.963208+00:00",
+      "text": "دوران نهایی برنده‌انگیز برای فیلم مستقل بریتانیا\n\n🎬 فیلم 'ایلسینور' با بازی آندرو اسکات، برترین نام در فهرست بیفاس\n\nفیلم 'ایلسینور' که توسط سیمون ستون کارگردانی شده و در آن اولیویا کالمن، بیلی پیپر و جانی فیلن هم‌نقش هستند، 12 نامزد در جشنواره بیفاس دارد. آندرو اسکات در نقش ایان چارلسن، هملت را در آخرین ماه‌های زندگی او بازی می‌کند و برای این نقش تحسین‌های زیادی دریافت کرده است.\n\n📌 نکات مهم:\n• فیلم 'ایلسینور' 12 نامزد در بیفاس دارد\n• آندرو اسکات در نقش ایان چارلسن، هملت را بازی می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19931,7 +19983,8 @@
     "cd1ecd2088b0454943cd15f6",
     "79d4d0cd3e6403e4af4dbc64",
     "e7b30c281fc1f8e34ffe14af",
-    "e21e52813a2f54071031770d"
+    "e21e52813a2f54071031770d",
+    "191e820642bc8cd34f2a9f9a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20311,11 +20364,12 @@
     "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647",
     "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034",
     "https://variety.com/2026/film/box-office/wicker-primetime-uk-ireland-box-office-crown-godzilla-ramayana-1236938181",
-    "https://deadline.com/2026/11/jonathan-rhys-meyers-vampire-romance-pretty-kill-machine-1237212193"
+    "https://deadline.com/2026/11/jonathan-rhys-meyers-vampire-romance-pretty-kill-machine-1237212193",
+    "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 187,
+      "published": 188,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20392,7 +20446,7 @@
       "published": 23
     },
     "19": {
-      "published": 18
+      "published": 19
     },
     "22": {
       "published": 18
@@ -20444,64 +20498,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-24T09:21:53.883362+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 401,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-24T13:04:04.694449+00:00",
       "version": 2,
@@ -23459,6 +23455,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-03T19:54:47.963317+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23838,9 +23892,97 @@
     "aef0abe71f29fbdd",
     "115b18ecdc16b7fd",
     "0c01774fd91ddef7",
-    "fedc9d3668679fad"
+    "fedc9d3668679fad",
+    "0b4d7d90076f55d8"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 39,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "british": {
+      "count": 3,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "andrew scott": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elsinore": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bifas": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scott": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "clio barnard": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "see buildings fall": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "like lightning": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ashley walters": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "animol": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mike leigh": {
+      "count": 1,
+      "last_seen": "2026-11-03T19:54:47.963237+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "jonathan rhys meyers": {
       "count": 1,
       "last_seen": "2026-11-03T16:48:14.268835+00:00",
@@ -24815,15 +24957,6 @@
         "actors_directors"
       ]
     },
-    "oscar": {
-      "count": 38,
-      "last_seen": "2026-10-31T23:16:18.745133+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "alex gibney": {
       "count": 1,
       "last_seen": "2026-10-31T23:16:18.745133+00:00",
@@ -24970,14 +25103,6 @@
       "count": 2,
       "last_seen": "2026-10-31T17:27:32.436765+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
-      "count": 2,
-      "last_seen": "2026-10-31T17:27:32.436765+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -26597,76 +26722,6 @@
     "macedonian": {
       "count": 1,
       "last_seen": "2026-10-27T10:17:14.965538+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "milcho manchevski": {
-      "count": 1,
-      "last_seen": "2026-10-27T10:17:14.965538+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indio downey books": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first lead movie": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "role with addiction": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drama": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "love in vein": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american psycho": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "producer aboard indio": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "downey": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "robert downey jr": {
-      "count": 1,
-      "last_seen": "2026-10-26T23:42:59.495783+00:00",
       "categories": [
         "movie_news"
       ]
