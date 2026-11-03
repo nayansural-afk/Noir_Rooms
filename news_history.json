@@ -19447,6 +19447,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e7b30c281fc1f8e34ffe14af",
+      "story_id": "0c01774fd91ddef7",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/box-office/wicker-primetime-uk-ireland-box-office-crown-godzilla-ramayana-1236938181",
+      "title": "‘Wicker’ Edges ‘Primetime’ for U.K., Ireland Box Office Crown as ‘Godzilla,’ ‘Ramayana’ Loom",
+      "category": "actors_directors",
+      "score": 71.76,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "wicker",
+        "edges",
+        "primetime",
+        "ireland box office",
+        "crown",
+        "godzilla",
+        "ramayana",
+        "loom black bear",
+        "alex huston fischer",
+        "eleanor wilson",
+        "olivia colman"
+      ],
+      "hook": "کمدی تاریخی 'Wicker' در صدر جعبه‌فروش بریتانیا و ایرلند",
+      "hooks": [
+        "Wicker برنده صدر جعبه‌فروش در بریتانیا و ایرلند",
+        "Wicker با ۱.۷۶ میلیون پوند برتر شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Wicker در صدر جعبه‌فروش بریتانیا و ایرلند"
+      ],
+      "status": "published",
+      "telegram_message_id": 382,
+      "published_at": "2026-11-03T12:41:20.339876+00:00",
+      "text": "کمدی تاریخی 'Wicker' در صدر جعبه‌فروش بریتانیا و ایرلند\n\n🎬 Wicker در صدر جعبه‌فروش بریتانیا و ایرلند با ۱.۷۶ میلیون پوند\n\nفیلم کمدی تاریخی \"Wicker\"، کارگردانان آکس هستون فایزر و الیونور ویلسون، با بازی اولیا کلمن، الکساندر اسکارسگارد، پیتر دینکلا و الیزابت دیبکی، در صدر جعبه‌فروش بریتانیا و ایرلند قرار گرفت.\nاین فیلم با ۱.۷۶ میلیون پوند (۲.۳۴ میلیون دلار) در صدر جعبه‌فروش قرار گرفت و به‌طور نازک فیلم روان‌پریش \"Primetime\" را پشت سر گذاشت.\n\n📌 نکات مهم:\n• Wicker در صدر جعبه‌فروش بریتانیا و ایرلند با ۱.۷۶ میلیون پوند\n• Wicker به رهبری اولیا کلمن، الکساندر اسکارسگارد، پیتر دینکلا، الیزابت دیبکی\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/wicker-primetime-uk-ireland-box-office-crown-godzilla-ramayana-1236938181",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19825,7 +19877,8 @@
     "08b7f03c0159e9e2785d1bed",
     "d6a58b2871ead7e05b45bae2",
     "cd1ecd2088b0454943cd15f6",
-    "79d4d0cd3e6403e4af4dbc64"
+    "79d4d0cd3e6403e4af4dbc64",
+    "e7b30c281fc1f8e34ffe14af"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20203,7 +20256,8 @@
     "https://deadline.com/2026/11/riverdale-casey-cott-movie-games-we-play-us-release-date-1237211372",
     "https://deadline.com/2026/11/the-liberation-trailer-carrie-coon-guy-nattiv-1237211620",
     "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647",
-    "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034"
+    "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034",
+    "https://variety.com/2026/film/box-office/wicker-primetime-uk-ireland-box-office-crown-godzilla-ramayana-1236938181"
   ],
   "category_stats": {
     "movie_news": {
@@ -20213,7 +20267,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 154,
+      "published": 155,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20314,7 +20368,7 @@
       "published": 39
     },
     "12": {
-      "published": 6
+      "published": 7
     },
     "0": {
       "published": 3
@@ -20336,64 +20390,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-23T20:09:59.568377+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-23T23:01:31.785338+00:00",
       "version": 2,
@@ -23351,6 +23347,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-03T12:41:20.339983+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23728,9 +23782,94 @@
     "b117f4dcc1f9ee76",
     "ba07b990da112ad2",
     "aef0abe71f29fbdd",
-    "115b18ecdc16b7fd"
+    "115b18ecdc16b7fd",
+    "0c01774fd91ddef7"
   ],
   "entity_memory": {
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wicker": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "edges": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "primetime": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ireland box office": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "crown": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "godzilla": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ramayana": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "loom black bear": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alex huston fischer": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eleanor wilson": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olivia colman": {
+      "count": 1,
+      "last_seen": "2026-11-03T12:41:20.339909+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "emmy": {
       "count": 5,
       "last_seen": "2026-11-03T02:09:16.887628+00:00",
@@ -26475,91 +26614,6 @@
       "count": 1,
       "last_seen": "2026-10-26T21:16:45.343916+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "north american": {
-      "count": 2,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abramorama dances to": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "north american rights": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "make work": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "about new york": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "city ballet": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "choreographic institute": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abramorama": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york choreographic": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "institute": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "linda saffire": {
-      "count": 1,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star": {
-      "count": 13,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
