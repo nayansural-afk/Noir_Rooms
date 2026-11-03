@@ -19394,6 +19394,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "79d4d0cd3e6403e4af4dbc64",
+      "story_id": "115b18ecdc16b7fd",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034",
+      "title": "Veteran Publicist Bill Harrison and Creative Director Johnny Wujek Join Nonprofit Art of Elysium (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "veteran publicist bill",
+        "harrison",
+        "creative director johnny",
+        "wujek join nonprofit",
+        "elysium",
+        "veteran",
+        "bill harrison",
+        "emmy",
+        "johnny wujek",
+        "the art",
+        "wujek"
+      ],
+      "hook": "دو ستاره تبلیغ و طراحی، در هنرهای خیریه حضور یافتند",
+      "hooks": [
+        "Bill Harrison و Johnny Wujek، در خدمت هنر",
+        "نقش‌های جدید در The Art of Elysium"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Bill Harrison veteran publicist",
+        "Johnny Wujek Emmy-winning costume designer"
+      ],
+      "status": "published",
+      "telegram_message_id": 381,
+      "published_at": "2026-11-03T02:09:16.887597+00:00",
+      "text": "دو ستاره تبلیغ و طراحی، در هنرهای خیریه حضور یافتند\n\n🎬 Bill Harrison و Johnny Wujek، در هنرهای خیریه حضور یافتند\n\nBill Harrison، یک متخصص تبلیغات با تجربه، به عنوان مدیر ارشد بازاریابی در سازمان خیریه هنرهای Elysium منصوب شد. Johnny Wujek، طراح لباس برنده جایزه امی، به عنوان معاون رئیس خدمات خلاق و روابط استعدادها در این سازمان فعالیت خواهد کرد.\n\n📌 نکات مهم:\n• Bill Harrison به عنوان CMO در The Art of Elysium منصوب شد\n• Johnny Wujek به عنوان معاون رئیس خدمات خلاق و روابط استعدادها منصوب شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم #هنر #خیریه\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -19771,7 +19824,8 @@
     "bdcb720d33a916631f3d2a1c",
     "08b7f03c0159e9e2785d1bed",
     "d6a58b2871ead7e05b45bae2",
-    "cd1ecd2088b0454943cd15f6"
+    "cd1ecd2088b0454943cd15f6",
+    "79d4d0cd3e6403e4af4dbc64"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20148,7 +20202,8 @@
     "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
     "https://deadline.com/2026/11/riverdale-casey-cott-movie-games-we-play-us-release-date-1237211372",
     "https://deadline.com/2026/11/the-liberation-trailer-carrie-coon-guy-nattiv-1237211620",
-    "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647"
+    "https://deadline.com/2026/11/hartnett-thompson-hawkins-huston-aramayo-miller-moonsong-1237211647",
+    "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034"
   ],
   "category_stats": {
     "movie_news": {
@@ -20158,7 +20213,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 153,
+      "published": 154,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20250,7 +20305,7 @@
       "published": 3
     },
     "2": {
-      "published": 1
+      "published": 2
     },
     "13": {
       "published": 30
@@ -20281,64 +20336,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-23T17:37:59.090899+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-23T20:09:59.568377+00:00",
       "version": 2,
@@ -23296,6 +23293,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-03T02:09:16.887697+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "box_office",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -23672,9 +23727,88 @@
     "35414e0065a173ab",
     "b117f4dcc1f9ee76",
     "ba07b990da112ad2",
-    "aef0abe71f29fbdd"
+    "aef0abe71f29fbdd",
+    "115b18ecdc16b7fd"
   ],
   "entity_memory": {
+    "emmy": {
+      "count": 5,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "veteran publicist bill": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "harrison": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "creative director johnny": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wujek join nonprofit": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "elysium": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "veteran": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bill harrison": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "johnny wujek": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the art": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wujek": {
+      "count": 1,
+      "last_seen": "2026-11-03T02:09:16.887628+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "josh hartnett": {
       "count": 1,
       "last_seen": "2026-11-02T23:44:59.141424+00:00",
@@ -26344,14 +26478,6 @@
         "movie_news"
       ]
     },
-    "emmy": {
-      "count": 4,
-      "last_seen": "2026-10-26T18:57:57.616151+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "north american": {
       "count": 2,
       "last_seen": "2026-10-26T18:57:57.616151+00:00",
@@ -26434,76 +26560,6 @@
       "last_seen": "2026-10-26T15:48:37.387394+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "keanu reeves": {
-      "count": 2,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "netflix action movie": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "maelstrom": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "after alan ritchson": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "drops out keanu": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reeves": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reacher": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alan ritchson": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "carry": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jaume collet": {
-      "count": 1,
-      "last_seen": "2026-10-26T15:48:37.387394+00:00",
-      "categories": [
         "movie_news"
       ]
     }
