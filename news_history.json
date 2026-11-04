@@ -19816,6 +19816,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "57754e12447761e87a76fdb8",
+      "story_id": "8de65d2363e0a9b9",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
+      "title": "Narrative Global Sales Takes Three Genre Films To AFM Including Jenna Kanell Sci-Fi ‘De Novo’ With Lilly Wachowski Aboard",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "narrative global sales",
+        "takes three genre",
+        "films to",
+        "including jenna kanell",
+        "de novo",
+        "with lilly wachowski",
+        "aboard",
+        "lilly wachowski",
+        "anarchists united",
+        "sarah marie flores",
+        "lawrence mattis",
+        "written"
+      ],
+      "hook": "سینمای آینده‌ساز: De Novo با لِیلی واکس‌کوئِس در AFM",
+      "hooks": [
+        "De Novo: فیلم علمی‌تخیلی با حضور لِیلی واکس‌کوئِس",
+        "جنی کانال: نویسنده و کارگردان فیلم De Novo"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "De Novo یک فیلم علمی‌تخیلی است که لِیلی واکس‌کوئِس به عنوان تهیه‌کننده اجرایی در آن حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 389,
+      "published_at": "2026-11-04T20:12:43.393505+00:00",
+      "text": "سینمای آینده‌ساز: De Novo با لِیلی واکس‌کوئِس در AFM\n\n🎬 De Novo، فیلم علمی‌تخیلی نویسنده و کارگردان جنی کانال، با لِیلی واکس‌کوئِس در AFM\n\nفیلم علمی‌تخیلی De Novo، نوشته و کارگردانی جنی کانال، در حال پست‌پروسه‌ری است و در AFM به نمایش گذاشته می‌شود.\n\nلِیلی واکس‌کوئِس، سارا ماری فلوِرز و لورنس ماتیس به عنوان تهیه‌کنندگان اجرایی در این پروژه حضور دارند.\n\n📌 نکات مهم:\n• De Novo فیلم علمی‌تخیلی است که توسط جنی کانال نوشته و کارگردانی می‌شود\n• لِیلی واکس‌کوئِس به عنوان تهیه‌کننده اجرایی در De Novo حضور دارد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20201,7 +20253,8 @@
     "171457982f4509b711b2f96b",
     "0d216fa9c7f7c00b537ef080",
     "50fb4c41d485847feb51b7b9",
-    "eab3abd9445718eb5ded6188"
+    "eab3abd9445718eb5ded6188",
+    "57754e12447761e87a76fdb8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20586,11 +20639,12 @@
     "https://deadline.com/2026/11/chris-jericho-cast-horror-i-am-the-teeth-afm-1237212260",
     "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406",
     "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
-    "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071"
+    "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
+    "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 191,
+      "published": 192,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20652,7 +20706,7 @@
       "published": 20
     },
     "20": {
-      "published": 36
+      "published": 37
     },
     "21": {
       "published": 24
@@ -20719,64 +20773,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-25T09:39:40.843907+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-25T13:32:14.557078+00:00",
       "version": 2,
@@ -23734,6 +23730,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-04T20:12:43.393605+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24118,9 +24172,94 @@
     "a39c3e039cbca126",
     "19d9b04d48f292db",
     "8d896d8f8baeb54c",
-    "bdd2f5f2b4b7dcab"
+    "bdd2f5f2b4b7dcab",
+    "8de65d2363e0a9b9"
   ],
   "entity_memory": {
+    "written": {
+      "count": 3,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "narrative global sales": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "takes three genre": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "films to": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "including jenna kanell": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "de novo": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with lilly wachowski": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "aboard": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lilly wachowski": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anarchists united": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sarah marie flores": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lawrence mattis": {
+      "count": 1,
+      "last_seen": "2026-11-04T20:12:43.393536+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "director was": {
       "count": 2,
       "last_seen": "2026-11-04T16:48:24.447273+00:00",
@@ -25056,13 +25195,6 @@
       "last_seen": "2026-11-02T19:06:23.791217+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "written": {
-      "count": 2,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
       ]
     },
     "rhys ifans": {
@@ -26873,84 +27005,6 @@
     "ursine oscar contender": {
       "count": 1,
       "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shot from": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "polar bear": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "at sundance": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gabriela osio vanden": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "that": {
-      "count": 2,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "this": {
-      "count": 2,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "city": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "masks": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "west end": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "phantom": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "opera": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
       "categories": [
         "actors_directors"
       ]
