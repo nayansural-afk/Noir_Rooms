@@ -19707,6 +19707,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "50fb4c41d485847feb51b7b9",
+      "story_id": "8d896d8f8baeb54c",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
+      "title": "Shah Rukh Khan’s ‘King’ To Be Released In International Territories By Phars Film",
+      "category": "movie_news",
+      "score": 75.69,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "shah rukh khan",
+        "king",
+        "to be released",
+        "in international territories",
+        "by phars film",
+        "phars film",
+        "siddarth anand",
+        "december",
+        "india",
+        "pen marudhar",
+        "produced",
+        "red chillies entertainment"
+      ],
+      "hook": "شاه رُخ خان در 'کینگ' به نمایش جهانی می‌رسد",
+      "hooks": [
+        "کینگ، بازگشت شاه رُخ خان به صحنه جهانی",
+        "سردرگمی در سینمای جهانی با 'کینگ' شاه رُخ خان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کینگ در ۲۴ دسامبر در دوربین‌های بین‌المللی به نمایش درمی‌آید"
+      ],
+      "status": "published",
+      "telegram_message_id": 387,
+      "published_at": "2026-11-04T12:51:10.494794+00:00",
+      "text": "شاه رُخ خان در 'کینگ' به نمایش جهانی می‌رسد\n\n🎬 کینگ: شاه رُخ خان در نمایش جهانی\n\nفیلم 'کینگ' که در کارگردانی سیدارت آنند و با حضور شاه رُخ خان ساخته شده، در ۲۴ دسامبر در دوربین‌های بین‌المللی به نمایش درمی‌آید.\nپِی مارودار حق توزیع در هند را دارد و این فیلم در همان روز با نسخه داخلی خود به نمایش می‌رسد؛ تولید توسط رِد چِلِز اینترتینمنت و مارفلکس پکچرز.\n\n📌 نکات مهم:\n• پِی مارودار حق توزیع در هند را دارد\n• فیلم 'کینگ' در ۲۴ دسامبر در دوربین‌های بین‌المللی به نمایش درمی‌آید\n• کارگردان سیدارت آنند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20090,7 +20142,8 @@
     "e21e52813a2f54071031770d",
     "191e820642bc8cd34f2a9f9a",
     "171457982f4509b711b2f96b",
-    "0d216fa9c7f7c00b537ef080"
+    "0d216fa9c7f7c00b537ef080",
+    "50fb4c41d485847feb51b7b9"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20473,11 +20526,12 @@
     "https://deadline.com/2026/11/jonathan-rhys-meyers-vampire-romance-pretty-kill-machine-1237212193",
     "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
     "https://deadline.com/2026/11/chris-jericho-cast-horror-i-am-the-teeth-afm-1237212260",
-    "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406"
+    "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406",
+    "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 189,
+      "published": 190,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20584,7 +20638,7 @@
       "published": 39
     },
     "12": {
-      "published": 7
+      "published": 8
     },
     "0": {
       "published": 4
@@ -20606,64 +20660,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-24T19:10:43.096592+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-24T22:23:25.981043+00:00",
       "version": 2,
@@ -23621,6 +23617,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-04T12:51:10.494921+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24003,9 +24057,94 @@
     "fedc9d3668679fad",
     "0b4d7d90076f55d8",
     "a39c3e039cbca126",
-    "19d9b04d48f292db"
+    "19d9b04d48f292db",
+    "8d896d8f8baeb54c"
   ],
   "entity_memory": {
+    "produced": {
+      "count": 2,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shah rukh khan": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "king": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "to be released": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in international territories": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "by phars film": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "phars film": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "siddarth anand": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "december": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "india": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pen marudhar": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "red chillies entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-04T12:51:10.494832+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star in": {
       "count": 3,
       "last_seen": "2026-11-04T00:32:21.072206+00:00",
@@ -25232,13 +25371,6 @@
       ]
     },
     "alex gibney": {
-      "count": 1,
-      "last_seen": "2026-10-31T23:16:18.745133+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "produced": {
       "count": 1,
       "last_seen": "2026-10-31T23:16:18.745133+00:00",
       "categories": [
@@ -26759,83 +26891,6 @@
       "last_seen": "2026-10-27T21:03:35.829842+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "wisconsin": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "skerritt": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "augustus": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "duke": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "forrest": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "play rocky": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins virginia film": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fest audience award": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peter farrelly": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stallone drama readies": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theaters exclusive": {
-      "count": 1,
-      "last_seen": "2026-10-27T18:29:50.805721+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
