@@ -19759,6 +19759,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "eab3abd9445718eb5ded6188",
+      "story_id": "bdd2f5f2b4b7dcab",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "The Hollywood Reporter",
+        "IndieWire"
+      ],
+      "multi_source_count": 3,
+      "url": "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
+      "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+      "category": "movie_news",
+      "score": 93.29,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "tinto brass dies",
+        "italian",
+        "caligula",
+        "director was",
+        "tinto brass",
+        "rome",
+        "caterina varzi",
+        "bonifacio",
+        "beatrice brass",
+        "brass",
+        "wednesday",
+        "director",
+        "rated",
+        "dies",
+        "the italian"
+      ],
+      "hook": "تینتو براس، خالق 'کالیگولا' در رومی درگذشت",
+      "hooks": [
+        "مخرج ایتالیایی 93 ساله درگذشت",
+        "کالیگولا و سینمای جنسی: پایان یک افسانه"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تینتو براس در رومی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 388,
+      "published_at": "2026-11-04T16:48:24.447241+00:00",
+      "text": "تینتو براس، خالق 'کالیگولا' در رومی درگذشت\n\n🎬 مخرج ایتالیایی تینتو براس، خالق 'کالیگولا' درگذشت\n\nتینتو براس، مخرج ایتالیایی که در دهه 1970 با فیلم‌های جنسی خود شناخته شد، در رومی درگذشت. او در سن 93 سالگی از دنیا رفت.\nشهروندان و خانواده‌اش، از جمله همسر او، کاترینا وارزی، و فرزندان بونفاسیو و بیاتریس، خبر را اعلام کردند. او به خاطر فیلم بزرگ‌سینمایی 'کالیگولا' در سال 1979 به شهرت رسید.\n\n📌 نکات مهم:\n• تینتو براس در رومی درگذشت\n• او در سن 93 سالگی درگذشت\n\n✅ تأیید چندمنبعی: Deadline Film, The Hollywood Reporter, IndieWire\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20143,7 +20200,8 @@
     "191e820642bc8cd34f2a9f9a",
     "171457982f4509b711b2f96b",
     "0d216fa9c7f7c00b537ef080",
-    "50fb4c41d485847feb51b7b9"
+    "50fb4c41d485847feb51b7b9",
+    "eab3abd9445718eb5ded6188"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20527,11 +20585,12 @@
     "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
     "https://deadline.com/2026/11/chris-jericho-cast-horror-i-am-the-teeth-afm-1237212260",
     "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406",
-    "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918"
+    "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
+    "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 190,
+      "published": 191,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20587,7 +20646,7 @@
       "published": 13
     },
     "16": {
-      "published": 16
+      "published": 17
     },
     "18": {
       "published": 20
@@ -20660,64 +20719,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-24T22:23:25.981043+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-25T09:39:40.843907+00:00",
       "version": 2,
@@ -23675,6 +23676,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-04T16:48:24.447349+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24058,9 +24117,118 @@
     "0b4d7d90076f55d8",
     "a39c3e039cbca126",
     "19d9b04d48f292db",
-    "8d896d8f8baeb54c"
+    "8d896d8f8baeb54c",
+    "bdd2f5f2b4b7dcab"
   ],
   "entity_memory": {
+    "director was": {
+      "count": 2,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "dies": {
+      "count": 19,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "director": {
+      "count": 2,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "tinto brass dies": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "italian": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caligula": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tinto brass": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rome": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caterina varzi": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bonifacio": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beatrice brass": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "brass": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rated": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the italian": {
+      "count": 1,
+      "last_seen": "2026-11-04T16:48:24.447273+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "produced": {
       "count": 2,
       "last_seen": "2026-11-04T12:51:10.494832+00:00",
@@ -25342,13 +25510,6 @@
         "actors_directors"
       ]
     },
-    "director was": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "lokhandwala": {
       "count": 1,
       "last_seen": "2026-11-01T11:44:52.547711+00:00",
@@ -25657,14 +25818,6 @@
       "count": 1,
       "last_seen": "2026-10-31T14:58:22.712974+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 18,
-      "last_seen": "2026-10-31T10:47:49.518540+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -26668,13 +26821,6 @@
         "actors_directors"
       ]
     },
-    "director": {
-      "count": 1,
-      "last_seen": "2026-10-28T15:41:43.701161+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "the ruling class": {
       "count": 1,
       "last_seen": "2026-10-28T15:41:43.701161+00:00",
@@ -26805,90 +26951,6 @@
     "opera": {
       "count": 1,
       "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amanda jiang": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christian": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "charlie goddard": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "then christian": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "part": {
-      "count": 1,
-      "last_seen": "2026-10-27T23:40:20.247343+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tom skerritt": {
-      "count": 3,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "picket fences": {
-      "count": 3,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alien": {
-      "count": 3,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "top gun": {
-      "count": 3,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "river runs through": {
-      "count": 3,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert altman": {
-      "count": 2,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "it the": {
-      "count": 1,
-      "last_seen": "2026-10-27T21:03:35.829842+00:00",
       "categories": [
         "actors_directors"
       ]
