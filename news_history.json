@@ -19868,6 +19868,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b13f0f725559f02b951ef5e4",
+      "story_id": "42d2c4b658199b57",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline",
+        "TheWrap"
+      ],
+      "multi_source_count": 3,
+      "url": "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
+      "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+      "category": "movie_news",
+      "score": 94.54,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "maya hawke boards",
+        "magic",
+        "the gathering",
+        "movie from legendary",
+        "and hasbro",
+        "legendary entertainment",
+        "hasbro entertainment",
+        "sources",
+        "deadline",
+        "maya hawke",
+        "hasbro",
+        "legendary",
+        "star",
+        "live",
+        "action"
+      ],
+      "hook": "مایا هوک در نقش جادوگر در فیلم Magic: The Gathering",
+      "hooks": [
+        "ستاره‌ی جدید در فیلم Magic: The Gathering",
+        "مایا هوک، اولین ستاره در فیلم Magic: The Gathering"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مایا هوک در نقش اصلی فیلم Magic: The Gathering"
+      ],
+      "status": "published",
+      "telegram_message_id": 390,
+      "published_at": "2026-11-04T22:17:27.798732+00:00",
+      "text": "مایا هوک در نقش جادوگر در فیلم Magic: The Gathering\n\n🎬 مایا هوک در نقش اصلی فیلم Magic: The Gathering\n\nLegendary Entertainment و Hasbro Entertainment فیلمی بر اساس بازی کارت‌کشی Magic: The Gathering در حال ساخت دارند.\nمایا هوک به عنوان اولین ستاره بزرگ در این پروژه حضور می‌یابد، اما نقش او هنوز مشخص نشده است.\n\n📌 نکات مهم:\n• مایا هوک در نقش اصلی فیلم Magic: The Gathering\n• فیلم توسط Legendary و Hasbro ساخته می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline, TheWrap\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20254,7 +20311,8 @@
     "0d216fa9c7f7c00b537ef080",
     "50fb4c41d485847feb51b7b9",
     "eab3abd9445718eb5ded6188",
-    "57754e12447761e87a76fdb8"
+    "57754e12447761e87a76fdb8",
+    "b13f0f725559f02b951ef5e4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20640,11 +20698,12 @@
     "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406",
     "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
     "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
-    "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074"
+    "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
+    "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 192,
+      "published": 193,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20724,7 +20783,7 @@
       "published": 19
     },
     "22": {
-      "published": 19
+      "published": 20
     },
     "7": {
       "published": 2
@@ -20773,64 +20832,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-25T13:32:14.557078+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-25T16:55:23.764027+00:00",
       "version": 2,
@@ -23788,6 +23789,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-04T22:17:27.798840+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24173,9 +24232,117 @@
     "19d9b04d48f292db",
     "8d896d8f8baeb54c",
     "bdd2f5f2b4b7dcab",
-    "8de65d2363e0a9b9"
+    "8de65d2363e0a9b9",
+    "42d2c4b658199b57"
   ],
   "entity_memory": {
+    "deadline": {
+      "count": 3,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "maya hawke boards": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "magic": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the gathering": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movie from legendary": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "and hasbro": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "legendary entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hasbro entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sources": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maya hawke": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hasbro": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "legendary": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "star": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "live": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "action": {
+      "count": 1,
+      "last_seen": "2026-11-04T22:17:27.798762+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "written": {
       "count": 3,
       "last_seen": "2026-11-04T20:12:43.393536+00:00",
@@ -25995,14 +26162,6 @@
         "actors_directors"
       ]
     },
-    "deadline": {
-      "count": 2,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look"
-      ]
-    },
     "fire country": {
       "count": 1,
       "last_seen": "2026-10-30T23:36:01.433132+00:00",
@@ -26906,105 +27065,6 @@
     "tommy genesis": {
       "count": 1,
       "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bludnymph": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hansen with music": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "production": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cruel intentions": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "american horror stories": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "after": {
-      "count": 2,
-      "last_seen": "2026-10-28T15:41:43.701161+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "the ruling class": {
-      "count": 1,
-      "last_seen": "2026-10-28T15:41:43.701161+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hungary": {
-      "count": 1,
-      "last_seen": "2026-10-28T15:41:43.701161+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "england": {
-      "count": 1,
-      "last_seen": "2026-10-28T15:41:43.701161+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sundance": {
-      "count": 2,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doc talk podcast": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nuisance bear": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "directors on their": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ursine oscar contender": {
-      "count": 1,
-      "last_seen": "2026-10-28T11:09:53.633205+00:00",
       "categories": [
         "actors_directors"
       ]
