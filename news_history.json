@@ -20023,6 +20023,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b82bd4d2113a6cd9517cdb45",
+      "story_id": "1179f9a0204af2e9",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
+      "title": "Raise the Red Lantern review – Gong Li gives a decade-defining performance in an addictively ruthless masterpiece",
+      "category": "movie_news",
+      "score": 75.95,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "raise",
+        "red lantern",
+        "gong li",
+        "gong",
+        "zhang yimou",
+        "revisiting zhang yimou",
+        "su tong",
+        "they",
+        "charlotte",
+        "daphne",
+        "maurier",
+        "like jung chang"
+      ],
+      "hook": "گنگ لی، ستارهٔ بی‌رحمانهٔ 'Raise the Red Lantern'",
+      "hooks": [
+        "نقش بی‌نظیر گنگ لی در فیلمی که جهان را به خود جلب کرد",
+        "یک نمایش روانشناختی در سال 1991 که هنوز تأثیر می‌گذارد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "گنگ لی اجرای دهه‌ساز ارائه داد",
+        "فیلم 'Raise the Red Lantern' یک اثر روانشناختی و بی‌رحمانه است"
+      ],
+      "status": "published",
+      "telegram_message_id": 393,
+      "published_at": "2026-11-05T17:04:07.303014+00:00",
+      "text": "گنگ لی، ستارهٔ بی‌رحمانهٔ 'Raise the Red Lantern'\n\n🎬 گنگ لی در 'Raise the Red Lantern': نمایش بی‌رحمانه‌ای که دهه را شکل داد\n\nفیلم 'Raise the Red Lantern' در سال 1991 توسط ژانگ ییمو ساخته و بر اساس رمان سُو تونگ است. گنگ لی در نقش 'چهارمین حور' اجرا کرد که به‌عنوان اجرای دهه‌ساز شناخته می‌شود.\n\nاین اثر روانشناختی و بی‌رحمانه، تأثیر قابل توجهی بر مخاطبان غربی داشت و به‌عنوان یک شاهکار در سینمای چینی شناخته می‌شود.\n\n📌 نکات مهم:\n• گنگ لی در نقش 'چهارمین حور' در فیلم 'Raise the Red Lantern'\n• فیلم در سال 1991 توسط ژانگ ییمو ساخته و بر اساس رمان سُو تونگ است\n• فیلم در غرب تأثیر قابل توجهی داشت\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20412,7 +20465,8 @@
     "57754e12447761e87a76fdb8",
     "b13f0f725559f02b951ef5e4",
     "a5443e79af2f1b994151e523",
-    "a839bb3f0e46041bc4dcc826"
+    "a839bb3f0e46041bc4dcc826",
+    "b82bd4d2113a6cd9517cdb45"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20801,11 +20855,12 @@
     "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
     "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
     "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
-    "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689"
+    "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
+    "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 194,
+      "published": 195,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20909,7 +20964,7 @@
       "published": 30
     },
     "17": {
-      "published": 39
+      "published": 40
     },
     "12": {
       "published": 9
@@ -20934,64 +20989,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-25T22:25:34.796087+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-26T10:53:11.656870+00:00",
       "version": 2,
@@ -23949,6 +23946,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-05T17:04:07.303121+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24337,9 +24392,94 @@
     "8de65d2363e0a9b9",
     "42d2c4b658199b57",
     "0a34ab58833437ed",
-    "b2587f323020c02f"
+    "b2587f323020c02f",
+    "1179f9a0204af2e9"
   ],
   "entity_memory": {
+    "raise": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "red lantern": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gong li": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gong": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "zhang yimou": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "revisiting zhang yimou": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "su tong": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "they": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "charlotte": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "daphne": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "maurier": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "like jung chang": {
+      "count": 1,
+      "last_seen": "2026-11-05T17:04:07.303047+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "awkwafina": {
       "count": 1,
       "last_seen": "2026-11-05T12:59:24.130925+00:00",
@@ -27082,94 +27222,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "the krays": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "hungarian": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "tuesday": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "medak": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "cannibal": {
-      "count": 1,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "breaking bad peter": {
-      "count": 1,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "let him have": {
-      "count": 1,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "barbara barrie dies": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star of broadway": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "barney miller": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "barbara barrie": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tony": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
