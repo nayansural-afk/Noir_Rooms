@@ -19925,6 +19925,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a5443e79af2f1b994151e523",
+      "story_id": "0a34ab58833437ed",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
+      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
+      "category": "actors_directors",
+      "score": 72.39,
+      "freshness": 100.0,
+      "credibility": 92.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "tarantino",
+        "surreal",
+        "kylie minogue",
+        "hollywood",
+        "welsh"
+      ],
+      "hook": "تارانتینو و کلایی مینوگ در شهر ساحلی ولز حضور یافتند",
+      "hooks": [
+        "لحظه‌ای سیرئال: تارانتینو و کلایی مینوگ در ولز",
+        "شهر ساحلی ولز در طوفان تارانتینو و کلایی مینوگ"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تارانتینو و کلایی مینوگ در شهر ساحلی ولز حضور یافتند"
+      ],
+      "status": "published",
+      "telegram_message_id": 391,
+      "published_at": "2026-11-05T00:49:34.502562+00:00",
+      "text": "تارانتینو و کلایی مینوگ در شهر ساحلی ولز حضور یافتند\n\n🎬 تارانتینو و کلایی مینوگ در شهر ساحلی ولز حضور یافتند\n\nدر یک لحظه سیرئال، کارگردان هالیوودی تارانتینو و ستارهٔ آواز کلایی مینوگ به شهر ساحلی ولز آمدند.\nحضور آن‌ها باعث شد که شهر به صدا و رنگی جدید تبدیل شود و مردم در شگفتی و هیجان فرو رفتند.\n\n📌 نکات مهم:\n• تارانتینو و کلایی مینوگ در شهر ساحلی ولز حضور یافتند\n• حضور آن‌ها باعث شد شهر به صدا و رنگی جدید تبدیل شود\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20312,7 +20357,8 @@
     "50fb4c41d485847feb51b7b9",
     "eab3abd9445718eb5ded6188",
     "57754e12447761e87a76fdb8",
-    "b13f0f725559f02b951ef5e4"
+    "b13f0f725559f02b951ef5e4",
+    "a5443e79af2f1b994151e523"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20699,7 +20745,8 @@
     "https://deadline.com/2026/11/shah-rukh-khan-king-siddarth-anand-phars-film-1237212918",
     "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
     "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
-    "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391"
+    "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
+    "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o"
   ],
   "category_stats": {
     "movie_news": {
@@ -20709,7 +20756,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 156,
+      "published": 157,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20813,7 +20860,7 @@
       "published": 8
     },
     "0": {
-      "published": 4
+      "published": 5
     }
   },
   "strategy": {
@@ -20832,64 +20879,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-25T16:55:23.764027+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-25T19:24:25.228062+00:00",
       "version": 2,
@@ -23847,6 +23836,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-05T00:49:34.502657+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 404,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24233,9 +24280,46 @@
     "8d896d8f8baeb54c",
     "bdd2f5f2b4b7dcab",
     "8de65d2363e0a9b9",
-    "42d2c4b658199b57"
+    "42d2c4b658199b57",
+    "0a34ab58833437ed"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 4,
+      "last_seen": "2026-11-05T00:49:34.502593+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "tarantino": {
+      "count": 1,
+      "last_seen": "2026-11-05T00:49:34.502593+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "surreal": {
+      "count": 1,
+      "last_seen": "2026-11-05T00:49:34.502593+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kylie minogue": {
+      "count": 1,
+      "last_seen": "2026-11-05T00:49:34.502593+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "welsh": {
+      "count": 1,
+      "last_seen": "2026-11-05T00:49:34.502593+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "deadline": {
       "count": 3,
       "last_seen": "2026-11-04T22:17:27.798762+00:00",
@@ -26535,14 +26619,6 @@
         "movie_news"
       ]
     },
-    "hollywood": {
-      "count": 3,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "elke sommer": {
       "count": 1,
       "last_seen": "2026-10-29T23:53:17.292882+00:00",
@@ -27035,34 +27111,6 @@
       ]
     },
     "logan miller": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dylan playfair starring": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dead at": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "iann dior": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tommy genesis": {
       "count": 1,
       "last_seen": "2026-10-28T18:35:24.384984+00:00",
       "categories": [
