@@ -20129,6 +20129,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b7cd557b6656fd9d8f2ba4fe",
+      "story_id": "8cd62f6edd22a53b",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
+      "title": "‘John Wick’ Animated Prequel Film Officially in the Works at Lionsgate, Keanu Reeves Returning",
+      "category": "movie_news",
+      "score": 75.06,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "john wick",
+        "animated prequel film",
+        "officially",
+        "works",
+        "lionsgate",
+        "keanu reeves returning",
+        "shannon tindle",
+        "ryan",
+        "kaz firpo the"
+      ],
+      "hook": "پیش‌سینمایی جدید جان ویک با انیمیشن و کیانو ریوز",
+      "hooks": [
+        "پیش‌سینمای جان ویک با انیمیشن",
+        "کیانو ریوز در جان ویک بازگشت می‌کند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پیش‌سینمای انیمیشنی جان ویک در حال ساخت است"
+      ],
+      "status": "published",
+      "telegram_message_id": 395,
+      "published_at": "2026-11-05T22:28:15.930671+00:00",
+      "text": "پیش‌سینمایی جدید جان ویک با انیمیشن و کیانو ریوز\n\n🎬 جان ویک: پیش‌سینمای انیمیشنی در حال ساخت، کیانو ریوز بازگشت می‌کند\n\nسینمای جان ویک با یک پیش‌سینمای انیمیشنی تازه در حال شکل‌گیری است. لایونزگیت پروژه را در دست دارد و کیانو ریوز در نقش اصلی بازمی‌گردد.\n\nکارگردان پروژه شانون تیندل است و نویسندگان راین و کاز فِیرو به‌عنوان نویسندگان اصلی معرفی شده‌اند.\n\n📌 نکات مهم:\n• پیش‌سینمای انیمیشنی جان ویک در حال ساخت\n• کیانو ریوز در نقش اصلی بازگشت می‌کند\n• کارگردان پروژه شانون تیندل\n• نویسندگان راین و کاز فِیرو\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20520,7 +20569,8 @@
     "a5443e79af2f1b994151e523",
     "a839bb3f0e46041bc4dcc826",
     "b82bd4d2113a6cd9517cdb45",
-    "a36d4eb673eeae9ee2caa3da"
+    "a36d4eb673eeae9ee2caa3da",
+    "b7cd557b6656fd9d8f2ba4fe"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20911,11 +20961,12 @@
     "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
     "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
     "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
-    "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057"
+    "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
+    "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 196,
+      "published": 197,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20995,7 +21046,7 @@
       "published": 19
     },
     "22": {
-      "published": 20
+      "published": 21
     },
     "7": {
       "published": 2
@@ -21044,64 +21095,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-26T15:48:37.387467+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-26T18:57:57.616223+00:00",
       "version": 2,
@@ -24059,6 +24052,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-05T22:28:15.930777+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24449,9 +24500,73 @@
     "0a34ab58833437ed",
     "b2587f323020c02f",
     "1179f9a0204af2e9",
-    "57a96963f93c0afc"
+    "57a96963f93c0afc",
+    "8cd62f6edd22a53b"
   ],
   "entity_memory": {
+    "john wick": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "animated prequel film": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "officially": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "works": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lionsgate": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "keanu reeves returning": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shannon tindle": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ryan": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kaz firpo the": {
+      "count": 1,
+      "last_seen": "2026-11-05T22:28:15.930703+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "levon hawke": {
       "count": 1,
       "last_seen": "2026-11-05T20:25:55.801759+00:00",
@@ -27213,69 +27328,6 @@
       "last_seen": "2026-10-29T18:44:50.895544+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "shelf life": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from angel": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the promised land": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "producers": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "angel": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "biblical": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "created": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "brian cates": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "avatar": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
