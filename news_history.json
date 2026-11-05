@@ -19970,6 +19970,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a839bb3f0e46041bc4dcc826",
+      "story_id": "b2587f323020c02f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
+      "title": "Awkwafina’s ‘Kate Might Die,’ ‘Outside of Cleveland’ With Alex Wolff Among Projects Selected for U.S. in Progress",
+      "category": "movie_news",
+      "score": 85.3,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "awkwafina",
+        "kate might die",
+        "outside",
+        "cleveland",
+        "with alex wolff",
+        "among projects selected",
+        "progress eight",
+        "progress",
+        "tauron american film",
+        "festival",
+        "poland",
+        "mercedes bryce morgan"
+      ],
+      "hook": "فیلم 'Kate Might Die' در فهرست U.S. in Progress",
+      "hooks": [
+        "Awkwafina در 'Kate Might Die' در فهرست جشنواره آمریکایی",
+        "فلم 'Outside of Cleveland' با آکس‌وول در فهرست U.S. in Progress"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Kate Might Die selected for U.S. in Progress"
+      ],
+      "status": "published",
+      "telegram_message_id": 392,
+      "published_at": "2026-11-05T12:59:24.130870+00:00",
+      "text": "فیلم 'Kate Might Die' در فهرست U.S. in Progress\n\n🎬 Awkwafina در 'Kate Might Die' و Alex Wolff در 'Outside of Cleveland' در فهرست U.S. in Progress جشنواره آمریکایی\n\nدر فاز نهایی ویرایش، هشت فیلم مستقل برای فهرست U.S. in Progress در جشنواره Tauron American Film Festival در وروک‌لو، لهستان انتخاب شدند.\nفیلم 'Kate Might Die' که توسط Mercedes Bryce Morgan کارگردانی شده و بازیگران برجسته‌ای چون Awkwafina، Anthony Ramos، Ken Jeong و Zosia Mamet را در بر دارد، یکی از این پروژه‌هاست. همچنین 'Outside of Cleveland' با حضور Alex Wolff نیز در فهرست قرار گرفته است.\n\n📌 نکات مهم:\n• Kate Might Die selected for U.S. in Progress\n• Awkwafina stars in Kate Might Die\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20358,7 +20411,8 @@
     "eab3abd9445718eb5ded6188",
     "57754e12447761e87a76fdb8",
     "b13f0f725559f02b951ef5e4",
-    "a5443e79af2f1b994151e523"
+    "a5443e79af2f1b994151e523",
+    "a839bb3f0e46041bc4dcc826"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20746,11 +20800,12 @@
     "https://deadline.com/2026/11/tinto-brass-dead-italian-caligula-director-93-1237213071",
     "https://deadline.com/2026/11/jenna-kanell-sci-fi-de-novo-with-lilly-wachowski-aboard-1237213074",
     "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
-    "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o"
+    "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
+    "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 193,
+      "published": 194,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20857,7 +20912,7 @@
       "published": 39
     },
     "12": {
-      "published": 8
+      "published": 9
     },
     "0": {
       "published": 5
@@ -20879,64 +20934,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-25T19:24:25.228062+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        },
-        {
-          "title": "‘Ashes’ and ‘Mexican American’ to Open and Close Los Angeles’ GuadaLAjara Film Festival",
-          "category": "movie_news",
-          "score": 87.06,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-25T22:25:34.796087+00:00",
       "version": 2,
@@ -23894,6 +23891,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-05T12:59:24.130995+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24281,9 +24336,94 @@
     "bdd2f5f2b4b7dcab",
     "8de65d2363e0a9b9",
     "42d2c4b658199b57",
-    "0a34ab58833437ed"
+    "0a34ab58833437ed",
+    "b2587f323020c02f"
   ],
   "entity_memory": {
+    "awkwafina": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kate might die": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "outside": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cleveland": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with alex wolff": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "among projects selected": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "progress eight": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "progress": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tauron american film": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "festival": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "poland": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mercedes bryce morgan": {
+      "count": 1,
+      "last_seen": "2026-11-05T12:59:24.130925+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hollywood": {
       "count": 4,
       "last_seen": "2026-11-05T00:49:34.502593+00:00",
@@ -27028,91 +27168,6 @@
     "tony": {
       "count": 1,
       "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "company": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "breaking away": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hal linden": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "manhattan": {
-      "count": 1,
-      "last_seen": "2026-10-28T23:57:44.580955+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "walter koenig": {
-      "count": 2,
-      "last_seen": "2026-10-28T21:28:00.509096+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "pavel chekov": {
-      "count": 1,
-      "last_seen": "2026-10-28T21:28:00.509096+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "russian": {
-      "count": 1,
-      "last_seen": "2026-10-28T21:28:00.509096+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "babylon": {
-      "count": 1,
-      "last_seen": "2026-10-28T21:28:00.509096+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "selma blair": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sierra": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "logan miller": {
-      "count": 1,
-      "last_seen": "2026-10-28T18:35:24.384984+00:00",
       "categories": [
         "actors_directors"
       ]
