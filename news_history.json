@@ -20076,6 +20076,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a36d4eb673eeae9ee2caa3da",
+      "story_id": "57a96963f93c0afc",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
+      "title": "Levon Hawke to Star With Anthony Hopkins in Indie Drama ‘Twenty-Seven’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "levon hawke",
+        "star with anthony",
+        "hopkins",
+        "indie drama",
+        "twenty",
+        "seven",
+        "blink twice",
+        "the crowded room",
+        "academy award",
+        "anthony hopkins",
+        "the father",
+        "gregory caruso"
+      ],
+      "hook": "هالوکی و هاپکینز در درام مستقل 'بیست و هفت'",
+      "hooks": [
+        "آینده‌سازان در صحنه‌ی 'بیست و هفت'",
+        "نقش‌های جالب در فیلم 'بیست و هفت'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Levon Hawke stars opposite Anthony Hopkins in 'Twenty-Seven'"
+      ],
+      "status": "published",
+      "telegram_message_id": 394,
+      "published_at": "2026-11-05T20:25:55.801729+00:00",
+      "text": "هالوکی و هاپکینز در درام مستقل 'بیست و هفت'\n\n🎬 هالوکی با هاپکینز در درام مستقل 'بیست و هفت'\n\nدر فیلم نوآورانه 'بیست و هفت'، لئون هالوکی نقش نویسنده‌ی جوان 27 ساله را بازی می‌کند که در تلاش برای ورود به صنعت فیلم‌سازی است. آنتونی هاپکینز در کنار او نقش مهمی ایفا می‌کند و فیلم توسط گریگوری کاروسو نوشته و کارگردانی شده است.\n\n📌 نکات مهم:\n• هالوکی در کنار هاپکینز در 'بیست و هفت' نقش دارد\n• فیلم توسط گریگوری کاروسو نوشته و کارگردانی شده\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20466,7 +20519,8 @@
     "b13f0f725559f02b951ef5e4",
     "a5443e79af2f1b994151e523",
     "a839bb3f0e46041bc4dcc826",
-    "b82bd4d2113a6cd9517cdb45"
+    "b82bd4d2113a6cd9517cdb45",
+    "a36d4eb673eeae9ee2caa3da"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20856,11 +20910,12 @@
     "https://deadline.com/2026/11/maya-hawke-magic-the-gathering-movie-1237213391",
     "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o",
     "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
-    "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review"
+    "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
+    "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 195,
+      "published": 196,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -20922,7 +20977,7 @@
       "published": 20
     },
     "20": {
-      "published": 37
+      "published": 38
     },
     "21": {
       "published": 24
@@ -20989,64 +21044,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-26T10:53:11.656870+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Tom Skerritt, ‘Picket Fences’ and ‘Alien’ Star, Dies at 93",
-          "category": "actors_directors",
-          "score": 87.34,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-26T15:48:37.387467+00:00",
       "version": 2,
@@ -24004,6 +24001,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-05T20:25:55.801829+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24393,9 +24448,94 @@
     "42d2c4b658199b57",
     "0a34ab58833437ed",
     "b2587f323020c02f",
-    "1179f9a0204af2e9"
+    "1179f9a0204af2e9",
+    "57a96963f93c0afc"
   ],
   "entity_memory": {
+    "levon hawke": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "star with anthony": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hopkins": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indie drama": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "twenty": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seven": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blink twice": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the crowded room": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "academy award": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anthony hopkins": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the father": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gregory caruso": {
+      "count": 1,
+      "last_seen": "2026-11-05T20:25:55.801759+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "raise": {
       "count": 1,
       "last_seen": "2026-11-05T17:04:07.303047+00:00",
@@ -27135,92 +27275,6 @@
       "count": 1,
       "last_seen": "2026-10-29T15:48:49.165794+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "mini war": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first look at": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "luke wilson": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vanessa hudgens": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nick swardson": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rob morgan in": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rated comedy": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "here": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "capture": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reuniting": {
-      "count": 1,
-      "last_seen": "2026-10-29T15:48:49.165794+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "peter medak": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "the changeling": {
-      "count": 2,
-      "last_seen": "2026-10-29T11:22:54.722348+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
