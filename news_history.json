@@ -20236,6 +20236,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2e5e3e06fbc50dc60c5d4693",
+      "story_id": "6fda3868d2ba1f1c",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
+      "title": "Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "bafta",
+        "letitia wright to",
+        "star in supernatural",
+        "horror",
+        "in her shadow",
+        "obsession",
+        "producer",
+        "bankside",
+        "black panther",
+        "small axe",
+        "black mirror",
+        "letitia wright"
+      ],
+      "hook": "Letitia Wright در سایهٔ ترس، بازی می‌کند",
+      "hooks": [
+        "سایهٔ ترس با Letitia Wright",
+        "سینمای ترس در AFM با Letitia Wright"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Letitia Wright در نقش اصلی فیلم «In Her Shadow»"
+      ],
+      "status": "published",
+      "telegram_message_id": 397,
+      "published_at": "2026-11-06T12:47:27.408896+00:00",
+      "text": "Letitia Wright در سایهٔ ترس، بازی می‌کند\n\n🎬 Letitia Wright در فیلم ترسناک «In Her Shadow» نقش‌آفرینی می‌کند\n\nLetitia Wright، بازیگر Black Panther و Small Axe، در فیلم ترسناک «In Her Shadow» نقش‌آفرینی می‌کند. این پروژه توسط تیم تولید Obsession و Tea Shop Films پشتیبانی می‌شود.\nدر پیش‌نمایش AFM، Bankside فروش جهانی این فیلم را آغاز کرده و نویسنده-کارگردان Rowan Athale، که در سریال Gangs of London شناخته شده است، در پشت صحنه حضور دارد. فیلم برنده جایزه BAFTA است.\n\n📌 نکات مهم:\n• Letitia Wright در نقش اصلی فیلم «In Her Shadow»\n• فیلم توسط Obsession و Tea Shop Films تولید شده\n• Bankside در AFM فروش جهانی را آغاز کرده\n• نویسنده-کارگردان Rowan Athale، پیشینه Gangs of London\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20629,7 +20682,8 @@
     "b82bd4d2113a6cd9517cdb45",
     "a36d4eb673eeae9ee2caa3da",
     "b7cd557b6656fd9d8f2ba4fe",
-    "395e0c58fff1f537f7c1ff6b"
+    "395e0c58fff1f537f7c1ff6b",
+    "2e5e3e06fbc50dc60c5d4693"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21022,7 +21076,8 @@
     "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
     "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
     "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
-    "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121"
+    "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
+    "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351"
   ],
   "category_stats": {
     "movie_news": {
@@ -21032,7 +21087,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 158,
+      "published": 159,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21133,7 +21188,7 @@
       "published": 40
     },
     "12": {
-      "published": 9
+      "published": 10
     },
     "0": {
       "published": 6
@@ -21155,64 +21210,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-26T21:16:45.343993+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-26T23:42:59.495854+00:00",
       "version": 2,
@@ -24170,6 +24167,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-06T12:47:27.409029+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24562,9 +24617,94 @@
     "1179f9a0204af2e9",
     "57a96963f93c0afc",
     "8cd62f6edd22a53b",
-    "9028c018f20613f4"
+    "9028c018f20613f4",
+    "6fda3868d2ba1f1c"
   ],
   "entity_memory": {
+    "horror": {
+      "count": 2,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "letitia wright to": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star in supernatural": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in her shadow": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "obsession": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "producer": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bankside": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "black panther": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "small axe": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "black mirror": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "letitia wright": {
+      "count": 1,
+      "last_seen": "2026-11-06T12:47:27.408932+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star": {
       "count": 2,
       "last_seen": "2026-11-06T00:55:39.315824+00:00",
@@ -25510,13 +25650,6 @@
       ]
     },
     "star in creature": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "horror": {
       "count": 1,
       "last_seen": "2026-11-03T22:09:43.049698+00:00",
       "categories": [
@@ -27311,84 +27444,6 @@
     "german": {
       "count": 1,
       "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shot": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dark": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "and then there": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "were none": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the berlin": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "peter sellers": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dick van dyke": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paul newman elke": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sommer": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 2,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "patrick stewart dies": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
       "categories": [
         "actors_directors"
       ]
