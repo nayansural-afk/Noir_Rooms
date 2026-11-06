@@ -20338,6 +20338,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6e779a54b2638bcb83d9a0f6",
+      "story_id": "e0b9bcd08eb940ad",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
+      "title": "Brenton Thwaites & Hannah John-Kamen Unveiled In Psychological Thriller ‘Can I Come In?’ As The Launch Company Commences Sales – AFM",
+      "category": "actors_directors",
+      "score": 71.76,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "brenton thwaites",
+        "hannah john",
+        "kamen unveiled in",
+        "psychological thriller",
+        "come in",
+        "as the launch",
+        "company commences sales",
+        "pirates",
+        "caribbean",
+        "dead men tell",
+        "no tales",
+        "kamen"
+      ],
+      "hook": "تلاش روانشناختی در سینمای ترسناک: 'Can I Come In?'",
+      "hooks": [
+        "برترین بازیگران در ترسناک جدید",
+        "سینمای ایرانی-کاناد در AFM"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "برنتون ثویتس در فیلم نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 399,
+      "published_at": "2026-11-06T19:46:59.256639+00:00",
+      "text": "تلاش روانشناختی در سینمای ترسناک: 'Can I Come In?'\n\n🎬 برترین بازیگران در ترسناک روانشناختی 'Can I Come In?' در AFM رونمایی شد\n\nدر این ترسناک روانشناختی، برنتون ثویتس، هانا جان-کامن و هنری توماس نقش‌های اصلی را بر عهده می‌گیرند.\nکارگردان ایرانی-کاناد، روزبه، این اثر را هدایت کرده و شرکت The Launch Company در AFM به فروش می‌پردازد.\n\n📌 نکات مهم:\n• برنتون ثویتس، هانا جان-کامن و هنری توماس در نقش‌های اصلی\n• کارگردان ایرانی-کاناد روزبه\n• فیلم 'Can I Come In?' یک ترسناک روانشناختی است\n• شرکت The Launch Company در AFM فروش را آغاز می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20733,7 +20785,8 @@
     "b7cd557b6656fd9d8f2ba4fe",
     "395e0c58fff1f537f7c1ff6b",
     "2e5e3e06fbc50dc60c5d4693",
-    "97affa2f095d717ee2324a46"
+    "97affa2f095d717ee2324a46",
+    "6e779a54b2638bcb83d9a0f6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21128,7 +21181,8 @@
     "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
     "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
     "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
-    "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755"
+    "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
+    "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574"
   ],
   "category_stats": {
     "movie_news": {
@@ -21138,7 +21192,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 159,
+      "published": 160,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21209,7 +21263,7 @@
       "published": 23
     },
     "19": {
-      "published": 19
+      "published": 20
     },
     "22": {
       "published": 21
@@ -21261,64 +21315,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-27T10:17:14.965615+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-27T15:05:44.061962+00:00",
       "version": 2,
@@ -24276,6 +24272,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-06T19:46:59.256744+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24670,9 +24724,94 @@
     "8cd62f6edd22a53b",
     "9028c018f20613f4",
     "6fda3868d2ba1f1c",
-    "7946a3c243be1312"
+    "7946a3c243be1312",
+    "e0b9bcd08eb940ad"
   ],
   "entity_memory": {
+    "brenton thwaites": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hannah john": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kamen unveiled in": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "psychological thriller": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "come in": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "as the launch": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "company commences sales": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pirates": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "caribbean": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dead men tell": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "no tales": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kamen": {
+      "count": 1,
+      "last_seen": "2026-11-06T19:46:59.256670+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 12,
       "last_seen": "2026-11-06T16:34:06.677034+00:00",
@@ -27410,92 +27549,6 @@
     "temples to heaven": {
       "count": 1,
       "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "takes best director": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "georgia": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "levan koguashvili": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "best film": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "asia pacific screen": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "awards": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gold coast": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dc": {
-      "count": 4,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "january": {
-      "count": 2,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "rare stanley kubrick": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "interview headed": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "plot thickens": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
       "categories": [
         "movie_news"
       ]
