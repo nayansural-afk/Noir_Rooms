@@ -20390,6 +20390,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a3788e1580d48375b2236930",
+      "story_id": "d056f247682a9f15",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "IndieWire",
+        "TheWrap"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486",
+      "title": "Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dies at 52",
+      "category": "actors_directors",
+      "score": 69.51,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "lelio",
+        "chilean director",
+        "winning",
+        "fantastic woman",
+        "dies",
+        "chilean",
+        "friday",
+        "santiago",
+        "amalia kassai",
+        "instagram",
+        "according",
+        "dead",
+        "gloria",
+        "paulina"
+      ],
+      "hook": "کارگردان برنده اسکار، Sebastián Lelio درگذشت",
+      "hooks": [
+        "دوران سینمایی بدون Lelio",
+        "دوران جدید در سینمای شیلی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Sebastián Lelio درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 400,
+      "published_at": "2026-11-06T21:54:15.924327+00:00",
+      "text": "کارگردان برنده اسکار، Sebastián Lelio درگذشت\n\n🎬 کارگردان شیلی Sebastián Lelio، برنده اسکار «A Fantastic Woman»، درگذشت\n\nکارگردان شیلی Sebastián Lelio، که در سال ۲۰۱۷ فیلم «A Fantastic Woman» را به‌دست آورد، در روز جمعه در خانه‌اش در سانتیاگو درگذشت. او در سن ۵۲ سالگی از دلایل سلامتی جان خود را از دست داد. همسر او، بازیگر Amalia Kassai، در اینستاگرام اعلام کرد که مرگ او به دلایل سلامتی رخ داده است و پس از پیدا شدن در منزل، با پلیس تماس گرفت.\n\n📌 نکات مهم:\n• Sebastián Lelio، کارگردان «A Fantastic Woman»، درگذشت\n• مرگ او به دلایل سلامتی درگذشت\n\n✅ تأیید چندمنبعی: Variety Film, IndieWire, TheWrap\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20786,7 +20843,8 @@
     "395e0c58fff1f537f7c1ff6b",
     "2e5e3e06fbc50dc60c5d4693",
     "97affa2f095d717ee2324a46",
-    "6e779a54b2638bcb83d9a0f6"
+    "6e779a54b2638bcb83d9a0f6",
+    "a3788e1580d48375b2236930"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21182,7 +21240,8 @@
     "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
     "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
     "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
-    "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574"
+    "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
+    "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486"
   ],
   "category_stats": {
     "movie_news": {
@@ -21192,7 +21251,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 160,
+      "published": 161,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21251,7 +21310,7 @@
       "published": 38
     },
     "21": {
-      "published": 24
+      "published": 25
     },
     "23": {
       "published": 30
@@ -21315,64 +21374,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-27T15:05:44.061962+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-27T18:29:50.805791+00:00",
       "version": 2,
@@ -24330,6 +24331,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-06T21:54:15.924440+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24725,9 +24784,118 @@
     "9028c018f20613f4",
     "6fda3868d2ba1f1c",
     "7946a3c243be1312",
-    "e0b9bcd08eb940ad"
+    "e0b9bcd08eb940ad",
+    "d056f247682a9f15"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 41,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "dies": {
+      "count": 20,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "friday": {
+      "count": 2,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lelio": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chilean director": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winning": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fantastic woman": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chilean": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "santiago": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "amalia kassai": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "instagram": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "according": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dead": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gloria": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paulina": {
+      "count": 1,
+      "last_seen": "2026-11-06T21:54:15.924361+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "brenton thwaites": {
       "count": 1,
       "last_seen": "2026-11-06T19:46:59.256670+00:00",
@@ -24967,15 +25135,6 @@
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 40,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "to star in": {
@@ -25607,14 +25766,6 @@
     },
     "director was": {
       "count": 2,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "dies": {
-      "count": 19,
       "last_seen": "2026-11-04T16:48:24.447273+00:00",
       "categories": [
         "actors_directors",
@@ -26962,13 +27113,6 @@
         "actors_directors"
       ]
     },
-    "friday": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "milap zaveri": {
       "count": 1,
       "last_seen": "2026-11-01T11:44:52.547711+00:00",
@@ -27467,90 +27611,6 @@
       "last_seen": "2026-10-30T18:20:56.426731+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "see the first": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "look image": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stoic": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mindhunter": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james khanlarian": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the ghost trap": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james robert fuller": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "guria": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins best film": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "at asia pacific": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "screen awards": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "temples to heaven": {
-      "count": 1,
-      "last_seen": "2026-10-30T15:30:04.815456+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
