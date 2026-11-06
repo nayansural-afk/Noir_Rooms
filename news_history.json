@@ -20178,6 +20178,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "395e0c58fff1f537f7c1ff6b",
+      "story_id": "9028c018f20613f4",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Variety Film",
+        "Deadline",
+        "Variety"
+      ],
+      "multi_source_count": 4,
+      "url": "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
+      "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+      "category": "actors_directors",
+      "score": 88.47,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "rosamund pike set",
+        "star",
+        "produce",
+        "feed",
+        "body horror movie",
+        "from leslye headland",
+        "rosamund pike",
+        "the acolyte",
+        "leslye headland",
+        "daniella isaacs",
+        "inspired",
+        "finnish",
+        "oscar",
+        "to star in",
+        "body horror from"
+      ],
+      "hook": "Rosamund Pike در نقش اوج‌ساز بدن‌هارور 'Feed'",
+      "hooks": [
+        "پیک به عنوان ستاره و تهیه‌کننده 'Feed'",
+        "فیلم بدن‌هارور 'Feed' در AFM رونمایی می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Rosamund Pike ستاره و تهیه‌کننده‌ی 'Feed'"
+      ],
+      "status": "published",
+      "telegram_message_id": 396,
+      "published_at": "2026-11-06T00:55:39.315784+00:00",
+      "text": "Rosamund Pike در نقش اوج‌ساز بدن‌هارور 'Feed'\n\n🎬 Rosamund Pike ستاره و تهیه‌کننده‌ی فیلم بدن‌هارور 'Feed' در AFM\n\nRosamund Pike، نامزد اسکار در فیلم‌های Gone Girl و I Care a Lot، در پروژه‌ی جدید خود به عنوان ستاره و تهیه‌کننده ظاهر می‌شود.\nفیلم بدن‌هارور 'Feed' که توسط کارگردان Leslye Headland (The Acolyte, Russian Doll) ساخته می‌شود، در بازار فیلم آمریکایی (AFM) به فروش می‌رسد.\n\n📌 نکات مهم:\n• Rosamund Pike ستاره و تهیه‌کننده‌ی 'Feed'\n• فیلم بدن‌هارور توسط Leslye Headland\n• فروش در AFM آغاز شد\n\n✅ تأیید چندمنبعی: Deadline Film, Variety Film, Deadline, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20570,7 +20628,8 @@
     "a839bb3f0e46041bc4dcc826",
     "b82bd4d2113a6cd9517cdb45",
     "a36d4eb673eeae9ee2caa3da",
-    "b7cd557b6656fd9d8f2ba4fe"
+    "b7cd557b6656fd9d8f2ba4fe",
+    "395e0c58fff1f537f7c1ff6b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -20962,7 +21021,8 @@
     "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689",
     "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
     "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
-    "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate"
+    "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
+    "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121"
   ],
   "category_stats": {
     "movie_news": {
@@ -20972,7 +21032,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 157,
+      "published": 158,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21076,7 +21136,7 @@
       "published": 9
     },
     "0": {
-      "published": 5
+      "published": 6
     }
   },
   "strategy": {
@@ -21095,64 +21155,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-26T18:57:57.616223+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-26T21:16:45.343993+00:00",
       "version": 2,
@@ -24110,6 +24112,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-06T00:55:39.315900+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24501,9 +24561,119 @@
     "b2587f323020c02f",
     "1179f9a0204af2e9",
     "57a96963f93c0afc",
-    "8cd62f6edd22a53b"
+    "8cd62f6edd22a53b",
+    "9028c018f20613f4"
   ],
   "entity_memory": {
+    "star": {
+      "count": 2,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "oscar": {
+      "count": 40,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "to star in": {
+      "count": 2,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "rosamund pike set": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "produce": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "feed": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "body horror movie": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from leslye headland": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rosamund pike": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the acolyte": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "leslye headland": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "daniella isaacs": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "inspired": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "finnish": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "body horror from": {
+      "count": 1,
+      "last_seen": "2026-11-06T00:55:39.315824+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "john wick": {
       "count": 1,
       "last_seen": "2026-11-05T22:28:15.930703+00:00",
@@ -24935,13 +25105,6 @@
       ]
     },
     "legendary": {
-      "count": 1,
-      "last_seen": "2026-11-04T22:17:27.798762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star": {
       "count": 1,
       "last_seen": "2026-11-04T22:17:27.798762+00:00",
       "categories": [
@@ -25402,15 +25565,6 @@
         "actors_directors"
       ]
     },
-    "oscar": {
-      "count": 39,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "british": {
       "count": 3,
       "last_seen": "2026-11-03T19:54:47.963237+00:00",
@@ -25490,13 +25644,6 @@
       ]
     },
     "jonathan rhys meyers": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to star in": {
       "count": 1,
       "last_seen": "2026-11-03T16:48:14.268835+00:00",
       "categories": [
@@ -27242,90 +27389,6 @@
     "patrick stewart dies": {
       "count": 1,
       "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin feige praise": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "icon for bringing": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "life with grace": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "intelligence": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "humanity": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "marvel studios": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kevin feige": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "professor charles xavier": {
-      "count": 1,
-      "last_seen": "2026-10-29T21:29:34.109948+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "heir": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zachary levi among": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cast for faith": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "based comedy series": {
-      "count": 1,
-      "last_seen": "2026-10-29T18:44:50.895544+00:00",
       "categories": [
         "actors_directors"
       ]
