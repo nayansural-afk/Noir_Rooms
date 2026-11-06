@@ -20289,6 +20289,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "97affa2f095d717ee2324a46",
+      "story_id": "7946a3c243be1312",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
+      "title": "‘an open field’ Is a Deeply Personal Story of Loss, Grief and Compassion (Exclusive Netflix Trailer)",
+      "category": "movie_news",
+      "score": 81.46,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 73.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "deeply personal story",
+        "loss",
+        "grief",
+        "compassion",
+        "exclusive netflix trailer",
+        "teboho edkins",
+        "boeing",
+        "ethiopia"
+      ],
+      "hook": "فیلم کوتاه 'زمین باز' در مورد غم و همدلی",
+      "hooks": [
+        "دریافت کنید داستان شخصی در مورد از دست دادن و رهایی",
+        "سینمای کوتاه که در آن غم به امید تبدیل می‌شود"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم در قالب تریلر انحصاری نِت‌فلیکس منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 398,
+      "published_at": "2026-11-06T16:34:06.677001+00:00",
+      "text": "فیلم کوتاه 'زمین باز' در مورد غم و همدلی\n\n🎬 فیلم کوتاه 'زمین باز': سفر عمیق در غم و شفابخشی\n\nاین فیلم کوتاه برنده جایزه، توسط تبهو ادکینز ساخته شده و توسط پدرش تولید گردیده است. داستان به‌طور عمیقی در مورد غم از دست دادن برادر فیلمساز در تصادف هواپیما بر فراز اتیوپی می‌پردازد.\n\n📌 نکات مهم:\n• فیلم کوتاه 'زمین باز' برنده جایزه\n• سینمایی که توسط تبهو ادکینز ساخته و توسط پدرش تولید شده\n• داستان درباره غم از دست دادن برادر در تصادف هواپیما بر فراز اتیوپی\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20683,7 +20732,8 @@
     "a36d4eb673eeae9ee2caa3da",
     "b7cd557b6656fd9d8f2ba4fe",
     "395e0c58fff1f537f7c1ff6b",
-    "2e5e3e06fbc50dc60c5d4693"
+    "2e5e3e06fbc50dc60c5d4693",
+    "97affa2f095d717ee2324a46"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21077,11 +21127,12 @@
     "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057",
     "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate",
     "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121",
-    "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351"
+    "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
+    "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 197,
+      "published": 198,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21137,7 +21188,7 @@
       "published": 13
     },
     "16": {
-      "published": 17
+      "published": 18
     },
     "18": {
       "published": 20
@@ -21210,64 +21261,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-26T23:42:59.495854+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-27T10:17:14.965615+00:00",
       "version": 2,
@@ -24225,6 +24218,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-06T16:34:06.677106+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24618,9 +24669,75 @@
     "57a96963f93c0afc",
     "8cd62f6edd22a53b",
     "9028c018f20613f4",
-    "6fda3868d2ba1f1c"
+    "6fda3868d2ba1f1c",
+    "7946a3c243be1312"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 12,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "deeply personal story": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "loss": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "grief": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "compassion": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exclusive netflix trailer": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "teboho edkins": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boeing": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ethiopia": {
+      "count": 1,
+      "last_seen": "2026-11-06T16:34:06.677034+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "horror": {
       "count": 2,
       "last_seen": "2026-11-06T12:47:27.408932+00:00",
@@ -26594,15 +26711,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 11,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "cliff booth": {
       "count": 1,
       "last_seen": "2026-11-01T15:42:47.622297+00:00",
@@ -27390,62 +27498,6 @@
       "last_seen": "2026-10-30T11:15:01.430927+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "podcast": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bonus episode exclusive": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "host ben mankiewicz": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "clockwork orange": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "newsday": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joseph gelmis": {
-      "count": 1,
-      "last_seen": "2026-10-30T11:15:01.430927+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elke sommer": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "german": {
-      "count": 1,
-      "last_seen": "2026-10-29T23:53:17.292882+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
