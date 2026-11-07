@@ -20447,6 +20447,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "ab34e9f25bfee8134e159367",
+      "story_id": "8c439ba8f0fdad2b",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
+      "title": "‘One Night In Purgatory’ Sets Cast: Alejandro Edda, Nick Stahl, Michelle Mylett and Grace Dove to Star in Supernatural Horror Film (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 65.02,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "one night in",
+        "purgatory",
+        "sets cast",
+        "alejandro edda",
+        "nick stahl",
+        "michelle mylett",
+        "grace dove",
+        "star",
+        "supernatural horror film",
+        "robert husted",
+        "chan",
+        "shake your booty"
+      ],
+      "hook": "یک شب در جهنم: ارک‌انج در بار تاریک",
+      "hooks": [
+        "بار تاریک، ارک‌انج، ترس و هیجان",
+        "نویسنده-کارگردان روبرت هستد، اولین فیلمش"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم با حضور نیک شل، گراژ دوو، آلی‌آن ادو و میشل میلِت"
+      ],
+      "status": "published",
+      "telegram_message_id": 401,
+      "published_at": "2026-11-07T00:01:56.401492+00:00",
+      "text": "یک شب در جهنم: ارک‌انج در بار تاریک\n\n🎬 «یک شب در جهنم»؛ ارک‌انج در بار تاریک، با نیک شل و گراژ دوو\n\nفیلم «یک شب در جهنم»، اولین اثر روبرت هستد به‌عنوان نویسنده-کارگردان، در قالب ترسناک فراطبیعی روایت می‌کند. در این اثر، ارک‌انج در یک بار تاریک و گران‌قیمت گرفتار می‌شود و با حضور بازیگران برجسته‌ای چون آلی‌آن ادو، نیک شل، گراژ دوو و میشل میلِت، لحظاتی پر از ترس و هیجان را رقم می‌زند.\n\nاین فیلم با ترکیبی از عناصر هارور و داستانی که در محیطی تاریک و واقعی اتفاق می‌افتد، مخاطبان را به دنیای تاریک و پر رمز و راز ارک‌انج می‌برد. حضور نیک شل در نقش اصلی، به‌خاطر تجربه‌اش در فیلم‌های «سین سیتی»، و گراژ دوو که در «دورِانِت» نقش‌آفرینی کرده، به این اثر اعتبار می‌بخشد.\n\n📌 نکات مهم:\n• فیلم «یک شب در جهنم» با حضور آلی‌آن ادو، نیک شل، گراژ دوو و میشل میلِت\n• این اثر، اولین فیلم روبرت هستد به‌عنوان نویسنده-کارگردان است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20844,7 +20897,8 @@
     "2e5e3e06fbc50dc60c5d4693",
     "97affa2f095d717ee2324a46",
     "6e779a54b2638bcb83d9a0f6",
-    "a3788e1580d48375b2236930"
+    "a3788e1580d48375b2236930",
+    "ab34e9f25bfee8134e159367"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21241,7 +21295,8 @@
     "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
     "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
     "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
-    "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486"
+    "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486",
+    "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721"
   ],
   "category_stats": {
     "movie_news": {
@@ -21251,7 +21306,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 161,
+      "published": 162,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21355,7 +21410,7 @@
       "published": 10
     },
     "0": {
-      "published": 6
+      "published": 7
     }
   },
   "strategy": {
@@ -21374,64 +21429,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-27T18:29:50.805791+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-27T21:03:35.829915+00:00",
       "version": 2,
@@ -24389,6 +24386,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-07T00:01:56.401568+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24785,9 +24840,95 @@
     "6fda3868d2ba1f1c",
     "7946a3c243be1312",
     "e0b9bcd08eb940ad",
-    "d056f247682a9f15"
+    "d056f247682a9f15",
+    "8c439ba8f0fdad2b"
   ],
   "entity_memory": {
+    "star": {
+      "count": 3,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "one night in": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "purgatory": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sets cast": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alejandro edda": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nick stahl": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "michelle mylett": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grace dove": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "supernatural horror film": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert husted": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chan": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shake your booty": {
+      "count": 1,
+      "last_seen": "2026-11-07T00:01:56.401511+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 41,
       "last_seen": "2026-11-06T21:54:15.924361+00:00",
@@ -25126,14 +25267,6 @@
       "count": 1,
       "last_seen": "2026-11-06T12:47:27.408932+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
-      "count": 2,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -27532,83 +27665,6 @@
     "house of the": {
       "count": 1,
       "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dragon": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director greg yaitanes": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "entertainment": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "infrared pictures": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring brittany": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "grady": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the white lotus": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "holt": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "serial killer thriller": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paradise disturbed": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "with stoic": {
-      "count": 1,
-      "last_seen": "2026-10-30T18:20:56.426731+00:00",
       "categories": [
         "actors_directors"
       ]
