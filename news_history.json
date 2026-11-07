@@ -20500,6 +20500,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f11f19eee1dc9ecdda42403b",
+      "story_id": "da6f76dc08e817ff",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
+      "title": "Idris Elba To Star In & Direct Action-Comedy ‘In Laws’; A Higher Standard Launching For AFM",
+      "category": "actors_directors",
+      "score": 78.84,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "bafta",
+        "idris elba to",
+        "star in",
+        "direct action",
+        "comedy",
+        "in laws",
+        "higher standard launching",
+        "golden globe",
+        "emmy",
+        "idris elba",
+        "higher standard",
+        "american film market"
+      ],
+      "hook": "ایدرِس البا، ستاره و کارگردان فیلمی جدید در اسپانیا",
+      "hooks": [
+        "ایدرِس البا در نقش کارگردان و بازیگر در 'In Laws'",
+        "فیلم اکشن-کمدی 'In Laws' با ادرِس البا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ایدرِس البا در نقش کارگردان و بازیگر در 'In Laws'"
+      ],
+      "status": "published",
+      "telegram_message_id": 402,
+      "published_at": "2026-11-07T11:36:07.953044+00:00",
+      "text": "ایدرِس البا، ستاره و کارگردان فیلمی جدید در اسپانیا\n\n🎬 ایدرِس البا، ستاره و کارگردان فیلم اکشن-کمدی 'In Laws'\n\nایدرِس البا، برنده جایزه گلدن گلوب و نامزد BAFTA و Emmy، در نقش کارگردان و بازیگر در فیلم اکشن-کمدی 'In Laws' حضور دارد.\nتصوير اصلی در مارس ۲۰۲۷ در اسپانیا آغاز می‌شود و شرکت A Higher Standard فیلم را برای فروش در بازار فیلم آمریکا (AFM) راه‌اندازی کرده است. انتخاب بازیگران جدید در جریان است.\n\n📌 نکات مهم:\n• ایدرِس البا ستاره و کارگردان فیلم 'In Laws'\n• تصویر اصلی در مارس ۲۰۲۷ در اسپانیا آغاز می‌شود\n• A Higher Standard فیلم را برای فروش در AFM راه‌اندازی کرده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20898,7 +20951,8 @@
     "97affa2f095d717ee2324a46",
     "6e779a54b2638bcb83d9a0f6",
     "a3788e1580d48375b2236930",
-    "ab34e9f25bfee8134e159367"
+    "ab34e9f25bfee8134e159367",
+    "f11f19eee1dc9ecdda42403b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21296,7 +21350,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/netflix-film-trailer-an-open-field-short-boeing-crash-loss-1236746755",
     "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
     "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486",
-    "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721"
+    "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
+    "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006"
   ],
   "category_stats": {
     "movie_news": {
@@ -21306,7 +21361,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 162,
+      "published": 163,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21350,7 +21405,7 @@
       "published": 12
     },
     "11": {
-      "published": 21
+      "published": 22
     },
     "14": {
       "published": 13
@@ -21429,64 +21484,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-27T21:03:35.829915+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-27T23:40:20.247426+00:00",
       "version": 2,
@@ -24444,6 +24441,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-07T11:36:07.953164+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24841,9 +24896,97 @@
     "7946a3c243be1312",
     "e0b9bcd08eb940ad",
     "d056f247682a9f15",
-    "8c439ba8f0fdad2b"
+    "8c439ba8f0fdad2b",
+    "da6f76dc08e817ff"
   ],
   "entity_memory": {
+    "bafta": {
+      "count": 2,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star in": {
+      "count": 4,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "american film market": {
+      "count": 3,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "emmy": {
+      "count": 6,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "idris elba to": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "direct action": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "comedy": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in laws": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "higher standard launching": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "golden globe": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "idris elba": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "higher standard": {
+      "count": 1,
+      "last_seen": "2026-11-07T11:36:07.953081+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "star": {
       "count": 3,
       "last_seen": "2026-11-07T00:01:56.401511+00:00",
@@ -25188,13 +25331,6 @@
     },
     "horror": {
       "count": 2,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bafta": {
-      "count": 1,
       "last_seen": "2026-11-06T12:47:27.408932+00:00",
       "categories": [
         "actors_directors"
@@ -26081,14 +26217,6 @@
         "movie_news"
       ]
     },
-    "star in": {
-      "count": 3,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "tami roman to": {
       "count": 1,
       "last_seen": "2026-11-04T00:32:21.072206+00:00",
@@ -26164,14 +26292,6 @@
       "last_seen": "2026-11-04T00:32:21.072206+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "american film market": {
-      "count": 2,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "los angeles": {
@@ -26468,14 +26588,6 @@
       "last_seen": "2026-11-03T12:41:20.339909+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "emmy": {
-      "count": 5,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "veteran publicist bill": {
@@ -27611,62 +27723,6 @@
       "last_seen": "2026-10-30T23:36:01.433132+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "sets up action": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "packed event fans": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "november": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "brittany": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "grady to star": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in thriller": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "state of emergency": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "house of the": {
-      "count": 1,
-      "last_seen": "2026-10-30T21:16:52.398293+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
