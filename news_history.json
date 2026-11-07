@@ -20657,6 +20657,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1f222dc41033c6d930fd6cfd",
+      "story_id": "af6287d77e503e44",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991",
+      "title": "Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dead at 52",
+      "category": "actors_directors",
+      "score": 25.99,
+      "freshness": 65.0,
+      "credibility": 90.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "lelio",
+        "chilean director",
+        "winning",
+        "fantastic woman",
+        "dead",
+        "santiago",
+        "gloria",
+        "paulina",
+        "silver bear",
+        "gloria bell",
+        "julianne moore"
+      ],
+      "hook": "کارگردان اوسکار Sebastián Lelio درگذشت؛ میراث سینمایی‌اش",
+      "hooks": [
+        "کارگردان «A Fantastic Woman» درگذشت؛ میراثی بی‌پایان",
+        "Sebastián Lelio، ستاره سینمایی چلی، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دستگاه او در سال ۲۰۱۳ برنده جایزه سلیور بیر شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 405,
+      "published_at": "2026-11-07T20:37:00.364519+00:00",
+      "text": "کارگردان اوسکار Sebastián Lelio درگذشت؛ میراث سینمایی‌اش\n\n🎬 کارگردان اوسکار Sebastián Lelio درگذشت؛ میراثی بی‌پایان\n\nSebastián Lelio، کارگردان چلی، در سن ۵۲ سالگی در منزل خود در سانتیاگو درگذشت. او در سال ۲۰۱۳ با فیلم «Gloria» ستاره‌اش Paulina García را به برنده جایزه سلیور بیر در جشنواره برلین رساند.\nدر سال ۲۰۱۸، Lelio فیلم «Gloria Bell» را با بازی Julianne Moore دوباره ساخت و به‌دنبال آن، میراث سینمایی‌اش در جهان باقی ماند.\n\n📌 نکات مهم:\n• دستگاه او در سال ۲۰۱۳ برنده جایزه سلیور بیر شد\n• در ۲۰۱۸، فیلم «Gloria Bell» با Julianne Moore ساخته شد\n• درگذشت در سن ۵۲ سالگی در سانتیاگو\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21058,7 +21110,8 @@
     "ab34e9f25bfee8134e159367",
     "f11f19eee1dc9ecdda42403b",
     "a95018cc2467da4f46b4090c",
-    "230a43f1ea3fe6817fe12eeb"
+    "230a43f1ea3fe6817fe12eeb",
+    "1f222dc41033c6d930fd6cfd"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21459,7 +21512,8 @@
     "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
     "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
     "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-    "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies"
+    "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+    "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991"
   ],
   "category_stats": {
     "movie_news": {
@@ -21469,7 +21523,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 163,
+      "published": 164,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21525,7 +21579,7 @@
       "published": 20
     },
     "20": {
-      "published": 38
+      "published": 39
     },
     "21": {
       "published": 25
@@ -21592,64 +21646,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-28T15:41:43.701233+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-28T18:35:24.385075+00:00",
       "version": 2,
@@ -24607,6 +24603,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-07T20:37:00.364683+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 401,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25007,12 +25061,13 @@
     "8c439ba8f0fdad2b",
     "da6f76dc08e817ff",
     "7d4a5dd398aec8f9",
-    "e0b3312a81c59971"
+    "e0b3312a81c59971",
+    "af6287d77e503e44"
   ],
   "entity_memory": {
     "oscar": {
-      "count": 42,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
+      "count": 43,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
       "categories": [
         "actors_directors",
         "movie_news",
@@ -25020,27 +25075,85 @@
       ]
     },
     "lelio": {
-      "count": 2,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
+      "count": 3,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
       "categories": [
         "actors_directors",
         "movie_news"
       ]
     },
     "fantastic woman": {
-      "count": 2,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
+      "count": 3,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
       "categories": [
         "actors_directors",
         "movie_news"
       ]
     },
     "gloria": {
-      "count": 2,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
+      "count": 3,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
       "categories": [
         "actors_directors",
         "movie_news"
+      ]
+    },
+    "julianne moore": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "gloria bell": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "chilean director": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winning": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "santiago": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dead": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paulina": {
+      "count": 2,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "silver bear": {
+      "count": 1,
+      "last_seen": "2026-11-07T20:37:00.364560+00:00",
+      "categories": [
+        "actors_directors"
       ]
     },
     "the chilean": {
@@ -25051,13 +25164,6 @@
       ]
     },
     "florence pugh": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "julianne moore": {
       "count": 1,
       "last_seen": "2026-11-07T17:54:52.326017+00:00",
       "categories": [
@@ -25079,13 +25185,6 @@
       ]
     },
     "english": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gloria bell": {
       "count": 1,
       "last_seen": "2026-11-07T17:54:52.326017+00:00",
       "categories": [
@@ -25370,28 +25469,7 @@
         "actors_directors"
       ]
     },
-    "chilean director": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "winning": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "chilean": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "santiago": {
       "count": 1,
       "last_seen": "2026-11-06T21:54:15.924361+00:00",
       "categories": [
@@ -25413,20 +25491,6 @@
       ]
     },
     "according": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dead": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paulina": {
       "count": 1,
       "last_seen": "2026-11-06T21:54:15.924361+00:00",
       "categories": [
@@ -27825,13 +27889,6 @@
       ]
     },
     "tokyo after": {
-      "count": 1,
-      "last_seen": "2026-10-31T14:58:22.712974+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "berlin": {
       "count": 1,
       "last_seen": "2026-10-31T14:58:22.712974+00:00",
       "categories": [
