@@ -20553,6 +20553,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a95018cc2467da4f46b4090c",
+      "story_id": "7d4a5dd398aec8f9",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "category": "movie_news",
+      "score": 64.51,
+      "freshness": 40.0,
+      "credibility": 94.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tinto brass",
+        "caligula",
+        "euro",
+        "italian",
+        "roberto rossellini",
+        "antonioni",
+        "salon kitty",
+        "caterina varzi",
+        "bonifacio",
+        "beatrice brass",
+        "ansa",
+        "wednesday"
+      ],
+      "hook": "تینتو براس، استاد اروپای اروتیک، درگذشت",
+      "hooks": [
+        "مخرج مشهور ایتالیا، تینتو براس، درگذشت؛ آثارش در سینمای اروپای اروتیک",
+        "تینتو براس، که در فیلم‌های Caligula و Salon Kitty شناخته شد، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مردن تینتو براس در سن 93 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 403,
+      "published_at": "2026-11-07T15:23:13.513315+00:00",
+      "text": "تینتو براس، استاد اروپای اروتیک، درگذشت\n\n🎬 مخرج ایتالیا، تینتو براس، درگذشت؛ 93 ساله\n\nتینتو براس، مخرج ایتالیا و استاد اروپای اروتیک، درگذشت. او در سن 93 سالگی درگذشت.\nبراس در دهه 70 به عنوان «آنتونیونِ دهه 70» شناخته شد و با فیلم‌های Caligula و Salon Kitty به شهرت رسید. او به عنوان دستیار روتول روسلینی آغاز کرد و معتقد بود اروتیک‌سازی کلید اصلی بیان انسانی است.\n\n📌 نکات مهم:\n• مردن تینتو براس در سن 93 سالگی\n• مخرج فیلم‌های Caligula و Salon Kitty\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -20952,7 +21004,8 @@
     "6e779a54b2638bcb83d9a0f6",
     "a3788e1580d48375b2236930",
     "ab34e9f25bfee8134e159367",
-    "f11f19eee1dc9ecdda42403b"
+    "f11f19eee1dc9ecdda42403b",
+    "a95018cc2467da4f46b4090c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21351,11 +21404,12 @@
     "https://deadline.com/2026/11/launch-company-can-come-brenton-thwaites-hannah-john-kamen-1237215574",
     "https://variety.com/2026/film/news/sebastian-lelio-dead-fantastic-woman-1236941486",
     "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
-    "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006"
+    "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
+    "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 198,
+      "published": 199,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21447,7 +21501,7 @@
       "published": 1
     },
     "15": {
-      "published": 17
+      "published": 18
     },
     "1": {
       "published": 3
@@ -21484,64 +21538,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-27T23:40:20.247426+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Hong Kong’s Point Five Creations Readies ‘Blacky The Metal Arm Cat’, Plots Webtoon Extension Of ‘Another World’",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-28T11:09:53.633277+00:00",
       "version": 2,
@@ -24499,6 +24495,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-07T15:23:13.513430+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -24897,9 +24951,94 @@
     "e0b9bcd08eb940ad",
     "d056f247682a9f15",
     "8c439ba8f0fdad2b",
-    "da6f76dc08e817ff"
+    "da6f76dc08e817ff",
+    "7d4a5dd398aec8f9"
   ],
   "entity_memory": {
+    "italian": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caligula": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tinto brass": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caterina varzi": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bonifacio": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "beatrice brass": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "wednesday": {
+      "count": 2,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "euro": {
+      "count": 1,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "roberto rossellini": {
+      "count": 1,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "antonioni": {
+      "count": 1,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "salon kitty": {
+      "count": 1,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ansa": {
+      "count": 1,
+      "last_seen": "2026-11-07T15:23:13.513350+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "bafta": {
       "count": 2,
       "last_seen": "2026-11-07T11:36:07.953081+00:00",
@@ -26056,27 +26195,6 @@
         "movie_news"
       ]
     },
-    "italian": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "caligula": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tinto brass": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "rome": {
       "count": 1,
       "last_seen": "2026-11-04T16:48:24.447273+00:00",
@@ -26084,35 +26202,7 @@
         "movie_news"
       ]
     },
-    "caterina varzi": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bonifacio": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beatrice brass": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "brass": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wednesday": {
       "count": 1,
       "last_seen": "2026-11-04T16:48:24.447273+00:00",
       "categories": [
@@ -27688,41 +27778,6 @@
       "last_seen": "2026-10-31T10:47:49.518540+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "press trust": {
-      "count": 1,
-      "last_seen": "2026-10-31T10:47:49.518540+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fire country": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "sheriff country": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "crossover teaser drops": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "as matt lopez": {
-      "count": 1,
-      "last_seen": "2026-10-30T23:36:01.433132+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
