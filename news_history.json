@@ -20911,6 +20911,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a11cd8c34752e6a748d2e350",
+      "story_id": "95efeb76be54705a",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
+      "title": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
+      "category": "movie_news",
+      "score": 70.45,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": false,
+      "entities": [
+        "harry potter",
+        "netflix",
+        "bluey",
+        "daley pearson",
+        "allen",
+        "pearson",
+        "ludo studio",
+        "elliott",
+        "or coraline",
+        "matilda",
+        "chihiro",
+        "mary poppins"
+      ],
+      "hook": "فیلمی که از دست دادن برادر الهام گرفته شد",
+      "hooks": [
+        "فیلم 'Allen' الهام از برادر پیرسون",
+        "دالی پیرسون: داستان بیگانه و برادر",
+        "فیلم جدید پیرسون: از درد برادری به سینما"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم 'Allen' اولین فیلم واقعی Ludo Studio است"
+      ],
+      "status": "published",
+      "telegram_message_id": 410,
+      "published_at": "2026-11-08T20:55:02.013915+00:00",
+      "text": "فیلمی که از دست دادن برادر الهام گرفته شد\n\n🎬 دالی پیرسون: فیلمی که از دست دادن برادرش الهام گرفت\n\nدالی پیرسون، کارگردان Ludo Studio، فیلم اول خود در قالب فیلم واقعی به نام 'Allen' را معرفی کرد. این فیلم درباره مردی است که در کودکی با یک بیگانه ملاقات می‌کند و پس از آن سعی می‌کند او را بازگرداند؛ الهام اصلی این داستان از فقدان برادرش پیرسون سرچشمه می‌گیرد.\n\n📌 نکات مهم:\n• فیلم 'Allen' اولین فیلم واقعی Ludo Studio است\n• داستان درباره مردی است که با بیگانه‌ای ملاقات می‌کند و سعی در بازگرداندن او دارد\n• دالی پیرسون فیلم را از دست دادن برادرش الهام گرفته است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21317,7 +21370,8 @@
     "b66e834ea051f4b651729a08",
     "fd8af5d06f044be171e49cf6",
     "2ebd9be5baee9ab4116dd72c",
-    "6fd3008fa88d85061a5a2a7a"
+    "6fd3008fa88d85061a5a2a7a",
+    "a11cd8c34752e6a748d2e350"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21723,11 +21777,12 @@
     "https://variety.com/2026/film/news/u2-the-edge-sequel-elf-andy-richter-1236942164",
     "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261",
     "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136",
-    "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign"
+    "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign",
+    "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 202,
+      "published": 203,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21789,7 +21844,7 @@
       "published": 21
     },
     "20": {
-      "published": 39
+      "published": 40
     },
     "21": {
       "published": 25
@@ -21856,64 +21911,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-29T15:48:49.165865+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-29T18:44:50.895620+00:00",
       "version": 2,
@@ -24871,6 +24868,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-08T20:55:02.014032+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25276,9 +25331,97 @@
     "f75da0830acdd320",
     "f562ed9e06607bad",
     "c1b16b29e50c7fa2",
-    "901a6951f0d4653e"
+    "901a6951f0d4653e",
+    "95efeb76be54705a"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 13,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "harry potter": {
+      "count": 2,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "bluey": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "daley pearson": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "allen": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pearson": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ludo studio": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "elliott": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "or coraline": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "matilda": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chihiro": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mary poppins": {
+      "count": 1,
+      "last_seen": "2026-11-08T20:55:02.013955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "english": {
       "count": 2,
       "last_seen": "2026-11-08T18:10:07.513202+00:00",
@@ -26060,15 +26203,6 @@
       "count": 1,
       "last_seen": "2026-11-06T19:46:59.256670+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "netflix": {
-      "count": 12,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
         "actors_directors"
       ]
     },
@@ -27741,13 +27875,6 @@
         "actors_directors"
       ]
     },
-    "harry potter": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "five takeaways from": {
       "count": 1,
       "last_seen": "2026-11-01T23:28:46.796298+00:00",
@@ -28035,76 +28162,6 @@
       "last_seen": "2026-11-01T15:42:47.622297+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "sanjay gupta": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kaante": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indian": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shootout": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mumbai": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "october": {
-      "count": 2,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indian filmmaker sanjay": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gupta dies": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lokhandwala": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "milap zaveri": {
-      "count": 1,
-      "last_seen": "2026-11-01T11:44:52.547711+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
