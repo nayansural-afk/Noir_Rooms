@@ -20964,6 +20964,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "bf5fc765e96dd8dbea1226ce",
+      "story_id": "072917e8a62ba075",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
+      "title": "Robert Pattinson & Nicholas Hoult Round Out James Bond Screen Tests",
+      "category": "actors_directors",
+      "score": 59.21,
+      "freshness": 65.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": false,
+      "entities": [
+        "james bond",
+        "robert pattinson",
+        "nicholas hoult round",
+        "out james bond",
+        "screen tests after",
+        "deadline",
+        "while",
+        "nicholas hoult",
+        "jack lowden",
+        "josh",
+        "connor",
+        "callum turner"
+      ],
+      "hook": "پاتینسون و هولت در آزمون‌های جدید باند جیمز!",
+      "hooks": [
+        "آینده باند جیمز: پاتینسون و هولت در صحنه!",
+        "آزمون‌های باند جیمز: پاتینسون و هولت در رقابت!"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پاتینسون و هولت در آزمون‌های باند جیمز شرکت می‌کنند"
+      ],
+      "status": "published",
+      "telegram_message_id": 411,
+      "published_at": "2026-11-08T23:35:36.530101+00:00",
+      "text": "پاتینسون و هولت در آزمون‌های جدید باند جیمز!\n\n🎬 پاتینسون و هولت در آزمون‌های جدید باند جیمز\n\nدر هفته‌های اخیر، کنجکاوی درباره کدام بازیگر ممکن است در آزمون‌های باند جیمز شرکت کند، به اوج رسید. در نهایت، Deadline اعلام کرد که بازیگر مورد نظر پیدا شد و یک نام دیگر نیز به لیست اضافه شد.\nبه گفته منابع داخلی، رُبِرت پاتینسون و نیکولاس هولت به جمع جک لودن، جوش او'کانر و کالوم ترنر پیوسته‌اند. این افراد در آزمون‌های اخیر برای نقش باند جیمز شرکت کرده‌اند.\n\n📌 نکات مهم:\n• پاتینسون و هولت در آزمون‌های باند جیمز شرکت می‌کنند\n• پاتینسون و هولت به جمع جک لودن، جوش او'کانر و کالوم ترنر پیوستند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21371,7 +21423,8 @@
     "fd8af5d06f044be171e49cf6",
     "2ebd9be5baee9ab4116dd72c",
     "6fd3008fa88d85061a5a2a7a",
-    "a11cd8c34752e6a748d2e350"
+    "a11cd8c34752e6a748d2e350",
+    "bf5fc765e96dd8dbea1226ce"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21778,7 +21831,8 @@
     "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261",
     "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136",
     "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign",
-    "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview"
+    "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
+    "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183"
   ],
   "category_stats": {
     "movie_news": {
@@ -21788,7 +21842,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 166,
+      "published": 167,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21850,7 +21904,7 @@
       "published": 25
     },
     "23": {
-      "published": 31
+      "published": 32
     },
     "3": {
       "published": 2
@@ -21911,64 +21965,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-29T18:44:50.895620+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-29T21:29:34.110020+00:00",
       "version": 2,
@@ -24926,6 +24922,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-08T23:35:36.530205+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25332,9 +25386,96 @@
     "f562ed9e06607bad",
     "c1b16b29e50c7fa2",
     "901a6951f0d4653e",
-    "95efeb76be54705a"
+    "95efeb76be54705a",
+    "072917e8a62ba075"
   ],
   "entity_memory": {
+    "deadline": {
+      "count": 4,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "james bond": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert pattinson": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nicholas hoult round": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "out james bond": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "screen tests after": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "while": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nicholas hoult": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jack lowden": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "josh": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "connor": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "callum turner": {
+      "count": 1,
+      "last_seen": "2026-11-08T23:35:36.530135+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 13,
       "last_seen": "2026-11-08T20:55:02.013955+00:00",
@@ -26782,15 +26923,6 @@
         "actors_directors"
       ]
     },
-    "deadline": {
-      "count": 3,
-      "last_seen": "2026-11-04T22:17:27.798762+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
     "maya hawke boards": {
       "count": 1,
       "last_seen": "2026-11-04T22:17:27.798762+00:00",
@@ -28085,83 +28217,6 @@
       "last_seen": "2026-11-01T18:12:38.954992+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "understanding": {
-      "count": 1,
-      "last_seen": "2026-11-01T18:12:38.954992+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "judi dench": {
-      "count": 1,
-      "last_seen": "2026-11-01T18:12:38.954992+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robin williams": {
-      "count": 1,
-      "last_seen": "2026-11-01T18:12:38.954992+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michael williams": {
-      "count": 1,
-      "last_seen": "2026-11-01T18:12:38.954992+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cliff booth": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "play": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cinemark": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "regal": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "screens david fincher": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brad pitt": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thanksgiving": {
-      "count": 1,
-      "last_seen": "2026-11-01T15:42:47.622297+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
