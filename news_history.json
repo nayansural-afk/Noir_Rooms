@@ -20815,6 +20815,53 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "2ebd9be5baee9ab4116dd72c",
+      "story_id": "c1b16b29e50c7fa2",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136",
+      "title": "Dylan Skolnick Returning as Co-Director of the Cinema Arts Centre Following Protests and Boycotts",
+      "category": "actors_directors",
+      "score": 63.59,
+      "freshness": 100.0,
+      "credibility": 90.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": false,
+      "entities": [
+        "dylan skolnick returning",
+        "director",
+        "cinema arts centre",
+        "following protests",
+        "boycotts the",
+        "long island",
+        "september"
+      ],
+      "hook": "دیلان اسکولنیک بازگشت به رهبری سینما آرٹس سینتر پس از اعتراضات",
+      "hooks": [
+        "دیلان اسکولنیک به عنوان معاون مدیر، پس از اعتراضات، بازمی‌گردد",
+        "سینما آرٹس سینتر: بازگشت دیلان اسکولنیک پس از اخراج"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دیلان اسکولنیک به عنوان معاون مدیر سینما آرٹس سینتر بازگشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 408,
+      "published_at": "2026-11-08T15:44:40.904335+00:00",
+      "text": "دیلان اسکولنیک بازگشت به رهبری سینما آرٹس سینتر پس از اعتراضات\n\n🎬 دیلان اسکولنیک، معاون مدیر سینما آرٹس سینتر، پس از اعتراضات و بی‌کوتی بازگشت\n\nدیلان اسکولنیک، معاون مدیر سینما آرٹس سینتر، پس از اعتراضات و بی‌کوتی، بازگشت. او در سپتامبر به دلیل سوء رفتار جدی اخراج شد. این بازگشت پس از اعتراضات و بی‌کوتی صورت گرفت.\n\n📌 نکات مهم:\n• دیلان اسکولنیک به عنوان معاون مدیر سینما آرٹس سینتر بازگشت\n• فردی که در سپتامبر اخراج شد، به دلیل سوء رفتار جدی\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21219,7 +21266,8 @@
     "230a43f1ea3fe6817fe12eeb",
     "1f222dc41033c6d930fd6cfd",
     "b66e834ea051f4b651729a08",
-    "fd8af5d06f044be171e49cf6"
+    "fd8af5d06f044be171e49cf6",
+    "2ebd9be5baee9ab4116dd72c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21623,7 +21671,8 @@
     "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
     "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991",
     "https://variety.com/2026/film/news/u2-the-edge-sequel-elf-andy-richter-1236942164",
-    "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261"
+    "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261",
+    "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136"
   ],
   "category_stats": {
     "movie_news": {
@@ -21633,7 +21682,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 165,
+      "published": 166,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -21719,7 +21768,7 @@
       "published": 1
     },
     "15": {
-      "published": 18
+      "published": 19
     },
     "1": {
       "published": 3
@@ -21756,64 +21805,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-28T23:57:44.581030+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-29T11:22:54.722419+00:00",
       "version": 2,
@@ -24771,6 +24762,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-08T15:44:40.904436+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        },
+        {
+          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 406,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25174,9 +25223,60 @@
     "e0b3312a81c59971",
     "af6287d77e503e44",
     "f75da0830acdd320",
-    "f562ed9e06607bad"
+    "f562ed9e06607bad",
+    "c1b16b29e50c7fa2"
   ],
   "entity_memory": {
+    "director": {
+      "count": 3,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "dylan skolnick returning": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cinema arts centre": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "following protests": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "boycotts the": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "long island": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "september": {
+      "count": 1,
+      "last_seen": "2026-11-08T15:44:40.904368+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "former": {
       "count": 1,
       "last_seen": "2026-11-08T11:47:30.586671+00:00",
@@ -26632,14 +26732,6 @@
         "movie_news"
       ]
     },
-    "director": {
-      "count": 2,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "tinto brass dies": {
       "count": 1,
       "last_seen": "2026-11-04T16:48:24.447273+00:00",
@@ -27961,50 +28053,6 @@
       "last_seen": "2026-10-31T23:16:18.745133+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "documentary film festival": {
-      "count": 1,
-      "last_seen": "2026-10-31T23:16:18.745133+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "death": {
-      "count": 3,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
-    "the other side": {
-      "count": 1,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "review": {
-      "count": 1,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "grieving ski mountaineer": {
-      "count": 1,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
-      "categories": [
-        "awards_festivals"
-      ]
-    },
-    "face": {
-      "count": 1,
-      "last_seen": "2026-10-31T20:22:22.827979+00:00",
-      "categories": [
-        "awards_festivals"
       ]
     }
   },
