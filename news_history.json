@@ -21120,6 +21120,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f9f1bd8524d8eb5554962228",
+      "story_id": "b3a936eb60b32f60",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771",
+      "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+      "category": "movie_news",
+      "score": 89.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "joins oscar contender",
+        "the lost sounds",
+        "saigon",
+        "award",
+        "winning documentary about",
+        "the quincy jones",
+        "global",
+        "that",
+        "khoa",
+        "victor velle",
+        "audience award"
+      ],
+      "hook": "سینمایی که صداهای گمشده‌ی سایگون را به Oscars می‌برد",
+      "hooks": [
+        "سینمایی که صداهای گمشده‌ی سایگون را به Oscars می‌برد",
+        "سینما و Oscars: همکاری XTR با Y Vân"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "XTR به کمپین Oscar فیلم Y Vân ملحق شد",
+        "فیلم جایزه Audience Award در جشنواره New Orleans Film Festival را کسب کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 414,
+      "published_at": "2026-11-09T22:48:57.181220+00:00",
+      "text": "سینمایی که صداهای گمشده‌ی سایگون را به Oscars می‌برد\n\n🎬 XTR به کمپین Oscars فیلم مستند Y Vân: The Lost Sounds of Saigon می‌پیوندد\n\nXTR، استودیو سرگرمی غیرنقاشی، به کمپین Oscar فیلم مستند «Y Vân: The Lost Sounds of Saigon» ملحق شد. این فیلم، کارگردانی مشترک Khoa Hà و Victor Velle، در جشنواره فیلم نیویورک نورتن جایزه Audience Award را کسب کرد.\n\nبا حضور XTR، امید به کسب جایزه Oscar برای این مستند افزایش یافته و توجه رسانه‌های بین‌المللی به صداهای گمشده‌ی سایگون جلب می‌شود.\n\n📌 نکات مهم:\n• XTR به کمپین Oscar فیلم Y Vân ملحق شد\n• فیلم توسط Khoa Hà و Victor Velle کارگردانی شد\n• فیلم جایزه Audience Award در جشنواره New Orleans Film Festival را کسب کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21530,7 +21584,8 @@
     "a11cd8c34752e6a748d2e350",
     "bf5fc765e96dd8dbea1226ce",
     "ee3c1670f6961d7c61cc1ba6",
-    "ee013f75500b1abe140011a9"
+    "ee013f75500b1abe140011a9",
+    "f9f1bd8524d8eb5554962228"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21940,11 +21995,12 @@
     "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
     "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
     "https://variety.com/2026/film/markets-festivals/anthony-chen-somewhere-in-the-south-taiwan-pitch-award-1236942939",
-    "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies"
+    "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
+    "https://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 204,
+      "published": 205,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22024,7 +22080,7 @@
       "published": 21
     },
     "22": {
-      "published": 21
+      "published": 22
     },
     "7": {
       "published": 2
@@ -22073,64 +22129,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-30T11:15:01.431005+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "upcoming_movies",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-30T15:30:04.815527+00:00",
       "version": 2,
@@ -25088,6 +25086,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-09T22:48:57.181338+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25497,9 +25553,96 @@
     "95efeb76be54705a",
     "072917e8a62ba075",
     "e3fa28c7f8f8e441",
-    "636d59edeb628a59"
+    "636d59edeb628a59",
+    "b3a936eb60b32f60"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 44,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "joins oscar contender": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the lost sounds": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "saigon": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "award": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "winning documentary about": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the quincy jones": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "global": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "that": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "khoa": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "victor velle": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "audience award": {
+      "count": 1,
+      "last_seen": "2026-11-09T22:48:57.181257+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "disney": {
       "count": 1,
       "last_seen": "2026-11-09T19:27:14.875892+00:00",
@@ -26108,15 +26251,6 @@
       "last_seen": "2026-11-07T23:34:02.871706+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 43,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "lelio": {
@@ -28249,83 +28383,6 @@
       "last_seen": "2026-11-02T13:16:56.164722+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "which": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "over": {
-      "count": 2,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "five takeaways from": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lucca comics": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "games": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "europe": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "largest comic": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "percy jackson": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fandoms are alive": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "well": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "as are cosplayers": {
-      "count": 1,
-      "last_seen": "2026-11-01T23:28:46.796298+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
