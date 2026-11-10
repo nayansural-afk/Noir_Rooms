@@ -21174,6 +21174,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "51cbcbc88e3e87028f2490b5",
+      "story_id": "0ce79e246a9bc4d5",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/dom-brack-blake-hooker-hunter-rowland-the-anchor-in-us-1236943250",
+      "title": "Creators Dom Brack, Blake Hooker and Hunter Rowland to Star in Brilliance Productions’ Feature ‘The Anchor In Us’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "creators dom brack",
+        "blake hooker",
+        "hunter rowland",
+        "star",
+        "brilliance productions",
+        "feature",
+        "the anchor in",
+        "digital",
+        "dom brack",
+        "american film market"
+      ],
+      "hook": "سازندگان دیجیتال در نقش‌های اصلی در فیلم رازآلود «The Anchor In Us»",
+      "hooks": [
+        "سازندگان دیجیتال در نقش‌های اصلی در فیلم «The Anchor In Us»",
+        "فیلم رازآلود «The Anchor In Us» با حضور دیجیتال سازندگان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سازندگان دیجیتال در نقش‌های اصلی در فیلم «The Anchor In Us»"
+      ],
+      "status": "published",
+      "telegram_message_id": 415,
+      "published_at": "2026-11-10T00:30:29.251735+00:00",
+      "text": "سازندگان دیجیتال در نقش‌های اصلی در فیلم رازآلود «The Anchor In Us»\n\n🎬 سازندگان دیجیتال Dom Brack، Blake Hooker و Hunter Rowland در نقش‌های اصلی در فیلم رازآلود «The Anchor In Us»\n\nفیلم «The Anchor In Us»، یک ماجراجویی رمزی در دوران نوجوانی، توسط سه سازنده دیجیتال Dom Brack، Blake Hooker و Hunter Rowland در نقش‌های اصلی ساخته شده است.\nفیلم در حال پس‌تولید است و در بازار فیلم آمریکایی برای نمایش در جشنواره‌های 2027 معرفی خواهد شد. لاین‌لاین رسمی: «یک گروه از دوستان دانشگاهی…»\n\n📌 نکات مهم:\n• سازندگان دیجیتال Dom Brack، Blake Hooker و Hunter Rowland در نقش‌های اصلی\n• فیلم در حال پس‌تولید و در بازار فیلم آمریکایی برای نمایش در جشنواره‌های 2027 معرفی خواهد شد\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/dom-brack-blake-hooker-hunter-rowland-the-anchor-in-us-1236943250",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21585,7 +21635,8 @@
     "bf5fc765e96dd8dbea1226ce",
     "ee3c1670f6961d7c61cc1ba6",
     "ee013f75500b1abe140011a9",
-    "f9f1bd8524d8eb5554962228"
+    "f9f1bd8524d8eb5554962228",
+    "51cbcbc88e3e87028f2490b5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -21996,11 +22047,12 @@
     "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
     "https://variety.com/2026/film/markets-festivals/anthony-chen-somewhere-in-the-south-taiwan-pitch-award-1236942939",
     "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
-    "https://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771"
+    "https://deadline.com/2026/11/y-van-the-lost-sounds-of-saigon-xtr-announcement-1237217771",
+    "https://variety.com/2026/film/news/dom-brack-blake-hooker-hunter-rowland-the-anchor-in-us-1236943250"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 205,
+      "published": 206,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22110,7 +22162,7 @@
       "published": 10
     },
     "0": {
-      "published": 7
+      "published": 8
     }
   },
   "strategy": {
@@ -22129,64 +22181,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-30T15:30:04.815527+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "upcoming_movies",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-30T18:20:56.426808+00:00",
       "version": 2,
@@ -25144,6 +25138,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-10T00:30:29.251842+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25554,9 +25606,82 @@
     "072917e8a62ba075",
     "e3fa28c7f8f8e441",
     "636d59edeb628a59",
-    "b3a936eb60b32f60"
+    "b3a936eb60b32f60",
+    "0ce79e246a9bc4d5"
   ],
   "entity_memory": {
+    "american film market": {
+      "count": 4,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 4,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "creators dom brack": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blake hooker": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hunter rowland": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "brilliance productions": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "feature": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the anchor in": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "digital": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dom brack": {
+      "count": 1,
+      "last_seen": "2026-11-10T00:30:29.251770+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "oscar": {
       "count": 44,
       "last_seen": "2026-11-09T22:48:57.181257+00:00",
@@ -26469,14 +26594,6 @@
         "movie_news"
       ]
     },
-    "american film market": {
-      "count": 3,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "emmy": {
       "count": 6,
       "last_seen": "2026-11-07T11:36:07.953081+00:00",
@@ -26538,14 +26655,6 @@
       "count": 1,
       "last_seen": "2026-11-07T11:36:07.953081+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
-      "count": 3,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -28323,62 +28432,6 @@
       ]
     },
     "laura linney": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "parkinson": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vicar": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dibley": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paul mayhew": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "archer": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "onwards": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sideways": {
-      "count": 1,
-      "last_seen": "2026-11-02T13:16:56.164722+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ahead": {
       "count": 1,
       "last_seen": "2026-11-02T13:16:56.164722+00:00",
       "categories": [
