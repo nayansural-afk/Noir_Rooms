@@ -21430,6 +21430,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c04628e6b2ac3e6dfb8e637c",
+      "story_id": "7be9dcd6de4dbe6c",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191",
+      "title": "Will Yun Lee Boards John Hensley’s ‘White Lightning Lullaby’",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "will yun lee",
+        "boards john hensley",
+        "white lightning lullaby",
+        "actor will yun",
+        "peyton burnes",
+        "john hensley",
+        "tuck",
+        "flintlock pictures",
+        "rabbit foot film",
+        "texas"
+      ],
+      "hook": "ویلی یان لی در فیلم 'White Lightning Lullaby' نقش می‌گیرد",
+      "hooks": [
+        "نقش جدید ویلی یان لی در فیلمی با هیجان رانندگی و جرم",
+        "فیلم 'White Lightning Lullaby' با بازی ویلی یان لی و کارگردان جان هنسلی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ویلی یان لی در نقش پیات برنز در 'White Lightning Lullaby' بازی می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 420,
+      "published_at": "2026-11-10T22:06:01.274209+00:00",
+      "text": "ویلی یان لی در فیلم 'White Lightning Lullaby' نقش می‌گیرد\n\n🎬 ویلی یان لی در نقش پیات برنز، در فیلم 'White Lightning Lullaby'\n\nویلی یان لی در نقش پیات برنز، راننده‌ی مسابقه‌ی خاکی که به مجرم سابق تبدیل شده، در فیلم جنایی 'White Lightning Lullaby' حضور دارد. این اثر، نوشته و کارگردانی جان هنسلی، در حال تولید در تگزاس است و توسط شرکت‌های Flintlock Pictures و Rabbit Foot Film پشتیبانی می‌شود.\n\n📌 نکات مهم:\n• ویلی یان لی در نقش پیات برنز\n• فیلم توسط جان هنسلی نوشته و کارگردانی می‌شود\n• تولید در تگزاس توسط Flintlock Pictures و Rabbit Foot Film\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21846,7 +21897,8 @@
     "535e97739cc26bcd1011ac7d",
     "083635295f54410af7d60814",
     "7f6ecf12ffc83a8b2e2fb423",
-    "c016ad3bfc34d4a21724e7b1"
+    "c016ad3bfc34d4a21724e7b1",
+    "c04628e6b2ac3e6dfb8e637c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22262,11 +22314,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/summer-school-2001-us-cinemas-amazon-first-czech-viet-film-1236749759",
     "https://www.theguardian.com/film/2026/nov/10/whispers-in-the-woods-review-paddling-in-the-moonlight-in-tender-study-of-human-animal-interaction",
     "https://deadline.com/2026/11/clashing-through-the-snow-trailer-christopher-briney-1237218035",
-    "https://variety.com/2026/film/news/ramy-youssef-steve-way-body-swap-film-1236943346"
+    "https://variety.com/2026/film/news/ramy-youssef-steve-way-body-swap-film-1236943346",
+    "https://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 209,
+      "published": 210,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22346,7 +22399,7 @@
       "published": 21
     },
     "22": {
-      "published": 22
+      "published": 23
     },
     "7": {
       "published": 2
@@ -22395,64 +22448,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-31T14:58:22.713050+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-31T17:27:32.436839+00:00",
       "version": 2,
@@ -25410,6 +25405,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-10T22:06:01.274319+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25825,9 +25878,80 @@
     "a2cd93d82996ac6f",
     "62c6ebc8fb45cf25",
     "838482628b6bdb02",
-    "9af5071717c28137"
+    "9af5071717c28137",
+    "7be9dcd6de4dbe6c"
   ],
   "entity_memory": {
+    "will yun lee": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "boards john hensley": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "white lightning lullaby": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor will yun": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "peyton burnes": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john hensley": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tuck": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "flintlock pictures": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rabbit foot film": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "texas": {
+      "count": 1,
+      "last_seen": "2026-11-10T22:06:01.274244+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "ramy youssef": {
       "count": 1,
       "last_seen": "2026-11-10T20:08:05.612310+00:00",
@@ -28579,76 +28703,6 @@
     "godzilla": {
       "count": 1,
       "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ramayana": {
-      "count": 1,
-      "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "loom black bear": {
-      "count": 1,
-      "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alex huston fischer": {
-      "count": 1,
-      "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eleanor wilson": {
-      "count": 1,
-      "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "olivia colman": {
-      "count": 1,
-      "last_seen": "2026-11-03T12:41:20.339909+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "veteran publicist bill": {
-      "count": 1,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "harrison": {
-      "count": 1,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "creative director johnny": {
-      "count": 1,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "wujek join nonprofit": {
-      "count": 1,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "elysium": {
-      "count": 1,
-      "last_seen": "2026-11-03T02:09:16.887628+00:00",
       "categories": [
         "actors_directors"
       ]
