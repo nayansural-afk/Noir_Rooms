@@ -21584,6 +21584,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "379ebff8a413abb6f0c0cbab",
+      "story_id": "fd80f122d805a0aa",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
+      "title": "Britt Robertson Joins Kellan Lutz In Faith-Based Survival Thriller ‘The Rescue’ — AFM",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "britt robertson joins",
+        "kellan lutz in",
+        "faith",
+        "based survival thriller",
+        "the rescue",
+        "britt robertson",
+        "tomorrowland",
+        "kellan lutz",
+        "premiere entertainment",
+        "production",
+        "new zealand",
+        "february"
+      ],
+      "hook": "بریت روبرسون و کلان لوتز در فیلم نجات، هیجان‌انگیز و الهی",
+      "hooks": [
+        "فیلم نجات: بازیگران برجسته در تریلر الهی",
+        "تجربهٔ نجات در نیوزیلند با روبرسون و لوتز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "بریت روبرسون در فیلم نجات حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 423,
+      "published_at": "2026-11-11T16:51:27.336694+00:00",
+      "text": "بریت روبرسون و کلان لوتز در فیلم نجات، هیجان‌انگیز و الهی\n\n🎬 بریت روبرسون و کلان لوتز در فیلم نجات، تریلر الهی جدید\n\nدر فیلم نجات، بریت روبرسون و کلان لوتز در نقش‌های اصلی حضور دارند. این فیلم هیجان‌انگیز بر پایهٔ ایمان و بقا ساخته شده است.\nتصویرگری توسط دارن سیموندز و جارد وان برکل، و متن‌نویسی توسط وان برکل. تولید در نیوزیلند در فوریه ۲۰۲۷ آغاز می‌شود و در AFM به نمایش می‌رسد.\n\n📌 نکات مهم:\n• بریت روبرسون و کلان لوتز در نقش‌های اصلی\n• فیلم بر پایهٔ ایمان و بقا\n• تولید در نیوزیلند فوریه ۲۰۲۷\n• کارگردانی توسط دارن سیموندز و جارد وان برکل\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22003,7 +22056,8 @@
     "c016ad3bfc34d4a21724e7b1",
     "c04628e6b2ac3e6dfb8e637c",
     "ce94f86c711ce9b6764121af",
-    "6da0eac70c6bd9d406110803"
+    "6da0eac70c6bd9d406110803",
+    "379ebff8a413abb6f0c0cbab"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22422,11 +22476,12 @@
     "https://variety.com/2026/film/news/ramy-youssef-steve-way-body-swap-film-1236943346",
     "https://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191",
     "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218",
-    "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943"
+    "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
+    "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 211,
+      "published": 212,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22482,7 +22537,7 @@
       "published": 13
     },
     "16": {
-      "published": 19
+      "published": 20
     },
     "18": {
       "published": 21
@@ -22555,64 +22610,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-31T23:16:18.745231+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-01T11:44:52.547798+00:00",
       "version": 2,
@@ -25570,6 +25567,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-11T16:51:27.336795+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25988,9 +26043,94 @@
     "9af5071717c28137",
     "7be9dcd6de4dbe6c",
     "c2a7f9b7c735047e",
-    "6691e4b03b70fcc4"
+    "6691e4b03b70fcc4",
+    "fd80f122d805a0aa"
   ],
   "entity_memory": {
+    "britt robertson joins": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kellan lutz in": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "faith": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "based survival thriller": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the rescue": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "britt robertson": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tomorrowland": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kellan lutz": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "premiere entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "production": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new zealand": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "february": {
+      "count": 1,
+      "last_seen": "2026-11-11T16:51:27.336726+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "jamie dornan admits": {
       "count": 1,
       "last_seen": "2026-11-11T12:31:47.845685+00:00",
@@ -28729,91 +28869,6 @@
       "last_seen": "2026-11-03T22:09:43.049698+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "epic launches sales": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "epic pictures group": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chris jericho": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jericho": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "terrifier": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
-      "count": 3,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "andrew scott": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elsinore": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bifas": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "scott": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "clio barnard": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "see buildings fall": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
