@@ -21694,6 +21694,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "e251c5dda4ec9e3864e2d4cc",
+      "story_id": "8d5a7c9da3f2a962",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
+      "title": "‘Avengers Endgame: Encore’ Sets Disney+ Release Date With New ‘Countdown To Doomsday’ Spot",
+      "category": "upcoming_movies",
+      "score": 78.25,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 78.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "avengers endgame",
+        "encore",
+        "sets disney",
+        "release date with",
+        "countdown to doomsday",
+        "spot the",
+        "avengers",
+        "doomsday",
+        "endgame",
+        "friday",
+        "november"
+      ],
+      "hook": "دوران آخرین لحظه در دیزنی+",
+      "hooks": [
+        "دوران آخرین لحظه در دیزنی+",
+        "دوران پایان در دیزنی+"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "«اندرگام: انکور» در دیزنی+ در 13 نوامبر منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 425,
+      "published_at": "2026-11-11T23:14:22.334088+00:00",
+      "text": "دوران آخرین لحظه در دیزنی+\n\n🎬 آینده‌ی ابرقهرمانان: تاریخ انتشار «اندرگام: انکور» در دیزنی+\n\n«اندرگام: انکور» در دیزنی+ در جمعه 13 نوامبر منتشر می‌شود. این نسخه‌ی ویژه، پایان حماسی سلسله‌ی انفینیتی را به نمایش می‌گذارد و پیش‌نمایشی از «اندرگام: دوومسید» ارائه می‌دهد.\n\nدر حالی که سریال در تئاتر در 18 دسامبر عرضه می‌شود، این تبلیغ جدید با عنوان «Countdown To Doomsday»، هیجان را برای تماشاگران افزایش می‌دهد.\n\n📌 نکات مهم:\n• تاریخ انتشار: 13 نوامبر\n• سلسله‌ی انفینیتی بیش از 2.9 میلیارد دلار در سراسر جهان کسب کرده است\n• تبلیغ جدید با عنوان «Countdown To Doomsday»\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22115,7 +22168,8 @@
     "ce94f86c711ce9b6764121af",
     "6da0eac70c6bd9d406110803",
     "379ebff8a413abb6f0c0cbab",
-    "c46ab30f4bf0c93c09b2f76c"
+    "c46ab30f4bf0c93c09b2f76c",
+    "e251c5dda4ec9e3864e2d4cc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22536,7 +22590,8 @@
     "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218",
     "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
     "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
-    "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266"
+    "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
+    "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911"
   ],
   "category_stats": {
     "movie_news": {
@@ -22576,7 +22631,7 @@
       "samples_with_metrics": 0
     },
     "upcoming_movies": {
-      "published": 2,
+      "published": 3,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22608,7 +22663,7 @@
       "published": 25
     },
     "23": {
-      "published": 32
+      "published": 33
     },
     "3": {
       "published": 2
@@ -22669,64 +22724,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-01T15:42:47.622363+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-01T18:12:38.955063+00:00",
       "version": 2,
@@ -25684,6 +25681,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-11T23:14:22.334196+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26104,9 +26159,97 @@
     "c2a7f9b7c735047e",
     "6691e4b03b70fcc4",
     "fd80f122d805a0aa",
-    "68f67898121cb9cb"
+    "68f67898121cb9cb",
+    "8d5a7c9da3f2a962"
   ],
   "entity_memory": {
+    "november": {
+      "count": 2,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies"
+      ]
+    },
+    "disney": {
+      "count": 2,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "actors_directors",
+        "upcoming_movies"
+      ]
+    },
+    "friday": {
+      "count": 3,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "actors_directors",
+        "upcoming_movies"
+      ]
+    },
+    "avengers endgame": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "encore": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "sets disney": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "release date with": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "countdown to doomsday": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "spot the": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "avengers": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "doomsday": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
+    "endgame": {
+      "count": 1,
+      "last_seen": "2026-11-11T23:14:22.334121+00:00",
+      "categories": [
+        "upcoming_movies"
+      ]
+    },
     "dies": {
       "count": 21,
       "last_seen": "2026-11-11T19:56:40.125486+00:00",
@@ -26661,13 +26804,6 @@
         "movie_news"
       ]
     },
-    "november": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "whispers": {
       "count": 1,
       "last_seen": "2026-11-10T13:20:49.635921+00:00",
@@ -26978,13 +27114,6 @@
       "last_seen": "2026-11-09T22:48:57.181257+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "disney": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "hbo": {
@@ -27947,13 +28076,6 @@
         "actors_directors"
       ]
     },
-    "friday": {
-      "count": 2,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "chilean": {
       "count": 1,
       "last_seen": "2026-11-06T21:54:15.924361+00:00",
@@ -28863,69 +28985,6 @@
     "king": {
       "count": 1,
       "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "to be released": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in international territories": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "by phars film": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "phars film": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "siddarth anand": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "india": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pen marudhar": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "red chillies entertainment": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tami roman to": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
       "categories": [
         "movie_news"
       ]
