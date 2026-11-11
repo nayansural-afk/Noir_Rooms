@@ -21637,6 +21637,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "c46ab30f4bf0c93c09b2f76c",
+      "story_id": "68f67898121cb9cb",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
+      "title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ Actress, Dies at 91",
+      "category": "actors_directors",
+      "score": 87.34,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "irma",
+        "hall",
+        "soul food",
+        "the ladykillers",
+        "actress",
+        "dies",
+        "josephine",
+        "big mama",
+        "joseph",
+        "tuesday",
+        "dallas",
+        "family thing",
+        "midnight",
+        "garden",
+        "good"
+      ],
+      "hook": "سینما از دست داد: بازیگر بزرگ، ایرمہ هال، درگذشت",
+      "hooks": [
+        "ایرمہ هال، ستارهٔ Soul Food، درگذشت",
+        "گذشتهٔ سینمایی: ایرمہ هال درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ایرمہ هال درگذشت در سن 91 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 424,
+      "published_at": "2026-11-11T19:56:40.125452+00:00",
+      "text": "سینما از دست داد: بازیگر بزرگ، ایرمہ هال، درگذشت\n\n🎬 ایرمہ هال، بازیگر Soul Food و Ladykillers، درگذشت در سن 91 سالگی\n\nایرمہ هال، بازیگر مشهور در فیلم Soul Food، در روز سه‌شنبه درگذشت. او در سن 91 سالگی از جهان رفت.\nبازیگر، نویسنده، شاعر، معلم و سخنران بود که با آثارش زندگی‌های بسیاری را لمس کرد.\n\n📌 نکات مهم:\n• دست از دست داد: ایرمہ هال درگذشت در سن 91 سالگی\n• شخصیت اصلی در Soul Food: جوزفین «بِیگ مامای» جوزف\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22057,7 +22114,8 @@
     "c04628e6b2ac3e6dfb8e637c",
     "ce94f86c711ce9b6764121af",
     "6da0eac70c6bd9d406110803",
-    "379ebff8a413abb6f0c0cbab"
+    "379ebff8a413abb6f0c0cbab",
+    "c46ab30f4bf0c93c09b2f76c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22477,7 +22535,8 @@
     "https://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191",
     "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218",
     "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
-    "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156"
+    "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
+    "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266"
   ],
   "category_stats": {
     "movie_news": {
@@ -22487,7 +22546,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 170,
+      "published": 171,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22558,7 +22617,7 @@
       "published": 23
     },
     "19": {
-      "published": 21
+      "published": 22
     },
     "22": {
       "published": 23
@@ -22610,64 +22669,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-01T11:44:52.547798+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-01T15:42:47.622363+00:00",
       "version": 2,
@@ -25625,6 +25626,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-11T19:56:40.125562+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26044,9 +26103,116 @@
     "7be9dcd6de4dbe6c",
     "c2a7f9b7c735047e",
     "6691e4b03b70fcc4",
-    "fd80f122d805a0aa"
+    "fd80f122d805a0aa",
+    "68f67898121cb9cb"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 21,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "irma": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hall": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "soul food": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the ladykillers": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actress": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "josephine": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "big mama": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joseph": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tuesday": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dallas": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "family thing": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "midnight": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "garden": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "good": {
+      "count": 1,
+      "last_seen": "2026-11-11T19:56:40.125486+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "britt robertson joins": {
       "count": 1,
       "last_seen": "2026-11-11T16:51:27.336726+00:00",
@@ -27781,14 +27947,6 @@
         "actors_directors"
       ]
     },
-    "dies": {
-      "count": 20,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
     "friday": {
       "count": 2,
       "last_seen": "2026-11-06T21:54:15.924361+00:00",
@@ -28770,105 +28928,6 @@
       "last_seen": "2026-11-04T00:32:21.072206+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "double double trouble": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sequel at lifetime": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roger cross to": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tami roman": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the ms": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pat show": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the family business": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lifetime": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roman": {
-      "count": 1,
-      "last_seen": "2026-11-04T00:32:21.072206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "los angeles": {
-      "count": 4,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "chris jericho to": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star in creature": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "am the teeth": {
-      "count": 1,
-      "last_seen": "2026-11-03T22:09:43.049698+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
