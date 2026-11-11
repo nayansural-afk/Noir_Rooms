@@ -21531,6 +21531,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6da0eac70c6bd9d406110803",
+      "story_id": "6691e4b03b70fcc4",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
+      "title": "Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We’ve Done a Good Job’",
+      "category": "actors_directors",
+      "score": 78.57,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "jamie dornan admits",
+        "cried",
+        "when he was",
+        "cast",
+        "aragorn",
+        "lord",
+        "rings",
+        "hunt",
+        "gollum",
+        "says filming was",
+        "incredible",
+        "hopefully we"
+      ],
+      "hook": "دورنان در نقش آراغورن، اشک‌بار شد",
+      "hooks": [
+        "دورنان: اشک‌بار شدم وقتی آراغورن شدم",
+        "آراغورن جدید: چرا دکترون اشک‌بار شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دورنان در مصاحبه \"Entertainment Tonight\" اشک‌بار شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 422,
+      "published_at": "2026-11-11T12:31:47.845654+00:00",
+      "text": "دورنان در نقش آراغورن، اشک‌بار شد\n\n🎬 دورنان در نقش آراغورن: اشک‌بار شد و درباره فیلم‌برداری شگفت‌انگیز گفت\n\nجیمی دورنان، که در نقش آراغورن در «دنبال گولوم» قرار دارد، به صراحت گفت که هنگام دریافت نقش، اشک‌بار شد. او در مصاحبه‌ای با \"Entertainment Tonight\" اظهار داشت که فیلم‌برداری «عجیب و شگفت‌انگیز» بوده و امیدوار است تیم کار خوبی انجام داده باشد. این اولین نقش او در دنیای ارباب حلقه‌هاست و او با اشاره به چالش‌های بازی در نقش معروف، تأکید کرد که تجربه‌ای متفاوت خواهد بود.\n\n📌 نکات مهم:\n• دورنان در نقش آراغورن در 'دنبال گولوم' قرار دارد\n• او هنگام دریافت نقش اشک‌بار شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -21949,7 +22002,8 @@
     "7f6ecf12ffc83a8b2e2fb423",
     "c016ad3bfc34d4a21724e7b1",
     "c04628e6b2ac3e6dfb8e637c",
-    "ce94f86c711ce9b6764121af"
+    "ce94f86c711ce9b6764121af",
+    "6da0eac70c6bd9d406110803"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22367,7 +22421,8 @@
     "https://deadline.com/2026/11/clashing-through-the-snow-trailer-christopher-briney-1237218035",
     "https://variety.com/2026/film/news/ramy-youssef-steve-way-body-swap-film-1236943346",
     "https://deadline.com/2026/11/will-yun-lee-joins-white-lightning-lullaby-crime-thriller-1237219191",
-    "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218"
+    "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218",
+    "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943"
   ],
   "category_stats": {
     "movie_news": {
@@ -22377,7 +22432,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 169,
+      "published": 170,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22478,7 +22533,7 @@
       "published": 41
     },
     "12": {
-      "published": 10
+      "published": 11
     },
     "0": {
       "published": 9
@@ -22500,64 +22555,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-10-31T20:22:22.828063+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-10-31T23:16:18.745231+00:00",
       "version": 2,
@@ -25515,6 +25512,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-11T12:31:47.845757+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -25932,9 +25987,94 @@
     "838482628b6bdb02",
     "9af5071717c28137",
     "7be9dcd6de4dbe6c",
-    "c2a7f9b7c735047e"
+    "c2a7f9b7c735047e",
+    "6691e4b03b70fcc4"
   ],
   "entity_memory": {
+    "jamie dornan admits": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cried": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "when he was": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cast": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "aragorn": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lord": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rings": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hunt": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gollum": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says filming was": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "incredible": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hopefully we": {
+      "count": 1,
+      "last_seen": "2026-11-11T12:31:47.845685+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "risa": {
       "count": 1,
       "last_seen": "2026-11-11T00:32:03.792952+00:00",
@@ -28672,90 +28812,6 @@
     "see buildings fall": {
       "count": 1,
       "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "like lightning": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ashley walters": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "animol": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mike leigh": {
-      "count": 1,
-      "last_seen": "2026-11-03T19:54:47.963237+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jonathan rhys meyers": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vampire romance": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pretty kill machine": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "quantify launches sales": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dracula": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "quantify": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nu boyana studios": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dark matter studios": {
-      "count": 1,
-      "last_seen": "2026-11-03T16:48:14.268835+00:00",
       "categories": [
         "movie_news"
       ]
