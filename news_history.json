@@ -21799,6 +21799,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f4464f2e6acb5dac871d27a0",
+      "story_id": "59d626a96115c45f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/low-lies-the-land-sales-1236945418",
+      "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 89.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "low lies",
+        "land",
+        "from producer",
+        "nominated",
+        "the cave",
+        "sells",
+        "several territories",
+        "dogwoof",
+        "italian",
+        "emanuele gerosa",
+        "between sisters"
+      ],
+      "hook": "سینمای مستند: 'Low Lies the Land' در بازارهای جهانی فروخته شد",
+      "hooks": [
+        "مستند 'Low Lies the Land' در بازارهای جهانی به دست می‌آید",
+        "سینمای مستند: 'Low Lies the Land' در DOC NYC به نمایش می‌رسد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Dogwoof مستند 'Low Lies the Land' را در بازارهای بین‌المللی فروخته است"
+      ],
+      "status": "published",
+      "telegram_message_id": 427,
+      "published_at": "2026-11-12T13:37:12.933297+00:00",
+      "text": "سینمای مستند: 'Low Lies the Land' در بازارهای جهانی فروخته شد\n\n🎬 مستند 'Low Lies the Land' در بازارهای جهانی فروخته شد\n\nDogwoof مستند 'Low Lies the Land' را در بازارهای بین‌المللی فروخته است. این مستند توسط کارگردان ایتالیایی Emanuele Gerosa ساخته شده و در جشنواره فیلم تورنتو رونمایی شد و در DOC NYC در ایالات متحده در 13 نوامبر به نمایش می‌رسد. همچنین توسط Madman Entertainment برای استرالیا و سایر مناطق خریداری شد.\n\n📌 نکات مهم:\n• Dogwoof مستند 'Low Lies the Land' را در بازارهای بین‌المللی فروخته است\n• مستند توسط Emanuele Gerosa ساخته شده و در جشنواره فیلم تورنتو رونمایی شد و در DOC NYC در 13 نوامبر به نمایش می‌رسد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/low-lies-the-land-sales-1236945418",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22222,7 +22275,8 @@
     "379ebff8a413abb6f0c0cbab",
     "c46ab30f4bf0c93c09b2f76c",
     "e251c5dda4ec9e3864e2d4cc",
-    "1e4b73814a50350ac378a72a"
+    "1e4b73814a50350ac378a72a",
+    "f4464f2e6acb5dac871d27a0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22645,11 +22699,12 @@
     "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
     "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
     "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
-    "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029"
+    "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029",
+    "https://variety.com/2026/film/global/low-lies-the-land-sales-1236945418"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 212,
+      "published": 213,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22750,7 +22805,7 @@
       "published": 3
     },
     "13": {
-      "published": 32
+      "published": 33
     },
     "17": {
       "published": 41
@@ -22778,64 +22833,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-01T20:54:47.864084+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-01T23:28:46.796370+00:00",
       "version": 2,
@@ -25793,6 +25790,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-12T13:37:12.933408+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26215,9 +26270,96 @@
     "fd80f122d805a0aa",
     "68f67898121cb9cb",
     "8d5a7c9da3f2a962",
-    "5265453c5abf67fc"
+    "5265453c5abf67fc",
+    "59d626a96115c45f"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 45,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "italian": {
+      "count": 3,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "low lies": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "land": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from producer": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nominated": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the cave": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sells": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "several territories": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dogwoof": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emanuele gerosa": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "between sisters": {
+      "count": 1,
+      "last_seen": "2026-11-12T13:37:12.933326+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 5,
       "last_seen": "2026-11-12T01:52:26.948790+00:00",
@@ -27165,15 +27307,6 @@
         "movie_news"
       ]
     },
-    "oscar": {
-      "count": 44,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
-      ]
-    },
     "joins oscar contender": {
       "count": 1,
       "last_seen": "2026-11-09T22:48:57.181257+00:00",
@@ -27950,13 +28083,6 @@
     "the wonder": {
       "count": 1,
       "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "italian": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
       "categories": [
         "movie_news"
       ]
@@ -28968,76 +29094,6 @@
     },
     "written": {
       "count": 3,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "narrative global sales": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "takes three genre": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "films to": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "including jenna kanell": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "de novo": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with lilly wachowski": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "aboard": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lilly wachowski": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anarchists united": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sarah marie flores": {
-      "count": 1,
       "last_seen": "2026-11-04T20:12:43.393536+00:00",
       "categories": [
         "movie_news"
