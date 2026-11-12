@@ -21747,6 +21747,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1e4b73814a50350ac378a72a",
+      "story_id": "5265453c5abf67fc",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029",
+      "title": "Gang Dong-won, Kim Go-eun to Star in Netflix’s ‘The Twilight Between Us’ From ‘When Life Gives You Tangerines’ Director, ‘Queen of Tears’ Writer",
+      "category": "actors_directors",
+      "score": 72.62,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "gang dong",
+        "kim go",
+        "star",
+        "the twilight between",
+        "when life gives",
+        "you tangerines",
+        "director",
+        "queen",
+        "tears",
+        "writer netflix",
+        "kim won"
+      ],
+      "hook": "دختر و پسر درگیر عشق و جنگ در Netflix",
+      "hooks": [
+        "عشق و قدرت در سریال تاریخی نیتفلیکس",
+        "دو خاندان درگیر، عشق در میان جنگ"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال «The Twilight Between Us» در نیتفلیکس در دست اجرا است"
+      ],
+      "status": "published",
+      "telegram_message_id": 426,
+      "published_at": "2026-11-12T01:52:26.948757+00:00",
+      "text": "دختر و پسر درگیر عشق و جنگ در Netflix\n\n🎬 نیتفلیکس معرفی می‌کند: «The Twilight Between Us» با گانگ دونگ-وون و کیم گو-اون\n\nنیتفلیکس سریال «The Twilight Between Us» را با بازی گانگ دونگ-وون و کیم گو-اون منتشر می‌کند. این اثر رمانتیک-اکشن در دوره تاریخی، داستان وارثان دو خاندان درگیر را روایت می‌کند که توسط پادشاه به هم متصل می‌شوند.\nکارگردان این سریال کیم وان-سک، که پیش از این فیلم «When Life Gives You Tangerines» را ساخته است، و نویسنده پارک جی-ئون، که فیلم «Queen of Tears» را نوشته، مسئول خلق این دنیای پیچیده و پر از درگیری‌های عاشقانه هستند.\n\n📌 نکات مهم:\n• نیتفلیکس سریال «The Twilight Between Us» را با بازی گانگ دونگ-وون و کیم گو-اون تولید می‌کند\n• کارگردان این سریال کیم وان-سک و نویسنده پارک جی-ئون است\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22169,7 +22221,8 @@
     "6da0eac70c6bd9d406110803",
     "379ebff8a413abb6f0c0cbab",
     "c46ab30f4bf0c93c09b2f76c",
-    "e251c5dda4ec9e3864e2d4cc"
+    "e251c5dda4ec9e3864e2d4cc",
+    "1e4b73814a50350ac378a72a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22591,7 +22644,8 @@
     "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943",
     "https://deadline.com/2026/11/britt-robertson-joins-kellan-lutz-faith-thriller-the-rescue-1237220156",
     "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
-    "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911"
+    "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
+    "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029"
   ],
   "category_stats": {
     "movie_news": {
@@ -22601,7 +22655,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 171,
+      "published": 172,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22690,7 +22744,7 @@
       "published": 19
     },
     "1": {
-      "published": 3
+      "published": 4
     },
     "2": {
       "published": 3
@@ -22724,64 +22778,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-01T18:12:38.955063+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-01T20:54:47.864084+00:00",
       "version": 2,
@@ -25739,6 +25735,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-12T01:52:26.948865+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26160,9 +26214,98 @@
     "6691e4b03b70fcc4",
     "fd80f122d805a0aa",
     "68f67898121cb9cb",
-    "8d5a7c9da3f2a962"
+    "8d5a7c9da3f2a962",
+    "5265453c5abf67fc"
   ],
   "entity_memory": {
+    "star": {
+      "count": 5,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "netflix": {
+      "count": 14,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "movie_news",
+        "streaming",
+        "actors_directors"
+      ]
+    },
+    "director": {
+      "count": 4,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "gang dong": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kim go": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the twilight between": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "when life gives": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "you tangerines": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "queen": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tears": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "writer netflix": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kim won": {
+      "count": 1,
+      "last_seen": "2026-11-12T01:52:26.948790+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "november": {
       "count": 2,
       "last_seen": "2026-11-11T23:14:22.334121+00:00",
@@ -26966,14 +27109,6 @@
         "actors_directors"
       ]
     },
-    "star": {
-      "count": 4,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "creators dom brack": {
       "count": 1,
       "last_seen": "2026-11-10T00:30:29.251770+00:00",
@@ -27357,15 +27492,6 @@
         "actors_directors"
       ]
     },
-    "netflix": {
-      "count": 13,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
     "harry potter": {
       "count": 2,
       "last_seen": "2026-11-08T20:55:02.013955+00:00",
@@ -27504,14 +27630,6 @@
       "count": 1,
       "last_seen": "2026-11-08T18:10:07.513202+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "director": {
-      "count": 3,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     },
@@ -28921,70 +29039,6 @@
     "sarah marie flores": {
       "count": 1,
       "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lawrence mattis": {
-      "count": 1,
-      "last_seen": "2026-11-04T20:12:43.393536+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "director was": {
-      "count": 2,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "tinto brass dies": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rome": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brass": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rated": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the italian": {
-      "count": 1,
-      "last_seen": "2026-11-04T16:48:24.447273+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shah rukh khan": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "king": {
-      "count": 1,
-      "last_seen": "2026-11-04T12:51:10.494832+00:00",
       "categories": [
         "movie_news"
       ]
