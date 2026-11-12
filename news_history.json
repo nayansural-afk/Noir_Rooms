@@ -21905,6 +21905,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a8434442d4ffaed504f6f79b",
+      "story_id": "be89c6140f35563e",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/cinema-eye-honors-nominations-american-doctor-you-can-see-everything-1237221333",
+      "title": "Cinema Eye Honors Nominations: ‘American Doctor,’ ‘You Can See Everything’ Lead With 7; ‘Time And Water,’ ‘NAZA’ Close Behind [Full List]",
+      "category": "movie_news",
+      "score": 86.55,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cinema eye honors",
+        "nominations",
+        "american doctor",
+        "you can see",
+        "everything",
+        "lead with",
+        "time and water",
+        "close behind",
+        "full list",
+        "the cinema eye",
+        "honors",
+        "thursday"
+      ],
+      "hook": "سینما ایوونز: 'You Can See Everything' و 'American Doctor' برتر",
+      "hooks": [
+        "دستاویزی 'You Can See Everything' 7 نامزدی، هم‌رده 'American Doctor'",
+        "نظارت بر 'You Can See Everything' و 'American Doctor'"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "'You Can See Everything' هفت نامزدی دریافت کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 429,
+      "published_at": "2026-11-12T20:35:14.439577+00:00",
+      "text": "سینما ایوونز: 'You Can See Everything' و 'American Doctor' برتر\n\n🎬 سینما ایوونز: 'You Can See Everything' و 'American Doctor' با 7 نامزدی برتر\n\nسینما ایوونز در روز پنج‌شنبه اعلام کرد که فیلم مستند 'You Can See Everything' دربارهٔ الیزابت هولمز، به همراه 'American Doctor'، هفت نامزدی دریافت کرده‌اند. فیلم 'You Can See Everything' توسط ناتان فیلدر و لانس اوپنهایم به‌همراه 'American Doctor' که توسط پو سی تنگ ساخته شده، در دستهٔ مستندات برتر قرار گرفته‌اند.\n\n📌 نکات مهم:\n• 'You Can See Everything' هفت نامزدی دریافت کرد و با 'American Doctor' رقابت می‌کند\n• فیلم 'You Can See Everything' دربارهٔ الیزابت هولمز است و توسط ناتان فیلدر و لانس اوپنهایم ساخته شده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/cinema-eye-honors-nominations-american-doctor-you-can-see-everything-1237221333",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22330,7 +22383,8 @@
     "e251c5dda4ec9e3864e2d4cc",
     "1e4b73814a50350ac378a72a",
     "f4464f2e6acb5dac871d27a0",
-    "653d81b427b599c56f121a16"
+    "653d81b427b599c56f121a16",
+    "a8434442d4ffaed504f6f79b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22755,11 +22809,12 @@
     "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
     "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029",
     "https://variety.com/2026/film/global/low-lies-the-land-sales-1236945418",
-    "https://variety.com/2026/film/news/gkids-acquires-rights-to-cartoon-saloon-julian-1236946291"
+    "https://variety.com/2026/film/news/gkids-acquires-rights-to-cartoon-saloon-julian-1236946291",
+    "https://deadline.com/2026/11/cinema-eye-honors-nominations-american-doctor-you-can-see-everything-1237221333"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 214,
+      "published": 215,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -22821,7 +22876,7 @@
       "published": 21
     },
     "20": {
-      "published": 41
+      "published": 42
     },
     "21": {
       "published": 25
@@ -22888,64 +22943,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-02T13:16:56.164798+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-02T19:06:23.791290+00:00",
       "version": 2,
@@ -25903,6 +25900,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-12T20:35:14.439682+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26327,9 +26382,94 @@
     "8d5a7c9da3f2a962",
     "5265453c5abf67fc",
     "59d626a96115c45f",
-    "2d948f851d453aeb"
+    "2d948f851d453aeb",
+    "be89c6140f35563e"
   ],
   "entity_memory": {
+    "cinema eye honors": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nominations": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american doctor": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "you can see": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "everything": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lead with": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "time and water": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "close behind": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "full list": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the cinema eye": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "honors": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thursday": {
+      "count": 1,
+      "last_seen": "2026-11-12T20:35:14.439608+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "gkids acquires": {
       "count": 1,
       "last_seen": "2026-11-12T17:18:38.510251+00:00",
@@ -29066,91 +29206,6 @@
     "progress eight": {
       "count": 1,
       "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "progress": {
-      "count": 1,
-      "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tauron american film": {
-      "count": 1,
-      "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 1,
-      "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "poland": {
-      "count": 1,
-      "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mercedes bryce morgan": {
-      "count": 1,
-      "last_seen": "2026-11-05T12:59:24.130925+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 4,
-      "last_seen": "2026-11-05T00:49:34.502593+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "tarantino": {
-      "count": 1,
-      "last_seen": "2026-11-05T00:49:34.502593+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "surreal": {
-      "count": 1,
-      "last_seen": "2026-11-05T00:49:34.502593+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kylie minogue": {
-      "count": 1,
-      "last_seen": "2026-11-05T00:49:34.502593+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "welsh": {
-      "count": 1,
-      "last_seen": "2026-11-05T00:49:34.502593+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maya hawke boards": {
-      "count": 1,
-      "last_seen": "2026-11-04T22:17:27.798762+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "magic": {
-      "count": 1,
-      "last_seen": "2026-11-04T22:17:27.798762+00:00",
       "categories": [
         "movie_news"
       ]
