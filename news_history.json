@@ -22167,6 +22167,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "55e9e7cd1c113900986acadf",
+      "story_id": "5562d0bc90cba4ca",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997",
+      "title": "Margot Robbie & Kristoffer Borgli Team On ‘The Week Of Pain’ From A24 And Square Peg",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "margot robbie",
+        "kristoffer borgli team",
+        "the week of",
+        "pain",
+        "and square peg",
+        "even",
+        "ocean",
+        "deadline",
+        "square peg",
+        "the week",
+        "kristoffer borgli"
+      ],
+      "hook": "مارتو رابِی در فیلم جدید 'هفته درد' به بازی می‌پردازد",
+      "hooks": [
+        "کریستوفر بورگیلی در 'هفته درد' به کارگردانی می‌پردازد",
+        "A24 و Square Peg با مارتو رابِی در 'هفته درد' همکاری می‌کنند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Margot Robbie ستاره فیلم 'هفته درد' است"
+      ],
+      "status": "published",
+      "telegram_message_id": 434,
+      "published_at": "2026-11-13T20:12:05.950051+00:00",
+      "text": "مارتو رابِی در فیلم جدید 'هفته درد' به بازی می‌پردازد\n\n🎬 مارتو رابِی و کریستوفر بورگیلی در فیلم 'هفته درد' همکاری می‌کنند\n\nمارتو رابِی در فیلم جدید \"The Week of Pain\" ستاره نقش اصلی خواهد بود. این فیلم توسط A24 و Square Peg تولید و تأمین مالی می‌شود.\nکریستوفر بورگیلی به عنوان کارگردان این اثر در کنار رابِی حضور دارد و او در حالی که در پروژه Ocean’s Prequel مشغول است، همچنان در حال فعالیت است.\n\n📌 نکات مهم:\n• Margot Robbie ستاره فیلم 'هفته درد' است\n• Kristoffer Borgli کارگردان فیلم است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22597,7 +22650,8 @@
     "fa5e408d5110c5f3c0a016c6",
     "9867a5b1f3a465033ef930cf",
     "de1b19302c60836a62783aac",
-    "53b017023856f1dfefd60290"
+    "53b017023856f1dfefd60290",
+    "55e9e7cd1c113900986acadf"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23027,11 +23081,12 @@
     "https://deadline.com/2026/11/answr-dark-sky-films-afm-stephen-kay-1237221677",
     "https://deadline.com/2026/11/rick-cosnett-richard-kind-tammy-blanchard-cast-the-long-run-1237222148",
     "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
-    "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155"
+    "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155",
+    "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 219,
+      "published": 220,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23093,7 +23148,7 @@
       "published": 21
     },
     "20": {
-      "published": 42
+      "published": 43
     },
     "21": {
       "published": 25
@@ -23160,64 +23215,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-03T12:41:20.339983+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-03T16:48:14.268910+00:00",
       "version": 2,
@@ -26175,6 +26172,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-13T20:12:05.950153+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26604,9 +26659,96 @@
     "0e80495719b839df",
     "29eb9ca3a17efd39",
     "5e111f13ec71cd98",
-    "9b4d7616bf2f9c30"
+    "9b4d7616bf2f9c30",
+    "5562d0bc90cba4ca"
   ],
   "entity_memory": {
+    "deadline": {
+      "count": 5,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "actors_directors",
+        "trailers_first_look",
+        "movie_news"
+      ]
+    },
+    "a24": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "margot robbie": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kristoffer borgli team": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the week of": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "pain": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "and square peg": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "even": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ocean": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "square peg": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the week": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kristoffer borgli": {
+      "count": 1,
+      "last_seen": "2026-11-13T20:12:05.950080+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "kai cech": {
       "count": 1,
       "last_seen": "2026-11-13T16:55:04.261015+00:00",
@@ -28369,15 +28511,6 @@
         "movie_news"
       ]
     },
-    "deadline": {
-      "count": 4,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
     "james bond": {
       "count": 1,
       "last_seen": "2026-11-08T23:35:36.530135+00:00",
@@ -29349,84 +29482,6 @@
     "producer": {
       "count": 1,
       "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bankside": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "black panther": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "small axe": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "black mirror": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "letitia wright": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "to star in": {
-      "count": 2,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "rosamund pike set": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "produce": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "feed": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "body horror movie": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "from leslye headland": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
       "categories": [
         "actors_directors"
       ]
