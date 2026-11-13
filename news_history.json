@@ -22220,6 +22220,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "bf1cb4deaa6a642ea9adb858",
+      "story_id": "72b905f7a37ef04d",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228",
+      "title": "Jessica Marie Garcia To Star In & Produce New Vampire Comedy Film From Director Kristina Arjona",
+      "category": "actors_directors",
+      "score": 79.69,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "jessica marie garcia",
+        "to star in",
+        "produce new vampire",
+        "comedy film from",
+        "director kristina arjona",
+        "on my block",
+        "maddie",
+        "randy mandy",
+        "curse",
+        "plaza theatre",
+        "dawn",
+        "jerks pictures"
+      ],
+      "hook": "جیسیکا ماریا گارسیا در نقش و تولید فیلم وامپایری جدید",
+      "hooks": [
+        "نقش جیسیکا در فیلم وامپایری کمدی در تئاتر پلازا",
+        "جیسیکا ماریا گارسیا، بازیگر و تهیه‌کننده در فیلم وامپایری"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Jessica Marie Garcia will star and produce the film"
+      ],
+      "status": "published",
+      "telegram_message_id": 435,
+      "published_at": "2026-11-13T22:19:04.490203+00:00",
+      "text": "جیسیکا ماریا گارسیا در نقش و تولید فیلم وامپایری جدید\n\n🎬 جیسیکا ماریا گارسیا در نقش و تولید فیلم وامپایری کمدی در تئاتر پلازا\n\nجیسیکا ماریا گارسیا، بازیگر سریال‌های On My Block و Liv and Maddie، در نقش Mandy Alejandra Pike، یک وامپایری لاتین-بریتانیایی، در فیلم کمدی وامپایری «Randy Mandy and the Curse of the Plaza Theatre» ظاهر می‌شود.\nفیلم توسط کریستینا آرژونا ساخته و در تئاتر تاریخی پلازا در آتلانتا فیلمبرداری می‌شود. گارسیا نه تنها بازیگر بلکه تهیه‌کننده این پروژه است.\n\n📌 نکات مهم:\n• Jessica Marie Garcia will star and produce the film\n• The film is a vampire comedy set in Atlanta’s historic Plaza Theatre\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22651,7 +22704,8 @@
     "9867a5b1f3a465033ef930cf",
     "de1b19302c60836a62783aac",
     "53b017023856f1dfefd60290",
-    "55e9e7cd1c113900986acadf"
+    "55e9e7cd1c113900986acadf",
+    "bf1cb4deaa6a642ea9adb858"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23082,7 +23136,8 @@
     "https://deadline.com/2026/11/rick-cosnett-richard-kind-tammy-blanchard-cast-the-long-run-1237222148",
     "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
     "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155",
-    "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997"
+    "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997",
+    "https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228"
   ],
   "category_stats": {
     "movie_news": {
@@ -23092,7 +23147,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 172,
+      "published": 173,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23166,7 +23221,7 @@
       "published": 22
     },
     "22": {
-      "published": 24
+      "published": 25
     },
     "7": {
       "published": 2
@@ -23215,64 +23270,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-03T16:48:14.268910+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-03T19:54:47.963317+00:00",
       "version": 2,
@@ -26230,6 +26227,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-13T22:19:04.490320+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26660,9 +26715,94 @@
     "29eb9ca3a17efd39",
     "5e111f13ec71cd98",
     "9b4d7616bf2f9c30",
-    "5562d0bc90cba4ca"
+    "5562d0bc90cba4ca",
+    "72b905f7a37ef04d"
   ],
   "entity_memory": {
+    "jessica marie garcia": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to star in": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "produce new vampire": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "comedy film from": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director kristina arjona": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "on my block": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "maddie": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "randy mandy": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "curse": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "plaza theatre": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dawn": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jerks pictures": {
+      "count": 1,
+      "last_seen": "2026-11-13T22:19:04.490242+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "deadline": {
       "count": 5,
       "last_seen": "2026-11-13T20:12:05.950080+00:00",
@@ -29400,90 +29540,6 @@
       "last_seen": "2026-11-06T16:34:06.677034+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "grief": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "compassion": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "exclusive netflix trailer": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "teboho edkins": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boeing": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ethiopia": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "horror": {
-      "count": 2,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "letitia wright to": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star in supernatural": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in her shadow": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "obsession": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "producer": {
-      "count": 1,
-      "last_seen": "2026-11-06T12:47:27.408932+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
