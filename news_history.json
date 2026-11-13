@@ -22063,6 +22063,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "de1b19302c60836a62783aac",
+      "story_id": "5e111f13ec71cd98",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
+      "title": "‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 75.53,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "the witcher",
+        "star freya allan",
+        "lead joachim",
+        "horror movie",
+        "system",
+        "planet",
+        "apes",
+        "freya allan",
+        "norwegian",
+        "joachim",
+        "plot",
+        "london"
+      ],
+      "hook": "فرای آلن در فیلم ترسناک «سیستم»، در زیر شهر لندن",
+      "hooks": [
+        "فرای آلن در نقش اصلی «سیستم»",
+        "فیلم ترسناک «سیستم» در زیر شهر لندن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فرای آلن در نقش اصلی «سیستم»"
+      ],
+      "status": "published",
+      "telegram_message_id": 432,
+      "published_at": "2026-11-13T12:55:41.655507+00:00",
+      "text": "فرای آلن در فیلم ترسناک «سیستم»، در زیر شهر لندن\n\n🎬 فرای آلن در نقش اصلی فیلم ترسناک «سیستم» از جوآکیم رونینگ\n\nفرای آلن، ستارهٔ سریال «دی وِچر» و فیلم «سیارهٔ اپس»، در فیلم ترسناک «سیستم» به‌عنوان بازیگر اصلی حضور دارد.\nفیلم، که توسط کارگردان نروژی جوآکیم رونینگ ساخته می‌شود، در حال حاضر در ایستگاه‌های زیرزمینی و تونل‌های مهجور لندن در حال فیلمبرداری است.\n\n📌 نکات مهم:\n• فرای آلن در نقش اصلی «سیستم»\n• فیلم توسط جوآکیم رونینگ ساخته می‌شود\n• فیلم در زیرزمین‌های لندن فیلمبرداری می‌شود\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22491,7 +22543,8 @@
     "653d81b427b599c56f121a16",
     "a8434442d4ffaed504f6f79b",
     "fa5e408d5110c5f3c0a016c6",
-    "9867a5b1f3a465033ef930cf"
+    "9867a5b1f3a465033ef930cf",
+    "de1b19302c60836a62783aac"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22919,11 +22972,12 @@
     "https://variety.com/2026/film/news/gkids-acquires-rights-to-cartoon-saloon-julian-1236946291",
     "https://deadline.com/2026/11/cinema-eye-honors-nominations-american-doctor-you-can-see-everything-1237221333",
     "https://deadline.com/2026/11/answr-dark-sky-films-afm-stephen-kay-1237221677",
-    "https://deadline.com/2026/11/rick-cosnett-richard-kind-tammy-blanchard-cast-the-long-run-1237222148"
+    "https://deadline.com/2026/11/rick-cosnett-richard-kind-tammy-blanchard-cast-the-long-run-1237222148",
+    "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 217,
+      "published": 218,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23030,7 +23084,7 @@
       "published": 42
     },
     "12": {
-      "published": 11
+      "published": 12
     },
     "0": {
       "published": 10
@@ -23052,64 +23106,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-02T23:44:59.141503+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-          "category": "movie_news",
-          "score": 90.81,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-03T02:09:16.887697+00:00",
       "version": 2,
@@ -26067,6 +26063,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-13T12:55:41.655624+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26494,9 +26548,94 @@
     "2d948f851d453aeb",
     "be89c6140f35563e",
     "0e80495719b839df",
-    "29eb9ca3a17efd39"
+    "29eb9ca3a17efd39",
+    "5e111f13ec71cd98"
   ],
   "entity_memory": {
+    "the witcher": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "star freya allan": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lead joachim": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "horror movie": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "system": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "planet": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "apes": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "freya allan": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "norwegian": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "joachim": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "plot": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 1,
+      "last_seen": "2026-11-13T12:55:41.655542+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "rick cosnett": {
       "count": 1,
       "last_seen": "2026-11-13T00:59:04.705852+00:00",
@@ -29233,90 +29372,6 @@
     "works": {
       "count": 1,
       "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lionsgate": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "keanu reeves returning": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shannon tindle": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ryan": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kaz firpo the": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "levon hawke": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star with anthony": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hopkins": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indie drama": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "twenty": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seven": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blink twice": {
-      "count": 1,
-      "last_seen": "2026-11-05T20:25:55.801759+00:00",
       "categories": [
         "movie_news"
       ]
