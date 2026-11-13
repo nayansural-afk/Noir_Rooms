@@ -22115,6 +22115,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "53b017023856f1dfefd60290",
+      "story_id": "9b4d7616bf2f9c30",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155",
+      "title": "Kai Cech to Voice Lead in Himalayan Animated Feature ‘Lost in Mandala’ (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "kai cech",
+        "voice lead",
+        "himalayan animated feature",
+        "lost",
+        "mandala",
+        "jack black",
+        "dear santa",
+        "incessant rain studios",
+        "cech",
+        "shanti",
+        "himalayas"
+      ],
+      "hook": "کای چیچ صدا می‌دهد در اولین انیمیشن هیمالیا",
+      "hooks": [
+        "کای چیچ در نقش اصلی صدا می‌دهد",
+        "انیمیشن هیمالیا: صدای کای چیچ"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کای چیچ صداپیشه اصلی در 'Lost in Mandala' است"
+      ],
+      "status": "published",
+      "telegram_message_id": 433,
+      "published_at": "2026-11-13T16:55:04.260971+00:00",
+      "text": "کای چیچ صدا می‌دهد در اولین انیمیشن هیمالیا\n\n🎬 کای چیچ به عنوان صداپیشه اصلی در انیمیشن هیمالیا 'Lost in Mandala' انتخاب شد\n\nکای چیچ، که در فیلم 'Dear Santa' با جک بلک ایفای نقش کرد، در انیمیشن 'Lost in Mandala' صداپیشه اصلی خواهد بود. این فیلم اولین اثر انیمیشنی استودیو Incessant Rain Studios و در حال پیش‌تولید است. شخصیت اصلی، شانتِی، دوازده ساله‌ی تنها که در معبدی دورافتاده هیمالیا بزرگ شده است.\n\n📌 نکات مهم:\n• کای چیچ به عنوان صداپیشه اصلی در 'Lost in Mandala' انتخاب شد\n• شخصیت اصلی، شانتِی، دوازده ساله و در معبد هیمالیا بزرگ شده است\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22544,7 +22596,8 @@
     "a8434442d4ffaed504f6f79b",
     "fa5e408d5110c5f3c0a016c6",
     "9867a5b1f3a465033ef930cf",
-    "de1b19302c60836a62783aac"
+    "de1b19302c60836a62783aac",
+    "53b017023856f1dfefd60290"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -22973,11 +23026,12 @@
     "https://deadline.com/2026/11/cinema-eye-honors-nominations-american-doctor-you-can-see-everything-1237221333",
     "https://deadline.com/2026/11/answr-dark-sky-films-afm-stephen-kay-1237221677",
     "https://deadline.com/2026/11/rick-cosnett-richard-kind-tammy-blanchard-cast-the-long-run-1237222148",
-    "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732"
+    "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
+    "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 218,
+      "published": 219,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23033,7 +23087,7 @@
       "published": 13
     },
     "16": {
-      "published": 20
+      "published": 21
     },
     "18": {
       "published": 21
@@ -23106,64 +23160,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-03T02:09:16.887697+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-03T12:41:20.339983+00:00",
       "version": 2,
@@ -26121,6 +26117,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-13T16:55:04.261083+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26549,9 +26603,87 @@
     "be89c6140f35563e",
     "0e80495719b839df",
     "29eb9ca3a17efd39",
-    "5e111f13ec71cd98"
+    "5e111f13ec71cd98",
+    "9b4d7616bf2f9c30"
   ],
   "entity_memory": {
+    "kai cech": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "voice lead": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "himalayan animated feature": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lost": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mandala": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jack black": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dear santa": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "incessant rain studios": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cech": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shanti": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "himalayas": {
+      "count": 1,
+      "last_seen": "2026-11-13T16:55:04.261015+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "the witcher": {
       "count": 1,
       "last_seen": "2026-11-13T12:55:41.655542+00:00",
@@ -29297,83 +29429,6 @@
       "last_seen": "2026-11-06T00:55:39.315824+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "rosamund pike": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the acolyte": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "leslye headland": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "daniella isaacs": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "inspired": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "finnish": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "body horror from": {
-      "count": 1,
-      "last_seen": "2026-11-06T00:55:39.315824+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john wick": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "animated prequel film": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "officially": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "works": {
-      "count": 1,
-      "last_seen": "2026-11-05T22:28:15.930703+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
