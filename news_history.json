@@ -22476,6 +22476,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "30b9e3d01e6c503945a466b0",
+      "story_id": "6db2bbf967244143",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
+      "title": "Dawn Greenhalgh, Canadian Stage Veteran Who Voiced the Queen in ‘Babar,’ Dies at 93",
+      "category": "movie_news",
+      "score": 50.34,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "dawn greenhalgh",
+        "canadian stage veteran",
+        "who voiced",
+        "queen",
+        "babar",
+        "dies",
+        "canadian",
+        "toronto",
+        "born",
+        "shanghai",
+        "china",
+        "japanese"
+      ],
+      "hook": "دوران غیبت: بازیگر کانادایی، صدای ملکه در بابار",
+      "hooks": [
+        "وفات بازیگر کانادایی، صدای ملکه در بابار",
+        "دوران غیبت: بازیگر کانادایی درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دون گرین‌هالگ در 93 سالگی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 440,
+      "published_at": "2026-11-14T21:01:41.252748+00:00",
+      "text": "دوران غیبت: بازیگر کانادایی، صدای ملکه در بابار\n\n🎬 دون گرین‌هالگ، بازیگر کانادایی و صدای ملکه در 'بابار' درگذشت\n\nدون گرین‌هالگ، بازیگر کانادایی و ستارهٔ صدا، در 6 نوامبر در تورنتو درگذشت. او در 93 سالگی، پس از سال‌ها در عرصهٔ صحنه، فیلم و تلویزیون فعالیت می‌کرد.\nدر کودکی در اردوگاه نظامی ژاپن، عشق به موسیقی، تئاتر و رقص را پیدا کرد و بعدها به کانادا مهاجرت کرد، جایی که به عنوان صدای ملکه در انیمیشن 'بابار' شناخته شد.\n\n📌 نکات مهم:\n• دون گرین‌هالگ در 93 سالگی درگذشت\n• او صدای ملکه در انیمیشن 'بابار' بود\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22912,7 +22964,8 @@
     "1e3cc3fa32c60b78eb93a47c",
     "d245ea9e57d93fe2ce29640f",
     "6612656b4a98ef60aece19be",
-    "49ff0c0c3dcb1b9ab05a8907"
+    "49ff0c0c3dcb1b9ab05a8907",
+    "30b9e3d01e6c503945a466b0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23348,11 +23401,12 @@
     "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo",
     "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
     "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-    "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741"
+    "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
+    "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 223,
+      "published": 224,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23417,7 +23471,7 @@
       "published": 43
     },
     "21": {
-      "published": 25
+      "published": 26
     },
     "23": {
       "published": 33
@@ -23481,64 +23535,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-04T16:48:24.447349+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-04T20:12:43.393605+00:00",
       "version": 2,
@@ -26496,6 +26492,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-14T21:01:41.252844+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26931,14 +26985,93 @@
     "72b733e9db0eecc1",
     "3543a5928c070733",
     "fc3663c4b87b364e",
-    "07c0327400185423"
+    "07c0327400185423",
+    "6db2bbf967244143"
   ],
   "entity_memory": {
     "dies": {
-      "count": 22,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "count": 23,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
       "categories": [
         "actors_directors",
+        "movie_news"
+      ]
+    },
+    "queen": {
+      "count": 2,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "dawn greenhalgh": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "canadian stage veteran": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "who voiced": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "babar": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "canadian": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "toronto": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "born": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shanghai": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "china": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "japanese": {
+      "count": 1,
+      "last_seen": "2026-11-14T21:01:41.252777+00:00",
+      "categories": [
         "movie_news"
       ]
     },
@@ -28019,13 +28152,6 @@
       ]
     },
     "you tangerines": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "queen": {
       "count": 1,
       "last_seen": "2026-11-12T01:52:26.948790+00:00",
       "categories": [
@@ -29685,78 +29811,6 @@
       "last_seen": "2026-11-07T15:23:13.513350+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "bafta": {
-      "count": 2,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star in": {
-      "count": 4,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "emmy": {
-      "count": 6,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "idris elba to": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "direct action": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "comedy": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in laws": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "higher standard launching": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "golden globe": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "idris elba": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
