@@ -22419,6 +22419,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "49ff0c0c3dcb1b9ab05a8907",
+      "story_id": "07c0327400185423",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
+      "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+      "category": "movie_news",
+      "score": 95.05,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "skip hinnant",
+        "the electric company",
+        "actor",
+        "voice",
+        "ralph bakshi",
+        "fritz",
+        "movies",
+        "dies",
+        "actor skip hinnant",
+        "hinnant",
+        "new york times",
+        "cathy",
+        "the patty duke",
+        "show",
+        "schroeder"
+      ],
+      "hook": "سکپ هینانت، بازیگر «The Electric Company»، درگذشت",
+      "hooks": [
+        "نقش‌های بی‌نظیر سکپ هینانت در سینمای کودک و انیمیشن",
+        "کلامی از زندگی بازیگر «Fritz the Cat»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مرگ هینانت توسط خانواده در خبرنامهٔ نیویورک تایمز تأیید شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 439,
+      "published_at": "2026-11-14T18:36:48.790400+00:00",
+      "text": "سکپ هینانت، بازیگر «The Electric Company»، درگذشت\n\n🎬 سکپ هینانت، صداپیشه «Fritz the Cat» و بازیگر «The Electric Company»، درگذشت\n\nسکپ هینانت، بازیگر و صداپیشهٔ مشهور، درگذشت. او در 86 سالگی از دنیا رفت.\nهینانت به خاطر نقش در سری کودکانه PBS «The Electric Company» و صدای شخصیت فریتز در فیلم‌های رالف بکشی شناخته شد. مرگ او توسط خانواده در خبرنامهٔ نیویورک تایمز تأیید شد.\n\n📌 نکات مهم:\n• سکپ هینانت درگذشت در سن 86 سالگی\n• نقش در سری PBS «The Electric Company» و صدای فریتز در فیلم‌های رالف بکشی\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22854,7 +22911,8 @@
     "bf1cb4deaa6a642ea9adb858",
     "1e3cc3fa32c60b78eb93a47c",
     "d245ea9e57d93fe2ce29640f",
-    "6612656b4a98ef60aece19be"
+    "6612656b4a98ef60aece19be",
+    "49ff0c0c3dcb1b9ab05a8907"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23289,11 +23347,12 @@
     "https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228",
     "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo",
     "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
-    "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched"
+    "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
+    "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 222,
+      "published": 223,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23352,7 +23411,7 @@
       "published": 21
     },
     "18": {
-      "published": 21
+      "published": 22
     },
     "20": {
       "published": 43
@@ -23422,64 +23481,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-04T12:51:10.494921+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-04T16:48:24.447349+00:00",
       "version": 2,
@@ -26437,6 +26438,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-14T18:36:48.790505+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26871,9 +26930,116 @@
     "72b905f7a37ef04d",
     "72b733e9db0eecc1",
     "3543a5928c070733",
-    "fc3663c4b87b364e"
+    "fc3663c4b87b364e",
+    "07c0327400185423"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 22,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "skip hinnant": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the electric company": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "voice": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ralph bakshi": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fritz": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movies": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "actor skip hinnant": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hinnant": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "new york times": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cathy": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the patty duke": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "show": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "schroeder": {
+      "count": 1,
+      "last_seen": "2026-11-14T18:36:48.790433+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "continue": {
       "count": 3,
       "last_seen": "2026-11-14T15:30:11.619206+00:00",
@@ -27956,14 +28122,6 @@
       "last_seen": "2026-11-11T23:14:22.334121+00:00",
       "categories": [
         "upcoming_movies"
-      ]
-    },
-    "dies": {
-      "count": 21,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "actress": {
@@ -29597,104 +29755,6 @@
     "idris elba": {
       "count": 1,
       "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "higher standard": {
-      "count": 1,
-      "last_seen": "2026-11-07T11:36:07.953081+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "one night in": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "purgatory": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sets cast": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "alejandro edda": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nick stahl": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "michelle mylett": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "grace dove": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "supernatural horror film": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert husted": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chan": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "shake your booty": {
-      "count": 1,
-      "last_seen": "2026-11-07T00:01:56.401511+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chilean": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "amalia kassai": {
-      "count": 1,
-      "last_seen": "2026-11-06T21:54:15.924361+00:00",
       "categories": [
         "actors_directors"
       ]
