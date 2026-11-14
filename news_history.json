@@ -22528,6 +22528,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5ad949fe4a9c23877df5ed19",
+      "story_id": "8080bf6a94fd6af7",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
+      "title": "Dawn Greenhalgh Dies: Revered Canadian Stage Actor, Star Of TV’s ‘Anne of Green Gables’ Was 93",
+      "category": "actors_directors",
+      "score": 32.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "dawn greenhalgh dies",
+        "revered canadian stage",
+        "actor",
+        "star of",
+        "anne",
+        "green gables",
+        "dawn greenhalgh",
+        "canadian",
+        "the virgin suicides",
+        "november",
+        "toronto",
+        "ontario"
+      ],
+      "hook": "دوران آخرین لحظه‌های ستاره‌ی تئاتر کانادایی",
+      "hooks": [
+        "وفات Dawn Greenhalgh، ستاره‌ی Anne of Green Gables",
+        "دوران پایان زندگی بازیگر برجسته‌ی کانادا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دون گرینالز در سن 93 درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 441,
+      "published_at": "2026-11-14T23:48:14.918986+00:00",
+      "text": "دوران آخرین لحظه‌های ستاره‌ی تئاتر کانادایی\n\n🎬 دون گرینالز، ستاره‌ی تئاتر کانادا، در سن 93 درگذشت\n\nدون گرینالز، بازیگر برجسته‌ی تئاتر کانادا، در تاریخ 6 نوامبر در تورنتو درگذشت. او در سن 93 سالگی از دنیا رفت. گرینالز در نقش‌های برجسته‌ای همچون فیلم «The Virgin Suicides» و سریال «Anne of Green Gables» شناخته می‌شد. خانواده‌اش و جشنواره Stratford او این خبر را اعلام کردند.\n\n📌 نکات مهم:\n• دون گرینالز در سن 93 درگذشت\n• او در سریال Anne of Green Gables بازی کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22965,7 +23018,8 @@
     "d245ea9e57d93fe2ce29640f",
     "6612656b4a98ef60aece19be",
     "49ff0c0c3dcb1b9ab05a8907",
-    "30b9e3d01e6c503945a466b0"
+    "30b9e3d01e6c503945a466b0",
+    "5ad949fe4a9c23877df5ed19"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23402,7 +23456,8 @@
     "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
     "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
     "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
-    "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732"
+    "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
+    "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098"
   ],
   "category_stats": {
     "movie_news": {
@@ -23412,7 +23467,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 174,
+      "published": 175,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23474,7 +23529,7 @@
       "published": 26
     },
     "23": {
-      "published": 33
+      "published": 34
     },
     "3": {
       "published": 2
@@ -23535,64 +23590,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-04T20:12:43.393605+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-04T22:17:27.798840+00:00",
       "version": 2,
@@ -26550,6 +26547,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-14T23:48:14.919102+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26986,9 +27041,100 @@
     "3543a5928c070733",
     "fc3663c4b87b364e",
     "07c0327400185423",
-    "6db2bbf967244143"
+    "6db2bbf967244143",
+    "8080bf6a94fd6af7"
   ],
   "entity_memory": {
+    "dawn greenhalgh": {
+      "count": 2,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "canadian": {
+      "count": 2,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "toronto": {
+      "count": 2,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "actor": {
+      "count": 2,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "november": {
+      "count": 4,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "dawn greenhalgh dies": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "revered canadian stage": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star of": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "anne": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "green gables": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the virgin suicides": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ontario": {
+      "count": 1,
+      "last_seen": "2026-11-14T23:48:14.919016+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 23,
       "last_seen": "2026-11-14T21:01:41.252777+00:00",
@@ -27002,13 +27148,6 @@
       "last_seen": "2026-11-14T21:01:41.252777+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "dawn greenhalgh": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -27027,20 +27166,6 @@
       ]
     },
     "babar": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "canadian": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "toronto": {
       "count": 1,
       "last_seen": "2026-11-14T21:01:41.252777+00:00",
       "categories": [
@@ -27083,13 +27208,6 @@
       ]
     },
     "the electric company": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actor": {
       "count": 1,
       "last_seen": "2026-11-14T18:36:48.790433+00:00",
       "categories": [
@@ -27188,14 +27306,6 @@
         "actors_directors",
         "movie_news",
         "awards_festivals"
-      ]
-    },
-    "november": {
-      "count": 3,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies"
       ]
     },
     "friday": {
@@ -29759,55 +29869,6 @@
     },
     "bonifacio": {
       "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "beatrice brass": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wednesday": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "euro": {
-      "count": 1,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "roberto rossellini": {
-      "count": 1,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "antonioni": {
-      "count": 1,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "salon kitty": {
-      "count": 1,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ansa": {
-      "count": 1,
       "last_seen": "2026-11-07T15:23:13.513350+00:00",
       "categories": [
         "movie_news"
