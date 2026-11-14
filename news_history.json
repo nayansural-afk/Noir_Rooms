@@ -22273,6 +22273,50 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1e3cc3fa32c60b78eb93a47c",
+      "story_id": "72b733e9db0eecc1",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo",
+      "title": "Dept Q crew member dies after being injured at Edinburgh film studio",
+      "category": "movie_news",
+      "score": 75.42,
+      "freshness": 92.0,
+      "credibility": 92.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "dept",
+        "edinburgh",
+        "emergency",
+        "leith"
+      ],
+      "hook": "دوربین‌های Dept Q در استودیو Edinburgh، حادثه‌ای ناگوار",
+      "hooks": [
+        "دوربین‌های Dept Q در استودیو Edinburgh، جان خود را از دست دادند",
+        "استودیو FirstStage در لیث، حادثه‌ای که جان یک عضو را گرفت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دوربین‌های Dept Q در استودیو Edinburgh جان خود را از دست دادند"
+      ],
+      "status": "published",
+      "telegram_message_id": 436,
+      "published_at": "2026-11-14T00:49:57.794589+00:00",
+      "text": "دوربین‌های Dept Q در استودیو Edinburgh، حادثه‌ای ناگوار\n\n🎬 دوربین‌های Dept Q در استودیو Edinburgh جان خود را از دست دادند\n\nدر استودیو FirstStage در لیث، نیروی اضطراری به گزارش حادثه‌ای که در آن یک عضو از تیم Dept Q جان خود را از دست داد، رسید. این حادثه، که در حین کار در استودیو رخ داد، باعث شد که تیم فیلم‌سازی با تاسف فراوان، از دست دادن یکی از اعضای ارزشمند خود خبر دهد.\n\n📌 نکات مهم:\n• عضو تیم Dept Q در استودیو FirstStage در لیث جان خود را از دست داد\n• نیروی اضطراری به موقع رسید\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -22705,7 +22749,8 @@
     "de1b19302c60836a62783aac",
     "53b017023856f1dfefd60290",
     "55e9e7cd1c113900986acadf",
-    "bf1cb4deaa6a642ea9adb858"
+    "bf1cb4deaa6a642ea9adb858",
+    "1e3cc3fa32c60b78eb93a47c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23137,11 +23182,12 @@
     "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
     "https://variety.com/2026/film/news/kai-cech-lost-in-mandala-himalayan-animated-feature-1236946155",
     "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997",
-    "https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228"
+    "https://deadline.com/2026/11/jessica-marie-garcia-randy-mandy-and-the-curse-of-the-plaza-1237223228",
+    "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 220,
+      "published": 221,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23251,7 +23297,7 @@
       "published": 12
     },
     "0": {
-      "published": 10
+      "published": 11
     }
   },
   "strategy": {
@@ -23270,64 +23316,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-03T19:54:47.963317+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "box_office",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Keanu Reeves to Star in Netflix Action Movie ‘Maelstrom’ After Alan Ritchson Drops Out",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Abramorama Dances To North American Rights For ‘Make Work’ About New York City Ballet’s Choreographic Institute",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Mini War’: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-03T22:09:43.049773+00:00",
       "version": 2,
@@ -26285,6 +26273,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-14T00:49:57.794676+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 404,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -26716,9 +26762,38 @@
     "5e111f13ec71cd98",
     "9b4d7616bf2f9c30",
     "5562d0bc90cba4ca",
-    "72b905f7a37ef04d"
+    "72b905f7a37ef04d",
+    "72b733e9db0eecc1"
   ],
   "entity_memory": {
+    "dept": {
+      "count": 1,
+      "last_seen": "2026-11-14T00:49:57.794614+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "edinburgh": {
+      "count": 1,
+      "last_seen": "2026-11-14T00:49:57.794614+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "emergency": {
+      "count": 1,
+      "last_seen": "2026-11-14T00:49:57.794614+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "leith": {
+      "count": 1,
+      "last_seen": "2026-11-14T00:49:57.794614+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "jessica marie garcia": {
       "count": 1,
       "last_seen": "2026-11-13T22:19:04.490242+00:00",
@@ -29512,34 +29587,6 @@
       "last_seen": "2026-11-06T19:46:59.256670+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "no tales": {
-      "count": 1,
-      "last_seen": "2026-11-06T19:46:59.256670+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kamen": {
-      "count": 1,
-      "last_seen": "2026-11-06T19:46:59.256670+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "deeply personal story": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "loss": {
-      "count": 1,
-      "last_seen": "2026-11-06T16:34:06.677034+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
