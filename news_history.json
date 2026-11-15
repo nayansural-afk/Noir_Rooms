@@ -22794,6 +22794,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "81a266562d3048811337b871",
+      "story_id": "1ab190491ece8bbc",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
+      "title": "‘Club Kid’ Rocks Limited Expansion As ‘Paper Tiger’ Scores James Gray’s Best Per-Screen Debut — Specialty Box Office",
+      "category": "actors_directors",
+      "score": 72.49,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "club kid",
+        "rocks limited expansion",
+        "paper tiger",
+        "scores james gray",
+        "best per",
+        "screen debut",
+        "specialty box office",
+        "james gray",
+        "new york",
+        "los angeles"
+      ],
+      "hook": "کلاپ کِی‌د، بهترین گسترش محدود سال؛ پِیپر تیگر، برترین بازدهی در هر صفحه",
+      "hooks": [
+        "کلاپ کِی‌د در بازار تخصصی، $756k در 27 صفحه",
+        "پِیپر تیگر، $35.8k در هر صفحه برتر جیمز گرا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کلاپ کِی‌د بهترین گسترش محدود سال",
+        "پِیپر تیگر برترین بازدهی در هر صفحه برای جیمز گرا"
+      ],
+      "status": "published",
+      "telegram_message_id": 446,
+      "published_at": "2026-11-15T23:54:17.548912+00:00",
+      "text": "کلاپ کِی‌د، بهترین گسترش محدود سال؛ پِیپر تیگر، برترین بازدهی در هر صفحه\n\n🎬 کلاپ کِی‌د: بهترین گسترش محدود سال؛ پِیپر تیگر، برترین بازدهی در هر صفحه جیمز گرا\n\nکلاپ کِی‌د بهترین گسترش محدود سال را با $756k در هفته دوم بر روی 27 صفحه در بازار تخصصی به دست آورد، مخاطبان 80٪ زیر 35 سال بودند.\nپِیپر تیگر، برترین بازدهی در هر صفحه برای جیمز گرا را با $35.8k در هر صفحه بر روی 6 صفحه در نیویورک و لس‌آنجلس ثبت کرد.\n\n📌 نکات مهم:\n• $756k در هفته دوم بر روی 27 صفحه\n• 80٪ مخاطبان زیر 35 سال\n• $35.8k در هر صفحه برای Paper Tiger\n• 6 صفحه در نیویورک و لس‌آنجلس\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23236,7 +23288,8 @@
     "48a6dbac7f37af2180331aa4",
     "da19a5d62aebea9f875dd423",
     "a3ec798d896229aec354912b",
-    "faa33437e03864766477152a"
+    "faa33437e03864766477152a",
+    "81a266562d3048811337b871"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23678,7 +23731,8 @@
     "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
     "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
     "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
-    "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199"
+    "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
+    "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498"
   ],
   "category_stats": {
     "movie_news": {
@@ -23688,7 +23742,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 177,
+      "published": 178,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23750,7 +23804,7 @@
       "published": 27
     },
     "23": {
-      "published": 34
+      "published": 35
     },
     "3": {
       "published": 2
@@ -23811,64 +23865,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-05T20:25:55.801829+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-05T22:28:15.930777+00:00",
       "version": 2,
@@ -26826,6 +26822,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-15T23:54:17.549019+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27267,9 +27321,80 @@
     "583ac5e0b37c8a71",
     "39058357d29a25c4",
     "c5aca9232e61f94a",
-    "804a63b37caf74c5"
+    "804a63b37caf74c5",
+    "1ab190491ece8bbc"
   ],
   "entity_memory": {
+    "club kid": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rocks limited expansion": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paper tiger": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "scores james gray": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "best per": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "screen debut": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "specialty box office": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james gray": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "new york": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "los angeles": {
+      "count": 1,
+      "last_seen": "2026-11-15T23:54:17.548944+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "christopher nolan": {
       "count": 1,
       "last_seen": "2026-11-15T21:25:17.305184+00:00",
@@ -30023,76 +30148,6 @@
       "last_seen": "2026-11-08T18:10:07.513202+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "godzilla minus zero": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sets": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "box office record": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "million opening takashi": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yamazaki": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the passion": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christ": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "million opening": {
-      "count": 1,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dylan skolnick returning": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cinema arts centre": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
