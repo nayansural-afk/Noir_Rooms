@@ -22691,6 +22691,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a3ec798d896229aec354912b",
+      "story_id": "c5aca9232e61f94a",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
+      "title": "Box Office: Domestic Ticket Sales Up 20% From Last Year as Hollywood Awaits ‘Hunger Games’ Prequel, ‘Dune 3’ and ‘Avengers: Doomsday’",
+      "category": "movie_news",
+      "score": 73.19,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 65.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": false,
+      "entities": [
+        "dune",
+        "box office",
+        "domestic ticket sales",
+        "from last year",
+        "hollywood awaits",
+        "hunger games",
+        "prequel",
+        "avengers",
+        "doomsday",
+        "domestic"
+      ],
+      "hook": "درآمدهای بلیط داخلی ۲۰٪ بالاتر از سال گذشته",
+      "hooks": [
+        "بازگشت قوی به سینما با ۲۰٪ رشد",
+        "سینماها با 8.76 میلیارد دلار در آمد، آمادهٔ هانگر گیمز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فروش بلیط داخلی ۲۰٪ بالاتر از سال گذشته"
+      ],
+      "status": "published",
+      "telegram_message_id": 444,
+      "published_at": "2026-11-15T19:12:02.278272+00:00",
+      "text": "درآمدهای بلیط داخلی ۲۰٪ بالاتر از سال گذشته\n\n🎬 سینماها با رشد ۲۰٪ در فروش بلیط، آمادهٔ هانگر گیمز، دونه ۳ و آواترز\n\nدرآمدهای بلیط داخلی در سال جاری ۲۰٪ بالاتر از همان دوره در سال ۲۰۲۵ است. این رشد پیش از ورود پیش‌سری هانگر گیمز، دونه سوم و نسخهٔ جدید آواترز اتفاق افتاده است.\nدرآمدهای کل تا نوامبر 8.76 میلیارد دلار رسید، نشان‌دهندهٔ بازگشت قوی به سینماهای داخلی.\n\n📌 نکات مهم:\n• فروش بلیط داخلی ۲۰٪ بالاتر از سال گذشته\n• درآمدهای 8.76 میلیارد دلار تا نوامبر\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23131,7 +23181,8 @@
     "30b9e3d01e6c503945a466b0",
     "5ad949fe4a9c23877df5ed19",
     "48a6dbac7f37af2180331aa4",
-    "da19a5d62aebea9f875dd423"
+    "da19a5d62aebea9f875dd423",
+    "a3ec798d896229aec354912b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23571,11 +23622,12 @@
     "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
     "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
     "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
-    "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990"
+    "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
+    "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 225,
+      "published": 226,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23652,7 +23704,7 @@
       "published": 23
     },
     "19": {
-      "published": 22
+      "published": 23
     },
     "22": {
       "published": 25
@@ -23704,64 +23756,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-05T12:59:24.130995+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-05T17:04:07.303121+00:00",
       "version": 2,
@@ -26719,6 +26713,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-15T19:12:02.278421+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27158,9 +27210,82 @@
     "6db2bbf967244143",
     "8080bf6a94fd6af7",
     "583ac5e0b37c8a71",
-    "39058357d29a25c4"
+    "39058357d29a25c4",
+    "c5aca9232e61f94a"
   ],
   "entity_memory": {
+    "avengers": {
+      "count": 2,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news"
+      ]
+    },
+    "doomsday": {
+      "count": 2,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news"
+      ]
+    },
+    "dune": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "box office": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "domestic ticket sales": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from last year": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hollywood awaits": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hunger games": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "prequel": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "domestic": {
+      "count": 1,
+      "last_seen": "2026-11-15T19:12:02.278322+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "venice": {
       "count": 1,
       "last_seen": "2026-11-15T16:02:05.566595+00:00",
@@ -28644,20 +28769,6 @@
         "upcoming_movies"
       ]
     },
-    "avengers": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "doomsday": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
     "endgame": {
       "count": 1,
       "last_seen": "2026-11-11T23:14:22.334121+00:00",
@@ -29926,63 +30037,6 @@
       "last_seen": "2026-11-08T11:47:30.586671+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "fest taiwanese": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tsao jui": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "taiwan": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "according": {
-      "count": 2,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "the edge wrote": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sequel": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "but it": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "petered out": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
