@@ -22741,6 +22741,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "faa33437e03864766477152a",
+      "story_id": "804a63b37caf74c5",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
+      "title": "Ben Affleck Raved About Robert Pattinson’s ‘The Odyssey’ Performance, Recalls Matt Damon: He Said ‘It Was Like Watching a Guy Run Into an Avalanche’",
+      "category": "actors_directors",
+      "score": 75.2,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "christopher nolan",
+        "nolan",
+        "ben affleck raved",
+        "about robert pattinson",
+        "the odyssey",
+        "performance",
+        "recalls matt damon",
+        "he said",
+        "it was like",
+        "watching",
+        "guy run into",
+        "avalanche"
+      ],
+      "hook": "پاتینسون در 'اودیسه'، آفرک به او تحسین می‌کند",
+      "hooks": [
+        "آفرک درباره بازی پاتینسون در 'اودیسه' می‌گوید",
+        "مات دامون: بازی پاتینسون مثل سقوط بر برف"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Ben Affleck praised Pattinson's performance in 'The Odyssey'."
+      ],
+      "status": "published",
+      "telegram_message_id": 445,
+      "published_at": "2026-11-15T21:25:17.305154+00:00",
+      "text": "پاتینسون در 'اودیسه'، آفرک به او تحسین می‌کند\n\n🎬 آفرک درباره بازی برجسته‌ی پاتینسون در 'اودیسه' می‌گوید\n\nآفرک پس از دیدن اولین بار 'اودیسه'، به شدت از بازی پاتینسون در نقش آنتینوس تحسین کرد. او همچنین یادآور شد که مات دامون، دوست نزدیکش، این بازی را مثل دیدن یک مرد در حال سقوط بر برف توصیف کرده بود.\n\n📌 نکات مهم:\n• پاتینسون در چهار فیلم بزرگ این سال حضور داشت\n• آفرک بازی پاتینسون در 'اودیسه' را تحسین کرد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23182,7 +23235,8 @@
     "5ad949fe4a9c23877df5ed19",
     "48a6dbac7f37af2180331aa4",
     "da19a5d62aebea9f875dd423",
-    "a3ec798d896229aec354912b"
+    "a3ec798d896229aec354912b",
+    "faa33437e03864766477152a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23623,7 +23677,8 @@
     "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
     "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
     "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
-    "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160"
+    "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
+    "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199"
   ],
   "category_stats": {
     "movie_news": {
@@ -23633,7 +23688,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 176,
+      "published": 177,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23692,7 +23747,7 @@
       "published": 43
     },
     "21": {
-      "published": 26
+      "published": 27
     },
     "23": {
       "published": 34
@@ -23756,64 +23811,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-05T17:04:07.303121+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-05T20:25:55.801829+00:00",
       "version": 2,
@@ -26771,6 +26768,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-15T21:25:17.305259+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27211,9 +27266,94 @@
     "8080bf6a94fd6af7",
     "583ac5e0b37c8a71",
     "39058357d29a25c4",
-    "c5aca9232e61f94a"
+    "c5aca9232e61f94a",
+    "804a63b37caf74c5"
   ],
   "entity_memory": {
+    "christopher nolan": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nolan": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ben affleck raved": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "about robert pattinson": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the odyssey": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "performance": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "recalls matt damon": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "he said": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "it was like": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "watching": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "guy run into": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "avalanche": {
+      "count": 1,
+      "last_seen": "2026-11-15T21:25:17.305184+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "avengers": {
       "count": 2,
       "last_seen": "2026-11-15T19:12:02.278322+00:00",
@@ -29951,90 +30091,6 @@
     "cinema arts centre": {
       "count": 1,
       "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "following protests": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boycotts the": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "long island": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "september": {
-      "count": 1,
-      "last_seen": "2026-11-08T15:44:40.904368+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "former": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "member lucas wong": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "makes acting debut": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "taiwanese folk": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "music drama": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "time": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "with jerry yan": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ning chang": {
-      "count": 1,
-      "last_seen": "2026-11-08T11:47:30.586671+00:00",
       "categories": [
         "actors_directors"
       ]
