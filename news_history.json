@@ -22581,6 +22581,63 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "48a6dbac7f37af2180331aa4",
+      "story_id": "583ac5e0b37c8a71",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
+      "title": "Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
+      "category": "movie_news",
+      "score": 85.59,
+      "freshness": 82.0,
+      "credibility": 96.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": false,
+      "entities": [
+        "marvel",
+        "dc",
+        "chris pratt says",
+        "would love",
+        "james gunn",
+        "direct",
+        "fourth",
+        "guardians",
+        "galaxy",
+        "film after",
+        "exit chris pratt",
+        "studios",
+        "chris pratt",
+        "make",
+        "film with james"
+      ],
+      "hook": "کرِیس پرات به‌جای جیمز گان، چهارمین فیلم گاردینز را می‌خواهد",
+      "hooks": [
+        "کرِیس پرات: دوست دارد جیمز گان دوباره کار کند",
+        "جیمز گان و پیتر سافران از DC اخراج شدند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کرِیس پرات می‌خواهد جیمز گان در چهارمین فیلم گاردینز کار کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 442,
+      "published_at": "2026-11-15T12:35:16.222196+00:00",
+      "text": "کرِیس پرات به‌جای جیمز گان، چهارمین فیلم گاردینز را می‌خواهد\n\n🎬 کرِیس پرات: دوست دارد جیمز گان در چهارمین فیلم گاردینز نقش بازی کند\n\nکرِیس پرات اعلام کرد که دوست دارد جیمز گان، کارگردان قبلی، در چهارمین فیلم «گاردینز آف دی گالاکسی» نقش بازی کند. او این را «عالی» می‌داند.\n\nجیمز گان و پیتر سافران در تاریخ ۹ نوامبر پس از ادغام اسکای‌دنس با دایوید الی‌سون از سمت‌های خود در DC Studios اخراج شدند.\n\n📌 نکات مهم:\n• کرِیس پرات می‌خواهد جیمز گان در چهارمین فیلم گاردینز کار کند\n• جیمز گان و پیتر سافران در ۹ نوامبر از DC Studios اخراج شدند\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23019,7 +23076,8 @@
     "6612656b4a98ef60aece19be",
     "49ff0c0c3dcb1b9ab05a8907",
     "30b9e3d01e6c503945a466b0",
-    "5ad949fe4a9c23877df5ed19"
+    "5ad949fe4a9c23877df5ed19",
+    "48a6dbac7f37af2180331aa4"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23457,11 +23515,12 @@
     "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
     "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
     "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
-    "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098"
+    "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
+    "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 224,
+      "published": 225,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23568,7 +23627,7 @@
       "published": 42
     },
     "12": {
-      "published": 12
+      "published": 13
     },
     "0": {
       "published": 11
@@ -23590,64 +23649,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-04T22:17:27.798840+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-05T00:49:34.502657+00:00",
       "version": 2,
@@ -26605,6 +26606,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-15T12:35:16.222300+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27042,9 +27101,115 @@
     "fc3663c4b87b364e",
     "07c0327400185423",
     "6db2bbf967244143",
-    "8080bf6a94fd6af7"
+    "8080bf6a94fd6af7",
+    "583ac5e0b37c8a71"
   ],
   "entity_memory": {
+    "dc": {
+      "count": 2,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marvel": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chris pratt says": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "would love": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "james gunn": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "direct": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fourth": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "guardians": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "galaxy": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film after": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "exit chris pratt": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "studios": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chris pratt": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "make": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "film with james": {
+      "count": 1,
+      "last_seen": "2026-11-15T12:35:16.222228+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "dawn greenhalgh": {
       "count": 2,
       "last_seen": "2026-11-14T23:48:14.919016+00:00",
@@ -29652,13 +29817,6 @@
         "movie_news"
       ]
     },
-    "dc": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "the edge wrote": {
       "count": 1,
       "last_seen": "2026-11-07T23:34:02.871706+00:00",
@@ -29774,104 +29932,6 @@
       "last_seen": "2026-11-07T20:37:00.364560+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "winning": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "santiago": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dead": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paulina": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "silver bear": {
-      "count": 1,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the chilean": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "florence pugh": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel weisz": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "santiago chilean": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the wonder": {
-      "count": 1,
-      "last_seen": "2026-11-07T17:54:52.326017+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "caligula": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tinto brass": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "caterina varzi": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bonifacio": {
-      "count": 2,
-      "last_seen": "2026-11-07T15:23:13.513350+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
