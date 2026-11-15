@@ -22638,6 +22638,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "da19a5d62aebea9f875dd423",
+      "story_id": "39058357d29a25c4",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
+      "title": "‘Woman Unknown’ Breakout Mathilde Arcel on Her Venice Award-Winning Performance and Life After Her Lido Triumph: ‘Everything Is Open’",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "venice",
+        "woman unknown",
+        "breakout mathilde arcel",
+        "her venice award",
+        "winning performance",
+        "life after her",
+        "lido triumph",
+        "everything is open",
+        "danish",
+        "mathilde arcel",
+        "arcel",
+        "volpi cup"
+      ],
+      "hook": "ماتیلد آرکل، ستاره تازه در سینمای وین، برنده جام وولیپی",
+      "hooks": [
+        "پرفورمنس برنده جام وولیپی، ماتیلد آرکل در 'زن ناشناخته'",
+        "دختری از دانمارک، در نقش اول، برنده جام وولیپی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ماتیلد آرکل برنده جام وولیپی بهترین بازیگر در 'زن ناشناخته'"
+      ],
+      "status": "published",
+      "telegram_message_id": 443,
+      "published_at": "2026-11-15T16:02:05.566562+00:00",
+      "text": "ماتیلد آرکل، ستاره تازه در سینمای وین، برنده جام وولیپی\n\n🎬 ماتیلد آرکل، ستاره تازه، برنده جام وولیپی در فیلم 'زن ناشناخته'\n\nماتیلد آرکل، بازیگر دانمارکی، در نقش اول خود در فیلم 'زن ناشناخته'، برنده جام وولیپی بهترین بازیگر در جشنواره فیلم وین شد.\nاین فیلم، کارگردانی مای ال-توخی، در پس‌زمینهٔ جنگ جهانی دوم روایت می‌کند و برای آرکل یک نقطه عطف در مسیر حرفه‌ای اوست.\n\n📌 نکات مهم:\n• ماتیلد آرکل، بازیگر دانمارکی\n• برنده جام وولیپی بهترین بازیگر در فیلم 'زن ناشناخته'\n• کارگردانی مای ال-توخی\n• فیلم در پس‌زمینهٔ جنگ جهانی دوم\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23077,7 +23130,8 @@
     "49ff0c0c3dcb1b9ab05a8907",
     "30b9e3d01e6c503945a466b0",
     "5ad949fe4a9c23877df5ed19",
-    "48a6dbac7f37af2180331aa4"
+    "48a6dbac7f37af2180331aa4",
+    "da19a5d62aebea9f875dd423"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23516,7 +23570,8 @@
     "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
     "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
     "https://deadline.com/2026/11/dawn-greenhalgh-dead-1237224098",
-    "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808"
+    "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808",
+    "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990"
   ],
   "category_stats": {
     "movie_news": {
@@ -23526,7 +23581,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 175,
+      "published": 176,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23576,7 +23631,7 @@
       "published": 13
     },
     "16": {
-      "published": 21
+      "published": 22
     },
     "18": {
       "published": 22
@@ -23649,64 +23704,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-05T00:49:34.502657+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-05T12:59:24.130995+00:00",
       "version": 2,
@@ -26664,6 +26661,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-15T16:02:05.566685+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27102,9 +27157,94 @@
     "07c0327400185423",
     "6db2bbf967244143",
     "8080bf6a94fd6af7",
-    "583ac5e0b37c8a71"
+    "583ac5e0b37c8a71",
+    "39058357d29a25c4"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "woman unknown": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "breakout mathilde arcel": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "her venice award": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "winning performance": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "life after her": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lido triumph": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "everything is open": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "danish": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mathilde arcel": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "arcel": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "volpi cup": {
+      "count": 1,
+      "last_seen": "2026-11-15T16:02:05.566595+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dc": {
       "count": 2,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
@@ -29843,95 +29983,6 @@
       "last_seen": "2026-11-07T23:34:02.871706+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "never happened": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "says andy richter": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "andy richter": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "edge": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "obsessed": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the podcast": {
-      "count": 1,
-      "last_seen": "2026-11-07T23:34:02.871706+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lelio": {
-      "count": 3,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "fantastic woman": {
-      "count": 3,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "gloria": {
-      "count": 3,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "julianne moore": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "gloria bell": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "chilean director": {
-      "count": 2,
-      "last_seen": "2026-11-07T20:37:00.364560+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
