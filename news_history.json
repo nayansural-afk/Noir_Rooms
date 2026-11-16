@@ -22951,6 +22951,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6c346bd36f65d9b156f6f9f0",
+      "story_id": "cff99c94d7609a71",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
+      "title": "Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "james bond",
+        "robert pattinson as",
+        "bond or bond",
+        "villain",
+        "what did the",
+        "actor say years",
+        "robert pattinson",
+        "denis",
+        "david",
+        "tanya",
+        "amazon",
+        "studios"
+      ],
+      "hook": "روبرت پاتینسون: رویای 007 در دست او",
+      "hooks": [
+        "روبرت پاتینسون: رویای 007 در دست او",
+        "روبرت پاتینسون: 007 رویای او"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "روبرت پاتینسون در مورد نقش 007 گفت که رویای او برآورده شد.",
+        "او از تیم Amazon MGM Studios و افراد Denis, Amy, David, Tanya تشکر کرد."
+      ],
+      "status": "published",
+      "telegram_message_id": 449,
+      "published_at": "2026-11-16T22:40:43.816810+00:00",
+      "text": "روبرت پاتینسون: رویای 007 در دست او\n\n🎬 روبرت پاتینسون: رویای 007 در دست او\n\nروبرت پاتینسون امروز گفت که نقش 007 برای او رویای واقعی‌ای است که تحقق یافته است.\nاو بیان کرد که 007 یکی از شخصیت‌های افسانه‌ای سینماست و داشتن این نقش برای او افتخار زندگی است.\n\n📌 نکات مهم:\n• روبرت پاتینسون در مورد نقش 007 گفت که رویای او برآورده شد.\n• او از تیم Amazon MGM Studios و افراد Denis, Amy, David, Tanya تشکر کرد.\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23396,7 +23450,8 @@
     "faa33437e03864766477152a",
     "81a266562d3048811337b871",
     "5aa0416c04f7e7db79c7d420",
-    "687056c9f00e2cc0f14d32a5"
+    "687056c9f00e2cc0f14d32a5",
+    "6c346bd36f65d9b156f6f9f0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23841,7 +23896,8 @@
     "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
     "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
     "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
-    "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307"
+    "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
+    "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683"
   ],
   "category_stats": {
     "movie_news": {
@@ -23851,7 +23907,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 180,
+      "published": 181,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23925,7 +23981,7 @@
       "published": 24
     },
     "22": {
-      "published": 25
+      "published": 26
     },
     "7": {
       "published": 2
@@ -23974,64 +24030,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-06T12:47:27.409029+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-06T16:34:06.677106+00:00",
       "version": 2,
@@ -26989,6 +26987,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-16T22:40:43.816907+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27433,9 +27489,96 @@
     "804a63b37caf74c5",
     "1ab190491ece8bbc",
     "7123d4553082efd4",
-    "2c7fb35e8867cca6"
+    "2c7fb35e8867cca6",
+    "cff99c94d7609a71"
   ],
   "entity_memory": {
+    "studios": {
+      "count": 2,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "amazon": {
+      "count": 2,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "james bond": {
+      "count": 2,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert pattinson": {
+      "count": 2,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert pattinson as": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bond or bond": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "villain": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "what did the": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor say years": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "denis": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tanya": {
+      "count": 1,
+      "last_seen": "2026-11-16T22:40:43.816840+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "new york": {
       "count": 2,
       "last_seen": "2026-11-16T19:13:10.784982+00:00",
@@ -27980,13 +28123,6 @@
       ]
     },
     "exit chris pratt": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "studios": {
       "count": 1,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
       "categories": [
@@ -29930,13 +30066,6 @@
         "movie_news"
       ]
     },
-    "amazon": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "cinemark": {
       "count": 1,
       "last_seen": "2026-11-10T02:38:23.885590+00:00",
@@ -30189,76 +30318,6 @@
       "last_seen": "2026-11-09T13:42:50.330743+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "south": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins top prize": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fest pitching awards": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reunion dinner": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "takes three": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "malaysian": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tan ce ding": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james bond": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert pattinson": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nicholas hoult round": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
