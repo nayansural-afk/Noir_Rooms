@@ -22846,6 +22846,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5aa0416c04f7e7db79c7d420",
+      "story_id": "7123d4553082efd4",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
+      "title": "HBO Max Buys British Flatshare Comedy ‘Break Clause’ Starring Samuel Bottomley, Lara Ricote & ‘Rooster’s Charly Clive",
+      "category": "actors_directors",
+      "score": 73.75,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "max buys british",
+        "flatshare comedy",
+        "break clause",
+        "starring samuel bottomley",
+        "lara ricote",
+        "rooster",
+        "charly clive",
+        "british",
+        "samuel bottomley",
+        "jess bray",
+        "the outlaws"
+      ],
+      "hook": "HBO Max به‌دنبال کمدی Flatshare جدید: Break Clause",
+      "hooks": [
+        "کمدی Flatshare Break Clause در دست HBO Max",
+        "سریال Break Clause: زوجی که در Flatshare باقی می‌مانند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "HBO Max خرید Break Clause"
+      ],
+      "status": "published",
+      "telegram_message_id": 447,
+      "published_at": "2026-11-16T13:27:14.934081+00:00",
+      "text": "HBO Max به‌دنبال کمدی Flatshare جدید: Break Clause\n\n🎬 HBO Max خرید کمدی Flatshare Break Clause با ستاره‌های Samuel Bottomley و Lara Ricote\n\nHBO Max به تازگی کمدی Flatshare Break Clause را خریداری کرده است. این سریال با بازی Samuel Bottomley، Lara Ricote و Charly Clive، توسط Jess Bray ساخته و توسط Alice Snedden کارگردانی می‌شود. داستان درباره زوجی است که پس از جدایی در Flatshare باقی می‌مانند و باید با مشکلات زندگی مشترک خود روبه‌رو شوند.\n\n📌 نکات مهم:\n• HBO Max خرید کمدی Break Clause\n• ستارگان: Samuel Bottomley, Lara Ricote, Charly Clive\n• ساخت توسط Jess Bray\n• سینما توسط Alice Snedden\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23289,7 +23341,8 @@
     "da19a5d62aebea9f875dd423",
     "a3ec798d896229aec354912b",
     "faa33437e03864766477152a",
-    "81a266562d3048811337b871"
+    "81a266562d3048811337b871",
+    "5aa0416c04f7e7db79c7d420"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23732,7 +23785,8 @@
     "https://variety.com/2026/film/global/woman-unknown-mathilde-arcel-venice-award-1236947990",
     "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
     "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
-    "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498"
+    "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
+    "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931"
   ],
   "category_stats": {
     "movie_news": {
@@ -23742,7 +23796,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 178,
+      "published": 179,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23837,7 +23891,7 @@
       "published": 3
     },
     "13": {
-      "published": 33
+      "published": 34
     },
     "17": {
       "published": 42
@@ -23865,64 +23919,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-05T22:28:15.930777+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-06T00:55:39.315900+00:00",
       "version": 2,
@@ -26880,6 +26876,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-16T13:27:14.934250+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27322,9 +27376,94 @@
     "39058357d29a25c4",
     "c5aca9232e61f94a",
     "804a63b37caf74c5",
-    "1ab190491ece8bbc"
+    "1ab190491ece8bbc",
+    "7123d4553082efd4"
   ],
   "entity_memory": {
+    "hbo": {
+      "count": 2,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "max buys british": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "flatshare comedy": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "break clause": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring samuel bottomley": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lara ricote": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rooster": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charly clive": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "samuel bottomley": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jess bray": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the outlaws": {
+      "count": 1,
+      "last_seen": "2026-11-16T13:27:14.934129+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "club kid": {
       "count": 1,
       "last_seen": "2026-11-15T23:54:17.548944+00:00",
@@ -29840,13 +29979,6 @@
         "movie_news"
       ]
     },
-    "hbo": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "donnie dunagan": {
       "count": 1,
       "last_seen": "2026-11-09T19:27:14.875892+00:00",
@@ -30070,83 +30202,6 @@
       "last_seen": "2026-11-08T20:55:02.013955+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "bluey": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "daley pearson": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "allen": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pearson": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ludo studio": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "elliott": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "or coraline": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "matilda": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chihiro": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mary poppins": {
-      "count": 1,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "english": {
-      "count": 2,
-      "last_seen": "2026-11-08T18:10:07.513202+00:00",
-      "categories": [
         "movie_news"
       ]
     }
