@@ -22898,6 +22898,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "687056c9f00e2cc0f14d32a5",
+      "story_id": "2c7fb35e8867cca6",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
+      "title": "Broadway Star Ryan McCartan to Star in Crime Drama ‘Only Good Feelings’ (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "broadway star ryan",
+        "star",
+        "crime drama",
+        "only good feelings",
+        "ryan",
+        "jay gatsby",
+        "broadway",
+        "the great gatsby",
+        "films",
+        "new york",
+        "february",
+        "other"
+      ],
+      "hook": "رویاهای خوب، جرم و جنایت در مسرح",
+      "hooks": [
+        "نقش جدید ریان مک‌کارتن در فیلم جرائم‌ساز",
+        "سفر ریان مک‌کارتن از گاتسبی تا جرم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "ریان مک‌کارتن نقش اصلی در فیلم «فقط احساسات خوب» را بر عهده دارد."
+      ],
+      "status": "published",
+      "telegram_message_id": 448,
+      "published_at": "2026-11-16T19:13:10.784950+00:00",
+      "text": "رویاهای خوب، جرم و جنایت در مسرح\n\n🎬 ریان مک‌کارتن در نقش اصلی در فیلم جرائم‌ساز «فقط احساسات خوب»\n\nریان مک‌کارتن، که نقش جِی گاتسبی را در مسرح «گاتسبی بزرگ» بازی کرده بود، اولین نقش تئاتری خود را در فیلم مستقل جرم‌ساز «فقط احساسات خوب» به عهده می‌گیرد.\nسین‌فیلمز این فیلم را در یک نمایش محدود در نیویورک در فوریه ۲۰۲۷ به نمایش می‌گذارد و بازیگران دیگری مانند الیاس ککواس نیز در کنار او حضور دارند.\n\n📌 نکات مهم:\n• ریان مک‌کارتن در نقش اصلی در فیلم مستقل جرم‌ساز «فقط احساسات خوب» ظاهر می‌شود.\n• سین‌فیلمز نمایش محدود فیلم را در نیویورک در فوریه ۲۰۲۷ برنامه‌ریزی کرده است.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23342,7 +23395,8 @@
     "a3ec798d896229aec354912b",
     "faa33437e03864766477152a",
     "81a266562d3048811337b871",
-    "5aa0416c04f7e7db79c7d420"
+    "5aa0416c04f7e7db79c7d420",
+    "687056c9f00e2cc0f14d32a5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23786,7 +23840,8 @@
     "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
     "https://variety.com/2026/film/news/ben-affleck-robert-pattinson-the-odyssey-1236948199",
     "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
-    "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931"
+    "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
+    "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307"
   ],
   "category_stats": {
     "movie_news": {
@@ -23796,7 +23851,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 179,
+      "published": 180,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -23867,7 +23922,7 @@
       "published": 23
     },
     "19": {
-      "published": 23
+      "published": 24
     },
     "22": {
       "published": 25
@@ -23919,64 +23974,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-06T00:55:39.315900+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-06T12:47:27.409029+00:00",
       "version": 2,
@@ -26934,6 +26931,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-16T19:13:10.785061+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27377,9 +27432,96 @@
     "c5aca9232e61f94a",
     "804a63b37caf74c5",
     "1ab190491ece8bbc",
-    "7123d4553082efd4"
+    "7123d4553082efd4",
+    "2c7fb35e8867cca6"
   ],
   "entity_memory": {
+    "new york": {
+      "count": 2,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 6,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "february": {
+      "count": 2,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "broadway star ryan": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "crime drama": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "only good feelings": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ryan": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jay gatsby": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broadway": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the great gatsby": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "films": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "other": {
+      "count": 1,
+      "last_seen": "2026-11-16T19:13:10.784982+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hbo": {
       "count": 2,
       "last_seen": "2026-11-16T13:27:14.934129+00:00",
@@ -27514,13 +27656,6 @@
       ]
     },
     "james gray": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "new york": {
       "count": 1,
       "last_seen": "2026-11-15T23:54:17.548944+00:00",
       "categories": [
@@ -29042,14 +29177,6 @@
         "movie_news"
       ]
     },
-    "star": {
-      "count": 5,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "netflix": {
       "count": 14,
       "last_seen": "2026-11-12T01:52:26.948790+00:00",
@@ -29307,13 +29434,6 @@
       ]
     },
     "new zealand": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "february": {
       "count": 1,
       "last_seen": "2026-11-11T16:51:27.336726+00:00",
       "categories": [
@@ -30139,70 +30259,6 @@
       "last_seen": "2026-11-08T23:35:36.530135+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "out james bond": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "screen tests after": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "while": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nicholas hoult": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack lowden": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "josh": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "connor": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "callum turner": {
-      "count": 1,
-      "last_seen": "2026-11-08T23:35:36.530135+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "harry potter": {
-      "count": 2,
-      "last_seen": "2026-11-08T20:55:02.013955+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     }
   },
