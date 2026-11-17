@@ -23005,6 +23005,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a69395712732cb7bdee250c2",
+      "story_id": "f38a8607d65d259e",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
+      "title": "Higher Ground’s ‘The Eyes Of Ghana’ Sets Global Release On IShowSpeed’s YouTube Channel",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "higher ground",
+        "the eyes of",
+        "ghana",
+        "sets global release",
+        "channel breakwater studios",
+        "obamas",
+        "the eyes",
+        "november",
+        "darren watkins",
+        "ben proudfoot",
+        "president barack obama",
+        "michelle obama"
+      ],
+      "hook": "سینمایی نوآورانه: 'چشم‌های غنا' در یوتیوب با ای‌شو اسپید",
+      "hooks": [
+        "مستند 'چشم‌های غنا' در یوتیوب با همکاری ای‌شو اسپید",
+        "باراک اوباما و مچل اوباما در پشت صحنه مستند غنا"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'چشم‌های غنا' در یوتیوب در ۱۷ نوامبر منتشر می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 450,
+      "published_at": "2026-11-17T00:35:24.797469+00:00",
+      "text": "سینمایی نوآورانه: 'چشم‌های غنا' در یوتیوب با ای‌شو اسپید\n\n🎬 مستند 'چشم‌های غنا' در یوتیوب با همکاری ای‌شو اسپید منتشر شد\n\nمستند 'چشم‌های غنا' که توسط بن پرودفت کارگردانی شده و توسط باراک و مچل اوباما به عنوان تهیه‌کننده اجرایی، در تاریخ ۱۷ نوامبر در یوتیوب به نمایش گذاشته می‌شود.\nاین همکاری نوآورانه بین استودیو Breakwater و Higher Ground با ستاره رسانه‌های اجتماعی ای‌شو اسپید، که خود در نقش تهیه‌کننده حضور دارد، تجربه‌ای تازه در دنیای سینما و رسانه‌های دیجیتال ارائه می‌دهد.\n\n📌 نکات مهم:\n• مستند 'چشم‌های غنا' در یوتیوب در ۱۷ نوامبر منتشر می‌شود\n• کارگردان بن پرودفت و تهیه‌کننده اجرایی باراک و مچل اوباما\n• ای‌شو اسپید (دَرن ویلیامز) به عنوان تهیه‌کننده مشارکت دارد\n• شراکت بین Breakwater Studios و Higher Ground\n\n#سینما #فیلم #مستند\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23451,7 +23503,8 @@
     "81a266562d3048811337b871",
     "5aa0416c04f7e7db79c7d420",
     "687056c9f00e2cc0f14d32a5",
-    "6c346bd36f65d9b156f6f9f0"
+    "6c346bd36f65d9b156f6f9f0",
+    "a69395712732cb7bdee250c2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23897,11 +23950,12 @@
     "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498",
     "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
     "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
-    "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683"
+    "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
+    "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 226,
+      "published": 227,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24011,7 +24065,7 @@
       "published": 13
     },
     "0": {
-      "published": 11
+      "published": 12
     }
   },
   "strategy": {
@@ -24030,64 +24084,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-06T16:34:06.677106+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-06T19:46:59.256744+00:00",
       "version": 2,
@@ -27045,6 +27041,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T00:35:24.797587+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27490,9 +27544,96 @@
     "1ab190491ece8bbc",
     "7123d4553082efd4",
     "2c7fb35e8867cca6",
-    "cff99c94d7609a71"
+    "cff99c94d7609a71",
+    "f38a8607d65d259e"
   ],
   "entity_memory": {
+    "november": {
+      "count": 5,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "higher ground": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the eyes of": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ghana": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets global release": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "channel breakwater studios": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "obamas": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the eyes": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "darren watkins": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ben proudfoot": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "president barack obama": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "michelle obama": {
+      "count": 1,
+      "last_seen": "2026-11-17T00:35:24.797507+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "studios": {
       "count": 2,
       "last_seen": "2026-11-16T22:40:43.816840+00:00",
@@ -28179,15 +28320,6 @@
       "last_seen": "2026-11-14T23:48:14.919016+00:00",
       "categories": [
         "movie_news",
-        "actors_directors"
-      ]
-    },
-    "november": {
-      "count": 4,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies",
         "actors_directors"
       ]
     },
@@ -30240,84 +30372,6 @@
       "last_seen": "2026-11-09T19:27:14.875892+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "purple heart": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dunagan": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "walt disney": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "frankenstein": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "basil rathbone": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boris karloff": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "taiwan creative content": {
-      "count": 2,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "produced": {
-      "count": 3,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cannes": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "anthony chen": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "somewhere": {
-      "count": 1,
-      "last_seen": "2026-11-09T13:42:50.330743+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
