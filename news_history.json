@@ -23109,6 +23109,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d68e67d93c18c0cf1d3dcff3",
+      "story_id": "6c4dfe26b0f413b9",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
+      "title": "Johnny Depp’s ‘Ebenezer’ Conquers U.K., Ireland Box Office as ‘Ramayana’ Stays in Top Three",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "johnny depp",
+        "ebenezer",
+        "conquers",
+        "ireland box office",
+        "ramayana",
+        "stays",
+        "top three paramount",
+        "ti west",
+        "ebenezer scrooge",
+        "rupert grint",
+        "andrea riseborough"
+      ],
+      "hook": "جونی دیپ در 'ایبنی‌زر' صدرنشین بازار انگلستان و ایرلند شد",
+      "hooks": [
+        "پرامود پرچم‌دار 'ایبنی‌زر' در صدر فروشگاه‌های انگلستان و ایرلند",
+        "جونی دیپ در 'ایبنی‌زر' به‌سرعت صدرنشین شد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جونی دیپ در 'ایبنی‌زر' صدرنشین بازار انگلستان و ایرلند شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 452,
+      "published_at": "2026-11-17T14:12:30.895924+00:00",
+      "text": "جونی دیپ در 'ایبنی‌زر' صدرنشین بازار انگلستان و ایرلند شد\n\n🎬 جونی دیپ در 'ایبنی‌زر' صدرنشین بازار انگلستان و ایرلند شد\n\nپرامود، نسخه گوتیک 'ایبنی‌زر'، توسط تی وست کارگردانی شد و جونی دیپ در نقش اسکروج ایفای نقش کرد. در اولین هفته، این فیلم ۳.۹ میلیون پوند (۵.۲ میلیون دلار) جمع‌آوری کرد و صدرنشین بازار انگلستان و ایرلند شد.\nدر حالی که فیلم 'رامایانا' در سه جایگاه برتر باقی می‌ماند، 'ایبنی‌زر' با حضور بازیگران برجسته‌ای چون رُپرت گرینت، آندرا ریزبورگ و ایان مک‌کالن، توجه مخاطبان را به خود جلب کرده است.\n\n📌 نکات مهم:\n• جونی دیپ در نقش اسکروج در 'ایبنی‌زر' ایفای نقش کرد\n• فیلم 'ایبنی‌زر' توسط تی وست کارگردانی شد\n• در اولین هفته ۳.۹ میلیون پوند جمع‌آوری کرد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23557,7 +23610,8 @@
     "687056c9f00e2cc0f14d32a5",
     "6c346bd36f65d9b156f6f9f0",
     "a69395712732cb7bdee250c2",
-    "64544ceb9e7a693ad037f497"
+    "64544ceb9e7a693ad037f497",
+    "d68e67d93c18c0cf1d3dcff3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24005,7 +24059,8 @@
     "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
     "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
     "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
-    "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741"
+    "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
+    "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157"
   ],
   "category_stats": {
     "movie_news": {
@@ -24015,7 +24070,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 182,
+      "published": 183,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24062,7 +24117,7 @@
       "published": 24
     },
     "14": {
-      "published": 13
+      "published": 14
     },
     "16": {
       "published": 22
@@ -24138,64 +24193,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-06T21:54:15.924440+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-07T00:01:56.401568+00:00",
       "version": 2,
@@ -27153,6 +27150,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T14:12:30.896044+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27600,9 +27655,94 @@
     "2c7fb35e8867cca6",
     "cff99c94d7609a71",
     "f38a8607d65d259e",
-    "213da4b2105f011f"
+    "213da4b2105f011f",
+    "6c4dfe26b0f413b9"
   ],
   "entity_memory": {
+    "paramount": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "johnny depp": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ebenezer": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "conquers": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ireland box office": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ramayana": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stays": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "top three paramount": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ti west": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ebenezer scrooge": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rupert grint": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "andrea riseborough": {
+      "count": 1,
+      "last_seen": "2026-11-17T14:12:30.895963+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "burbs": {
       "count": 1,
       "last_seen": "2026-11-17T02:51:40.653003+00:00",
@@ -30340,91 +30480,6 @@
     "cinemark": {
       "count": 1,
       "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "duong": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "reel citrus": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american film market": {
-      "count": 4,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "creators dom brack": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blake hooker": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hunter rowland": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brilliance productions": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "feature": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the anchor in": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "digital": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dom brack": {
-      "count": 1,
-      "last_seen": "2026-11-10T00:30:29.251770+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joins oscar contender": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
       "categories": [
         "movie_news"
       ]
