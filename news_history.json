@@ -23162,6 +23162,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d3dda2d8421643b044ea129d",
+      "story_id": "d7c596e97101c552",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340",
+      "title": "In ‘Ba’s Book,’ A Daughter Finds An Innovative Way To Unlock Her Father’s Extraordinary Memories — Trailer",
+      "category": "trailers_first_look",
+      "score": 65.78,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 81.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "book",
+        "daughter finds an",
+        "innovative way to",
+        "unlock her father",
+        "extraordinary memories",
+        "trailer",
+        "ashley da",
+        "duong",
+        "for duong",
+        "vietnam"
+      ],
+      "hook": "دختر، کتاب پدر، خاطراتی نوآورانه",
+      "hooks": [
+        "سفر به ویتنام، کشف خاطرات پدر",
+        "سینمای مستند، رازهای پدر در Ba's Book"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این مستند در مسابقه اسکار شرکت می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 453,
+      "published_at": "2026-11-17T18:06:03.349587+00:00",
+      "text": "دختر، کتاب پدر، خاطراتی نوآورانه\n\n🎬 Ba's Book: مستند دربارهٔ کشف خاطرات پدر در ویتنام\n\nدر مستند Oscar-contending Ba's Book، دختری به دنبال درک بهتر پدرش می‌رود و راهی نوآورانه برای باز کردن خاطرات او پیدا می‌کند.\nسینمایی که توسط آشلی دا-لِ دوونگ ساخته شده، با سفر به ویتنام در برابر خواسته‌های والدین، به یک روایت جذاب تبدیل می‌شود.\n\n📌 نکات مهم:\n• مستند Oscar-contending Ba's Book\n• دختر در جستجوی خاطرات پدر\n• سینمایی توسط آشلی دا-لِ دوونگ ساخته شده\n• سفر به ویتنام در برابر خواسته‌های والدین\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23611,7 +23662,8 @@
     "6c346bd36f65d9b156f6f9f0",
     "a69395712732cb7bdee250c2",
     "64544ceb9e7a693ad037f497",
-    "d68e67d93c18c0cf1d3dcff3"
+    "d68e67d93c18c0cf1d3dcff3",
+    "d3dda2d8421643b044ea129d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24060,7 +24112,8 @@
     "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
     "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
     "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
-    "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157"
+    "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
+    "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340"
   ],
   "category_stats": {
     "movie_news": {
@@ -24082,7 +24135,7 @@
       "samples_with_metrics": 0
     },
     "trailers_first_look": {
-      "published": 12,
+      "published": 13,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24123,7 +24176,7 @@
       "published": 22
     },
     "18": {
-      "published": 22
+      "published": 23
     },
     "20": {
       "published": 43
@@ -24193,64 +24246,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-07T00:01:56.401568+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-07T11:36:07.953164+00:00",
       "version": 2,
@@ -27208,6 +27203,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T18:06:03.349673+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27656,9 +27709,90 @@
     "cff99c94d7609a71",
     "f38a8607d65d259e",
     "213da4b2105f011f",
-    "6c4dfe26b0f413b9"
+    "6c4dfe26b0f413b9",
+    "d7c596e97101c552"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 47,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "book": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "daughter finds an": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "innovative way to": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "unlock her father": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "extraordinary memories": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "trailer": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "ashley da": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "duong": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "for duong": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
+    "vietnam": {
+      "count": 1,
+      "last_seen": "2026-11-17T18:06:03.349609+00:00",
+      "categories": [
+        "trailers_first_look"
+      ]
+    },
     "paramount": {
       "count": 1,
       "last_seen": "2026-11-17T14:12:30.895963+00:00",
@@ -28813,15 +28947,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "oscar": {
-      "count": 46,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals"
       ]
     },
     "friday": {
@@ -30412,76 +30537,6 @@
       "last_seen": "2026-11-10T13:20:49.635921+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "david attenborough": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "vincent munier": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the velvet queen": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "summer school": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "first czech": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "vietnamese feature": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "is coming": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "america": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cinemas": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cinemark": {
-      "count": 1,
-      "last_seen": "2026-11-10T02:38:23.885590+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
