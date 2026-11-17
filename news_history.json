@@ -23213,6 +23213,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4916659f7f3e57342d450981",
+      "story_id": "1f8798a0d3a80f9c",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
+      "title": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
+      "category": "actors_directors",
+      "score": 44.35,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "james bond",
+        "denis villeneuve",
+        "sorry",
+        "daniel craig",
+        "ralph fiennes",
+        "brad pitt",
+        "robert pattinson",
+        "james bond former",
+        "george lazenby",
+        "the lighthouse",
+        "robert eggers",
+        "pattinson"
+      ],
+      "hook": "روبرت پاتینسون به عنوان 007، واکنش‌های بی‌نظیر بازیگران",
+      "hooks": [
+        "رالف فاینز و براد پت به پاتینسون 007 تشویق می‌کنند",
+        "گروه بازیگران 007، واکنش‌های تازه به انتخاب پاتینسون"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "روبرت پاتینسون به عنوان 007 انتخاب شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 454,
+      "published_at": "2026-11-17T21:27:32.839388+00:00",
+      "text": "روبرت پاتینسون به عنوان 007، واکنش‌های بی‌نظیر بازیگران\n\n🎬 روبرت پاتینسون به عنوان 007: واکنش‌های رالف فاینز، براد پت و جورج لازنی\n\nروبرت پاتینسون به تازگی به عنوان 007 انتخاب شد و این خبر باعث واکنش‌های گسترده در دنیای سینما شد. رالف فاینز، براد پت و جورج لازنی، بازیگر سابق 007، از این انتخاب حمایت کردند و نظرات خود را در مورد آینده این نقش به اشتراک گذاشتند.\n\n📌 نکات مهم:\n• روبرت پاتینسون به عنوان 007 انتخاب شد\n• رالف فاینز، براد پت و جورج لازنی واکنش نشان دادند\n• دکتر ربات ایگرز درباره فعالیت پاتینسون در زمان خبر گفت\n• پاتینسون در مسیر تبدیل شدن به 007 پیشرفت کرده است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23663,7 +23715,8 @@
     "a69395712732cb7bdee250c2",
     "64544ceb9e7a693ad037f497",
     "d68e67d93c18c0cf1d3dcff3",
-    "d3dda2d8421643b044ea129d"
+    "d3dda2d8421643b044ea129d",
+    "4916659f7f3e57342d450981"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24113,7 +24166,8 @@
     "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
     "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
     "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
-    "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340"
+    "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340",
+    "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond"
   ],
   "category_stats": {
     "movie_news": {
@@ -24123,7 +24177,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 183,
+      "published": 184,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24182,7 +24236,7 @@
       "published": 43
     },
     "21": {
-      "published": 27
+      "published": 28
     },
     "23": {
       "published": 35
@@ -24246,64 +24300,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-07T11:36:07.953164+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-07T15:23:13.513430+00:00",
       "version": 2,
@@ -27261,6 +27257,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T21:27:32.839494+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27710,9 +27764,94 @@
     "f38a8607d65d259e",
     "213da4b2105f011f",
     "6c4dfe26b0f413b9",
-    "d7c596e97101c552"
+    "d7c596e97101c552",
+    "1f8798a0d3a80f9c"
   ],
   "entity_memory": {
+    "james bond": {
+      "count": 3,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert pattinson": {
+      "count": 3,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "denis villeneuve": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sorry": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "daniel craig": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ralph fiennes": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "brad pitt": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james bond former": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "george lazenby": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the lighthouse": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert eggers": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pattinson": {
+      "count": 1,
+      "last_seen": "2026-11-17T21:27:32.839420+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 47,
       "last_seen": "2026-11-17T18:06:03.349609+00:00",
@@ -28060,20 +28199,6 @@
       "last_seen": "2026-11-16T22:40:43.816840+00:00",
       "categories": [
         "movie_news",
-        "actors_directors"
-      ]
-    },
-    "james bond": {
-      "count": 2,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert pattinson": {
-      "count": 2,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
         "actors_directors"
       ]
     },
@@ -30467,76 +30592,6 @@
       "last_seen": "2026-11-10T16:45:22.060832+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "clashing through": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "whispers": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "woods": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "director vincent munier": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "vosges": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "france": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cannily": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "blue planet": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "french": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "instead": {
-      "count": 1,
-      "last_seen": "2026-11-10T13:20:49.635921+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
