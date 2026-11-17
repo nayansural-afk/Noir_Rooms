@@ -23057,6 +23057,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "64544ceb9e7a693ad037f497",
+      "story_id": "213da4b2105f011f",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
+      "title": "‘The ‘Burbs’ Actor Kapil Talwalkar Signs With Innovative Artists Entertainment",
+      "category": "actors_directors",
+      "score": 71.05,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "burbs",
+        "actor kapil talwalkar",
+        "signs with innovative",
+        "artists entertainment",
+        "kapil talwalkar",
+        "innovative artists entertainment",
+        "talwalkar",
+        "keke palmer",
+        "jack whitehall",
+        "peacock",
+        "tobin",
+        "zoey"
+      ],
+      "hook": "کاپیل تالوالکر، ستارهٔ 'The ‘Burbs'، با Innovative Artists Entertainment قرارداد بست",
+      "hooks": [
+        "کاپیل تالوالکر به تیم جدید می‌پیوندد",
+        "پیکاک با Innovative Artists Entertainment"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کاپیل تالوالکر با Innovative Artists Entertainment قرارداد بست"
+      ],
+      "status": "published",
+      "telegram_message_id": 451,
+      "published_at": "2026-11-17T02:51:40.652968+00:00",
+      "text": "کاپیل تالوالکر، ستارهٔ 'The ‘Burbs'، با Innovative Artists Entertainment قرارداد بست\n\n🎬 کاپیل تالوالکر با شرکت Innovative Artists Entertainment قرارداد بست\n\nکاپیل تالوالکر، بازیگر معروف سریال‌های 'Zoey’s Extraordinary Playlist' و 'Night Court'، با شرکت Innovative Artists Entertainment قرارداد بست.\nاو در سریال Peacock 'The ‘Burbs' در نقش هم‌نویس با Keke Palmer و Jack Whitehall حضور دارد و در فصل دوم در حال تولید است.\n\n📌 نکات مهم:\n• کاپیل تالوالکر با Innovative Artists Entertainment قرارداد بست\n• او در 'The ‘Burbs' با Keke Palmer و Jack Whitehall بازی می‌کند\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23504,7 +23556,8 @@
     "5aa0416c04f7e7db79c7d420",
     "687056c9f00e2cc0f14d32a5",
     "6c346bd36f65d9b156f6f9f0",
-    "a69395712732cb7bdee250c2"
+    "a69395712732cb7bdee250c2",
+    "64544ceb9e7a693ad037f497"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -23951,7 +24004,8 @@
     "https://deadline.com/2026/11/hbo-max-buys-break-clause-channel-4-charly-clive-1237224931",
     "https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307",
     "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
-    "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326"
+    "https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326",
+    "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741"
   ],
   "category_stats": {
     "movie_news": {
@@ -23961,7 +24015,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 181,
+      "published": 182,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24053,7 +24107,7 @@
       "published": 4
     },
     "2": {
-      "published": 3
+      "published": 4
     },
     "13": {
       "published": 34
@@ -24084,64 +24138,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-06T19:46:59.256744+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-06T21:54:15.924440+00:00",
       "version": 2,
@@ -27099,6 +27095,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T02:51:40.653082+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "trailers_first_look",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27545,9 +27599,94 @@
     "7123d4553082efd4",
     "2c7fb35e8867cca6",
     "cff99c94d7609a71",
-    "f38a8607d65d259e"
+    "f38a8607d65d259e",
+    "213da4b2105f011f"
   ],
   "entity_memory": {
+    "burbs": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor kapil talwalkar": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "signs with innovative": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "artists entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kapil talwalkar": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "innovative artists entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "talwalkar": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "keke palmer": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jack whitehall": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peacock": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tobin": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zoey": {
+      "count": 1,
+      "last_seen": "2026-11-17T02:51:40.653003+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "november": {
       "count": 5,
       "last_seen": "2026-11-17T00:35:24.797507+00:00",
@@ -30288,90 +30427,6 @@
       "last_seen": "2026-11-09T22:48:57.181257+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "the lost sounds": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "saigon": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "award": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "winning documentary about": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the quincy jones": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "global": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "that": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "khoa": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "victor velle": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "audience award": {
-      "count": 1,
-      "last_seen": "2026-11-09T22:48:57.181257+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "donnie dunagan": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bambi": {
-      "count": 1,
-      "last_seen": "2026-11-09T19:27:14.875892+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
