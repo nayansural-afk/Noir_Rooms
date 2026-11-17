@@ -23265,6 +23265,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "869f6d3b371d35a300ceb23c",
+      "story_id": "29e9c4f5be776065",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
+      "title": "Thom Velde, Former AMC Theatres Executive, Dies at 83",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "thom velde",
+        "former",
+        "theatres executive",
+        "dies",
+        "thomas velde",
+        "theatres",
+        "velde",
+        "rancho mirage",
+        "calif"
+      ],
+      "hook": "وفات مدیر خرید فیلم AMC، توم ویلده، در سن 83 سالگی",
+      "hooks": [
+        "توم ویلده، رئیس خرید فیلم AMC، درگذشت",
+        "سینما از دست دادن یک چهره مهم: توم ویلده"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "توم ویلده در 31 اکتبر در سن 83 سالگی درگذشت",
+        "او در خانه‌اش در رانکو میرِج، کالیفرنیا، از سرطان رنج می‌برد"
+      ],
+      "status": "published",
+      "telegram_message_id": 455,
+      "published_at": "2026-11-17T23:42:54.983981+00:00",
+      "text": "وفات مدیر خرید فیلم AMC، توم ویلده، در سن 83 سالگی\n\n🎬 توم ویلده، رئیس سابق خرید فیلم AMC، درگذشت در سن 83 سالگی\n\nتوم ویلده، که در طول 27 سال فعالیت در AMC Theatres به عنوان رئیس خرید فیلم خدمت می‌کرد، در تاریخ 31 اکتبر در سن 83 سالگی درگذشت. او در خانه‌اش در رانکو میرِج، کالیفرنیا، از سرطان رنج می‌برد و نقش مهمی در مذاکره قراردادهای فیلم با استودیوهای داخلی و بین‌المللی ایفا کرده بود.\n\n📌 نکات مهم:\n• 27 سال در AMC Theatres به عنوان رئیس خرید فیلم\n• دست‌نوشته قراردادهای فیلم با استودیوهای داخلی و بین‌المللی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23716,7 +23767,8 @@
     "64544ceb9e7a693ad037f497",
     "d68e67d93c18c0cf1d3dcff3",
     "d3dda2d8421643b044ea129d",
-    "4916659f7f3e57342d450981"
+    "4916659f7f3e57342d450981",
+    "869f6d3b371d35a300ceb23c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24167,11 +24219,12 @@
     "https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741",
     "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
     "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340",
-    "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond"
+    "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
+    "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 227,
+      "published": 228,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24239,7 +24292,7 @@
       "published": 28
     },
     "23": {
-      "published": 35
+      "published": 36
     },
     "3": {
       "published": 2
@@ -24300,64 +24353,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-07T15:23:13.513430+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 405,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-07T17:54:52.326091+00:00",
       "version": 2,
@@ -27315,6 +27310,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-17T23:42:54.984090+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27765,9 +27818,74 @@
     "213da4b2105f011f",
     "6c4dfe26b0f413b9",
     "d7c596e97101c552",
-    "1f8798a0d3a80f9c"
+    "1f8798a0d3a80f9c",
+    "29e9c4f5be776065"
   ],
   "entity_memory": {
+    "dies": {
+      "count": 24,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "thom velde": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "former": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatres executive": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thomas velde": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatres": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "velde": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "rancho mirage": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "calif": {
+      "count": 1,
+      "last_seen": "2026-11-17T23:42:54.984013+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "james bond": {
       "count": 3,
       "last_seen": "2026-11-17T21:27:32.839420+00:00",
@@ -28908,14 +29026,6 @@
       "last_seen": "2026-11-14T23:48:14.919016+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "dies": {
-      "count": 23,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "queen": {
@@ -30532,62 +30642,6 @@
       ]
     },
     "christopher briney vs": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle randolph in": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "prime video": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "clashing through the": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "snow": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "trailer featuring olivia": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rodrigo": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christmas single let": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christmas": {
       "count": 1,
       "last_seen": "2026-11-10T16:45:22.060832+00:00",
       "categories": [
