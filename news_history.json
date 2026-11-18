@@ -23528,6 +23528,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a3189d5ba6a7bd0b5dda75f0",
+      "story_id": "d495283e392f21d1",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Variety Film",
+        "Deadline",
+        "Variety"
+      ],
+      "multi_source_count": 4,
+      "url": "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
+      "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+      "category": "movie_news",
+      "score": 95.05,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "universal",
+        "michelle monaghan",
+        "justin theroux",
+        "star",
+        "sleepover",
+        "from blumhouse atomic",
+        "universal michelle monaghan",
+        "blumhouse atomic",
+        "universal pictures",
+        "insidious",
+        "further",
+        "jacob chase",
+        "justin theroux are",
+        "having",
+        "with blumhouse atomic"
+      ],
+      "hook": "مؤثران جدید در فیلم Sleepover",
+      "hooks": [
+        "سینمای جدید با مونانگه و ترکس",
+        "Sleepover: همکاری جدید در بلاومهاوس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "میکی‌لیس مونانگه و جستین ترکس در فیلم Sleepover نقش دارند"
+      ],
+      "status": "published",
+      "telegram_message_id": 460,
+      "published_at": "2026-11-18T23:13:38.307185+00:00",
+      "text": "مؤثران جدید در فیلم Sleepover\n\n🎬 میکی‌لیس مونانگه و جستین ترکس در فیلم Sleepover با بلاومهاوس\n\nفیلم Sleepover که توسط جیکوب چیس برای بلاومهاوس و یونیورسال ساخته می‌شود، در تاریخ 8 اکتبر 2027 منتشر خواهد شد. این نقش‌های اصلی را میکلیس مونانگه و جستین ترکس بر عهده دارند. سینمایی که در آن کارگردان فیلم Insidious: Out of the Further نیز به‌عنوان نویسنده مشترک در پشت صحنه حضور دارد، به‌همراه برایس مک‌گویر، بر اساس یک متن مستند ساخته شده است.\n\n📌 نکات مهم:\n• میکی‌لیس مونانگه و جستین ترکس در فیلم Sleepover نقش دارند\n• فیلم Sleepover در تاریخ 8 اکتبر 2027 منتشر می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Variety Film, Deadline, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23984,7 +24042,8 @@
     "a7362ff80d2207e19ac9583c",
     "1b0c94bec0fd2348dfcac95b",
     "a8ec800a621607613583ee89",
-    "563e97d214033d224a3c0100"
+    "563e97d214033d224a3c0100",
+    "a3189d5ba6a7bd0b5dda75f0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24440,11 +24499,12 @@
     "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
     "https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684",
     "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
-    "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229"
+    "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
+    "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 230,
+      "published": 231,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24512,7 +24572,7 @@
       "published": 29
     },
     "23": {
-      "published": 36
+      "published": 37
     },
     "3": {
       "published": 2
@@ -24573,64 +24633,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-08T15:44:40.904436+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 406,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-08T18:10:07.513273+00:00",
       "version": 2,
@@ -27588,6 +27590,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-18T23:13:38.307306+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 414,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28043,9 +28103,116 @@
     "197adb7354978a37",
     "659e4cbe406eb0a4",
     "7b1c6cd57e13aad2",
-    "11af5249b9d71051"
+    "11af5249b9d71051",
+    "d495283e392f21d1"
   ],
   "entity_memory": {
+    "star": {
+      "count": 7,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "universal": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "michelle monaghan": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "justin theroux": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sleepover": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from blumhouse atomic": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "universal michelle monaghan": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blumhouse atomic": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "universal pictures": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "insidious": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "further": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jacob chase": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "justin theroux are": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "having": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "with blumhouse atomic": {
+      "count": 1,
+      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "february": {
       "count": 3,
       "last_seen": "2026-11-18T21:01:34.269382+00:00",
@@ -28946,14 +29113,6 @@
       "count": 2,
       "last_seen": "2026-11-16T19:13:10.784982+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "star": {
-      "count": 6,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "movie_news",
         "actors_directors"
       ]
     },
@@ -30775,104 +30934,6 @@
       "last_seen": "2026-11-11T19:56:40.125486+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "midnight": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "garden": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "good": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "britt robertson joins": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kellan lutz in": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "faith": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "based survival thriller": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the rescue": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "britt robertson": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tomorrowland": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kellan lutz": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "premiere entertainment": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "production": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new zealand": {
-      "count": 1,
-      "last_seen": "2026-11-11T16:51:27.336726+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
