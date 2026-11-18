@@ -23316,6 +23316,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a7362ff80d2207e19ac9583c",
+      "story_id": "197adb7354978a37",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
+      "title": "Marvel Started Planning for Robert Downey Jr.’s Doctor Doom Before Jonathan Majors Was Fired and ‘Avengers: The Kang Dynasty’ Fell Apart, Says Kevin Feige",
+      "category": "actors_directors",
+      "score": 73.62,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "marvel",
+        "marvel started planning",
+        "robert downey jr",
+        "doctor doom before",
+        "jonathan majors was",
+        "fired",
+        "avengers",
+        "the kang dynasty",
+        "fell apart",
+        "says kevin feige",
+        "before",
+        "doomsday"
+      ],
+      "hook": "Marvel در پیش‌نویس Doctor Doom پیش از سقوط 'کنگ دیسنی'",
+      "hooks": [
+        "سرنگونی Marvel: Doctor Doom پیش از سقوط 'کنگ دیسنی'",
+        "Kevin Feige: برنامه Marvel برای Doctor Doom پیش از Jonathan Majors"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Kevin Feige اعلام کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 456,
+      "published_at": "2026-11-18T02:18:25.760730+00:00",
+      "text": "Marvel در پیش‌نویس Doctor Doom پیش از سقوط 'کنگ دیسنی'\n\n🎬 Marvel پیش از سقوط 'کنگ دیسنی' برنامه Doctor Doom را آغاز کرد\n\nMarvel در Comic‑Con جولای 2022، عنوان 'Avengers: The Kang Dynasty' را اعلام کرد و Jonathan Majors را برای نقش Kang the Conqueror انتخاب کرد. اما چند هفته بعد، Majors اخراج شد و برنامه برای Doctor Doom پیش از سقوط 'کنگ دیسنی' آغاز شد. Kevin Feige اعلام کرد که این تغییرات باعث شد که طرح 'کنگ دیسنی' فروپاشی کند.\n\n📌 نکات مهم:\n• Marvel در Comic‑Con جولای 2022، 'Avengers: The Kang Dynasty' را اعلام کرد\n• Jonathan Majors به عنوان Kang the Conqueror منصوب شد اما پس از چند هفته اخراج شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23768,7 +23821,8 @@
     "d68e67d93c18c0cf1d3dcff3",
     "d3dda2d8421643b044ea129d",
     "4916659f7f3e57342d450981",
-    "869f6d3b371d35a300ceb23c"
+    "869f6d3b371d35a300ceb23c",
+    "a7362ff80d2207e19ac9583c"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24220,7 +24274,8 @@
     "https://variety.com/2026/film/box-office/johnny-depp-ebenezer-ramayana-uk-ireland-box-office-1236950157",
     "https://deadline.com/2026/11/bas-book-documentary-trailer-exclusive-1237226340",
     "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
-    "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046"
+    "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
+    "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563"
   ],
   "category_stats": {
     "movie_news": {
@@ -24230,7 +24285,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 184,
+      "published": 185,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24322,7 +24377,7 @@
       "published": 4
     },
     "2": {
-      "published": 4
+      "published": 5
     },
     "13": {
       "published": 34
@@ -24353,64 +24408,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-07T17:54:52.326091+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-07T20:37:00.364683+00:00",
       "version": 2,
@@ -27368,6 +27365,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-18T02:18:25.760822+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27819,9 +27874,99 @@
     "6c4dfe26b0f413b9",
     "d7c596e97101c552",
     "1f8798a0d3a80f9c",
-    "29e9c4f5be776065"
+    "29e9c4f5be776065",
+    "197adb7354978a37"
   ],
   "entity_memory": {
+    "avengers": {
+      "count": 3,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "doomsday": {
+      "count": 3,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "marvel": {
+      "count": 2,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "marvel started planning": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert downey jr": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "doctor doom before": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jonathan majors was": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fired": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the kang dynasty": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fell apart": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "says kevin feige": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "before": {
+      "count": 1,
+      "last_seen": "2026-11-18T02:18:25.760756+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "dies": {
       "count": 24,
       "last_seen": "2026-11-17T23:42:54.984013+00:00",
@@ -28693,22 +28838,6 @@
         "actors_directors"
       ]
     },
-    "avengers": {
-      "count": 2,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "upcoming_movies",
-        "movie_news"
-      ]
-    },
-    "doomsday": {
-      "count": 2,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "upcoming_movies",
-        "movie_news"
-      ]
-    },
     "dune": {
       "count": 1,
       "last_seen": "2026-11-15T19:12:02.278322+00:00",
@@ -28851,13 +28980,6 @@
     },
     "dc": {
       "count": 2,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marvel": {
-      "count": 1,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
       "categories": [
         "movie_news"
@@ -30581,69 +30703,6 @@
     "jon braylock join": {
       "count": 1,
       "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "forces": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "inevitable studios": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "untitled body swap": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "comedy ramy youssef": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jon braylock": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "details": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "along": {
-      "count": 1,
-      "last_seen": "2026-11-10T20:08:05.612310+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "december": {
-      "count": 2,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "christopher briney vs": {
-      "count": 1,
-      "last_seen": "2026-11-10T16:45:22.060832+00:00",
       "categories": [
         "movie_news"
       ]
