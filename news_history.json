@@ -23422,6 +23422,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a8ec800a621607613583ee89",
+      "story_id": "7b1c6cd57e13aad2",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
+      "title": "‘Return Of The Living Dead’ Sequel Gearing Up With Johnny Knoxville Among Cast",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "return of the",
+        "living dead",
+        "sequel gearing up",
+        "with johnny knoxville",
+        "among cast",
+        "johnny knoxville",
+        "jackass",
+        "ruby snowber",
+        "scary movie",
+        "blake richardson",
+        "war machine",
+        "doug jones"
+      ],
+      "hook": "سکانس‌های ترسناک با جانی کنتیلن در ادامه‌ی زنده‌بودن",
+      "hooks": [
+        "جانی کنتیلن و همکاران در ادامه‌ی زنده‌بودن",
+        "سکانس‌های ترسناک در ادامه‌ی زنده‌بودن"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جانی کنتیلن در ادامه‌ی زنده‌بودن بازی می‌کند"
+      ],
+      "status": "published",
+      "telegram_message_id": 458,
+      "published_at": "2026-11-18T17:45:26.220746+00:00",
+      "text": "سکانس‌های ترسناک با جانی کنتیلن در ادامه‌ی زنده‌بودن\n\n🎬 جانی کنتیلن در ادامه‌ی زنده‌بودن، سری جدید ترسناک\n\nدر ادامه‌ی زنده‌بودن، بازیگران مشهور جانی کنتیلن، روبی سنوبر، بلیک رچرڈسون، دوگ جونز و سین گن در نقش‌های اصلی حضور دارند.\n\nفیلم توسط نویسنده-کارگردان استیو وولش ساخته می‌شود و به عنوان ادامه‌ی محبوب‌ترین سری ترسناک شناخته می‌شود.\n\n📌 نکات مهم:\n• جانی کنتیلن در نقش اصلی حضور دارد\n• فیلم توسط استیو وولش کارگردانی می‌شود\n• سریال ادامه‌ی زنده‌بودن است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23876,7 +23929,8 @@
     "4916659f7f3e57342d450981",
     "869f6d3b371d35a300ceb23c",
     "a7362ff80d2207e19ac9583c",
-    "1b0c94bec0fd2348dfcac95b"
+    "1b0c94bec0fd2348dfcac95b",
+    "a8ec800a621607613583ee89"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24330,7 +24384,8 @@
     "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
     "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
     "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
-    "https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684"
+    "https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684",
+    "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914"
   ],
   "category_stats": {
     "movie_news": {
@@ -24340,7 +24395,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 185,
+      "published": 186,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24438,7 +24493,7 @@
       "published": 35
     },
     "17": {
-      "published": 42
+      "published": 43
     },
     "12": {
       "published": 13
@@ -24463,64 +24518,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-07T23:34:02.871792+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-08T11:47:30.586761+00:00",
       "version": 2,
@@ -27478,6 +27475,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-18T17:45:26.220844+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27931,9 +27986,94 @@
     "1f8798a0d3a80f9c",
     "29e9c4f5be776065",
     "197adb7354978a37",
-    "659e4cbe406eb0a4"
+    "659e4cbe406eb0a4",
+    "7b1c6cd57e13aad2"
   ],
   "entity_memory": {
+    "return of the": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "living dead": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sequel gearing up": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "with johnny knoxville": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "among cast": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "johnny knoxville": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jackass": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ruby snowber": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "scary movie": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "blake richardson": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "war machine": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "doug jones": {
+      "count": 1,
+      "last_seen": "2026-11-18T17:45:26.220778+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "palestinian": {
       "count": 2,
       "last_seen": "2026-11-18T13:43:51.951207+00:00",
@@ -30677,90 +30817,6 @@
       "last_seen": "2026-11-11T12:31:47.845685+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "hopefully we": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "risa": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wind phone": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "wins audience award": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "miami film festival": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gems": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film news": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "brief": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "audience award directed": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "juan cabral": {
-      "count": 1,
-      "last_seen": "2026-11-11T00:32:03.792952+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "will yun lee": {
-      "count": 1,
-      "last_seen": "2026-11-10T22:06:01.274244+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "boards john hensley": {
-      "count": 1,
-      "last_seen": "2026-11-10T22:06:01.274244+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
