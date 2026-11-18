@@ -23475,6 +23475,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "563e97d214033d224a3c0100",
+      "story_id": "11af5249b9d71051",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
+      "title": "Willa, Women Make Movies Team to Release Shalini Kantayya’s Doc ‘Love Apptually’ Theatrically",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "willa",
+        "women make movies",
+        "team",
+        "release shalini kantayya",
+        "love apptually",
+        "theatrically willa",
+        "february",
+        "valentine",
+        "shalini kantayya",
+        "french",
+        "judith duportail",
+        "tinder"
+      ],
+      "hook": "سینمای مستند: عشق واقعی در دنیای تندر",
+      "hooks": [
+        "مستند جدید درباره Tinder و عشق",
+        "سفر ژورنالیست فرانسوی در دنیای آنلاین"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Willa و Women Make Movies همکاری برای انتشار مستند"
+      ],
+      "status": "published",
+      "telegram_message_id": 459,
+      "published_at": "2026-11-18T21:01:34.269339+00:00",
+      "text": "سینمای مستند: عشق واقعی در دنیای تندر\n\n🎬 Willa و Women Make Movies مستند 'Love Apptually' را در سینماهای آمریکا عرضه می‌کنند\n\nمستند 'Love Apptually' توسط Willa و Women Make Movies به صورت تئاتری در آمریکا منتشر می‌شود. در فوریه، نزدیک روز ولنتاین، این اثر به کارگردانی شالینی کانتیایا، سفر ژورنالیست فرانسوی ژودی دوپورتیل را از علاقه اولیه به Tinder تا بررسی فناوری‌ها و انگیزه‌های تجاری می‌کشد.\n\n📌 نکات مهم:\n• توزیع مستند 'Love Apptually' توسط Willa و Women Make Movies\n• مستند درباره سفر ژورنالیست فرانسوی در دنیای Tinder\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -23930,7 +23983,8 @@
     "869f6d3b371d35a300ceb23c",
     "a7362ff80d2207e19ac9583c",
     "1b0c94bec0fd2348dfcac95b",
-    "a8ec800a621607613583ee89"
+    "a8ec800a621607613583ee89",
+    "563e97d214033d224a3c0100"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24385,11 +24439,12 @@
     "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
     "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
     "https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684",
-    "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914"
+    "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
+    "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 229,
+      "published": 230,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24454,7 +24509,7 @@
       "published": 43
     },
     "21": {
-      "published": 28
+      "published": 29
     },
     "23": {
       "published": 36
@@ -24518,64 +24573,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-08T11:47:30.586761+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-08T15:44:40.904436+00:00",
       "version": 2,
@@ -27533,6 +27530,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-18T21:01:34.269454+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -27987,9 +28042,95 @@
     "29e9c4f5be776065",
     "197adb7354978a37",
     "659e4cbe406eb0a4",
-    "7b1c6cd57e13aad2"
+    "7b1c6cd57e13aad2",
+    "11af5249b9d71051"
   ],
   "entity_memory": {
+    "february": {
+      "count": 3,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "willa": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "women make movies": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "team": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "release shalini kantayya": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "love apptually": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "theatrically willa": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "valentine": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shalini kantayya": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "french": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "judith duportail": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tinder": {
+      "count": 1,
+      "last_seen": "2026-11-18T21:01:34.269382+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "return of the": {
       "count": 1,
       "last_seen": "2026-11-18T17:45:26.220778+00:00",
@@ -28810,14 +28951,6 @@
     },
     "star": {
       "count": 6,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "february": {
-      "count": 2,
       "last_seen": "2026-11-16T19:13:10.784982+00:00",
       "categories": [
         "movie_news",
@@ -30740,83 +30873,6 @@
       "last_seen": "2026-11-11T16:51:27.336726+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "jamie dornan admits": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cried": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "when he was": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cast": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "aragorn": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lord": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rings": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hunt": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "gollum": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says filming was": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "incredible": {
-      "count": 1,
-      "last_seen": "2026-11-11T12:31:47.845685+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
