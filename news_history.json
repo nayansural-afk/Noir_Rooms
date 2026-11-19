@@ -23644,6 +23644,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "bfade4ee58be7a5f15411878",
+      "story_id": "a5a47a6c39fb628f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
+      "title": "‘Boys by the River,’ an IDFA Highlight, Captures One Day in ‘Paradise’ in Europe, Relished by Three Afghan Asylum Seekers",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "boys",
+        "river",
+        "highlight",
+        "captures one day",
+        "paradise",
+        "europe",
+        "relished",
+        "three afghan asylum",
+        "seekers many",
+        "richly",
+        "ragazzi",
+        "envision competition"
+      ],
+      "hook": "سفر یک روزه مهاجران افغان در رودخانه‌ی بهشت",
+      "hooks": [
+        "دستاورد IDFA: مستند-فیلم در مورد مهاجرت",
+        "پابلو برینوس و سه مهاجر افغان در سوئیس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم یک روز زندگی سه مهاجر افغان در سوئیس را نشان می‌دهد."
+      ],
+      "status": "published",
+      "telegram_message_id": 462,
+      "published_at": "2026-11-19T14:13:01.341484+00:00",
+      "text": "سفر یک روزه مهاجران افغان در رودخانه‌ی بهشت\n\n🎬 ‘پسران کنار رودخانه’ در رقابت IDFA، روایت یک روز در بهشت سوئیس\n\nمستند-فیلم ‘پسران کنار رودخانه’ (Ragazzi al fiume) توسط پابلو برینوس، کارگردان مستقر در سوئیس، در رقابت Envision جشنواره IDFA به نمایش گذاشته شد.\nفیلم با دقت و ساختار دقیق، روزی را که سه مهاجر افغان در سوئیس کنار رودخانه‌ای که به آن 'بهشت' می‌گویند، گذرانده‌اند، به تصویر می‌کشد.\n\n📌 نکات مهم:\n• عنوان: ‘پسران کنار رودخانه’ (Ragazzi al fiume)\n• کارگردان: پابلو برینوس (سوییس)\n• جشنواره: IDFA Envision Competition\n• موضوع: سه مهاجر افغان در سوئیس\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24102,7 +24154,8 @@
     "a8ec800a621607613583ee89",
     "563e97d214033d224a3c0100",
     "a3189d5ba6a7bd0b5dda75f0",
-    "4a8637f71180b40b087dc6f3"
+    "4a8637f71180b40b087dc6f3",
+    "bfade4ee58be7a5f15411878"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24560,11 +24613,12 @@
     "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
     "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
     "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
-    "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517"
+    "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
+    "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 231,
+      "published": 232,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24617,7 +24671,7 @@
       "published": 24
     },
     "14": {
-      "published": 14
+      "published": 15
     },
     "16": {
       "published": 22
@@ -24693,64 +24747,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-08T20:55:02.014032+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-08T23:35:36.530205+00:00",
       "version": 2,
@@ -27708,6 +27704,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-19T14:13:01.341547+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28165,9 +28219,94 @@
     "7b1c6cd57e13aad2",
     "11af5249b9d71051",
     "d495283e392f21d1",
-    "6a156cd4abe564c8"
+    "6a156cd4abe564c8",
+    "a5a47a6c39fb628f"
   ],
   "entity_memory": {
+    "boys": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "river": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "highlight": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "captures one day": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paradise": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "europe": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "relished": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "three afghan asylum": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seekers many": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "richly": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "ragazzi": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "envision competition": {
+      "count": 1,
+      "last_seen": "2026-11-19T14:13:01.341505+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "star": {
       "count": 8,
       "last_seen": "2026-11-19T01:49:58.425057+00:00",
@@ -30908,94 +31047,6 @@
       "last_seen": "2026-11-12T13:37:12.933326+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "between sisters": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "netflix": {
-      "count": 14,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "movie_news",
-        "streaming",
-        "actors_directors"
-      ]
-    },
-    "director": {
-      "count": 4,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "gang dong": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kim go": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the twilight between": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "when life gives": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "you tangerines": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tears": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "writer netflix": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kim won": {
-      "count": 1,
-      "last_seen": "2026-11-12T01:52:26.948790+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "disney": {
-      "count": 2,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "actors_directors",
-        "upcoming_movies"
       ]
     }
   },
