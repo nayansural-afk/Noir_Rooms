@@ -23696,6 +23696,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "74517ff3db70897d81918ac5",
+      "story_id": "3da407589a224b37",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
+      "title": "‘Bridgerton’ Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com ‘The More The Merrier’",
+      "category": "actors_directors",
+      "score": 82.4,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "bridgerton",
+        "star hannah dodd",
+        "joins nick jonas",
+        "in netflix holiday",
+        "the more the",
+        "merrier",
+        "hannah dodd",
+        "english",
+        "nick jonas",
+        "the more",
+        "april"
+      ],
+      "hook": "هانا دود و نیک جونز در فیلم رمانتیک تعطیلات نِت‌فلیکس",
+      "hooks": [
+        "هانا دود در نقش اصلی Bridgerton، حالا در رمانتیک‌سینمای نِت‌فلیکس",
+        "نیک جونز و هانا دود در فیلم «The More The Merrier»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "هانا دود در Bridgerton به‌عنوان ستاره اصلی فصل پنجم است"
+      ],
+      "status": "published",
+      "telegram_message_id": 463,
+      "published_at": "2026-11-19T17:56:40.864143+00:00",
+      "text": "هانا دود و نیک جونز در فیلم رمانتیک تعطیلات نِت‌فلیکس\n\n🎬 هانا دود به نقش نیک جونز در فیلم رمانتیک تعطیلات نِت‌فلیکس می‌پیوندد\n\nهانا دود، بازیگر انگلیسی سریال Bridgerton، به‌عنوان ستاره اصلی فصل پنجم سریال ادامه می‌دهد و هم‌اکنون در نقش اصلی فیلم رمانتیک تعطیلات نِت‌فلیکس «The More The Merrier» حضور دارد. در این فیلم، او در کنار نیک جونز بازی می‌کند و تولید در نیوجرسی آغاز شده است. فیلم توسط نِت‌فلیکس ساخته و در حال حاضر در مرحله تولید است.\n\n📌 نکات مهم:\n• هانا دود ستاره Bridgerton و بازیگر فیلم The More The Merrier\n• نیک جونز در نقش هم‌نقش در The More The Merrier\n• فیلم در نیوجرسی تولید می‌شود\n• فیلم رمانتیک تعطیلاتی است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24155,7 +24208,8 @@
     "563e97d214033d224a3c0100",
     "a3189d5ba6a7bd0b5dda75f0",
     "4a8637f71180b40b087dc6f3",
-    "bfade4ee58be7a5f15411878"
+    "bfade4ee58be7a5f15411878",
+    "74517ff3db70897d81918ac5"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24614,7 +24668,8 @@
     "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
     "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
     "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
-    "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893"
+    "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
+    "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026"
   ],
   "category_stats": {
     "movie_news": {
@@ -24624,7 +24679,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 187,
+      "published": 188,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24722,7 +24777,7 @@
       "published": 35
     },
     "17": {
-      "published": 43
+      "published": 44
     },
     "12": {
       "published": 13
@@ -24747,64 +24802,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-08T23:35:36.530205+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-09T13:42:50.330831+00:00",
       "version": 2,
@@ -27762,6 +27759,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-19T17:56:40.864249+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28220,9 +28275,94 @@
     "11af5249b9d71051",
     "d495283e392f21d1",
     "6a156cd4abe564c8",
-    "a5a47a6c39fb628f"
+    "a5a47a6c39fb628f",
+    "3da407589a224b37"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bridgerton": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star hannah dodd": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joins nick jonas": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "in netflix holiday": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the more the": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "merrier": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hannah dodd": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "english": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "nick jonas": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the more": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "april": {
+      "count": 1,
+      "last_seen": "2026-11-19T17:56:40.864176+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "boys": {
       "count": 1,
       "last_seen": "2026-11-19T14:13:01.341505+00:00",
@@ -30961,90 +31101,6 @@
     "melusine studios": {
       "count": 1,
       "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "aircraft pictures": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sun creature": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "italian": {
-      "count": 3,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "low lies": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "land": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from producer": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nominated": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the cave": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sells": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "several territories": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dogwoof": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "emanuele gerosa": {
-      "count": 1,
-      "last_seen": "2026-11-12T13:37:12.933326+00:00",
       "categories": [
         "movie_news"
       ]
