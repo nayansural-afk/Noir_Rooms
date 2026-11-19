@@ -23586,6 +23586,64 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4a8637f71180b40b087dc6f3",
+      "story_id": "6a156cd4abe564c8",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Variety"
+      ],
+      "multi_source_count": 3,
+      "url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
+      "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 57.51,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "paramount",
+        "chris pratt",
+        "star",
+        "fi family drama",
+        "the traveler",
+        "inks first",
+        "look producing deal",
+        "paramount pictures",
+        "joseph eckert",
+        "pratt",
+        "indivisible productions",
+        "eckert",
+        "fi movie",
+        "he inks paramount",
+        "look the"
+      ],
+      "hook": "کریس پرات به‌سرعت در سفر علمی-تخیلی «تراوِیجر» نقش‌آفرینی می‌کند",
+      "hooks": [
+        "پروژه جدید کریس پرات: «تراوِیجر» در دوربین پاراماونت",
+        "سفر علمی-تخیلی کریس پرات در «تراوِیجر»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کریس پرات در نقش اصلی «تراوِیجر»",
+        "فیلم بر اساس رمان جوزف اکرت"
+      ],
+      "status": "published",
+      "telegram_message_id": 461,
+      "published_at": "2026-11-19T01:49:58.425026+00:00",
+      "text": "کریس پرات به‌سرعت در سفر علمی-تخیلی «تراوِیجر» نقش‌آفرینی می‌کند\n\n🎬 کریس پرات در نقش اصلی «تراوِیجر»، قرارداد تولیدی جدید در پاراماونت\n\nکریس پرات در فیلم علمی-تخیلی «تراوِیجر» نقش‌آفرینی می‌کند، که بر اساس رمان جوزف اکرت ساخته می‌شود.\nاین پروژه در چارچوب قرارداد تولیدی سه‌ساله‌اش با پاراماونت و برچسب Indivisible Productions اجرا می‌شود.\n\n📌 نکات مهم:\n• کریس پرات در نقش اصلی «تراوِیجر»\n• فیلم بر اساس رمان جوزف اکرت\n\n✅ تأیید چندمنبعی: Variety Film, The Hollywood Reporter, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24043,7 +24101,8 @@
     "1b0c94bec0fd2348dfcac95b",
     "a8ec800a621607613583ee89",
     "563e97d214033d224a3c0100",
-    "a3189d5ba6a7bd0b5dda75f0"
+    "a3189d5ba6a7bd0b5dda75f0",
+    "4a8637f71180b40b087dc6f3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24500,7 +24559,8 @@
     "https://variety.com/2026/film/global/chronicles-from-the-siege-withdrawn-marrakech-1236951684",
     "https://deadline.com/2026/11/return-of-the-living-dead-sequel-in-works-johnny-knoxville-1237227914",
     "https://variety.com/2026/film/news/willa-women-make-movies-doc-love-apptually-1236952229",
-    "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526"
+    "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
+    "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517"
   ],
   "category_stats": {
     "movie_news": {
@@ -24510,7 +24570,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 186,
+      "published": 187,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24599,7 +24659,7 @@
       "published": 20
     },
     "1": {
-      "published": 4
+      "published": 5
     },
     "2": {
       "published": 5
@@ -24633,64 +24693,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-08T18:10:07.513273+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-08T20:55:02.014032+00:00",
       "version": 2,
@@ -27648,6 +27650,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-19T01:49:58.425133+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28104,14 +28164,114 @@
     "659e4cbe406eb0a4",
     "7b1c6cd57e13aad2",
     "11af5249b9d71051",
-    "d495283e392f21d1"
+    "d495283e392f21d1",
+    "6a156cd4abe564c8"
   ],
   "entity_memory": {
     "star": {
-      "count": 7,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
+      "count": 8,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
       "categories": [
         "movie_news",
+        "actors_directors"
+      ]
+    },
+    "paramount": {
+      "count": 2,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chris pratt": {
+      "count": 2,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "fi family drama": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the traveler": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "inks first": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "look producing deal": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paramount pictures": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "joseph eckert": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pratt": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indivisible productions": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "eckert": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "fi movie": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "he inks paramount": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "look the": {
+      "count": 1,
+      "last_seen": "2026-11-19T01:49:58.425057+00:00",
+      "categories": [
         "actors_directors"
       ]
     },
@@ -28781,13 +28941,6 @@
       "last_seen": "2026-11-17T18:06:03.349609+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "paramount": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "johnny depp": {
@@ -29614,13 +29767,6 @@
       ]
     },
     "exit chris pratt": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chris pratt": {
       "count": 1,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
       "categories": [
@@ -30850,90 +30996,6 @@
       "categories": [
         "actors_directors",
         "upcoming_movies"
-      ]
-    },
-    "avengers endgame": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "encore": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "sets disney": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "release date with": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "countdown to doomsday": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "spot the": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "endgame": {
-      "count": 1,
-      "last_seen": "2026-11-11T23:14:22.334121+00:00",
-      "categories": [
-        "upcoming_movies"
-      ]
-    },
-    "actress": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "josephine": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "big mama": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joseph": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "family thing": {
-      "count": 1,
-      "last_seen": "2026-11-11T19:56:40.125486+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
