@@ -23749,6 +23749,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "4f4ad2dae9049f7d8ea4b333",
+      "story_id": "c1cc5c89c5973dd5",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
+      "title": "Mary Steenburgen, Kyra Sedgwick & Sophia Bush Set For Indie ‘Kindred Spirits’; Hilary Swank Among Producers",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "mary steenburgen",
+        "kyra sedgwick",
+        "sophia bush set",
+        "for indie",
+        "kindred spirits",
+        "hilary swank among",
+        "producers",
+        "academy award",
+        "hilary swank",
+        "the dink",
+        "family movie",
+        "sophia bush"
+      ],
+      "hook": "سینمای مستقل: هیلاری سوینک، ماری استونبرگن، کریا سِدگِوک و سافیا بوش در 'Kindred Spirits'",
+      "hooks": [
+        "هیلاری سوینک در تولید 'Kindred Spirits'",
+        "ماری استونبرگن، کریا سِدگِوک و سافیا بوش در سینمای مستقل"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "هیلاری سوینک در تولید فیلم نقش دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 464,
+      "published_at": "2026-11-19T21:06:05.347158+00:00",
+      "text": "سینمای مستقل: هیلاری سوینک، ماری استونبرگن، کریا سِدگِوک و سافیا بوش در 'Kindred Spirits'\n\n🎬 هیلاری سوینک در تولید 'Kindred Spirits'؛ بازیگران برجسته در سینمای مستقل\n\nفیلم مستقل 'Kindred Spirits' با حضور ماری استونبرگن، کریا سِدگِوک و سافیا بوش در دوربین هیلاری سوینک به تولید می‌رسد.\nسینمای انگلیس، کارگردان گرانت اس. جانسون، که در تولید فیلم‌های 'May December' و 'Magazine' نقش داشته، این پروژه را هدایت می‌کند.\n\n📌 نکات مهم:\n• هیلاری سوینک در تولید فیلم نقش دارد\n• فیلم در انگلستان در حال تولید است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24209,7 +24262,8 @@
     "a3189d5ba6a7bd0b5dda75f0",
     "4a8637f71180b40b087dc6f3",
     "bfade4ee58be7a5f15411878",
-    "74517ff3db70897d81918ac5"
+    "74517ff3db70897d81918ac5",
+    "4f4ad2dae9049f7d8ea4b333"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24669,11 +24723,12 @@
     "https://deadline.com/2026/11/michelle-monaghan-justin-theroux-sleepover-1237228526",
     "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
     "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
-    "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026"
+    "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
+    "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 232,
+      "published": 233,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24738,7 +24793,7 @@
       "published": 43
     },
     "21": {
-      "published": 29
+      "published": 30
     },
     "23": {
       "published": 37
@@ -24802,64 +24857,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-09T13:42:50.330831+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-09T19:27:14.875968+00:00",
       "version": 2,
@@ -27817,6 +27814,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-19T21:06:05.347263+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28276,9 +28331,94 @@
     "d495283e392f21d1",
     "6a156cd4abe564c8",
     "a5a47a6c39fb628f",
-    "3da407589a224b37"
+    "3da407589a224b37",
+    "c1cc5c89c5973dd5"
   ],
   "entity_memory": {
+    "mary steenburgen": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kyra sedgwick": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sophia bush set": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "for indie": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kindred spirits": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hilary swank among": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "producers": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "academy award": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hilary swank": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the dink": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "family movie": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sophia bush": {
+      "count": 1,
+      "last_seen": "2026-11-19T21:06:05.347193+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "netflix": {
       "count": 1,
       "last_seen": "2026-11-19T17:56:40.864176+00:00",
@@ -31017,90 +31157,6 @@
     "the cinema eye": {
       "count": 1,
       "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "honors": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thursday": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gkids acquires": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rights": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cartoon saloon": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "animated film": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "directed": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "louise bagnall": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "executive produced": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "gkids": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "julian": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "melusine studios": {
-      "count": 1,
-      "last_seen": "2026-11-12T17:18:38.510251+00:00",
       "categories": [
         "movie_news"
       ]
