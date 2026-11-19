@@ -23802,6 +23802,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "1441a1a54c84115441a81b9a",
+      "story_id": "2f85d336617d0977",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
+      "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
+      "category": "movie_news",
+      "score": 78.45,
+      "freshness": 92.0,
+      "credibility": 94.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "tarantino",
+        "the further mis",
+        "adventures",
+        "cliff booth",
+        "fincher",
+        "brad pitt",
+        "david fincher",
+        "quentin tarantino",
+        "once upon",
+        "time",
+        "hollywood",
+        "cliff"
+      ],
+      "hook": "تارانتینو و فینچر، بازگشت برافراز براد پیت",
+      "hooks": [
+        "سلسلهٔ جدید کلِف بوت، همکاران بی‌نظیر",
+        "سینما در آستانهٔ تحولی: فینچر و تارانتینو"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Fincher directs Tarantino’s script",
+        "Brad Pitt returns as Cliff Booth"
+      ],
+      "status": "published",
+      "telegram_message_id": 465,
+      "published_at": "2026-11-19T23:21:20.703920+00:00",
+      "text": "تارانتینو و فینچر، بازگشت برافراز براد پیت\n\n🎬 کلِف بوت: ادامهٔ ماجراهای بی‌نظیر، با همکاری تارانتینو و فینچر\n\nدر این ادامهٔ ۱۴۰ دقیقه‌ای، دنیای فینچر و تارانتینو به هم می‌پیوندد و داستان کلِف بوت را از فیلم «Once Upon a Time in Hollywood» ادامه می‌دهد.\n\nبا حضور براد پیت در نقش کلِف بوت، فیلم به‌صورت بی‌نظیری به نمایش می‌گذارد، در حالی که موضوع قتل همسر او در این بخش به‌صورت سکوتی باقی می‌ماند.\n\n📌 نکات مهم:\n• David Fincher directs Quentin Tarantino’s script\n• Brad Pitt stars as Cliff Booth\n• Film continues story from Once Upon a Time in Hollywood\n• Runtime 140 minutes\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24263,7 +24316,8 @@
     "4a8637f71180b40b087dc6f3",
     "bfade4ee58be7a5f15411878",
     "74517ff3db70897d81918ac5",
-    "4f4ad2dae9049f7d8ea4b333"
+    "4f4ad2dae9049f7d8ea4b333",
+    "1441a1a54c84115441a81b9a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24724,11 +24778,12 @@
     "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517",
     "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
     "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
-    "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419"
+    "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
+    "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 233,
+      "published": 234,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24796,7 +24851,7 @@
       "published": 30
     },
     "23": {
-      "published": 37
+      "published": 38
     },
     "3": {
       "published": 2
@@ -24857,64 +24912,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-09T19:27:14.875968+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        },
-        {
-          "title": "NewFilmmakers Los Angeles Unveils DocuSlate Documentary Film Festival Lineup Featuring World, North American, U.S. Premieres & More",
-          "category": "movie_news",
-          "score": 88.31,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-09T22:48:57.181338+00:00",
       "version": 2,
@@ -27872,6 +27869,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-19T23:21:20.704045+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28332,9 +28387,95 @@
     "6a156cd4abe564c8",
     "a5a47a6c39fb628f",
     "3da407589a224b37",
-    "c1cc5c89c5973dd5"
+    "c1cc5c89c5973dd5",
+    "2f85d336617d0977"
   ],
   "entity_memory": {
+    "brad pitt": {
+      "count": 2,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "tarantino": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the further mis": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "adventures": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cliff booth": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "fincher": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "david fincher": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "quentin tarantino": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "once upon": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "time": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hollywood": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cliff": {
+      "count": 1,
+      "last_seen": "2026-11-19T23:21:20.703955+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "mary steenburgen": {
       "count": 1,
       "last_seen": "2026-11-19T21:06:05.347193+00:00",
@@ -29234,13 +29375,6 @@
       ]
     },
     "ralph fiennes": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "brad pitt": {
       "count": 1,
       "last_seen": "2026-11-17T21:27:32.839420+00:00",
       "categories": [
@@ -31080,83 +31214,6 @@
     "monos": {
       "count": 1,
       "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the summer": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cinema eye honors": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "nominations": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "american doctor": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "you can see": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "everything": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead with": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "time and water": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "close behind": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "full list": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the cinema eye": {
-      "count": 1,
-      "last_seen": "2026-11-12T20:35:14.439608+00:00",
       "categories": [
         "movie_news"
       ]
