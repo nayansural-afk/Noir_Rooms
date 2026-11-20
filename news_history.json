@@ -23961,6 +23961,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "903e5c674e88246a10ab3ff2",
+      "story_id": "8ae7dc50cba6a0ba",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
+      "title": "Louis Garrel And Harry Lawtey Join Jeremy Allen White In Ben Stiller-Directed ‘Airman’ From Laika Live-Action And A24",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "louis garrel and",
+        "harry lawtey join",
+        "jeremy allen white",
+        "in ben stiller",
+        "directed",
+        "airman",
+        "from laika live",
+        "action and",
+        "louis garrel",
+        "harry lawtey",
+        "laika live action"
+      ],
+      "hook": "سینمای جدید: لویی گارل و هری لاوتی در فیلم 'ایرمان'",
+      "hooks": [
+        "سفر نجات در جنگ جهانی دوم با بازی لویی گارل",
+        "بازیگران جدید در فیلم 'ایرمان' با کارگردانی بن استیلر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم بر اساس رمان NYT bestseller 'The Lost Airman' ساخته شده"
+      ],
+      "status": "published",
+      "telegram_message_id": 468,
+      "published_at": "2026-11-20T17:30:12.084775+00:00",
+      "text": "سینمای جدید: لویی گارل و هری لاوتی در فیلم 'ایرمان'\n\n🎬 لویی گارل، هری لاوتی و جریمی آلن وایت در فیلم 'ایرمان' به‌دنبال نجات در جنگ جهانی دوم\n\nفیلم 'ایرمان' که توسط بن استیلر کارگردانی شده، در قالب یک تریلر هیجان‌انگیز، ما را به دنیای جنگ جهانی دوم می‌برد. این اثر بر اساس رمان برنده جایزه NYT bestseller 'The Lost Airman' نوشته سِت میرویتز ساخته شده و با حضور لویی گارل، هری لاوتی و جریمی آلن وایت، لحظه‌های نجات و مقاومت را به تصویر می‌کشد.\n\n📌 نکات مهم:\n• فیلم 'ایرمان' کارگردان بن استیلر است\n• سینما بر اساس رمان NYT bestseller 'The Lost Airman' نوشته سِت میرویتز ساخته شده\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24425,7 +24478,8 @@
     "4f4ad2dae9049f7d8ea4b333",
     "1441a1a54c84115441a81b9a",
     "20af628b3d3479771ac6c963",
-    "7893f6eba98874e33f8ec1d6"
+    "7893f6eba98874e33f8ec1d6",
+    "903e5c674e88246a10ab3ff2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24889,11 +24943,12 @@
     "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
     "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
     "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
-    "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081"
+    "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
+    "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 234,
+      "published": 235,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24997,7 +25052,7 @@
       "published": 36
     },
     "17": {
-      "published": 44
+      "published": 45
     },
     "12": {
       "published": 13
@@ -25022,64 +25077,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T02:38:23.885671+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T13:20:49.635994+00:00",
       "version": 2,
@@ -28037,6 +28034,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-20T17:30:12.084871+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28500,9 +28555,94 @@
     "c1cc5c89c5973dd5",
     "2f85d336617d0977",
     "c5978d676a018622",
-    "f247cd643a084568"
+    "f247cd643a084568",
+    "8ae7dc50cba6a0ba"
   ],
   "entity_memory": {
+    "a24": {
+      "count": 2,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "louis garrel and": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harry lawtey join": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jeremy allen white": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "in ben stiller": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "directed": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "airman": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from laika live": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "action and": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "louis garrel": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "harry lawtey": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "laika live action": {
+      "count": 1,
+      "last_seen": "2026-11-20T17:30:12.084803+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "tarantino": {
       "count": 2,
       "last_seen": "2026-11-20T13:54:26.485839+00:00",
@@ -31073,13 +31213,6 @@
         "movie_news"
       ]
     },
-    "a24": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "margot robbie": {
       "count": 1,
       "last_seen": "2026-11-13T20:12:05.950080+00:00",
@@ -31251,83 +31384,6 @@
     "horror movie": {
       "count": 1,
       "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "system": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "planet": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "apes": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "freya allan": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "norwegian": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "joachim": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "plot": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rick cosnett": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "richard kind": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tammy blanchard join": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alice eve in": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
       "categories": [
         "movie_news"
       ]
