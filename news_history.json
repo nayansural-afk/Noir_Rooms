@@ -23907,6 +23907,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7893f6eba98874e33f8ec1d6",
+      "story_id": "f247cd643a084568",
+      "source": "Variety",
+      "sources": [
+        "Variety"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
+      "title": "Quentin Tarantino Play ‘The Popinjay Cavalier,’ Starring Sacha Baron Cohen, Unveils Full Cast as West End Run Extended",
+      "category": "actors_directors",
+      "score": 46.91,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "tarantino",
+        "oscar",
+        "quentin tarantino play",
+        "the popinjay cavalier",
+        "starring sacha baron",
+        "cohen",
+        "unveils full cast",
+        "west end run",
+        "extended quentin tarantino",
+        "london",
+        "the oscar",
+        "sony pictures entertainment"
+      ],
+      "hook": "تارانتینو در تئاتر لندن، «پاپینجای کلاویر» را به طول می‌کشد",
+      "hooks": [
+        "سارا بارون کوهن در نقش اصلی، تارانتینو در تئاتر",
+        "پخش طولانی‌تر «پاپینجای کلاویر» در تئاتر فینکس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تارانتینو اولین نمایشنامهٔ خود را اجرا می‌کند",
+        "سارا بارون کوهن در نقش اصلی حضور دارد",
+        "نمایش در تئاتر فینکس تا ۱۲ سپتامبر ۲۰۲۷ تمدید شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 467,
+      "published_at": "2026-11-20T13:54:26.485808+00:00",
+      "text": "تارانتینو در تئاتر لندن، «پاپینجای کلاویر» را به طول می‌کشد\n\n🎬 تارانتینو و سارا بارون کوهن: «پاپینجای کلاویر» در تئاتر فینکس تا ۱۲ سپتامبر ۲۰۲۷\n\nفیلم‌ساز برنده اسکار، اولین نمایشنامهٔ خود را در لندن به نمایش می‌گذارد. «پاپینجای کلاویر» در تئاتر فینکس اجرا می‌شود.\nسارا بارون کوهن در نقش اصلی حضور دارد و شرکت‌های Sony Pictures Entertainment و Sonia Friedman Productions پشت صحنه هستند. اجرای نمایش تا ۱۲ سپتامبر ۲۰۲۷ تمدید شد.\n\n📌 نکات مهم:\n• اولین نمایشنامهٔ تارانتینو\n• سارا بارون کوهن در نقش اصلی\n• تکمیل اجرای در تئاتر فینکس\n• مدت زمان تمدید تا ۱۲ سپتامبر ۲۰۲۷\n\n#سینما #فیلم #تارانتینو #سارا_بارون_کوهن\n\n🔗 منبع: Variety\nhttps://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24370,7 +24424,8 @@
     "74517ff3db70897d81918ac5",
     "4f4ad2dae9049f7d8ea4b333",
     "1441a1a54c84115441a81b9a",
-    "20af628b3d3479771ac6c963"
+    "20af628b3d3479771ac6c963",
+    "7893f6eba98874e33f8ec1d6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24833,7 +24888,8 @@
     "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
     "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
     "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
-    "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689"
+    "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
+    "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081"
   ],
   "category_stats": {
     "movie_news": {
@@ -24843,7 +24899,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 189,
+      "published": 190,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24938,7 +24994,7 @@
       "published": 5
     },
     "13": {
-      "published": 35
+      "published": 36
     },
     "17": {
       "published": 44
@@ -24966,64 +25022,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T00:30:29.251842+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T02:38:23.885671+00:00",
       "version": 2,
@@ -27981,6 +27979,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-20T13:54:26.485927+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28443,9 +28499,99 @@
     "3da407589a224b37",
     "c1cc5c89c5973dd5",
     "2f85d336617d0977",
-    "c5978d676a018622"
+    "c5978d676a018622",
+    "f247cd643a084568"
   ],
   "entity_memory": {
+    "tarantino": {
+      "count": 2,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "oscar": {
+      "count": 48,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "london": {
+      "count": 2,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "quentin tarantino play": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the popinjay cavalier": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring sacha baron": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cohen": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "unveils full cast": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "west end run": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "extended quentin tarantino": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the oscar": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "sony pictures entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-20T13:54:26.485839+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "november": {
       "count": 6,
       "last_seen": "2026-11-20T01:43:48.883435+00:00",
@@ -28537,13 +28683,6 @@
       "last_seen": "2026-11-19T23:21:20.703955+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "tarantino": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
         "movie_news"
       ]
     },
@@ -29555,16 +29694,6 @@
       "last_seen": "2026-11-17T21:27:32.839420+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 47,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
       ]
     },
     "book": {
@@ -31175,13 +31304,6 @@
         "movie_news"
       ]
     },
-    "london": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "rick cosnett": {
       "count": 1,
       "last_seen": "2026-11-13T00:59:04.705852+00:00",
@@ -31206,69 +31328,6 @@
     "alice eve in": {
       "count": 1,
       "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "indie": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the long run": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tammy blanchard": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "they": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "alice eve": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harold cronk": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "unbroken": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "path": {
-      "count": 1,
-      "last_seen": "2026-11-13T00:59:04.705852+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dark sky films": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
       "categories": [
         "movie_news"
       ]
