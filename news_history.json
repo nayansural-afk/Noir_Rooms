@@ -23855,6 +23855,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "20af628b3d3479771ac6c963",
+      "story_id": "c5978d676a018622",
+      "source": "Deadline",
+      "sources": [
+        "Deadline"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
+      "title": "Jorrybell Agoto Dies: Filipiñana Breakout Actress Was 32",
+      "category": "actors_directors",
+      "score": 71.5,
+      "freshness": 100.0,
+      "credibility": 93.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.565,
+      "is_breaking": true,
+      "entities": [
+        "jorrybell agoto dies",
+        "breakout actress was",
+        "philippines",
+        "jorrybell agoto",
+        "rafael manuel",
+        "tuesday",
+        "november",
+        "epicmedia productions",
+        "philippine",
+        "instagram",
+        "belle",
+        "manuel"
+      ],
+      "hook": "دوران جوانی: جان‌جوی جوری‌بل آگوتو در فیلم فیلیپینانا",
+      "hooks": [
+        "جان‌جوی جوری‌بل آگوتو در فیلیپین",
+        "دوران جوانی در فیلیپین"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "او در ۱۷ نوامبر ۲۰۲۳ پس از مبارزه با لِیومفِر درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 466,
+      "published_at": "2026-11-20T01:43:48.883401+00:00",
+      "text": "دوران جوانی: جان‌جوی جوری‌بل آگوتو در فیلم فیلیپینانا\n\n🎬 جوری‌بل آگوتو، ستاره‌ی فیلم فیلیپینانا، در سن ۳۲ سالگی درگذشت\n\nجوری‌بل آگوتو، بازیگر فیلیپین و ستاره‌ی فیلم فیلیپینانا، در سن ۳۲ سالگی درگذشت. او پس از مبارزه با لِیومفِر، در ۱۷ نوامبر ۲۰۲۳ درگذشت.\n\nفیلم فیلیپینانا، که توسط رافائل مانول در اولین فیلم خود و برنده جوایز شد، او را به عنوان ستاره‌ی اصلی معرفی کرد. شرکت تولیدی Epicmedia Productions پیام عزت‌بار «ما تو را دوست داریم، بلی. درد دیگر نیست» در اینستاگرام منتشر کرد و مانول نیز پیام شخصی ارسال کرد.\n\n📌 نکات مهم:\n• دوران ۳۲ ساله، بازیگر فیلیپین\n• در فیلم فیلیپینانا نقش اصلی داشت\n• متهم به لِیومفِر\n• در ۱۷ نوامبر ۲۰۲۳ درگذشت\n\n#سینما #فیلم\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24317,7 +24369,8 @@
     "bfade4ee58be7a5f15411878",
     "74517ff3db70897d81918ac5",
     "4f4ad2dae9049f7d8ea4b333",
-    "1441a1a54c84115441a81b9a"
+    "1441a1a54c84115441a81b9a",
+    "20af628b3d3479771ac6c963"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24779,7 +24832,8 @@
     "https://variety.com/2026/film/global/boys-by-the-river-intermezzo-cinedokke-pablo-briones-1236952893",
     "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026",
     "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419",
-    "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt"
+    "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
+    "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689"
   ],
   "category_stats": {
     "movie_news": {
@@ -24789,7 +24843,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 188,
+      "published": 189,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -24878,7 +24932,7 @@
       "published": 20
     },
     "1": {
-      "published": 5
+      "published": 6
     },
     "2": {
       "published": 5
@@ -24912,64 +24966,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-09T22:48:57.181338+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T00:30:29.251842+00:00",
       "version": 2,
@@ -27927,6 +27923,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-20T01:43:48.883510+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28388,9 +28442,96 @@
     "a5a47a6c39fb628f",
     "3da407589a224b37",
     "c1cc5c89c5973dd5",
-    "2f85d336617d0977"
+    "2f85d336617d0977",
+    "c5978d676a018622"
   ],
   "entity_memory": {
+    "november": {
+      "count": 6,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "tuesday": {
+      "count": 3,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jorrybell agoto dies": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "breakout actress was": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "philippines": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jorrybell agoto": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "rafael manuel": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "epicmedia productions": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "philippine": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "instagram": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "belle": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "manuel": {
+      "count": 1,
+      "last_seen": "2026-11-20T01:43:48.883435+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "brad pitt": {
       "count": 2,
       "last_seen": "2026-11-19T23:21:20.703955+00:00",
@@ -29657,15 +29798,6 @@
         "actors_directors"
       ]
     },
-    "november": {
-      "count": 5,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies",
-        "actors_directors"
-      ]
-    },
     "higher ground": {
       "count": 1,
       "last_seen": "2026-11-17T00:35:24.797507+00:00",
@@ -30656,13 +30788,6 @@
         "actors_directors"
       ]
     },
-    "tuesday": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "dallas": {
       "count": 2,
       "last_seen": "2026-11-14T11:59:05.160311+00:00",
@@ -31142,76 +31267,6 @@
       ]
     },
     "dark sky films": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "acquires": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "starring moises arias": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rain spencer": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "piper perabo": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "simon rex": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "stephen kay": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "get carter": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "moises arias": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fallout": {
-      "count": 1,
-      "last_seen": "2026-11-12T22:30:33.672122+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "monos": {
       "count": 1,
       "last_seen": "2026-11-12T22:30:33.672122+00:00",
       "categories": [
