@@ -24066,6 +24066,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "69b01f7c1a0bfdb7329c6dea",
+      "story_id": "50ca8053d1678a1f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599",
+      "title": "E.J. Carroll Dies: ‘The Deuce,’ ‘Boardwalk Empire,’ ‘Law & Order’ Actor Was 66",
+      "category": "actors_directors",
+      "score": 64.12,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "carroll dies",
+        "the deuce",
+        "boardwalk empire",
+        "order",
+        "actor was",
+        "carroll",
+        "blue bloods",
+        "grand theft auto",
+        "november",
+        "jon mason",
+        "mason",
+        "lewis entertainment"
+      ],
+      "hook": "نقش‌پرداز E.J. Carroll درگذشت؛ ۶۶ ساله",
+      "hooks": [
+        "E.J. Carroll: بازیگر برجسته در سریال‌های مشهور",
+        "گذشته‌ای پر از نقش‌های برجسته، E.J. Carroll درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "E.J. Carroll درگذشت در تاریخ ۱۹ نوامبر ۲۰۲۳"
+      ],
+      "status": "published",
+      "telegram_message_id": 470,
+      "published_at": "2026-11-20T22:53:20.169244+00:00",
+      "text": "نقش‌پرداز E.J. Carroll درگذشت؛ ۶۶ ساله\n\n🎬 E.J. Carroll، بازیگر برجسته سریال‌های The Deuce و Boardwalk Empire، درگذشت\n\nE.J. Carroll، بازیگر کاراکتر با سابقه در سریال‌های The Deuce، Boardwalk Empire و سه سری Law & Order، در تاریخ ۱۹ نوامبر درگذشت. او ۶۶ ساله بود.\n\nنماینده او، Jon Mason از Mason-Lewis Entertainment، اعلام کرد که Carroll به‌طور ناگهانی در مسیر یک رزرو صدای کوتاه‌زمانی درگذشت، اما جزئیات بیشتری ارائه نکرد.\n\n📌 نکات مهم:\n• E.J. Carroll درگذشت در تاریخ ۱۹ نوامبر ۲۰۲۳\n• او در سریال‌های The Deuce، Boardwalk Empire و سه سری Law & Order نقش داشت\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24532,7 +24585,8 @@
     "20af628b3d3479771ac6c963",
     "7893f6eba98874e33f8ec1d6",
     "903e5c674e88246a10ab3ff2",
-    "cbf39bd3d44e4afa48d7255d"
+    "cbf39bd3d44e4afa48d7255d",
+    "69b01f7c1a0bfdb7329c6dea"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24998,7 +25052,8 @@
     "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
     "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
     "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
-    "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282"
+    "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282",
+    "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599"
   ],
   "category_stats": {
     "movie_news": {
@@ -25008,7 +25063,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 190,
+      "published": 191,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25082,7 +25137,7 @@
       "published": 24
     },
     "22": {
-      "published": 26
+      "published": 27
     },
     "7": {
       "published": 2
@@ -25131,64 +25186,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T16:45:22.060902+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T20:08:05.612380+00:00",
       "version": 2,
@@ -28146,6 +28143,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-20T22:53:20.169347+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28611,9 +28666,96 @@
     "c5978d676a018622",
     "f247cd643a084568",
     "8ae7dc50cba6a0ba",
-    "12ee7ab12f835741"
+    "12ee7ab12f835741",
+    "50ca8053d1678a1f"
   ],
   "entity_memory": {
+    "november": {
+      "count": 7,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "movie_news",
+        "upcoming_movies",
+        "actors_directors"
+      ]
+    },
+    "carroll dies": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the deuce": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "boardwalk empire": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "order": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor was": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "carroll": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "blue bloods": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "grand theft auto": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jon mason": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mason": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "lewis entertainment": {
+      "count": 1,
+      "last_seen": "2026-11-20T22:53:20.169277+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "amazon": {
       "count": 3,
       "last_seen": "2026-11-20T20:52:03.319513+00:00",
@@ -28869,15 +29011,6 @@
       "count": 1,
       "last_seen": "2026-11-20T13:54:26.485839+00:00",
       "categories": [
-        "actors_directors"
-      ]
-    },
-    "november": {
-      "count": 6,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "movie_news",
-        "upcoming_movies",
         "actors_directors"
       ]
     },
@@ -31362,83 +31495,6 @@
     "the week of": {
       "count": 1,
       "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pain": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "and square peg": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "even": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ocean": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "square peg": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the week": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kristoffer borgli": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kai cech": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "voice lead": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "himalayan animated feature": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lost": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
       "categories": [
         "movie_news"
       ]
