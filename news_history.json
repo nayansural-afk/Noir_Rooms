@@ -24014,6 +24014,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "cbf39bd3d44e4afa48d7255d",
+      "story_id": "12ee7ab12f835741",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282",
+      "title": "Lili Reinhart in Talks to Join ‘Polly Pocket’ Movie After Lily Collins Exit",
+      "category": "movie_news",
+      "score": 76.48,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "lili reinhart",
+        "talks",
+        "join",
+        "polly pocket",
+        "movie after lily",
+        "collins exit lili",
+        "reinhart",
+        "amazon",
+        "mattel studios",
+        "lily collins",
+        "collins",
+        "clea"
+      ],
+      "hook": "لیلی رینهارت در جای خالی لِیلی کالینز، در فیلم پولی پوکت",
+      "hooks": [
+        "لیلی رینهارت به جای لِیلی کالینز، در پولی پوکت نقش می‌گیرد",
+        "پولی پوکت: لیلی رینهارت جای لِیلی کالینز را می‌گیرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "لیلی رینهارت در حال مذاکره برای ایفای نقش در پولی پوکت است"
+      ],
+      "status": "published",
+      "telegram_message_id": 469,
+      "published_at": "2026-11-20T20:52:03.319476+00:00",
+      "text": "لیلی رینهارت در جای خالی لِیلی کالینز، در فیلم پولی پوکت\n\n🎬 لیلی رینهارت جای لِیلی کالینز را در فیلم پولی پوکت می‌گیرد\n\nلیلی رینهارت در حال مذاکره برای ایفای نقش اصلی و هم‌زمان تولید اجرایی در فیلم پولی پوکت است. او جای خالی لِیلی کالینز را می‌گیرد که به دلیل مشکلات زمان‌بندی از پروژه کنار آمده بود.\nسینمایی که توسط شرکت‌های Amazon MGM و Mattel Studios ساخته می‌شود، به‌دنبال یک رهنمود جدید است. کارگردان Clea DuVall، نویسندگان Dan Brier و Jordan Weiss، و تهیه‌کنندگان Robbie همراه با دیگران، این پروژه را به جلو می‌برند.\n\n📌 نکات مهم:\n• لیلی رینهارت در نقش اصلی و تولید اجرایی در پولی پوکت\n• لِیلی کالینز از پروژه خارج شد ولی به‌عنوان تولید اجرایی باقی ماند\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24479,7 +24531,8 @@
     "1441a1a54c84115441a81b9a",
     "20af628b3d3479771ac6c963",
     "7893f6eba98874e33f8ec1d6",
-    "903e5c674e88246a10ab3ff2"
+    "903e5c674e88246a10ab3ff2",
+    "cbf39bd3d44e4afa48d7255d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -24944,11 +24997,12 @@
     "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
     "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689",
     "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
-    "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602"
+    "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
+    "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 235,
+      "published": 236,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25010,7 +25064,7 @@
       "published": 23
     },
     "20": {
-      "published": 43
+      "published": 44
     },
     "21": {
       "published": 30
@@ -25077,64 +25131,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T13:20:49.635994+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T16:45:22.060902+00:00",
       "version": 2,
@@ -28092,6 +28088,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-20T20:52:03.319597+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "awards_festivals",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28556,9 +28610,95 @@
     "2f85d336617d0977",
     "c5978d676a018622",
     "f247cd643a084568",
-    "8ae7dc50cba6a0ba"
+    "8ae7dc50cba6a0ba",
+    "12ee7ab12f835741"
   ],
   "entity_memory": {
+    "amazon": {
+      "count": 3,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "lili reinhart": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "talks": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "join": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "polly pocket": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movie after lily": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "collins exit lili": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "reinhart": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "mattel studios": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "lily collins": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "collins": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "clea": {
+      "count": 1,
+      "last_seen": "2026-11-20T20:52:03.319513+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "a24": {
       "count": 2,
       "last_seen": "2026-11-20T17:30:12.084803+00:00",
@@ -30152,14 +30292,6 @@
         "actors_directors"
       ]
     },
-    "amazon": {
-      "count": 2,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "robert pattinson as": {
       "count": 1,
       "last_seen": "2026-11-16T22:40:43.816840+00:00",
@@ -31307,83 +31439,6 @@
     "lost": {
       "count": 1,
       "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mandala": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jack black": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "dear santa": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "incessant rain studios": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cech": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shanti": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "himalayas": {
-      "count": 1,
-      "last_seen": "2026-11-13T16:55:04.261015+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the witcher": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "star freya allan": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "lead joachim": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "horror movie": {
-      "count": 1,
-      "last_seen": "2026-11-13T12:55:41.655542+00:00",
       "categories": [
         "movie_news"
       ]
