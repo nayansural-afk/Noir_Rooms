@@ -24119,6 +24119,45 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6bc66915820ffd2505d4ffb6",
+      "story_id": "8dfca949f5ba8c2f",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "category": "movie_news",
+      "score": 76.67,
+      "freshness": 92.0,
+      "credibility": 92.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [],
+      "hook": "گیم‌سازی GTA 6 در روز اول 3.8 میلیارد دلار فروش می‌کند",
+      "hooks": [
+        "فروش‌های GTA 6، بزرگ‌ترین رونمایی سرگرمی تاریخ",
+        "GTA 6 به‌سرعت 3.8 میلیارد دلار در یک روز به دست آورد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فروش GTA 6 در روز اول 3.8 میلیارد دلار"
+      ],
+      "status": "published",
+      "telegram_message_id": 471,
+      "published_at": "2026-11-21T01:19:00.585475+00:00",
+      "text": "گیم‌سازی GTA 6 در روز اول 3.8 میلیارد دلار فروش می‌کند\n\n🎬 فروش‌های GTA 6 در روز اول 3.8 میلیارد دلار، رکوردی بی‌سابقه\n\nدر روز اول عرضه، بازی GTA 6 فروش 3.8 میلیارد دلار را رقم زد، که بالاتر از هر رونمایی بازی و حتی بیشترین فروش روزانه سینما است.\nاین رقم، بزرگ‌ترین دستاورد مالی در تاریخ سرگرمی را به خود اختصاص داده و نشان می‌دهد که بازار بازی‌های ویدیویی همچنان در حال رشد است.\n\n📌 نکات مهم:\n• فروش GTA 6 در روز اول 3.8 میلیارد دلار\n• این رقم بالاتر از هر رونمایی بازی و بیشترین فروش روزانه سینما است\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24586,7 +24625,8 @@
     "7893f6eba98874e33f8ec1d6",
     "903e5c674e88246a10ab3ff2",
     "cbf39bd3d44e4afa48d7255d",
-    "69b01f7c1a0bfdb7329c6dea"
+    "69b01f7c1a0bfdb7329c6dea",
+    "6bc66915820ffd2505d4ffb6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25053,11 +25093,12 @@
     "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081",
     "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
     "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282",
-    "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599"
+    "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599",
+    "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 236,
+      "published": 237,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25152,7 +25193,7 @@
       "published": 20
     },
     "1": {
-      "published": 6
+      "published": 7
     },
     "2": {
       "published": 5
@@ -25186,64 +25227,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T20:08:05.612380+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-10T22:06:01.274319+00:00",
       "version": 2,
@@ -28201,6 +28184,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-21T01:19:00.585571+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 400,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28667,7 +28708,8 @@
     "f247cd643a084568",
     "8ae7dc50cba6a0ba",
     "12ee7ab12f835741",
-    "50ca8053d1678a1f"
+    "50ca8053d1678a1f",
+    "8dfca949f5ba8c2f"
   ],
   "entity_memory": {
     "november": {
