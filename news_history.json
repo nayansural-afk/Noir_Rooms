@@ -24264,6 +24264,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0ef75673a050248fc4af357e",
+      "story_id": "b346ff1a5afa147f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
+      "title": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "elsinore",
+        "makeup team transformed",
+        "stars andrew scott",
+        "olivia colman",
+        "bring",
+        "story",
+        "ian charleson",
+        "life in",
+        "andrew scott",
+        "written",
+        "stephen beresford",
+        "charleson"
+      ],
+      "hook": "تبدیل آرایشگرها، زندگی‌نامه‌ای در پرده",
+      "hooks": [
+        "آرایشگری که ستارگان را به زندگی می‌کشاند",
+        "داستان واقعی ایان چارلزون در «الزینور»"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم «الزینور» بر اساس زندگی واقعی ایان چارلزون ساخته شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 474,
+      "published_at": "2026-11-21T19:53:31.059708+00:00",
+      "text": "تبدیل آرایشگرها، زندگی‌نامه‌ای در پرده\n\n🎬 «الزینور»: آرایشگری که اندرو اسکات و اولیویا کلمن را به زندگی ایان چارلزون تبدیل کرد\n\nفیلم «الزینور» بر اساس زندگی واقعی ایان چارلزون ساخته شده است که در نقش او، اندرو اسکات نقش‌پردازی می‌کند. او در آخرین نقش خود، در حالی که در حال مبارزه با بیماری ایدز بود، به صحنه رفت.\nنویسنده فیلم استیون برسفورد، داستانی عمیق و الهام‌بخش از شجاعت و صداقت چارلزون را روایت می‌کند. تیم آرایشگری فیلم، با تغییرات ظریف، هویت این بازیگر را به‌طور واقعی بازسازی کرده‌اند.\n\n📌 نکات مهم:\n• فیلم «الزینور» بر اساس زندگی واقعی ایان چارلزون است\n• اندرو اسکات در نقش ایان چارلزون بازی می‌کند\n• اولیویا کلمن نیز در فیلم حضور دارد\n• تیم آرایشگری فیلم او را به‌طور واقعی بازسازی کرد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24734,7 +24787,8 @@
     "69b01f7c1a0bfdb7329c6dea",
     "6bc66915820ffd2505d4ffb6",
     "5a636cf83c3fbf63f77b6945",
-    "23c2ad95e04bbc0ff28bb5ce"
+    "23c2ad95e04bbc0ff28bb5ce",
+    "0ef75673a050248fc4af357e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25204,7 +25258,8 @@
     "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599",
     "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
     "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
-    "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860"
+    "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860",
+    "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968"
   ],
   "category_stats": {
     "movie_news": {
@@ -25214,7 +25269,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 192,
+      "published": 193,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25285,7 +25340,7 @@
       "published": 23
     },
     "19": {
-      "published": 24
+      "published": 25
     },
     "22": {
       "published": 27
@@ -25337,64 +25392,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-11T12:31:47.845757+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-11T16:51:27.336795+00:00",
       "version": 2,
@@ -28352,6 +28349,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-21T19:53:31.059814+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28821,9 +28876,94 @@
     "50ca8053d1678a1f",
     "8dfca949f5ba8c2f",
     "f47728f30277c38d",
-    "4765e883c4061e1f"
+    "4765e883c4061e1f",
+    "b346ff1a5afa147f"
   ],
   "entity_memory": {
+    "elsinore": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "makeup team transformed": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stars andrew scott": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "olivia colman": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bring": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "story": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ian charleson": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "life in": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "andrew scott": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "written": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "stephen beresford": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charleson": {
+      "count": 1,
+      "last_seen": "2026-11-21T19:53:31.059742+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "al hayba": {
       "count": 1,
       "last_seen": "2026-11-21T16:34:33.344381+00:00",
@@ -31563,92 +31703,6 @@
       "categories": [
         "actors_directors",
         "movie_news"
-      ]
-    },
-    "friday": {
-      "count": 4,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "actors_directors",
-        "upcoming_movies",
-        "movie_news"
-      ]
-    },
-    "gaza": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israel": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israeli": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "yuval abraham": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rachel szor": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "guardian": {
-      "count": 1,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "irma": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hall": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "soul food": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the ladykillers": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dallas": {
-      "count": 2,
-      "last_seen": "2026-11-14T11:59:05.160311+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
