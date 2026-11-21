@@ -24158,6 +24158,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5a636cf83c3fbf63f77b6945",
+      "story_id": "f47728f30277c38d",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
+      "title": "‘The Tree’ Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her ‘Italian Shoes’ Adaptation, Readies India-Set Feature",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "cannes",
+        "the tree",
+        "director julie bertuccelli",
+        "tells",
+        "masterclass",
+        "canadian producer stole",
+        "italian shoes",
+        "adaptation",
+        "readies india",
+        "set feature french",
+        "julie bertuccelli",
+        "cannes film festival"
+      ],
+      "hook": "دستبردی در سینما: ژولی برتوکلی و سرقت 'شلوارهای ایتالیایی'",
+      "hooks": [
+        "ژولی برتوکلی: سرقت ادبی در سینما",
+        "سینمای فرانسوی در برابر سرقت کانادایی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "او در کلاس استاد IFFI این موضوع را مطرح کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 472,
+      "published_at": "2026-11-21T13:18:04.069915+00:00",
+      "text": "دستبردی در سینما: ژولی برتوکلی و سرقت 'شلوارهای ایتالیایی'\n\n🎬 ژولی برتوکلی: سرقت ادبی 'شلوارهای ایتالیایی' و برنامه‌ریزی برای فیلم در هند\n\nژولی برتوکلی، کارگردان فرانسوی که فیلم «درخت» را در جشنواره کن ۲۰۱۰ به اتمام رساند، در کلاس استاد IFFI اعلام کرد که اقتباس او از رمان «شلوارهای ایتالیایی» توسط یک تهیه‌کننده کانادایی سرقت شد. او همچنین اعلام کرد که قصد دارد فیلم بعدی خود را در هند فیلمبرداری کند. \n\nاین خبر از گفتار او در نشست «از شاهد تا تغییر» به دست آمده است.\n\n📌 نکات مهم:\n• اقتباس «شلوارهای ایتالیایی» توسط تهیه‌کننده کانادایی سرقت شد\n• ژولی برتوکلی قصد فیلمبرداری در هند را دارد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24626,7 +24679,8 @@
     "903e5c674e88246a10ab3ff2",
     "cbf39bd3d44e4afa48d7255d",
     "69b01f7c1a0bfdb7329c6dea",
-    "6bc66915820ffd2505d4ffb6"
+    "6bc66915820ffd2505d4ffb6",
+    "5a636cf83c3fbf63f77b6945"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25094,11 +25148,12 @@
     "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602",
     "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282",
     "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599",
-    "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+    "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+    "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 237,
+      "published": 238,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25199,7 +25254,7 @@
       "published": 5
     },
     "13": {
-      "published": 36
+      "published": 37
     },
     "17": {
       "published": 45
@@ -25227,64 +25282,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-10T22:06:01.274319+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-11T00:32:03.793020+00:00",
       "version": 2,
@@ -28242,6 +28239,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-21T13:18:04.070014+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28709,9 +28764,94 @@
     "8ae7dc50cba6a0ba",
     "12ee7ab12f835741",
     "50ca8053d1678a1f",
-    "8dfca949f5ba8c2f"
+    "8dfca949f5ba8c2f",
+    "f47728f30277c38d"
   ],
   "entity_memory": {
+    "cannes": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the tree": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "director julie bertuccelli": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tells": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "masterclass": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "canadian producer stole": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "italian shoes": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "adaptation": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "readies india": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "set feature french": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "julie bertuccelli": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cannes film festival": {
+      "count": 1,
+      "last_seen": "2026-11-21T13:18:04.069943+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "november": {
       "count": 7,
       "last_seen": "2026-11-20T22:53:20.169277+00:00",
@@ -31453,92 +31593,6 @@
       "last_seen": "2026-11-13T22:19:04.490242+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "director kristina arjona": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "on my block": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "maddie": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "randy mandy": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "curse": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "plaza theatre": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dawn": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jerks pictures": {
-      "count": 1,
-      "last_seen": "2026-11-13T22:19:04.490242+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "deadline": {
-      "count": 5,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "actors_directors",
-        "trailers_first_look",
-        "movie_news"
-      ]
-    },
-    "margot robbie": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kristoffer borgli team": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the week of": {
-      "count": 1,
-      "last_seen": "2026-11-13T20:12:05.950080+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
