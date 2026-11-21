@@ -24317,6 +24317,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "287cf7f624029f4adac160f2",
+      "story_id": "9396e01dc7a96af1",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+      "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+      "category": "movie_news",
+      "score": 64.51,
+      "freshness": 65.0,
+      "credibility": 94.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": false,
+      "entities": [
+        "disney",
+        "home alone",
+        "macaulay culkin",
+        "christmas",
+        "seth rogen",
+        "according",
+        "puck",
+        "matthew belloni",
+        "culkin",
+        "kevin",
+        "deadline",
+        "continue"
+      ],
+      "hook": "مک‌کالای کلینک باز می‌گردد؛ ادامه‌ی Home Alone از دید پدر",
+      "hooks": [
+        "سِت رُگن نویسنده و تهیه‌کننده؛ Home Alone دوباره",
+        "پدر در مرکز، کلینک باز می‌گردد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مک‌کالای کلینک در پروژه Home Alone به‌عنوان کیوین مک‌کالستر حضور دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 475,
+      "published_at": "2026-11-21T21:57:51.799488+00:00",
+      "text": "مک‌کالای کلینک باز می‌گردد؛ ادامه‌ی Home Alone از دید پدر\n\n🎬 Home Alone: ادامه‌ای نو با بازگشت مک‌کالای کلینک و دیدگاه پدر\n\nسِت رُگن به‌عنوان نویسنده و تهیه‌کننده، پروژه‌ی جدید Home Alone را در دست دارد و به‌دنبال بازگشت مک‌کالای کلینک به نقش کیوین مک‌کالستر است. دیزنی به این طرح نوری مثبت داده است.\nاین فیلم، که از دیدگاه پدر روایت می‌شود، می‌تواند تجربه‌ای تازه و متفاوت از کمدی تعطیلات باشد. انتظار می‌رود که بازتاب‌های مخاطب و فروش‌های بکس‌آفیس، مشابه نسخه‌ی اصلی، به‌دنبال خود داشته باشد.\n\n📌 نکات مهم:\n• مک‌کالای کلینک به‌عنوان کیوین مک‌کالستر باز می‌گردد\n• سِت رُگن نویسنده و تهیه‌کننده‌ی پروژه است\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24788,7 +24840,8 @@
     "6bc66915820ffd2505d4ffb6",
     "5a636cf83c3fbf63f77b6945",
     "23c2ad95e04bbc0ff28bb5ce",
-    "0ef75673a050248fc4af357e"
+    "0ef75673a050248fc4af357e",
+    "287cf7f624029f4adac160f2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25259,11 +25312,12 @@
     "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
     "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
     "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860",
-    "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968"
+    "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
+    "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 238,
+      "published": 239,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25328,7 +25382,7 @@
       "published": 44
     },
     "21": {
-      "published": 30
+      "published": 31
     },
     "23": {
       "published": 38
@@ -25392,64 +25446,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-11T16:51:27.336795+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-11T19:56:40.125562+00:00",
       "version": 2,
@@ -28407,6 +28403,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-21T21:57:51.799596+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28877,9 +28931,95 @@
     "8dfca949f5ba8c2f",
     "f47728f30277c38d",
     "4765e883c4061e1f",
-    "b346ff1a5afa147f"
+    "b346ff1a5afa147f",
+    "9396e01dc7a96af1"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 4,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "disney": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "home alone": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "macaulay culkin": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "christmas": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "seth rogen": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "according": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "puck": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "matthew belloni": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "culkin": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kevin": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "deadline": {
+      "count": 1,
+      "last_seen": "2026-11-21T21:57:51.799509+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "elsinore": {
       "count": 1,
       "last_seen": "2026-11-21T19:53:31.059742+00:00",
@@ -31617,91 +31757,6 @@
       "count": 1,
       "last_seen": "2026-11-14T18:36:48.790433+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "voice": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ralph bakshi": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fritz": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "movies": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "actor skip hinnant": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hinnant": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "new york times": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cathy": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the patty duke": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "show": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "schroeder": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "continue": {
-      "count": 3,
-      "last_seen": "2026-11-14T15:30:11.619206+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news"
       ]
     }
