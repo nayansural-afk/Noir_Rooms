@@ -24568,6 +24568,57 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "012edcd2131d60f5a3e8e86a",
+      "story_id": "48a1469ef431a3fb",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
+      "title": "‘Cameron Winter’ Shines In Vibrant Indie Weekend, ‘Elsinore’ Opens Strong — Specialty Box Office",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "cameron winter",
+        "shines in vibrant",
+        "indie weekend",
+        "elsinore",
+        "opens strong",
+        "specialty box office",
+        "andrew scott",
+        "that",
+        "focus features",
+        "wednesday"
+      ],
+      "hook": "Elsinore با 240k دلار در 6 صحنه آغاز می‌کند",
+      "hooks": [
+        "Andrew Scott در Elsinore، آغاز قوی با 40k دلار در هر صحنه",
+        "Elsinore در هفته‌ی مستقل، با 120 صحنه در بازارهای برتر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Elsinore با 240k دلار در 6 صحنه آغاز شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 480,
+      "published_at": "2026-11-22T22:15:19.067379+00:00",
+      "text": "Elsinore با 240k دلار در 6 صحنه آغاز می‌کند\n\n🎬 Elsinore با 240k دلار در 6 صحنه، آغاز قوی در هفته‌ی مستقل\n\nفیلم Elsinore که در نقش اصلی آن اندرو اسکات حضور دارد، در هفته‌ی مستقل با 240 هزار دلار در 6 صحنه در نیویورک و لس‌آنجلس آغاز شد. فیلم توسط Focus Features پخش می‌شود و با متوسط 40 هزار دلار در هر صحنه، پیش‌بینی می‌شود که در روز چهارشنبه به 120 صحنه در 25 بازار برتر گسترش یابد.\n\n📌 نکات مهم:\n• Elsinore با 240k دلار در 6 صحنه آغاز شد\n• متوسط 40k دلار در هر صحنه\n• توسعه به 120 صحنه در 25 بازار برتر\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25044,7 +25095,8 @@
     "aab84ab74aa198cc4b4f6b0a",
     "27cc25cab7eb3d6000a7e3b3",
     "9d6b4b8ea5620a56da9ffe85",
-    "b809f0a15dd1d50164e70dc6"
+    "b809f0a15dd1d50164e70dc6",
+    "012edcd2131d60f5a3e8e86a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25520,7 +25572,8 @@
     "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
     "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
     "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
-    "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films"
+    "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
+    "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210"
   ],
   "category_stats": {
     "movie_news": {
@@ -25530,7 +25583,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 196,
+      "published": 197,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25604,7 +25657,7 @@
       "published": 25
     },
     "22": {
-      "published": 27
+      "published": 28
     },
     "7": {
       "published": 2
@@ -25653,64 +25706,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-12T17:18:38.510318+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-12T20:35:14.439682+00:00",
       "version": 2,
@@ -28668,6 +28663,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-22T22:15:19.067486+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29143,9 +29196,80 @@
     "ee9eabbf28a4aa49",
     "67f860b431f84303",
     "5910b7180f756326",
-    "0abafa583b72026e"
+    "0abafa583b72026e",
+    "48a1469ef431a3fb"
   ],
   "entity_memory": {
+    "elsinore": {
+      "count": 2,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "andrew scott": {
+      "count": 2,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "specialty box office": {
+      "count": 2,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cameron winter": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shines in vibrant": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indie weekend": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "opens strong": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "that": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "focus features": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "wednesday": {
+      "count": 1,
+      "last_seen": "2026-11-22T22:15:19.067412+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "ramayana": {
       "count": 2,
       "last_seen": "2026-11-22T20:04:22.765467+00:00",
@@ -29487,13 +29611,6 @@
         "movie_news"
       ]
     },
-    "elsinore": {
-      "count": 1,
-      "last_seen": "2026-11-21T19:53:31.059742+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "makeup team transformed": {
       "count": 1,
       "last_seen": "2026-11-21T19:53:31.059742+00:00",
@@ -29537,13 +29654,6 @@
       ]
     },
     "life in": {
-      "count": 1,
-      "last_seen": "2026-11-21T19:53:31.059742+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "andrew scott": {
       "count": 1,
       "last_seen": "2026-11-21T19:53:31.059742+00:00",
       "categories": [
@@ -31704,13 +31814,6 @@
         "actors_directors"
       ]
     },
-    "specialty box office": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "james gray": {
       "count": 1,
       "last_seen": "2026-11-15T23:54:17.548944+00:00",
@@ -31919,55 +32022,6 @@
       "last_seen": "2026-11-15T16:02:05.566595+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "danish": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "mathilde arcel": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "arcel": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "volpi cup": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chris pratt says": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "would love": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "james gunn": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
