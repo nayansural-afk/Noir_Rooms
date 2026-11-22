@@ -24369,6 +24369,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "aab84ab74aa198cc4b4f6b0a",
+      "story_id": "ee9eabbf28a4aa49",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
+      "title": "John Carpenter Reveals Robert Rodriguez In Running To Helm ‘Escape from New York’ Reimagining",
+      "category": "actors_directors",
+      "score": 74.08,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "dc",
+        "john carpenter reveals",
+        "robert rodriguez in",
+        "running to helm",
+        "escape",
+        "new york",
+        "reimagining after",
+        "john carpenter",
+        "having",
+        "zack snyder",
+        "carpenter",
+        "synder"
+      ],
+      "hook": "کارپنتری در جستجوی ریشه‌دار جدید برای Escape from New York",
+      "hooks": [
+        "راهبرد جدید Escape from New York: رودیگز در صف",
+        "کارپنتری، رودیگز را در صف برای رهبری Escape from New York می‌گذارد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Robert Rodriguez در صف برای رهبری Escape from New York"
+      ],
+      "status": "published",
+      "telegram_message_id": 476,
+      "published_at": "2026-11-22T00:14:19.199656+00:00",
+      "text": "کارپنتری در جستجوی ریشه‌دار جدید برای Escape from New York\n\n🎬 کارپنتری، رودیگز را در صف برای رهبری Escape from New York می‌گذارد\n\nکارپنتری پس از ۴۵ سال، هنوز در جستجوی کارگردان مناسب برای بازسازی Escape from New York است. او اعلام کرد که رودیگز در صف قرار دارد، در حالی که زاک سندی اخیراً برای نوشتن و کارگردانی انتخاب شده بود.\n\n📌 نکات مهم:\n• کارپنتری در حال بررسی رودیگز برای رهبری Escape from New York\n• زاک سندی اخیراً برای نوشتن و کارگردانی Escape from New York انتخاب شد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24841,7 +24894,8 @@
     "5a636cf83c3fbf63f77b6945",
     "23c2ad95e04bbc0ff28bb5ce",
     "0ef75673a050248fc4af357e",
-    "287cf7f624029f4adac160f2"
+    "287cf7f624029f4adac160f2",
+    "aab84ab74aa198cc4b4f6b0a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25313,7 +25367,8 @@
     "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
     "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860",
     "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
-    "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin"
+    "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+    "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028"
   ],
   "category_stats": {
     "movie_news": {
@@ -25323,7 +25378,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 193,
+      "published": 194,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25427,7 +25482,7 @@
       "published": 13
     },
     "0": {
-      "published": 12
+      "published": 13
     }
   },
   "strategy": {
@@ -25446,64 +25501,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-11T19:56:40.125562+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-11T23:14:22.334196+00:00",
       "version": 2,
@@ -28461,6 +28458,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-22T00:14:19.199792+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28932,9 +28987,96 @@
     "f47728f30277c38d",
     "4765e883c4061e1f",
     "b346ff1a5afa147f",
-    "9396e01dc7a96af1"
+    "9396e01dc7a96af1",
+    "ee9eabbf28a4aa49"
   ],
   "entity_memory": {
+    "having": {
+      "count": 2,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "new york": {
+      "count": 3,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "dc": {
+      "count": 3,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "john carpenter reveals": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "robert rodriguez in": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "running to helm": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "escape": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "reimagining after": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "john carpenter": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "zack snyder": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "carpenter": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "synder": {
+      "count": 1,
+      "last_seen": "2026-11-22T00:14:19.199712+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "continue": {
       "count": 4,
       "last_seen": "2026-11-21T21:57:51.799509+00:00",
@@ -30214,13 +30356,6 @@
         "movie_news"
       ]
     },
-    "having": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "with blumhouse atomic": {
       "count": 1,
       "last_seen": "2026-11-18T23:13:38.307218+00:00",
@@ -31083,13 +31218,6 @@
         "actors_directors"
       ]
     },
-    "new york": {
-      "count": 2,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "broadway star ryan": {
       "count": 1,
       "last_seen": "2026-11-16T19:13:10.784982+00:00",
@@ -31524,13 +31652,6 @@
         "actors_directors"
       ]
     },
-    "dc": {
-      "count": 2,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "chris pratt says": {
       "count": 1,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
@@ -31694,69 +31815,6 @@
       "last_seen": "2026-11-14T21:01:41.252777+00:00",
       "categories": [
         "actors_directors",
-        "movie_news"
-      ]
-    },
-    "canadian stage veteran": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "who voiced": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "babar": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "born": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shanghai": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "china": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "japanese": {
-      "count": 1,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "skip hinnant": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the electric company": {
-      "count": 1,
-      "last_seen": "2026-11-14T18:36:48.790433+00:00",
-      "categories": [
         "movie_news"
       ]
     }
