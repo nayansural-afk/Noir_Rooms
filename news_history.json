@@ -24518,6 +24518,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "b809f0a15dd1d50164e70dc6",
+      "story_id": "0abafa583b72026e",
+      "source": "TheWrap",
+      "sources": [
+        "TheWrap"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
+      "title": "‘Ramayana’ Sets New U.S. Box Office Record for Indian Films",
+      "category": "movie_news",
+      "score": 76.31,
+      "freshness": 100.0,
+      "credibility": 84.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.52,
+      "is_breaking": true,
+      "entities": [
+        "ramayana",
+        "sets new",
+        "box office record",
+        "indian films with",
+        "north america",
+        "nitesh tiwari",
+        "hindu",
+        "indian",
+        "indian films"
+      ],
+      "hook": "رمانایان، رکورد جدید آمریکا را در سینمای هندی می‌نویسد",
+      "hooks": [
+        "سینمای هندی با رمانایان، رکورد آمریکا را شکسته",
+        "فلم رمانایان، بیش از ۲۸ میلیون دلار در آمریکا کسب کرد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "رمانایان رکورد جدید آمریکا را در سینمای هندی ثبت کرد",
+        "فلم رمانایان در میان پنج فیلم برتر هندی در جهان قرار گرفت"
+      ],
+      "status": "published",
+      "telegram_message_id": 479,
+      "published_at": "2026-11-22T20:04:22.765435+00:00",
+      "text": "رمانایان، رکورد جدید آمریکا را در سینمای هندی می‌نویسد\n\n🎬 رمانایان، با ۲۸ میلیون دلار، رکورد جدید آمریکا را می‌گیرد\n\nفلم هندی رمانایان، کارگردان نیتیش تیوری، در بازار آمریکایی به‌سرعت پیش می‌رود.\nبا درآمد ۲۸ میلیون دلار، این اثر در میان پنج فیلم برتر هندی در جهان جایگاه ویژه‌ای پیدا کرده است.\n\n📌 نکات مهم:\n• فلم رمانایان با ۲۸ میلیون دلار در آمریکا درآمد کسب کرد\n• رمانایان در میان پنج فیلم برتر هندی در جهان قرار گرفت\n\n#سینما #فیلم\n\n🔗 منبع: TheWrap\nhttps://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24993,7 +25043,8 @@
     "287cf7f624029f4adac160f2",
     "aab84ab74aa198cc4b4f6b0a",
     "27cc25cab7eb3d6000a7e3b3",
-    "9d6b4b8ea5620a56da9ffe85"
+    "9d6b4b8ea5620a56da9ffe85",
+    "b809f0a15dd1d50164e70dc6"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25468,11 +25519,12 @@
     "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
     "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
     "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
-    "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo"
+    "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
+    "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 239,
+      "published": 240,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25534,7 +25586,7 @@
       "published": 23
     },
     "20": {
-      "published": 44
+      "published": 45
     },
     "21": {
       "published": 31
@@ -25601,64 +25653,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-12T13:37:12.933408+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-12T17:18:38.510318+00:00",
       "version": 2,
@@ -28616,6 +28610,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-22T20:04:22.765560+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29090,9 +29142,74 @@
     "9396e01dc7a96af1",
     "ee9eabbf28a4aa49",
     "67f860b431f84303",
-    "5910b7180f756326"
+    "5910b7180f756326",
+    "0abafa583b72026e"
   ],
   "entity_memory": {
+    "ramayana": {
+      "count": 2,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news"
+      ]
+    },
+    "sets new": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "box office record": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indian films with": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "north america": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nitesh tiwari": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hindu": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indian": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "indian films": {
+      "count": 1,
+      "last_seen": "2026-11-22T20:04:22.765467+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "bad girls": {
       "count": 1,
       "last_seen": "2026-11-22T16:51:35.341021+00:00",
@@ -31131,13 +31248,6 @@
         "actors_directors"
       ]
     },
-    "ramayana": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "stays": {
       "count": 1,
       "last_seen": "2026-11-17T14:12:30.895963+00:00",
@@ -31854,62 +31964,6 @@
       ]
     },
     "james gunn": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "direct": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fourth": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "guardians": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "galaxy": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film after": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "exit chris pratt": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "make": {
-      "count": 1,
-      "last_seen": "2026-11-15T12:35:16.222228+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "film with james": {
       "count": 1,
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
       "categories": [
