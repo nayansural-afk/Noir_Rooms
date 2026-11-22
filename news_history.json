@@ -24475,6 +24475,49 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "9d6b4b8ea5620a56da9ffe85",
+      "story_id": "5910b7180f756326",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
+      "title": "Bad Girls star Helen Fraser dies aged 84",
+      "category": "actors_directors",
+      "score": 64.33,
+      "freshness": 65.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "bad girls",
+        "helen fraser",
+        "actress helen fraser"
+      ],
+      "hook": "حضور هیلن فریزر در سینما و تلویزیون به پایان رسید",
+      "hooks": [
+        "هیلن فریزر، ستاره Bad Girls، درگذشت",
+        "دوران 84 ساله هیلن فریزر پایان یافت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "هیلن فریزر در سن 84 سالگی درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 478,
+      "published_at": "2026-11-22T16:51:35.340985+00:00",
+      "text": "حضور هیلن فریزر در سینما و تلویزیون به پایان رسید\n\n🎬 هیلن فریزر، ستاره Bad Girls، درگذشت\n\nهیلن فریزر، ستاره محبوب سریال Bad Girls، در خانه مراقبت چشم در سن 84 سالگی درگذشت.\nاو در طول زندگی‌اش در تلویزیون، تئاتر و سینما حضور داشت و به‌عنوان یکی از بازیگران برجسته‌ی دوران خود شناخته می‌شد.\n\n📌 نکات مهم:\n• هیلن فریزر در سن 84 سالگی درگذشت\n• او در تلویزیون، تئاتر و سینما فعالیت داشت\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24949,7 +24992,8 @@
     "0ef75673a050248fc4af357e",
     "287cf7f624029f4adac160f2",
     "aab84ab74aa198cc4b4f6b0a",
-    "27cc25cab7eb3d6000a7e3b3"
+    "27cc25cab7eb3d6000a7e3b3",
+    "9d6b4b8ea5620a56da9ffe85"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25423,7 +25467,8 @@
     "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
     "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
     "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
-    "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196"
+    "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
+    "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo"
   ],
   "category_stats": {
     "movie_news": {
@@ -25433,7 +25478,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 195,
+      "published": 196,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25483,7 +25528,7 @@
       "published": 15
     },
     "16": {
-      "published": 23
+      "published": 24
     },
     "18": {
       "published": 23
@@ -25556,64 +25601,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-12T01:52:26.948865+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-12T13:37:12.933408+00:00",
       "version": 2,
@@ -28571,6 +28558,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-22T16:51:35.341095+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 403,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29044,9 +29089,31 @@
     "b346ff1a5afa147f",
     "9396e01dc7a96af1",
     "ee9eabbf28a4aa49",
-    "67f860b431f84303"
+    "67f860b431f84303",
+    "5910b7180f756326"
   ],
   "entity_memory": {
+    "bad girls": {
+      "count": 1,
+      "last_seen": "2026-11-22T16:51:35.341021+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "helen fraser": {
+      "count": 1,
+      "last_seen": "2026-11-22T16:51:35.341021+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actress helen fraser": {
+      "count": 1,
+      "last_seen": "2026-11-22T16:51:35.341021+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "caesar": {
       "count": 2,
       "last_seen": "2026-11-22T13:09:47.439155+00:00",
@@ -31847,30 +31914,6 @@
       "last_seen": "2026-11-15T12:35:16.222228+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "dawn greenhalgh": {
-      "count": 2,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "canadian": {
-      "count": 2,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "toronto": {
-      "count": 2,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     }
   },
