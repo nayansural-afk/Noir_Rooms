@@ -24422,6 +24422,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "27cc25cab7eb3d6000a7e3b3",
+      "story_id": "67f860b431f84303",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
+      "title": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
+      "category": "actors_directors",
+      "score": 78.57,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "neon",
+        "backed biopic",
+        "caesar",
+        "about syrian officer",
+        "who blew",
+        "whistle",
+        "assad regime torture",
+        "be directed",
+        "ameer fakher eldin",
+        "the stranger",
+        "yunan",
+        "syrian"
+      ],
+      "hook": "سینمای نوین: بیوگرافی سیزار، شجاعت در برابر طغیان",
+      "hooks": [
+        "سینمای نوین: بیوگرافی سیزار، شجاعت در برابر طغیان",
+        "فیلم سیزار: شجاعت افریدو، در برابر رژیم اسد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آمیر فخرالدین بازیگر 'دختر غریبه' و 'یونان' است"
+      ],
+      "status": "published",
+      "telegram_message_id": 477,
+      "published_at": "2026-11-22T13:09:47.439119+00:00",
+      "text": "سینمای نوین: بیوگرافی سیزار، شجاعت در برابر طغیان\n\n🎬 سینمای نوین: بیوگرافی سیزار، درباره افریدو که در برابر طغیان اسد شجاعت کرد\n\nفیلم بیوگرافی 'سیزار' که توسط آمیر فخرالدین، بازیگر 'دختر غریبه' و 'یونان'، کارگردانی می‌شود، به زندگی افریدو المدهان، افسر نظامی سوریه، می‌پردازد.\nاو در برابر شکنجه‌ها و قتل‌های رژیم بشار اسد، صدای خود را بلند کرد و در نهایت به عنوان قهرمان این اثر نقش‌آفرینی می‌کند.\n\n📌 نکات مهم:\n• آمیر فخرالدین کارگردان فیلم\n• افریدو المدهان افسر نظامی سوریه و whistleblower\n• تایم حسن در نقش سیزار بازی می‌کند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -24895,7 +24948,8 @@
     "23c2ad95e04bbc0ff28bb5ce",
     "0ef75673a050248fc4af357e",
     "287cf7f624029f4adac160f2",
-    "aab84ab74aa198cc4b4f6b0a"
+    "aab84ab74aa198cc4b4f6b0a",
+    "27cc25cab7eb3d6000a7e3b3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25368,7 +25422,8 @@
     "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860",
     "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
     "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-    "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028"
+    "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028",
+    "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196"
   ],
   "category_stats": {
     "movie_news": {
@@ -25378,7 +25433,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 194,
+      "published": 195,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25473,7 +25528,7 @@
       "published": 5
     },
     "13": {
-      "published": 37
+      "published": 38
     },
     "17": {
       "published": 45
@@ -25501,64 +25556,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-11T23:14:22.334196+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
-          "category": "actors_directors",
-          "score": 88.47,
-          "multi_source_count": 4
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-12T01:52:26.948865+00:00",
       "version": 2,
@@ -28516,6 +28513,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-22T13:09:47.439239+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -28988,9 +29043,95 @@
     "4765e883c4061e1f",
     "b346ff1a5afa147f",
     "9396e01dc7a96af1",
-    "ee9eabbf28a4aa49"
+    "ee9eabbf28a4aa49",
+    "67f860b431f84303"
   ],
   "entity_memory": {
+    "caesar": {
+      "count": 2,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "neon": {
+      "count": 2,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "syrian": {
+      "count": 2,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "backed biopic": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "about syrian officer": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "who blew": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "whistle": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "assad regime torture": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "be directed": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ameer fakher eldin": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the stranger": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "yunan": {
+      "count": 1,
+      "last_seen": "2026-11-22T13:09:47.439155+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "having": {
       "count": 2,
       "last_seen": "2026-11-22T00:14:19.199712+00:00",
@@ -29288,13 +29429,6 @@
         "actors_directors"
       ]
     },
-    "caesar": {
-      "count": 1,
-      "last_seen": "2026-11-21T16:34:33.344381+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "biopic syrian": {
       "count": 1,
       "last_seen": "2026-11-21T16:34:33.344381+00:00",
@@ -29310,13 +29444,6 @@
       ]
     },
     "al haybar": {
-      "count": 1,
-      "last_seen": "2026-11-21T16:34:33.344381+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "neon": {
       "count": 1,
       "last_seen": "2026-11-21T16:34:33.344381+00:00",
       "categories": [
@@ -30595,13 +30722,6 @@
         "movie_news"
       ]
     },
-    "syrian": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "abdallah al": {
       "count": 1,
       "last_seen": "2026-11-18T13:43:51.951207+00:00",
@@ -31751,71 +31871,6 @@
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "actor": {
-      "count": 2,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "dawn greenhalgh dies": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "revered canadian stage": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star of": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "anne": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "green gables": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the virgin suicides": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ontario": {
-      "count": 1,
-      "last_seen": "2026-11-14T23:48:14.919016+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "queen": {
-      "count": 2,
-      "last_seen": "2026-11-14T21:01:41.252777+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     }
   },
