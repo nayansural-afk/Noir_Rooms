@@ -24726,6 +24726,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "82144131c6405f19e7a9f974",
+      "story_id": "70e204f66f2b5bab",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
+      "title": "Sadie Sandler to Star in Netflix Horror Movie ‘Malibu’ From Vertigo, Happy Madison (Exclusive)",
+      "category": "actors_directors",
+      "score": 73.99,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "netflix",
+        "sadie sandler",
+        "star",
+        "netflix horror movie",
+        "malibu",
+        "from vertigo",
+        "happy madison",
+        "room",
+        "williams"
+      ],
+      "hook": "سادیه ساندرل در ترسناک نئوتیفلیکس 'مالیبو' نقش‌آفرینی می‌کند",
+      "hooks": [
+        "سادیه ساندرل در فیلم ترسناک نئوتیفلیکس 'مالیبو'",
+        "نئوتیفلیکس با 'مالیبو' و سادیه ساندرل"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سادیه ساندرل در فیلم ترسناک نئوتیفلیکس 'مالیبو' نقش‌آفرینی می‌کند."
+      ],
+      "status": "published",
+      "telegram_message_id": 483,
+      "published_at": "2026-11-23T20:49:54.564452+00:00",
+      "text": "سادیه ساندرل در ترسناک نئوتیفلیکس 'مالیبو' نقش‌آفرینی می‌کند\n\n🎬 سادیه ساندرل در فیلم ترسناک نئوتیفلیکس 'مالیبو' نقش‌آفرینی می‌کند\n\nسادیه ساندرل در نقش اصلی فیلم ترسناک نئوتیفلیکس 'مالیبو' حضور خواهد یافت. این فیلم توسط شرکت‌های Vertigo و Happy Madison تولید می‌شود.\nدر کنار این پروژه، شرکت Room 101 نیز فیلمی با کارگردان Tod 'Kip' Williams دربارهٔ یک اشتباه در نگهداری سگ تولید کرده است.\n\n📌 نکات مهم:\n• سادیه ساندرل در نقش اصلی فیلم ترسناک نئوتیفلیکس 'مالیبو' حضور دارد.\n• فیلم توسط Vertigo و Happy Madison تولید می‌شود.\n• Room 101 نیز فیلمی با Tod 'Kip' Williams دربارهٔ نگهداری سگ تولید کرده است.\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25205,7 +25254,8 @@
     "b809f0a15dd1d50164e70dc6",
     "012edcd2131d60f5a3e8e86a",
     "969597bcd086b9b87ebf7ec2",
-    "adc7cf65166e84b9e0a20b87"
+    "adc7cf65166e84b9e0a20b87",
+    "82144131c6405f19e7a9f974"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25684,7 +25734,8 @@
     "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
     "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
     "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
-    "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750"
+    "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
+    "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327"
   ],
   "category_stats": {
     "movie_news": {
@@ -25694,7 +25745,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 198,
+      "published": 199,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25750,7 +25801,7 @@
       "published": 23
     },
     "20": {
-      "published": 45
+      "published": 46
     },
     "21": {
       "published": 31
@@ -25817,64 +25868,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-13T00:59:04.705936+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-13T12:55:41.655624+00:00",
       "version": 2,
@@ -28832,6 +28825,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-23T20:49:54.564583+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29310,9 +29361,74 @@
     "0abafa583b72026e",
     "48a1469ef431a3fb",
     "bf67889654b79876",
-    "1ade7a7e6b271fa9"
+    "1ade7a7e6b271fa9",
+    "70e204f66f2b5bab"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 2,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 9,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "sadie sandler": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "netflix horror movie": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "malibu": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "from vertigo": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "happy madison": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "room": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "williams": {
+      "count": 1,
+      "last_seen": "2026-11-23T20:49:54.564502+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "venice": {
       "count": 1,
       "last_seen": "2026-11-23T15:47:16.747956+00:00",
@@ -30700,13 +30816,6 @@
         "movie_news"
       ]
     },
-    "netflix": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "bridgerton": {
       "count": 1,
       "last_seen": "2026-11-19T17:56:40.864176+00:00",
@@ -30859,14 +30968,6 @@
       "last_seen": "2026-11-19T14:13:01.341505+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "star": {
-      "count": 8,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "paramount": {
@@ -32085,55 +32186,6 @@
     "screen debut": {
       "count": 1,
       "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james gray": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "los angeles": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "christopher nolan": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nolan": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ben affleck raved": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "about robert pattinson": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the odyssey": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
       "categories": [
         "actors_directors"
       ]
