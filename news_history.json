@@ -24619,6 +24619,61 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "969597bcd086b9b87ebf7ec2",
+      "story_id": "bf67889654b79876",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
+      "title": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "huelva ibero",
+        "american film festival",
+        "prizes",
+        "after elena",
+        "alfredo castro",
+        "puenzo",
+        "la bola negra",
+        "win big spain",
+        "europe",
+        "latin american",
+        "chilean",
+        "argentine"
+      ],
+      "hook": "جشنواره هولوا: جایزه‌های برتر برای آلِفردو کاسترو و لوسیا پونزو",
+      "hooks": [
+        "جشنواره هولوا: آلِفردو کاسترو و لوسیا پونزو برنده شدند",
+        "جشنواره هولوا: «بلا نیکرا» و «بعد از الینا» برنده شدند"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جشنواره هولوا جایزه برتر را به آلِفردو کاسترو اهدا کرد",
+        "جشنواره هولوا جایزه برتر را به لوسیا پونزو اهدا کرد",
+        "فیلم «بلا نیکرا» در جشنواره هولوا تقدیر شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 481,
+      "published_at": "2026-11-23T00:43:49.525668+00:00",
+      "text": "جشنواره هولوا: جایزه‌های برتر برای آلِفردو کاسترو و لوسیا پونزو\n\n🎬 جشنواره هولوا: آلِفردو کاسترو و لوسیا پونزو برنده جایزه‌های برتر، «بلا نیکرا» نیز تقدیر شد\n\nدر شب شنبه، جشنواره هولوا در اسپانیا، یکی از برترین پلتفرم‌های سینمای لاتین آمریکایی در اروپا، جایزه‌های برتر خود را به آلِفردو کاسترو، بازیگر شیلی، و لوسیا پونزو، نویسنده-کارگردان آرژانتینی، اهدا کرد. فیلم «بلا نیکرا» نیز با حضور نویسنده-کارگردان-صنعت‌ساز جویفر کالوو و جویفر امبرسوی – Los Javis – تقدیر شد\n\n📌 نکات مهم:\n• جشنواره هولوا در اسپانیا برگزار شد\n• آلِفردو کاسترو و لوسیا پونزو جایزه برتر دریافت کردند\n• فیلم «بلا نیکرا» نیز تقدیر شد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25096,7 +25151,8 @@
     "27cc25cab7eb3d6000a7e3b3",
     "9d6b4b8ea5620a56da9ffe85",
     "b809f0a15dd1d50164e70dc6",
-    "012edcd2131d60f5a3e8e86a"
+    "012edcd2131d60f5a3e8e86a",
+    "969597bcd086b9b87ebf7ec2"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25573,7 +25629,8 @@
     "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196",
     "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
     "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
-    "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210"
+    "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
+    "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462"
   ],
   "category_stats": {
     "movie_news": {
@@ -25583,7 +25640,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 197,
+      "published": 198,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25687,7 +25744,7 @@
       "published": 13
     },
     "0": {
-      "published": 13
+      "published": 14
     }
   },
   "strategy": {
@@ -25706,64 +25763,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-12T20:35:14.439682+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-12T22:30:33.672205+00:00",
       "version": 2,
@@ -28721,6 +28720,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-23T00:43:49.525790+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29197,9 +29254,95 @@
     "67f860b431f84303",
     "5910b7180f756326",
     "0abafa583b72026e",
-    "48a1469ef431a3fb"
+    "48a1469ef431a3fb",
+    "bf67889654b79876"
   ],
   "entity_memory": {
+    "europe": {
+      "count": 2,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "huelva ibero": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "american film festival": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "prizes": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "after elena": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alfredo castro": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "puenzo": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "la bola negra": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "win big spain": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "latin american": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chilean": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "argentine": {
+      "count": 1,
+      "last_seen": "2026-11-23T00:43:49.525706+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "elsinore": {
       "count": 2,
       "last_seen": "2026-11-22T22:15:19.067412+00:00",
@@ -30531,13 +30674,6 @@
       ]
     },
     "paradise": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "europe": {
       "count": 1,
       "last_seen": "2026-11-19T14:13:01.341505+00:00",
       "categories": [
@@ -31945,83 +32081,6 @@
       "last_seen": "2026-11-15T19:12:02.278322+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "hunger games": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "prequel": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "domestic": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "venice": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "woman unknown": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "breakout mathilde arcel": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "her venice award": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "winning performance": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "life after her": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lido triumph": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "everything is open": {
-      "count": 1,
-      "last_seen": "2026-11-15T16:02:05.566595+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
