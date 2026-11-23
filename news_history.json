@@ -24674,6 +24674,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "adc7cf65166e84b9e0a20b87",
+      "story_id": "1ade7a7e6b271fa9",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
+      "title": "Billy Porter, Hannah John-Kamen Board ‘The Colour of My Skin,’ From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 77.73,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "venice",
+        "billy porter",
+        "hannah john",
+        "kamen board",
+        "the colour",
+        "my skin",
+        "from venice winner",
+        "anuparna roy",
+        "activist amar singh",
+        "kamen",
+        "horizons",
+        "venice film festival"
+      ],
+      "hook": "بازیگران مطرح، فیلم کوتاه جدید در انتظار",
+      "hooks": [
+        "بلی پورتر و هانن جان‑کامن، تولیدکنندگان فیلم جدید",
+        "فیلم کوتاه «رنگ پوست من» از برنده وینس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم‌برداری به پایان رسید"
+      ],
+      "status": "published",
+      "telegram_message_id": 482,
+      "published_at": "2026-11-23T15:47:16.747903+00:00",
+      "text": "بازیگران مطرح، فیلم کوتاه جدید در انتظار\n\n🎬 بلی پورتر و هانن جان‑کامن، تولیدکنندگان «رنگ پوست من»\n\nفیلم کوتاه «رنگ پوست من» توسط بازیگران مطرح، بلی پورتر و هانن جان‑کامن، به‌عنوان تولیدکنندگان، در دست اجراست. این اثر کوتاه، به‌همراه هم‌نویس و هم‌کاران، توسط آنیپارنای روي و فعال بیکه‌هندی آمیر سینگ، ساخته می‌شود.\nفیلم در جشنواره وینس 2025 برنده جایزه بهترین کارگردان در بخش افق‌ها شد و فیلم‌برداری آن به تازگی به پایان رسید. بلی پورتر و هانن جان‑کامن با استیفانی فاشر و جوردن در تیم تولید همکاری می‌کنند.\n\n📌 نکات مهم:\n• فیلم کوتاه «رنگ پوست من»\n• بلی پورتر و هانن جان‑کامن تولیدکنندگان\n• کارگردانی مشترک آنیپارنای روي و آمیر سینگ\n• برنده جایزه بهترین کارگردان افق‌ها در جشنواره وینس 2025\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25152,7 +25204,8 @@
     "9d6b4b8ea5620a56da9ffe85",
     "b809f0a15dd1d50164e70dc6",
     "012edcd2131d60f5a3e8e86a",
-    "969597bcd086b9b87ebf7ec2"
+    "969597bcd086b9b87ebf7ec2",
+    "adc7cf65166e84b9e0a20b87"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25630,11 +25683,12 @@
     "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo",
     "https://www.thewrap.com/creative-content/movies/ramayana-sets-new-u-s-box-office-record-for-indian-films",
     "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
-    "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462"
+    "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
+    "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 240,
+      "published": 241,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25726,7 +25780,7 @@
       "published": 1
     },
     "15": {
-      "published": 20
+      "published": 21
     },
     "1": {
       "published": 7
@@ -25763,64 +25817,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-12T22:30:33.672205+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-13T00:59:04.705936+00:00",
       "version": 2,
@@ -28778,6 +28774,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-23T15:47:16.748030+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29255,9 +29309,94 @@
     "5910b7180f756326",
     "0abafa583b72026e",
     "48a1469ef431a3fb",
-    "bf67889654b79876"
+    "bf67889654b79876",
+    "1ade7a7e6b271fa9"
   ],
   "entity_memory": {
+    "venice": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "billy porter": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hannah john": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kamen board": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the colour": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "my skin": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "from venice winner": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "anuparna roy": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "activist amar singh": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kamen": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "horizons": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "venice film festival": {
+      "count": 1,
+      "last_seen": "2026-11-23T15:47:16.747956+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "europe": {
       "count": 2,
       "last_seen": "2026-11-23T00:43:49.525706+00:00",
@@ -31997,90 +32136,6 @@
       "last_seen": "2026-11-15T21:25:17.305184+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "performance": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "recalls matt damon": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "he said": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "it was like": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "watching": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "guy run into": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "avalanche": {
-      "count": 1,
-      "last_seen": "2026-11-15T21:25:17.305184+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dune": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "box office": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "domestic ticket sales": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from last year": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hollywood awaits": {
-      "count": 1,
-      "last_seen": "2026-11-15T19:12:02.278322+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
