@@ -25036,6 +25036,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "0f3d1441e4dfe37217d20bc1",
+      "story_id": "d7cddac36966a078",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
+      "title": "Black Bear Buys Thriller ‘Seeker,’ Starring ‘Obsession’s’ Cooper Tomlinson and ‘Off Campus’ Actor Mika Abdalla (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 81.28,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "black bear buys",
+        "thriller",
+        "seeker",
+        "starring",
+        "obsession",
+        "cooper tomlinson",
+        "off campus",
+        "actor mika abdalla",
+        "black bear",
+        "mika abdalla",
+        "happy death day",
+        "jessica rothe"
+      ],
+      "hook": "Black Bear خرید Thriller Seeker",
+      "hooks": [
+        "Cooper Tomlinson و Mika Abdalla در Seeker",
+        "Black Bear برنده حقوق توزیع در آمریکا و UK"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Black Bear خرید Thriller Seeker",
+        "Cooper Tomlinson و Mika Abdalla در نقش اصلی"
+      ],
+      "status": "published",
+      "telegram_message_id": 489,
+      "published_at": "2026-11-24T22:51:41.721182+00:00",
+      "text": "Black Bear خرید Thriller Seeker\n\n🎬 Black Bear خرید Thriller Seeker با بازی Cooper Tomlinson و Mika Abdalla\n\nBlack Bear شرکت تولیدی Black Bear، Thriller Seeker را خریداری کرده است. این فیلم با بازی Cooper Tomlinson از Obsession و Mika Abdalla از Off Campus همراه با Jessica Rothe است. \nBlack Bear حقوق توزیع در آمریکای شمالی و بریتانیا را به دست دارد و فیلم در نمایشگاه AFM معرفی شد. کارگردان Adam Carter Rehmeier و نویسنده Michael Learner مسئول ساخت آن هستند.\n\n📌 نکات مهم:\n• Black Bear خرید Thriller Seeker\n• Cooper Tomlinson و Mika Abdalla در نقش اصلی\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25521,7 +25575,8 @@
     "00e9a00daee6737d9f6628e0",
     "d49c0d7511b89f2b3f25f0b8",
     "77b809ed2220907540e1daec",
-    "78c5bd15eaeaa0240c80ad5f"
+    "78c5bd15eaeaa0240c80ad5f",
+    "0f3d1441e4dfe37217d20bc1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26006,7 +26061,8 @@
     "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
     "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
     "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
-    "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191"
+    "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
+    "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478"
   ],
   "category_stats": {
     "movie_news": {
@@ -26016,7 +26072,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 202,
+      "published": 203,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26090,7 +26146,7 @@
       "published": 26
     },
     "22": {
-      "published": 28
+      "published": 29
     },
     "7": {
       "published": 2
@@ -26142,64 +26198,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T11:59:05.160377+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T15:30:11.619297+00:00",
       "version": 2,
@@ -29157,6 +29155,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T22:51:41.721286+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29641,9 +29697,94 @@
     "55f1538ad7e7cbb0",
     "2b8f94a5da73eddb",
     "61cee7d17b32c002",
-    "fba03a37c26050d9"
+    "fba03a37c26050d9",
+    "d7cddac36966a078"
   ],
   "entity_memory": {
+    "black bear buys": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thriller": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "seeker": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "obsession": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cooper tomlinson": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "off campus": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "actor mika abdalla": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "black bear": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "mika abdalla": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "happy death day": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jessica rothe": {
+      "count": 1,
+      "last_seen": "2026-11-24T22:51:41.721214+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "macaulay culkin": {
       "count": 2,
       "last_seen": "2026-11-24T19:54:29.695167+00:00",
@@ -32390,90 +32531,6 @@
       "last_seen": "2026-11-17T02:51:40.653003+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "actor kapil talwalkar": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "signs with innovative": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "artists entertainment": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "kapil talwalkar": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "innovative artists entertainment": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "talwalkar": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "keke palmer": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jack whitehall": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "peacock": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tobin": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "zoey": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "higher ground": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
