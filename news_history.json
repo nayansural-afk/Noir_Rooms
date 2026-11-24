@@ -24878,6 +24878,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d49c0d7511b89f2b3f25f0b8",
+      "story_id": "2b8f94a5da73eddb",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
+      "title": "‘Daredevil’s Charlie Cox Wanted To Audition For James Bond But Was Told He Was “Too Old”: “But Robert Pattinson Is The Same Age As Me!”",
+      "category": "actors_directors",
+      "score": 73.62,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "james bond",
+        "denis villeneuve",
+        "daredevil",
+        "charlie cox wanted",
+        "to audition for",
+        "james bond but",
+        "was told he",
+        "too old",
+        "but robert pattinson",
+        "is the same",
+        "age as me",
+        "charlie cox"
+      ],
+      "hook": "چرا چارلی ککس برای 007 رد شد؟ داستان پشت پرده.",
+      "hooks": [
+        "چارلی ککس: آرزوهای 007 و رد شدن او",
+        "روزی برای 007، اما چرا؟ چارلی ککس و روباتن پاتنر"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "چارلی ککس می‌خواست برای نقش جیمز باند در فیلم دیسین ویلنویو شرکت کند، اما به دلیل سن رد شد."
+      ],
+      "status": "published",
+      "telegram_message_id": 486,
+      "published_at": "2026-11-24T04:41:12.352188+00:00",
+      "text": "چرا چارلی ککس برای 007 رد شد؟ داستان پشت پرده.\n\n🎬 چارلی ککس می‌خواست برای 007 شرکت کند، اما گفتند «خیلی پیر هستی»\n\nچارلی ککس، بازیگر معروف سریال Daredevil، آرزو داشت برای نقش جیمز باند در فیلم جدید دیسین ویلنویو شرکت کند.\nاما او به دلیل سن، رد شد و در نهایت رباتن پاتنر در نقش 007 انتخاب شد.\n\n📌 نکات مهم:\n• چارلی ککس می‌خواست برای نقش جیمز باند در فیلم دیسین ویلنویو شرکت کند.\n• او به دلیل سن، رد شد و رباتن پاتنر در نقش 007 انتخاب شد.\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25360,7 +25413,8 @@
     "adc7cf65166e84b9e0a20b87",
     "82144131c6405f19e7a9f974",
     "074710f798f1204f0c46c5be",
-    "00e9a00daee6737d9f6628e0"
+    "00e9a00daee6737d9f6628e0",
+    "d49c0d7511b89f2b3f25f0b8"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25842,7 +25896,8 @@
     "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
     "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
     "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
-    "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes"
+    "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+    "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024"
   ],
   "category_stats": {
     "movie_news": {
@@ -25852,7 +25907,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 199,
+      "published": 200,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25957,6 +26012,9 @@
     },
     "0": {
       "published": 15
+    },
+    "4": {
+      "published": 1
     }
   },
   "strategy": {
@@ -25975,64 +26033,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-13T20:12:05.950153+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-13T22:19:04.490320+00:00",
       "version": 2,
@@ -28990,6 +28990,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T04:41:12.352305+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29471,9 +29529,94 @@
     "1ade7a7e6b271fa9",
     "70e204f66f2b5bab",
     "abfe8a951f897924",
-    "55f1538ad7e7cbb0"
+    "55f1538ad7e7cbb0",
+    "2b8f94a5da73eddb"
   ],
   "entity_memory": {
+    "james bond": {
+      "count": 4,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "denis villeneuve": {
+      "count": 2,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "daredevil": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charlie cox wanted": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "to audition for": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "james bond but": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "was told he": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "too old": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "but robert pattinson": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "is the same": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "age as me": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "charlie cox": {
+      "count": 1,
+      "last_seen": "2026-11-24T04:41:12.352222+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "north america": {
       "count": 2,
       "last_seen": "2026-11-24T03:07:10.375696+00:00",
@@ -31786,22 +31929,8 @@
         "movie_news"
       ]
     },
-    "james bond": {
-      "count": 3,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "robert pattinson": {
       "count": 3,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "denis villeneuve": {
-      "count": 1,
       "last_seen": "2026-11-17T21:27:32.839420+00:00",
       "categories": [
         "actors_directors"
@@ -32231,76 +32360,6 @@
     "broadway star ryan": {
       "count": 1,
       "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "crime drama": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "only good feelings": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ryan": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jay gatsby": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the great gatsby": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "films": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "other": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "hbo": {
-      "count": 2,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "max buys british": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
       "categories": [
         "actors_directors"
       ]
