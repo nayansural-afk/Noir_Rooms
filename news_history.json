@@ -24828,6 +24828,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "00e9a00daee6737d9f6628e0",
+      "story_id": "55f1538ad7e7cbb0",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+      "title": "You Can See Everything passes $100m at global box office as UK release starts strong",
+      "category": "box_office",
+      "score": 61.6,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "you can see",
+        "everything",
+        "nathan fielder",
+        "elizabeth holmes",
+        "directed",
+        "lance oppenheim",
+        "north america",
+        "box office mojo",
+        "this",
+        "continue"
+      ],
+      "hook": "سینمای مستند: ۱۰۰ میلیون دلار در سراسر جهان!",
+      "hooks": [
+        "مستند هولمز به رکوردهای جدید دست یافت",
+        "ناتان فیلدر و لانس اپن‌هیم در صدر بکس آفیس"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'You Can See Everything' بیش از ۱۰۰ میلیون دلار در بکس آفیس جهانی کسب کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 485,
+      "published_at": "2026-11-24T03:07:10.375663+00:00",
+      "text": "سینمای مستند: ۱۰۰ میلیون دلار در سراسر جهان!\n\n🎬 مستند 'You Can See Everything' به ۱۰۰ میلیون دلار در بکس آفیس رسید\n\nمستند 'You Can See Everything' که توسط ناتان فیلدر و لانس اپن‌هیم ساخته شد، در هفته اول در بریتانیا بیش از ۲.۵ میلیون دلار کسب کرد و به‌عنوان بالاترین بازه‌ی افتتاحیه برای مستند غیرموسیقی در تاریخ بریتانیا شناخته شد. در مجموع، این فیلم در سراسر جهان بیش از ۱۰۰ میلیون دلار درآمد داشت و در ششمین هفته‌اش در آمریکای شمالی حدود ۲.۵ میلیون دلار جمع‌آوری کرد، در حالی که در سایر مناطق بین‌المللی حدود ۹ میلیون دلار اضافه شد.\n\n📌 نکات مهم:\n• کسب بیش از ۱۰۰ میلیون دلار در بکس آفیس جهانی\n• بالاترین بازه‌ی افتتاحیه برای مستند غیرموسیقی در بریتانیا\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25309,7 +25359,8 @@
     "969597bcd086b9b87ebf7ec2",
     "adc7cf65166e84b9e0a20b87",
     "82144131c6405f19e7a9f974",
-    "074710f798f1204f0c46c5be"
+    "074710f798f1204f0c46c5be",
+    "00e9a00daee6737d9f6628e0"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25790,7 +25841,8 @@
     "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
     "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
     "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
-    "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302"
+    "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
+    "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes"
   ],
   "category_stats": {
     "movie_news": {
@@ -25818,7 +25870,7 @@
       "samples_with_metrics": 0
     },
     "box_office": {
-      "published": 13,
+      "published": 14,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25865,7 +25917,7 @@
       "published": 38
     },
     "3": {
-      "published": 2
+      "published": 3
     },
     "5": {
       "published": 23
@@ -25923,64 +25975,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-13T16:55:04.261083+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-13T20:12:05.950153+00:00",
       "version": 2,
@@ -28938,6 +28932,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T03:07:10.375767+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 407,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29418,9 +29470,84 @@
     "bf67889654b79876",
     "1ade7a7e6b271fa9",
     "70e204f66f2b5bab",
-    "abfe8a951f897924"
+    "abfe8a951f897924",
+    "55f1538ad7e7cbb0"
   ],
   "entity_memory": {
+    "north america": {
+      "count": 2,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "continue": {
+      "count": 5,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "directed": {
+      "count": 2,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "you can see": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "everything": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "nathan fielder": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "elizabeth holmes": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "lance oppenheim": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "box office mojo": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
+    "this": {
+      "count": 1,
+      "last_seen": "2026-11-24T03:07:10.375696+00:00",
+      "categories": [
+        "box_office"
+      ]
+    },
     "avengers": {
       "count": 4,
       "last_seen": "2026-11-24T00:30:56.888251+00:00",
@@ -29845,13 +29972,6 @@
         "movie_news"
       ]
     },
-    "north america": {
-      "count": 1,
-      "last_seen": "2026-11-22T20:04:22.765467+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "nitesh tiwari": {
       "count": 1,
       "last_seen": "2026-11-22T20:04:22.765467+00:00",
@@ -30070,14 +30190,6 @@
       "last_seen": "2026-11-22T00:14:19.199712+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "continue": {
-      "count": 4,
-      "last_seen": "2026-11-21T21:57:51.799509+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
       ]
     },
     "disney": {
@@ -30581,13 +30693,6 @@
       ]
     },
     "in ben stiller": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "directed": {
       "count": 1,
       "last_seen": "2026-11-20T17:30:12.084803+00:00",
       "categories": [
@@ -32194,55 +32299,6 @@
       ]
     },
     "max buys british": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "flatshare comedy": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "break clause": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring samuel bottomley": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "lara ricote": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rooster": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "charly clive": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "british": {
       "count": 1,
       "last_seen": "2026-11-16T13:27:14.934129+00:00",
       "categories": [
