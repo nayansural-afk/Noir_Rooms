@@ -24983,6 +24983,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "78c5bd15eaeaa0240c80ad5f",
+      "story_id": "fba03a37c26050d9",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
+      "title": "Constance Wu, Macaulay Culkin, Ken Leung And Ethan Eng To Star In New A24 Film From Director Walter Woodman",
+      "category": "actors_directors",
+      "score": 79.69,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "a24",
+        "constance wu",
+        "macaulay culkin",
+        "ken leung and",
+        "ethan eng to",
+        "star in new",
+        "film from director",
+        "walter woodman",
+        "ken leung",
+        "veronika slowikowska",
+        "david klein",
+        "ethan eng"
+      ],
+      "hook": "ستارگان بزرگ در اولین فیلم ویتور وودمن",
+      "hooks": [
+        "مجموعه‌ای از ستارگان در پروژه جدید A24",
+        "اولین فیلم ویتور وودمن با بازیگران برجسته"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این فیلم یک پروژه جدید A24 با ستارگان برجسته است"
+      ],
+      "status": "published",
+      "telegram_message_id": 488,
+      "published_at": "2026-11-24T19:54:29.695141+00:00",
+      "text": "ستارگان بزرگ در اولین فیلم ویتور وودمن\n\n🎬 A24 با ستارگان برجسته، اولین فیلم ویتور وودمن را معرفی می‌کند\n\nآستراهای Constance Wu، Macaulay Culkin و Ken Leung در اولین فیلم ویتور وودمن حضور دارند.\nاین فیلم توسط A24، Shy Kids، Pressman Film و Esmail Corp تولید می‌شود و در حال آماده‌سازی است.\n\n📌 نکات مهم:\n• Constance Wu, Macaulay Culkin, Ken Leung, Veronika Slowikowska, David Klein, Ethan Eng در نقش‌های اصلی حضور دارند\n• ویتور وودمن در نقش کارگردانی این فیلم به‌عنوان اولین کار خود فعالیت می‌کند\n• فیلم توسط A24، Shy Kids، Pressman Film و Esmail Corp تولید می‌شود\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25467,7 +25520,8 @@
     "074710f798f1204f0c46c5be",
     "00e9a00daee6737d9f6628e0",
     "d49c0d7511b89f2b3f25f0b8",
-    "77b809ed2220907540e1daec"
+    "77b809ed2220907540e1daec",
+    "78c5bd15eaeaa0240c80ad5f"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25951,7 +26005,8 @@
     "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
     "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
     "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
-    "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095"
+    "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
+    "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191"
   ],
   "category_stats": {
     "movie_news": {
@@ -25961,7 +26016,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 201,
+      "published": 202,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26032,7 +26087,7 @@
       "published": 23
     },
     "19": {
-      "published": 25
+      "published": 26
     },
     "22": {
       "published": 28
@@ -26087,64 +26142,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T00:49:57.794676+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 404,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T11:59:05.160377+00:00",
       "version": 2,
@@ -29102,6 +29099,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T19:54:29.695238+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29585,9 +29640,96 @@
     "abfe8a951f897924",
     "55f1538ad7e7cbb0",
     "2b8f94a5da73eddb",
-    "61cee7d17b32c002"
+    "61cee7d17b32c002",
+    "fba03a37c26050d9"
   ],
   "entity_memory": {
+    "macaulay culkin": {
+      "count": 2,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "a24": {
+      "count": 3,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "constance wu": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ken leung and": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ethan eng to": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star in new": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "film from director": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "walter woodman": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ken leung": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "veronika slowikowska": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "david klein": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ethan eng": {
+      "count": 1,
+      "last_seen": "2026-11-24T19:54:29.695167+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "written": {
       "count": 2,
       "last_seen": "2026-11-24T15:38:37.686658+00:00",
@@ -30491,13 +30633,6 @@
         "movie_news"
       ]
     },
-    "macaulay culkin": {
-      "count": 1,
-      "last_seen": "2026-11-21T21:57:51.799509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "christmas": {
       "count": 1,
       "last_seen": "2026-11-21T21:57:51.799509+00:00",
@@ -30938,13 +31073,6 @@
     "clea": {
       "count": 1,
       "last_seen": "2026-11-20T20:52:03.319513+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "a24": {
-      "count": 2,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
       "categories": [
         "movie_news"
       ]
@@ -32342,76 +32470,6 @@
       ]
     },
     "higher ground": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the eyes of": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ghana": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sets global release": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "channel breakwater studios": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "obamas": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the eyes": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "darren watkins": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ben proudfoot": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "president barack obama": {
-      "count": 1,
-      "last_seen": "2026-11-17T00:35:24.797507+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle obama": {
       "count": 1,
       "last_seen": "2026-11-17T00:35:24.797507+00:00",
       "categories": [
