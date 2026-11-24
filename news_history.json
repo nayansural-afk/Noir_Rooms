@@ -24931,6 +24931,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "77b809ed2220907540e1daec",
+      "story_id": "61cee7d17b32c002",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
+      "title": "Jason Segel Boards ‘Meeting Your Maker,’ Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)",
+      "category": "actors_directors",
+      "score": 73.99,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 76.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "oscar",
+        "jason segel boards",
+        "meeting your maker",
+        "short about",
+        "suicidal",
+        "puppet",
+        "executive producer",
+        "written",
+        "gregory",
+        "kasunich",
+        "jonathan kite",
+        "broke girls"
+      ],
+      "hook": "جیسون سگل در پشت صحنهٔ کوتاه‌سری طنز سیاه 'Meeting Your Maker'",
+      "hooks": [
+        "یک روبات تلویزیونی افسرده در کوتاه‌سری جیسون سگل، مواجهه با خالق",
+        "کوتاه‌سری 'Meeting Your Maker': طنز سیاه دربارهٔ روبات تلویزیونی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کوتاه‌سری Oscar-qualified است"
+      ],
+      "status": "published",
+      "telegram_message_id": 487,
+      "published_at": "2026-11-24T15:38:37.686627+00:00",
+      "text": "جیسون سگل در پشت صحنهٔ کوتاه‌سری طنز سیاه 'Meeting Your Maker'\n\n🎬 جیسون سگل در نقش تهیه‌کنندهٔ اجرایی کوتاه‌سری طنز سیاه 'Meeting Your Maker'\n\nکوتاه‌سری 'Meeting Your Maker' توسط جیسون سگل به عنوان تهیه‌کنندهٔ اجرایی انتخاب شد. نویسنده و کارگردان گرافری ج.م. کاسونیک، این اثر را به عنوان یک طنز سیاه دربارهٔ روبات تلویزیونی افسرده، Otis، ساخته است.\nدر این اثر، Otis که در برنامهٔ کودکان به عنوان ستارهٔ تلویزیونی شناخته می‌شود، باید با خالق خود روبه‌رو شود. بازیگر جاناتان کیت، که در سری '2 Broke Girls' شناخته شده است، نقش او را بازی می‌کند.\n\n📌 نکات مهم:\n• جیسون سگل تهیه‌کنندهٔ اجرایی کوتاه‌سری 'Meeting Your Maker' است\n• نویسنده و کارگردان گرافری ج.م. کاسونیک، Otis، روبات تلویزیونی افسرده را در این طنز سیاه معرفی می‌کند\n• کوتاه‌سری Oscar-qualified است\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25414,7 +25466,8 @@
     "82144131c6405f19e7a9f974",
     "074710f798f1204f0c46c5be",
     "00e9a00daee6737d9f6628e0",
-    "d49c0d7511b89f2b3f25f0b8"
+    "d49c0d7511b89f2b3f25f0b8",
+    "77b809ed2220907540e1daec"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25897,7 +25950,8 @@
     "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
     "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
     "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
-    "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024"
+    "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
+    "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095"
   ],
   "category_stats": {
     "movie_news": {
@@ -25907,7 +25961,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 200,
+      "published": 201,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25993,7 +26047,7 @@
       "published": 1
     },
     "15": {
-      "published": 21
+      "published": 22
     },
     "1": {
       "published": 7
@@ -26033,64 +26087,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-13T22:19:04.490320+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T00:49:57.794676+00:00",
       "version": 2,
@@ -29048,6 +29044,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T15:38:37.686733+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29530,9 +29584,97 @@
     "70e204f66f2b5bab",
     "abfe8a951f897924",
     "55f1538ad7e7cbb0",
-    "2b8f94a5da73eddb"
+    "2b8f94a5da73eddb",
+    "61cee7d17b32c002"
   ],
   "entity_memory": {
+    "written": {
+      "count": 2,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "oscar": {
+      "count": 49,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "jason segel boards": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "meeting your maker": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "short about": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "suicidal": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "puppet": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "executive producer": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gregory": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kasunich": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jonathan kite": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "broke girls": {
+      "count": 1,
+      "last_seen": "2026-11-24T15:38:37.686658+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "james bond": {
       "count": 4,
       "last_seen": "2026-11-24T04:41:12.352222+00:00",
@@ -30461,13 +30603,6 @@
         "actors_directors"
       ]
     },
-    "written": {
-      "count": 1,
-      "last_seen": "2026-11-21T19:53:31.059742+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "stephen beresford": {
       "count": 1,
       "last_seen": "2026-11-21T19:53:31.059742+00:00",
@@ -30890,16 +31025,6 @@
       "categories": [
         "movie_news",
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 48,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
       ]
     },
     "london": {
@@ -32291,77 +32416,6 @@
       "last_seen": "2026-11-17T00:35:24.797507+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "studios": {
-      "count": 2,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "robert pattinson as": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "bond or bond": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "villain": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "what did the": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "actor say years": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "denis": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "david": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tanya": {
-      "count": 1,
-      "last_seen": "2026-11-16T22:40:43.816840+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "broadway star ryan": {
-      "count": 1,
-      "last_seen": "2026-11-16T19:13:10.784982+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
