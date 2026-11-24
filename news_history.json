@@ -24775,6 +24775,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "074710f798f1204f0c46c5be",
+      "story_id": "abfe8a951f897924",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
+      "title": "Marvel’s ‘Avengers: Doomsday’ Won’t Screen for BAFTA, Golden Globes and Other Early Awards Groups to Guard Its Spoilers (EXCLUSIVE)",
+      "category": "awards_festivals",
+      "score": 68.11,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 73.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "marvel",
+        "bafta",
+        "avengers",
+        "doomsday",
+        "screen",
+        "golden globes",
+        "other early awards",
+        "groups",
+        "guard its spoilers",
+        "earth",
+        "mightiest heroes",
+        "doctor doom"
+      ],
+      "hook": "دوران اکران بدون نمایش برای جوایز",
+      "hooks": [
+        "دوران اکران بدون نمایش برای جوایز",
+        "دوران اکران بدون نمایش برای جوایز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "این تصمیم برای جلوگیری از افشای جزئیات و حفظ شگفتی در سینما اتخاذ شده است"
+      ],
+      "status": "published",
+      "telegram_message_id": 484,
+      "published_at": "2026-11-24T00:30:56.888217+00:00",
+      "text": "دوران اکران بدون نمایش برای جوایز\n\n🎬 آواتار: دوومسای بدون نمایش برای جوایز تا حفظ شگفتی\n\nدر آخرین قسمت از سریال آواتار، قهرمانان بزرگ زمین با دکتر دم مقابل می‌شوند، اما این فیلم پیش از نمایش جهانی، برای جوایز BAFTA و Golden Globes و دیگر گروه‌های اولیه نمایش داده نخواهد شد.\nاین تصمیم، به منظور حفظ شگفتی و جلوگیری از افشای جزئیات، به منظور حفاظت از کسب درآمد در سینما اتخاذ شده است.\n\n📌 نکات مهم:\n• دوران اکران بدون نمایش برای جوایز BAFTA و Golden Globes\n• Marvel Studios تصمیم گرفته است تا قبل از نمایش جهانی، فیلم را برای جوایز نمایش ندهد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25255,7 +25308,8 @@
     "012edcd2131d60f5a3e8e86a",
     "969597bcd086b9b87ebf7ec2",
     "adc7cf65166e84b9e0a20b87",
-    "82144131c6405f19e7a9f974"
+    "82144131c6405f19e7a9f974",
+    "074710f798f1204f0c46c5be"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -25735,7 +25789,8 @@
     "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210",
     "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462",
     "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750",
-    "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327"
+    "https://www.hollywoodreporter.com/movies/movie-news/sadie-sandler-netflix-horror-malibu-vertigo-happy-madison-1236761327",
+    "https://variety.com/2026/film/awards/avengers-doomsday-skips-bafta-golden-globes-vfx-oscars-1236956302"
   ],
   "category_stats": {
     "movie_news": {
@@ -25769,7 +25824,7 @@
       "samples_with_metrics": 0
     },
     "awards_festivals": {
-      "published": 4,
+      "published": 5,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -25849,7 +25904,7 @@
       "published": 13
     },
     "0": {
-      "published": 14
+      "published": 15
     }
   },
   "strategy": {
@@ -25868,64 +25923,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-13T12:55:41.655624+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-13T16:55:04.261083+00:00",
       "version": 2,
@@ -28883,6 +28880,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-24T00:30:56.888327+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
+          "category": "movie_news",
+          "score": 94.54,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
+          "category": "movie_news",
+          "score": 93.29,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29362,9 +29417,102 @@
     "48a1469ef431a3fb",
     "bf67889654b79876",
     "1ade7a7e6b271fa9",
-    "70e204f66f2b5bab"
+    "70e204f66f2b5bab",
+    "abfe8a951f897924"
   ],
   "entity_memory": {
+    "avengers": {
+      "count": 4,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news",
+        "actors_directors",
+        "awards_festivals"
+      ]
+    },
+    "doomsday": {
+      "count": 4,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "upcoming_movies",
+        "movie_news",
+        "actors_directors",
+        "awards_festivals"
+      ]
+    },
+    "marvel": {
+      "count": 3,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "awards_festivals"
+      ]
+    },
+    "bafta": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "screen": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "golden globes": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "other early awards": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "groups": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "guard its spoilers": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "earth": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "mightiest heroes": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "doctor doom": {
+      "count": 1,
+      "last_seen": "2026-11-24T00:30:56.888251+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
     "netflix": {
       "count": 2,
       "last_seen": "2026-11-23T20:49:54.564502+00:00",
@@ -31406,32 +31554,6 @@
         "movie_news"
       ]
     },
-    "avengers": {
-      "count": 3,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "upcoming_movies",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "doomsday": {
-      "count": 3,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "upcoming_movies",
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "marvel": {
-      "count": 2,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "marvel started planning": {
       "count": 1,
       "last_seen": "2026-11-18T02:18:25.760756+00:00",
@@ -32123,69 +32245,6 @@
     "british": {
       "count": 1,
       "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "samuel bottomley": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jess bray": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the outlaws": {
-      "count": 1,
-      "last_seen": "2026-11-16T13:27:14.934129+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "club kid": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rocks limited expansion": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paper tiger": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "scores james gray": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "best per": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "screen debut": {
-      "count": 1,
-      "last_seen": "2026-11-15T23:54:17.548944+00:00",
       "categories": [
         "actors_directors"
       ]
