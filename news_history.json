@@ -25090,6 +25090,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "40bd1f661cecfd2f48d5a204",
+      "story_id": "dd65643a02eae66b",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
+      "title": "Everything We Know About Gina Prince-Bythewood’s ‘Children Of Blood And Bone’ Movie So Far",
+      "category": "movie_news",
+      "score": 87.06,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "everything we know",
+        "about gina prince",
+        "bythewood",
+        "children of blood",
+        "and bone",
+        "movie so far",
+        "children",
+        "blood",
+        "bone",
+        "tomi adeyemi",
+        "gina prince"
+      ],
+      "hook": "سینمای جدید: 'Children of Blood and Bone' به زودی در سینما",
+      "hooks": [
+        "فانتزی YA در سینما: 'Children of Blood and Bone' نزدیک است",
+        "سینماست: 'Children of Blood and Bone' با بازیگران برجسته"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "فیلم بر اساس رمان YA اثر تومی آدییمی ساخته شده و توسط گینا پرین-بیته‌وود کارگردانی می‌شود"
+      ],
+      "status": "published",
+      "telegram_message_id": 490,
+      "published_at": "2026-11-25T01:13:00.899801+00:00",
+      "text": "سینمای جدید: 'Children of Blood and Bone' به زودی در سینما\n\n🎬 Children of Blood and Bone: فیلم جدید گینا پرین-بیته‌وود نزدیک به نمایش\n\nسینمای جدید گینا پرین-بیته‌وود، 'Children of Blood and Bone'، به زودی در دوربین‌های سینما ظاهر خواهد شد. این فیلم بر اساس رمان YA اثر تومی آدییمی ساخته شده و با بازیگران برجسته‌ای در کنار هم، به نمایش در می‌آید.\n\n📌 نکات مهم:\n• سینمای گینا پرین-بیته‌وود\n• سینمای بر اساس رمان YA اثر تومی آدییمی\n• نزدیک به نمایش در دوربین‌های سینما\n• بازیگران برجسته در کنار هم\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25576,7 +25628,8 @@
     "d49c0d7511b89f2b3f25f0b8",
     "77b809ed2220907540e1daec",
     "78c5bd15eaeaa0240c80ad5f",
-    "0f3d1441e4dfe37217d20bc1"
+    "0f3d1441e4dfe37217d20bc1",
+    "40bd1f661cecfd2f48d5a204"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26062,11 +26115,12 @@
     "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024",
     "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
     "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
-    "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478"
+    "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
+    "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 241,
+      "published": 242,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26161,7 +26215,7 @@
       "published": 22
     },
     "1": {
-      "published": 7
+      "published": 8
     },
     "2": {
       "published": 5
@@ -26198,64 +26252,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T15:30:11.619297+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T18:36:48.790505+00:00",
       "version": 2,
@@ -29213,6 +29209,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-25T01:13:00.899899+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29698,9 +29752,87 @@
     "2b8f94a5da73eddb",
     "61cee7d17b32c002",
     "fba03a37c26050d9",
-    "d7cddac36966a078"
+    "d7cddac36966a078",
+    "dd65643a02eae66b"
   ],
   "entity_memory": {
+    "everything we know": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "about gina prince": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bythewood": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "children of blood": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "and bone": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "movie so far": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "children": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "blood": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "bone": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tomi adeyemi": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gina prince": {
+      "count": 1,
+      "last_seen": "2026-11-25T01:13:00.899831+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "black bear buys": {
       "count": 1,
       "last_seen": "2026-11-24T22:51:41.721214+00:00",
@@ -32454,83 +32586,6 @@
       "last_seen": "2026-11-17T18:06:03.349609+00:00",
       "categories": [
         "trailers_first_look"
-      ]
-    },
-    "johnny depp": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ebenezer": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "conquers": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ireland box office": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "stays": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "top three paramount": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ti west": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ebenezer scrooge": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rupert grint": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "andrea riseborough": {
-      "count": 1,
-      "last_seen": "2026-11-17T14:12:30.895963+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "burbs": {
-      "count": 1,
-      "last_seen": "2026-11-17T02:51:40.653003+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
