@@ -25295,6 +25295,52 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "22cb32a2b83c447923462fca",
+      "story_id": "bc276ca25ef4f4af",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "category": "actors_directors",
+      "score": 67.7,
+      "freshness": 82.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "veteran nigerian nollywood",
+        "pete edochie",
+        "odochie",
+        "chinua achebe",
+        "things fall apart"
+      ],
+      "hook": "نایجریه، پیته ادویچی، درگذشت؛ 79 ساله",
+      "hooks": [
+        "نایجریه، پیته ادویچی، درگذشت؛ 79 ساله",
+        "نایجریه، پیته ادویچی، درگذشت؛ 79 ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پیته ادویچی درگذشت",
+        "او در 1987 در نقش «Things Fall Apart» شناخته شد"
+      ],
+      "status": "published",
+      "telegram_message_id": 494,
+      "published_at": "2026-11-25T22:04:42.495176+00:00",
+      "text": "نایجریه، پیته ادویچی، درگذشت؛ 79 ساله\n\n🎬 نایجریه: بازیگر نولایوک پیته ادویچی درگذشت، 79 ساله\n\nپیته ادویچی، بازیگر برجسته نولایوک، درگذشت. او در سن 79 سالگی از دنیا رفت.\nاو در سال 1987 پس از ایفای نقش در تلاشی تلویزیونی بر اساس رمان «Things Fall Apart» از چنوآ آکبه، به شهرت رسید.\n\n📌 نکات مهم:\n• پیته ادویچی درگذشت\n• او در 1987 در نقش «Things Fall Apart» شناخته شد\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25785,7 +25831,8 @@
     "40bd1f661cecfd2f48d5a204",
     "d9da672fd6b6a9b50af06ae3",
     "47ae2a438f26ed2e387a8d7e",
-    "031192a32a61888200f4c71e"
+    "031192a32a61888200f4c71e",
+    "22cb32a2b83c447923462fca"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26275,7 +26322,8 @@
     "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
     "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
     "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
-    "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220"
+    "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
+    "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo"
   ],
   "category_stats": {
     "movie_news": {
@@ -26285,7 +26333,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 203,
+      "published": 204,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26359,7 +26407,7 @@
       "published": 26
     },
     "22": {
-      "published": 29
+      "published": 30
     },
     "7": {
       "published": 2
@@ -26411,64 +26459,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-15T12:35:16.222300+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-15T16:02:05.566685+00:00",
       "version": 2,
@@ -29426,6 +29416,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-25T22:04:42.495270+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29915,9 +29963,45 @@
     "dd65643a02eae66b",
     "8b55236012de9faa",
     "3ec9781a4f96708c",
-    "5aa2ad984c365cd0"
+    "5aa2ad984c365cd0",
+    "bc276ca25ef4f4af"
   ],
   "entity_memory": {
+    "veteran nigerian nollywood": {
+      "count": 1,
+      "last_seen": "2026-11-25T22:04:42.495205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "pete edochie": {
+      "count": 1,
+      "last_seen": "2026-11-25T22:04:42.495205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "odochie": {
+      "count": 1,
+      "last_seen": "2026-11-25T22:04:42.495205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "chinua achebe": {
+      "count": 1,
+      "last_seen": "2026-11-25T22:04:42.495205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "things fall apart": {
+      "count": 1,
+      "last_seen": "2026-11-25T22:04:42.495205+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "hbo": {
       "count": 1,
       "last_seen": "2026-11-25T18:57:05.759252+00:00",
@@ -32708,41 +32792,6 @@
       ]
     },
     "marvel started planning": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert downey jr": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doctor doom before": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jonathan majors was": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "fired": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the kang dynasty": {
       "count": 1,
       "last_seen": "2026-11-18T02:18:25.760756+00:00",
       "categories": [
