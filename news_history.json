@@ -25194,6 +25194,55 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "47ae2a438f26ed2e387a8d7e",
+      "story_id": "3ec9781a4f96708c",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
+      "title": "British Industry Braces For Impact Of America’s Federal Film & TV Tax Incentive",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "british industry braces",
+        "for impact of",
+        "america",
+        "federal film",
+        "tax incentive",
+        "steven paul",
+        "british",
+        "donald"
+      ],
+      "hook": "تأثیر مالیات فدرال آمریکا بر سینمای بریتانیا",
+      "hooks": [
+        "مالیات فدرال آمریکا، نگرانی‌های بریتانیا",
+        "برنامه مالیاتی آمریکا، تأثیر بر صنعت فیلم"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "برنامه مالیاتی فدرال آمریکا تأثیر بر صنعت فیلم دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 492,
+      "published_at": "2026-11-25T15:22:59.085148+00:00",
+      "text": "تأثیر مالیات فدرال آمریکا بر سینمای بریتانیا\n\n🎬 صنعت فیلم بریتانیا در انتظار تأثیر مالیات فدرال آمریکا\n\nبرنامه مالیاتی فدرال آمریکا برای فیلم و تلویزیون، که توسط دونالد پشتیبانی می‌شود، در حال پیشرفت است. اما صنعت بریتانیا نگران تأثیر این اقدام بر بازار خود است و نظرات متفاوتی در میان سازمان‌ها و استودیوها مطرح می‌شود.\n\n📌 نکات مهم:\n• مالیات فدرال آمریکا برای فیلم و تلویزیون در حال پیشرفت است\n• صنعت بریتانیا نگران تأثیر این برنامه است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25682,7 +25731,8 @@
     "78c5bd15eaeaa0240c80ad5f",
     "0f3d1441e4dfe37217d20bc1",
     "40bd1f661cecfd2f48d5a204",
-    "d9da672fd6b6a9b50af06ae3"
+    "d9da672fd6b6a9b50af06ae3",
+    "47ae2a438f26ed2e387a8d7e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26170,11 +26220,12 @@
     "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
     "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
     "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
-    "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588"
+    "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
+    "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 243,
+      "published": 244,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26266,7 +26317,7 @@
       "published": 1
     },
     "15": {
-      "published": 22
+      "published": 23
     },
     "1": {
       "published": 8
@@ -26306,64 +26357,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T21:01:41.252844+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T23:48:14.919102+00:00",
       "version": 2,
@@ -29321,6 +29314,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-25T15:22:59.085234+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29808,9 +29859,66 @@
     "fba03a37c26050d9",
     "d7cddac36966a078",
     "dd65643a02eae66b",
-    "8b55236012de9faa"
+    "8b55236012de9faa",
+    "3ec9781a4f96708c"
   ],
   "entity_memory": {
+    "british industry braces": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "for impact of": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "america": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "federal film": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "tax incentive": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "steven paul": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "british": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "donald": {
+      "count": 1,
+      "last_seen": "2026-11-25T15:22:59.085171+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "indonesia": {
       "count": 1,
       "last_seen": "2026-11-25T03:28:14.569997+00:00",
@@ -32585,62 +32693,6 @@
       "last_seen": "2026-11-17T23:42:54.984013+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "robert pattinson": {
-      "count": 3,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sorry": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "daniel craig": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ralph fiennes": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "james bond former": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "george lazenby": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the lighthouse": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "robert eggers": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
