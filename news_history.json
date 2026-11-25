@@ -25243,6 +25243,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "031192a32a61888200f4c71e",
+      "story_id": "5aa2ad984c365cd0",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
+      "title": "‘American Dollhouse’ Trailer: Dark Sky Films Sets January 15 Release For Austin-Shot Psychotic Neighbor Horror",
+      "category": "movie_news",
+      "score": 80.23,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 73.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "hbo",
+        "american dollhouse",
+        "trailer",
+        "dark sky films",
+        "sets january",
+        "release for austin",
+        "shot psychotic neighbor",
+        "horror",
+        "dark shy films",
+        "january",
+        "john valley",
+        "the austin"
+      ],
+      "hook": "سینمای ترسناک جدید: American Dollhouse در تاریخ ۱۵ ژانویه",
+      "hooks": [
+        "American Dollhouse: ترس و هیجان در خانه‌ی جدید",
+        "حلقه‌ی ترسناک: Hailley Laurén در American Dollhouse"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "American Dollhouse یک فیلم ترسناک است"
+      ],
+      "status": "published",
+      "telegram_message_id": 493,
+      "published_at": "2026-11-25T18:57:05.759216+00:00",
+      "text": "سینمای ترسناک جدید: American Dollhouse در تاریخ ۱۵ ژانویه\n\n🎬 American Dollhouse: ترس و ترسناک در خانه‌ی جدید\n\nفیلم ترسناک American Dollhouse توسط کارگردان John Valley ساخته شده و در تاریخ ۱۵ ژانویه در آمریکا منتشر می‌شود.\nدر این فیلم، Hailley Laurén نقش زنانی را بازی می‌کند که خانه‌ی کودکی‌اش را به ارث می‌برد و برای شروعی تازه به آن نقل مکان می‌کند. تریلر رسمی در همین روز منتشر شد.\n\n📌 نکات مهم:\n• American Dollhouse در ۱۵ ژانویه منتشر می‌شود\n• کارگردان فیلم John Valley است\n• Hailley Laurén در نقش اصلی حضور دارد\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25732,7 +25784,8 @@
     "0f3d1441e4dfe37217d20bc1",
     "40bd1f661cecfd2f48d5a204",
     "d9da672fd6b6a9b50af06ae3",
-    "47ae2a438f26ed2e387a8d7e"
+    "47ae2a438f26ed2e387a8d7e",
+    "031192a32a61888200f4c71e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26221,11 +26274,12 @@
     "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
     "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
     "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
-    "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541"
+    "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
+    "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 244,
+      "published": 245,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26284,7 +26338,7 @@
       "published": 24
     },
     "18": {
-      "published": 23
+      "published": 24
     },
     "20": {
       "published": 46
@@ -26357,64 +26411,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T23:48:14.919102+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 407,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-15T12:35:16.222300+00:00",
       "version": 2,
@@ -29372,6 +29368,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-25T18:57:05.759334+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29860,9 +29914,94 @@
     "d7cddac36966a078",
     "dd65643a02eae66b",
     "8b55236012de9faa",
-    "3ec9781a4f96708c"
+    "3ec9781a4f96708c",
+    "5aa2ad984c365cd0"
   ],
   "entity_memory": {
+    "hbo": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "american dollhouse": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "trailer": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dark sky films": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sets january": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "release for austin": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "shot psychotic neighbor": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "horror": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dark shy films": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "january": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "john valley": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the austin": {
+      "count": 1,
+      "last_seen": "2026-11-25T18:57:05.759252+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "british industry braces": {
       "count": 1,
       "last_seen": "2026-11-25T15:22:59.085171+00:00",
@@ -32608,91 +32747,6 @@
       "last_seen": "2026-11-18T02:18:25.760756+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "fell apart": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "says kevin feige": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "before": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "dies": {
-      "count": 24,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "thom velde": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "former": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatres executive": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "thomas velde": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatres": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "velde": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "rancho mirage": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "calif": {
-      "count": 1,
-      "last_seen": "2026-11-17T23:42:54.984013+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
