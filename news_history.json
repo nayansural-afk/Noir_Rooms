@@ -25142,6 +25142,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "d9da672fd6b6a9b50af06ae3",
+      "story_id": "8b55236012de9faa",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
+      "title": "Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 88.31,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "indonesia",
+        "france film lab",
+        "unveils six projects",
+        "paris readies first",
+        "southeast asia co",
+        "production forum",
+        "six indonesian",
+        "yogyakarta",
+        "market",
+        "french embassy",
+        "institut"
+      ],
+      "hook": "آزمایشگاه فیلم اندونزی-فرانسه، شش پروژه جدید را معرفی کرد",
+      "hooks": [
+        "پروژه‌های اندونزی در آزمایشگاه فیلم فرانسه آماده‌اند",
+        "فرانسه و اندونزی، شش پروژه تازه در Yogyakarta"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "آزمایشگاه در سومین دوره خود است"
+      ],
+      "status": "published",
+      "telegram_message_id": 491,
+      "published_at": "2026-11-25T03:28:14.569969+00:00",
+      "text": "آزمایشگاه فیلم اندونزی-فرانسه، شش پروژه جدید را معرفی کرد\n\n🎬 شش پروژه اندونزی در آزمایشگاه فیلم اندونزی-فرانسه معرفی شد\n\nآزمایشگاه فیلم اندونزی-فرانسه، که در سال سوم خود است، شش پروژه از ترکیب‌های کارگردان-سازنده را انتخاب کرده است. این پروژه‌ها در دوره 2026، در Yogyakarta، در چارچوب بازار JAFF برگزار می‌شوند.\nبرنامه، که توسط سفارت فرانسه و مؤسسه فرانسوی اداره می‌شود، در راستای آماده‌سازی فروم هم‌تولید جنوب شرق آسیا در پاریس است.\n\n📌 نکات مهم:\n• شش پروژه اندونزی در آزمایشگاه فیلم اندونزی-فرانسه انتخاب شد\n• برنامه در تاریخ 25-30 نوامبر 2026 در Yogyakarta برگزار می‌شود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25629,7 +25681,8 @@
     "77b809ed2220907540e1daec",
     "78c5bd15eaeaa0240c80ad5f",
     "0f3d1441e4dfe37217d20bc1",
-    "40bd1f661cecfd2f48d5a204"
+    "40bd1f661cecfd2f48d5a204",
+    "d9da672fd6b6a9b50af06ae3"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26116,11 +26169,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095",
     "https://deadline.com/2026/11/constance-wu-macaulay-culkin-ethan-eng-a24-walter-woodman-1237232191",
     "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478",
-    "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631"
+    "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631",
+    "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 242,
+      "published": 243,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26191,7 +26245,7 @@
       "published": 38
     },
     "3": {
-      "published": 3
+      "published": 4
     },
     "5": {
       "published": 23
@@ -26252,64 +26306,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-14T18:36:48.790505+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 414,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-14T21:01:41.252844+00:00",
       "version": 2,
@@ -29267,6 +29263,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-25T03:28:14.570079+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29753,9 +29807,87 @@
     "61cee7d17b32c002",
     "fba03a37c26050d9",
     "d7cddac36966a078",
-    "dd65643a02eae66b"
+    "dd65643a02eae66b",
+    "8b55236012de9faa"
   ],
   "entity_memory": {
+    "indonesia": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "france film lab": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "unveils six projects": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "paris readies first": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "southeast asia co": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "production forum": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "six indonesian": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "yogyakarta": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "market": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "french embassy": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "institut": {
+      "count": 1,
+      "last_seen": "2026-11-25T03:28:14.569997+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "everything we know": {
       "count": 1,
       "last_seen": "2026-11-25T01:13:00.899831+00:00",
@@ -32509,83 +32641,6 @@
       "last_seen": "2026-11-17T21:27:32.839420+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "pattinson": {
-      "count": 1,
-      "last_seen": "2026-11-17T21:27:32.839420+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "book": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "daughter finds an": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "innovative way to": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "unlock her father": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "extraordinary memories": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "trailer": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "ashley da": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "duong": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "for duong": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
-      ]
-    },
-    "vietnam": {
-      "count": 1,
-      "last_seen": "2026-11-17T18:06:03.349609+00:00",
-      "categories": [
-        "trailers_first_look"
       ]
     }
   },
