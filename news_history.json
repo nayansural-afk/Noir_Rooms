@@ -25394,6 +25394,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a12c0a47bf79c5770c1ba009",
+      "story_id": "83efe7ac37ff2e6f",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
+      "title": "‘Hoppers’ Director Daniel Chong Talks Blending Chaos With Heart; Teases Pixar’s ‘Ghost Market’",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "hoppers",
+        "director daniel chong",
+        "talks blending chaos",
+        "with heart",
+        "teases pixar",
+        "ghost market",
+        "daniel chong",
+        "toy story",
+        "cars",
+        "seuss",
+        "the lorax",
+        "inside out"
+      ],
+      "hook": "دانیل چونگ: آشوب و قلب در Hoppers",
+      "hooks": [
+        "پیکسار Ghost Market: دیدگاه چونگ",
+        "کارگردانی چونگ: از We Bare Bears تا Hoppers"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "دانیل چونگ در مصاحبه درباره ترکیب آشوب و قلب در Hoppers صحبت کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 496,
+      "published_at": "2026-11-26T02:43:52.024693+00:00",
+      "text": "دانیل چونگ: آشوب و قلب در Hoppers\n\n🎬 دانیل چونگ: ترکیب آشوب و قلب در Hoppers و پیش‌نمایش Ghost Market پیکسار\n\nدانیل چونگ، کارگردان انیمیشن Hoppers، در مصاحبه‌ای درباره چگونگی ترکیب عناصر آشوب با احساسات انسانی صحبت کرد.\\nعلاوه بر این، او به پروژه آینده‌ای از پیکسار به نام Ghost Market اشاره کرد و نکات جالبی در مورد روند تولید به اشتراک گذاشت.\n\n📌 نکات مهم:\n• دانیل چونگ کارگردان Hoppers است\n• چونگ درباره Ghost Market پیکسار صحبت کرده است\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25886,7 +25939,8 @@
     "47ae2a438f26ed2e387a8d7e",
     "031192a32a61888200f4c71e",
     "22cb32a2b83c447923462fca",
-    "dd33d16b0b90238787931a98"
+    "dd33d16b0b90238787931a98",
+    "a12c0a47bf79c5770c1ba009"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26378,7 +26432,8 @@
     "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
     "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
     "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
-    "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470"
+    "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
+    "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630"
   ],
   "category_stats": {
     "movie_news": {
@@ -26388,7 +26443,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 205,
+      "published": 206,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26480,7 +26535,7 @@
       "published": 8
     },
     "2": {
-      "published": 5
+      "published": 6
     },
     "13": {
       "published": 38
@@ -26514,64 +26569,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-15T19:12:02.278421+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-15T21:25:17.305259+00:00",
       "version": 2,
@@ -29529,6 +29526,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-26T02:43:52.024796+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30020,9 +30075,94 @@
     "3ec9781a4f96708c",
     "5aa2ad984c365cd0",
     "bc276ca25ef4f4af",
-    "4dbc818afb870bc2"
+    "4dbc818afb870bc2",
+    "83efe7ac37ff2e6f"
   ],
   "entity_memory": {
+    "hoppers": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director daniel chong": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "talks blending chaos": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "with heart": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "teases pixar": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ghost market": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "daniel chong": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "toy story": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "cars": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "seuss": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the lorax": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "inside out": {
+      "count": 1,
+      "last_seen": "2026-11-26T02:43:52.024724+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "netflix": {
       "count": 3,
       "last_seen": "2026-11-26T00:47:45.623248+00:00",
@@ -32768,90 +32908,6 @@
       "last_seen": "2026-11-18T17:45:26.220778+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "living dead": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sequel gearing up": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "with johnny knoxville": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "among cast": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "johnny knoxville": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jackass": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "ruby snowber": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "scary movie": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "blake richardson": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "war machine": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "doug jones": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "palestinian": {
-      "count": 2,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
