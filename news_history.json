@@ -25499,6 +25499,56 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "6664dbafee5e889d0520c8e1",
+      "story_id": "b81bd1933812a0f6",
+      "source": "The Guardian",
+      "sources": [
+        "The Guardian"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+      "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
+      "category": "actors_directors",
+      "score": 68.17,
+      "freshness": 82.0,
+      "credibility": 94.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "they",
+        "julie delpy",
+        "thirty",
+        "three colours",
+        "white",
+        "before",
+        "delpy",
+        "los angeles",
+        "like",
+        "continue"
+      ],
+      "hook": "جولی دلپی: نویسنده‌نویس، کارگردان، درگیر شش فیلم‌نامه",
+      "hooks": [
+        "جولی دلپی: شش فیلم‌نامه در دست‌نویس",
+        "جولی دلپی: 18 ساعت پشت میز"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جولی دلپی در حال نوشتن شش فیلم‌نامه است"
+      ],
+      "status": "published",
+      "telegram_message_id": 498,
+      "published_at": "2026-11-26T18:48:11.318540+00:00",
+      "text": "جولی دلپی: نویسنده‌نویس، کارگردان، درگیر شش فیلم‌نامه\n\n🎬 جولی دلپی: درگیر شش فیلم‌نامه، 18 ساعت پشت میز\n\nجولی دلپی، ستارهٔ سه‌رنگ و سه‌سلسلهٔ قبل، اکنون در حال نوشتن شش فیلم‌نامه است که از کمدی تاریک تا ترسناک می‌گذرد. او می‌گوید که اگر تولیدکننده او را محدود نمی‌کرد، پنج فیلم ترسناک دیگر هم در دست داشت.\n\nدلیل اصلی او برای این کار، عدم تمایل به یک‌نواختی است و او می‌تواند تا 18 ساعت پشت میز بنشیند تا وقتی که انرژی‌اش تمام شود، ادامه دهد.\n\n📌 نکات مهم:\n• جولی دلپی در حال نوشتن شش فیلم‌نامه است\n• او می‌تواند تا 18 ساعت پشت میز بنشیند\n\n#سینما #فیلم\n\n🔗 منبع: The Guardian\nhttps://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25993,7 +26043,8 @@
     "22cb32a2b83c447923462fca",
     "dd33d16b0b90238787931a98",
     "a12c0a47bf79c5770c1ba009",
-    "7df71b2cc4dd956e132b8061"
+    "7df71b2cc4dd956e132b8061",
+    "6664dbafee5e889d0520c8e1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26487,7 +26538,8 @@
     "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
     "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
     "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
-    "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835"
+    "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
+    "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors"
   ],
   "category_stats": {
     "movie_news": {
@@ -26497,7 +26549,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 206,
+      "published": 207,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26550,7 +26602,7 @@
       "published": 24
     },
     "18": {
-      "published": 24
+      "published": 25
     },
     "20": {
       "published": 46
@@ -26623,64 +26675,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-15T23:54:17.549019+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-16T13:27:14.934250+00:00",
       "version": 2,
@@ -29638,6 +29632,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-26T18:48:11.318664+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30131,9 +30183,82 @@
     "bc276ca25ef4f4af",
     "4dbc818afb870bc2",
     "83efe7ac37ff2e6f",
-    "2e820e115f6a256f"
+    "2e820e115f6a256f",
+    "b81bd1933812a0f6"
   ],
   "entity_memory": {
+    "continue": {
+      "count": 6,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "they": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "julie delpy": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "thirty": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "three colours": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "white": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "before": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "delpy": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "los angeles": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "like": {
+      "count": 1,
+      "last_seen": "2026-11-26T18:48:11.318574+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "directed": {
       "count": 3,
       "last_seen": "2026-11-26T14:52:12.191791+00:00",
@@ -31062,15 +31187,6 @@
       "count": 2,
       "last_seen": "2026-11-24T03:07:10.375696+00:00",
       "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
-    "continue": {
-      "count": 5,
-      "last_seen": "2026-11-24T03:07:10.375696+00:00",
-      "categories": [
-        "actors_directors",
         "movie_news",
         "box_office"
       ]
@@ -32897,70 +33013,6 @@
     "universal pictures": {
       "count": 1,
       "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "insidious": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "further": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jacob chase": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "justin theroux are": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "with blumhouse atomic": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "february": {
-      "count": 3,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "willa": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "women make movies": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "team": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
       "categories": [
         "movie_news"
       ]
