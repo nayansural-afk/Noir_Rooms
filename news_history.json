@@ -25447,6 +25447,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "7df71b2cc4dd956e132b8061",
+      "story_id": "2e820e115f6a256f",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film"
+      ],
+      "multi_source_count": 1,
+      "url": "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
+      "title": "‘Pirates of the Caribbean’ Secret Cinema Immersive Stage Show Teases Behind-the-Scenes Rehearsal Footage (EXCLUSIVE)",
+      "category": "movie_news",
+      "score": 78.98,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.58,
+      "is_breaking": true,
+      "entities": [
+        "disney",
+        "pirates",
+        "caribbean",
+        "secret cinema immersive",
+        "stage show teases",
+        "behind",
+        "scenes rehearsal footage",
+        "the immersive adventure",
+        "johnny depp",
+        "london",
+        "directed",
+        "olivier"
+      ],
+      "hook": "سینماهای رازآلود دریای جدیدی از ماجراجویی",
+      "hooks": [
+        "سینماهای مخفی، ماجراجویی دریا",
+        "دریای جدید، سینمایی مخفی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "پروژه در حال آماده‌سازی برای افتتاح در لندن"
+      ],
+      "status": "published",
+      "telegram_message_id": 497,
+      "published_at": "2026-11-26T14:52:12.191750+00:00",
+      "text": "سینماهای رازآلود دریای جدیدی از ماجراجویی\n\n🎬 پروژه مخفی 'Pirates of the Caribbean: The Immersive Adventure' در لندن\n\nپروژه‌ی تئاتری Disney، 'Pirates of the Caribbean: The Immersive Adventure'، در انتظار افتتاح در لندن در اوایل سال آینده است. پشت صحنه‌ی فیلم، تمرین‌های شمشیری و صعود به ریل توسط بازیگران نشان داده شده است. این اثر توسط یک برنده جایزه اولیور کارگردانی شده است.\n\n📌 نکات مهم:\n• پروژه تئاتری Disney در لندن\n• تمرین‌های شمشیری و صعود به ریل در پشت صحنه\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25940,7 +25992,8 @@
     "031192a32a61888200f4c71e",
     "22cb32a2b83c447923462fca",
     "dd33d16b0b90238787931a98",
-    "a12c0a47bf79c5770c1ba009"
+    "a12c0a47bf79c5770c1ba009",
+    "7df71b2cc4dd956e132b8061"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26433,11 +26486,12 @@
     "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
     "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
     "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
-    "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630"
+    "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
+    "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 245,
+      "published": 246,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26490,7 +26544,7 @@
       "published": 24
     },
     "14": {
-      "published": 15
+      "published": 16
     },
     "16": {
       "published": 24
@@ -26569,64 +26623,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-15T21:25:17.305259+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-15T23:54:17.549019+00:00",
       "version": 2,
@@ -29584,6 +29580,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-26T14:52:12.191887+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 409,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30076,9 +30130,96 @@
     "5aa2ad984c365cd0",
     "bc276ca25ef4f4af",
     "4dbc818afb870bc2",
-    "83efe7ac37ff2e6f"
+    "83efe7ac37ff2e6f",
+    "2e820e115f6a256f"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 3,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "disney": {
+      "count": 2,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "london": {
+      "count": 3,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "pirates": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "caribbean": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "secret cinema immersive": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "stage show teases": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "behind": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "scenes rehearsal footage": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the immersive adventure": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "johnny depp": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "olivier": {
+      "count": 1,
+      "last_seen": "2026-11-26T14:52:12.191791+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hoppers": {
       "count": 1,
       "last_seen": "2026-11-26T02:43:52.024724+00:00",
@@ -30934,14 +31075,6 @@
         "box_office"
       ]
     },
-    "directed": {
-      "count": 2,
-      "last_seen": "2026-11-24T03:07:10.375696+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
-      ]
-    },
     "you can see": {
       "count": 1,
       "last_seen": "2026-11-24T03:07:10.375696+00:00",
@@ -31628,13 +31761,6 @@
         "actors_directors"
       ]
     },
-    "disney": {
-      "count": 1,
-      "last_seen": "2026-11-21T21:57:51.799509+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "home alone": {
       "count": 1,
       "last_seen": "2026-11-21T21:57:51.799509+00:00",
@@ -32157,14 +32283,6 @@
       ]
     },
     "tarantino": {
-      "count": 2,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "london": {
       "count": 2,
       "last_seen": "2026-11-20T13:54:26.485839+00:00",
       "categories": [
@@ -32845,69 +32963,6 @@
       "last_seen": "2026-11-18T21:01:34.269382+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "release shalini kantayya": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "love apptually": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "theatrically willa": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "valentine": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "shalini kantayya": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "french": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "judith duportail": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tinder": {
-      "count": 1,
-      "last_seen": "2026-11-18T21:01:34.269382+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "return of the": {
-      "count": 1,
-      "last_seen": "2026-11-18T17:45:26.220778+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
