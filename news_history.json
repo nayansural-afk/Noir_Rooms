@@ -25549,6 +25549,58 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f4f06fefc7522cac5ad19c3b",
+      "story_id": "fbe8e2abbdd7d8e6",
+      "source": "The Hollywood Reporter",
+      "sources": [
+        "The Hollywood Reporter"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
+      "title": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
+      "category": "movie_news",
+      "score": 80.21,
+      "freshness": 100.0,
+      "credibility": 94.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.57,
+      "is_breaking": true,
+      "entities": [
+        "spielberg",
+        "oscar",
+        "gerald",
+        "molen",
+        "winning producer",
+        "schindler",
+        "list",
+        "dies",
+        "steven spielberg",
+        "jurassic park",
+        "minority report",
+        "the color purple"
+      ],
+      "hook": "سینمای جهان از دست رفت: گاردن ر. مولن، تولیدکننده برنده اسکار",
+      "hooks": [
+        "تولیدکننده برنده اسکار، گاردن ر. مولن، درگذشت",
+        "سینما بدون او: گاردن ر. مولن، ۹۱ ساله"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "گاردن ر. مولن درگذشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 499,
+      "published_at": "2026-11-26T22:02:48.056084+00:00",
+      "text": "سینمای جهان از دست رفت: گاردن ر. مولن، تولیدکننده برنده اسکار\n\n🎬 گاردن ر. مولن، تولیدکننده برنده اسکار، درگذشت\n\nگاردن ر. مولن، ۹۱ ساله، درگذشت. او به عنوان تولیدکننده برنده اسکار در فیلم «Schindler’s List» شناخته شد.\nمولن با استیون اسپیلبرگ در آثار برجسته‌ای چون Jurassic Park، Minority Report، The Color Purple و Twister همکاری داشت و در Amblin Entertainment مسئول تولید بود.\n\n📌 نکات مهم:\n• گاردن ر. مولن درگذشت (91 ساله)\n• تولیدکننده برنده اسکار در Schindler’s List\n• همکاری با استیون اسپیلبرگ در Jurassic Park, Minority Report, The Color Purple, Twister\n• سرپرست تولید در Amblin Entertainment\n\n#سینما #فیلم\n\n🔗 منبع: The Hollywood Reporter\nhttps://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26044,7 +26096,8 @@
     "dd33d16b0b90238787931a98",
     "a12c0a47bf79c5770c1ba009",
     "7df71b2cc4dd956e132b8061",
-    "6664dbafee5e889d0520c8e1"
+    "6664dbafee5e889d0520c8e1",
+    "f4f06fefc7522cac5ad19c3b"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26539,11 +26592,12 @@
     "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
     "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
     "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
-    "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors"
+    "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+    "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 246,
+      "published": 247,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26623,7 +26677,7 @@
       "published": 26
     },
     "22": {
-      "published": 30
+      "published": 31
     },
     "7": {
       "published": 2
@@ -26675,64 +26729,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-16T13:27:14.934250+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-16T19:13:10.785061+00:00",
       "version": 2,
@@ -29690,6 +29686,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-26T22:02:48.056189+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30184,9 +30238,97 @@
     "4dbc818afb870bc2",
     "83efe7ac37ff2e6f",
     "2e820e115f6a256f",
-    "b81bd1933812a0f6"
+    "b81bd1933812a0f6",
+    "fbe8e2abbdd7d8e6"
   ],
   "entity_memory": {
+    "oscar": {
+      "count": 50,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "actors_directors",
+        "movie_news",
+        "awards_festivals",
+        "trailers_first_look"
+      ]
+    },
+    "spielberg": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "gerald": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "molen": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "winning producer": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "schindler": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "list": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "dies": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "steven spielberg": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "jurassic park": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "minority report": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "the color purple": {
+      "count": 1,
+      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "continue": {
       "count": 6,
       "last_seen": "2026-11-26T18:48:11.318574+00:00",
@@ -31017,16 +31159,6 @@
       "last_seen": "2026-11-24T15:38:37.686658+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "oscar": {
-      "count": 49,
-      "last_seen": "2026-11-24T15:38:37.686658+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news",
-        "awards_festivals",
-        "trailers_first_look"
       ]
     },
     "jason segel boards": {
@@ -32938,83 +33070,6 @@
       "last_seen": "2026-11-19T01:49:58.425057+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "fi movie": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "he inks paramount": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "look the": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "universal": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "michelle monaghan": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "justin theroux": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sleepover": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from blumhouse atomic": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "universal michelle monaghan": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "blumhouse atomic": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "universal pictures": {
-      "count": 1,
-      "last_seen": "2026-11-18T23:13:38.307218+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
