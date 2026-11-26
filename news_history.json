@@ -25341,6 +25341,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "dd33d16b0b90238787931a98",
+      "story_id": "4dbc818afb870bc2",
+      "source": "Variety",
+      "sources": [
+        "Variety",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
+      "title": "‘The Hawk’ Starring Will Ferrell Canceled After One Season at Netflix",
+      "category": "actors_directors",
+      "score": 71.95,
+      "freshness": 92.0,
+      "credibility": 93.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "netflix",
+        "the hawk",
+        "starring will ferrell",
+        "canceled after one",
+        "season",
+        "will ferrell",
+        "july",
+        "while",
+        "will ferrell comedy",
+        "canceled by netflix",
+        "after one season",
+        "ferrell"
+      ],
+      "hook": "نقاشی ناتمام: 'The Hawk' با یک فصل، به پایان رسید",
+      "hooks": [
+        "وای فِرل در 'The Hawk'؛ یک فصل، یک پایان",
+        "سریال گلفی 'The Hawk' در نِت‌فلیکس پایان یافت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "سریال در سه هفته اول در لیست 10 برتر نِت‌فلیکس قرار داشت"
+      ],
+      "status": "published",
+      "telegram_message_id": 495,
+      "published_at": "2026-11-26T00:47:45.623215+00:00",
+      "text": "نقاشی ناتمام: 'The Hawk' با یک فصل، به پایان رسید\n\n🎬 وای فِرل در 'The Hawk': سریال گلفی در یک فصل، پایان یافت\n\nسریال گلفی 'The Hawk' که در جولای 2023 روی نِت‌فلیکس پخش شد، با حضور وای فِرل در نقش اصلی، به سرعت در رتبه‌های برتر جهانی جای گرفت.\nاما پس از تنها یک فصل، نِت‌فلیکس تصمیم گرفت سریال را لغو کند، هرچند در سه هفته اول در لیست 10 برتر قرار داشت.\n\n📌 نکات مهم:\n• سریال 'The Hawk' با حضور وای فِرل در نقش اصلی، در جولای 2023 پخش شد\n• نِت‌فلیکس پس از یک فصل، سریال را لغو کرد\n• سریال در سه هفته اول در لیست 10 برتر نِت‌فلیکس قرار داشت\n\n✅ تأیید چندمنبعی: Variety, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -25832,7 +25885,8 @@
     "d9da672fd6b6a9b50af06ae3",
     "47ae2a438f26ed2e387a8d7e",
     "031192a32a61888200f4c71e",
-    "22cb32a2b83c447923462fca"
+    "22cb32a2b83c447923462fca",
+    "dd33d16b0b90238787931a98"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26323,7 +26377,8 @@
     "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588",
     "https://deadline.com/2026/11/federal-film-tv-tax-credit-uk-industry-bfi-working-group-1237232541",
     "https://deadline.com/2026/11/american-dollhouse-trailer-dark-star-films-1237233220",
-    "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo"
+    "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+    "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470"
   ],
   "category_stats": {
     "movie_news": {
@@ -26333,7 +26388,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 204,
+      "published": 205,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26437,7 +26492,7 @@
       "published": 13
     },
     "0": {
-      "published": 15
+      "published": 16
     },
     "4": {
       "published": 1
@@ -26459,64 +26514,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-15T16:02:05.566685+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-15T19:12:02.278421+00:00",
       "version": 2,
@@ -29474,6 +29471,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-26T00:47:45.623336+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "actors_directors",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "Rosamund Pike Set To Star In, Produce ‘Feed’ Body Horror From Director Leslye Headland; Sales Launching At AFM",
+          "category": "actors_directors",
+          "score": 88.47,
+          "multi_source_count": 4
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -29964,9 +30019,94 @@
     "8b55236012de9faa",
     "3ec9781a4f96708c",
     "5aa2ad984c365cd0",
-    "bc276ca25ef4f4af"
+    "bc276ca25ef4f4af",
+    "4dbc818afb870bc2"
   ],
   "entity_memory": {
+    "netflix": {
+      "count": 3,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the hawk": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "starring will ferrell": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "canceled after one": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "season": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will ferrell": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "july": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "while": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will ferrell comedy": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "canceled by netflix": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "after one season": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "ferrell": {
+      "count": 1,
+      "last_seen": "2026-11-26T00:47:45.623248+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "veteran nigerian nollywood": {
       "count": 1,
       "last_seen": "2026-11-25T22:04:42.495205+00:00",
@@ -30801,13 +30941,6 @@
       "last_seen": "2026-11-24T00:30:56.888251+00:00",
       "categories": [
         "awards_festivals"
-      ]
-    },
-    "netflix": {
-      "count": 2,
-      "last_seen": "2026-11-23T20:49:54.564502+00:00",
-      "categories": [
-        "actors_directors"
       ]
     },
     "star": {
@@ -32719,83 +32852,6 @@
       "last_seen": "2026-11-18T13:43:51.951207+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "berlin prizewinner": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "chronicles from": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "siege": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "pulled from marrakech": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "festival": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "algerian producer over": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "morocco": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "israel ties": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "abdallah al": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "khatib": {
-      "count": 1,
-      "last_seen": "2026-11-18T13:43:51.951207+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "marvel started planning": {
-      "count": 1,
-      "last_seen": "2026-11-18T02:18:25.760756+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
