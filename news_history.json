@@ -25601,6 +25601,65 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "560bc728fde4945054d7e12a",
+      "story_id": "4183417258d0f3f2",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Variety Film",
+        "The Hollywood Reporter",
+        "Deadline",
+        "Variety"
+      ],
+      "multi_source_count": 5,
+      "url": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
+      "title": "Gerald R. Molen Dies: Oscar-Winning ‘Schindler’s List’ Producer Was 91",
+      "category": "awards_festivals",
+      "score": 29.27,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 68.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.95,
+      "is_breaking": true,
+      "entities": [
+        "spielberg",
+        "oscar",
+        "gerald",
+        "molen",
+        "winning",
+        "schindler",
+        "list",
+        "producer",
+        "dies",
+        "steven spielberg",
+        "rachel lorraine pullan",
+        "instagram",
+        "molen dies",
+        "producer was",
+        "academy award"
+      ],
+      "hook": "وفات گِرالد مولن، تولیدکننده برنده اسکار «لیست شندلر»",
+      "hooks": [
+        "تولیدکننده اسکار «لیست شندلر» درگذشت",
+        "گِرالد مولن، ستاره پشت «لیست شندلر»، درگذشت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تولیدکننده برنده اسکار «لیست شندلر»"
+      ],
+      "status": "published",
+      "telegram_message_id": 500,
+      "published_at": "2026-11-27T00:54:00.089691+00:00",
+      "text": "وفات گِرالد مولن، تولیدکننده برنده اسکار «لیست شندلر»\n\n🎬 گِرالد مولن، تولیدکننده برنده اسکار «لیست شندلر»، درگذشت\n\nگِرالد ر. مولن، تولیدکننده برجسته و برنده جایزه اسکار در فیلم «لیست شندلر»، درگذشت. او در سن ۹۱ سالگی درگذشت.\nمولن در طول دوران حرفه‌ای خود در آمابلین اینترتینمنت، همکاری نزدیکی با استیون اسپیلبرگ داشت و نقش مهمی در موفقیت‌های سینمایی این شرکت ایفا کرده بود.\n\n📌 نکات مهم:\n• گِرالد مولن، تولیدکننده برنده اسکار «لیست شندلر» درگذشت\n• او در آمابلین اینترتینمنت همکاری نزدیکی با استیون اسپیلبرگ داشت\n\n✅ تأیید چندمنبعی: Deadline Film, Variety Film, The Hollywood Reporter, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26097,7 +26156,8 @@
     "a12c0a47bf79c5770c1ba009",
     "7df71b2cc4dd956e132b8061",
     "6664dbafee5e889d0520c8e1",
-    "f4f06fefc7522cac5ad19c3b"
+    "f4f06fefc7522cac5ad19c3b",
+    "560bc728fde4945054d7e12a"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26593,7 +26653,8 @@
     "https://deadline.com/2026/11/hoppers-interview-daniel-chong-ghost-market-pixar-1237233630",
     "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
     "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
-    "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035"
+    "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
+    "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182"
   ],
   "category_stats": {
     "movie_news": {
@@ -26627,7 +26688,7 @@
       "samples_with_metrics": 0
     },
     "awards_festivals": {
-      "published": 5,
+      "published": 6,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26707,7 +26768,7 @@
       "published": 13
     },
     "0": {
-      "published": 16
+      "published": 17
     },
     "4": {
       "published": 1
@@ -26729,64 +26790,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-16T19:13:10.785061+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-16T22:40:43.816907+00:00",
       "version": 2,
@@ -29744,6 +29747,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-27T00:54:00.089811+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30239,12 +30300,13 @@
     "83efe7ac37ff2e6f",
     "2e820e115f6a256f",
     "b81bd1933812a0f6",
-    "fbe8e2abbdd7d8e6"
+    "fbe8e2abbdd7d8e6",
+    "4183417258d0f3f2"
   ],
   "entity_memory": {
     "oscar": {
-      "count": 50,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 51,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
         "actors_directors",
         "movie_news",
@@ -30253,55 +30315,113 @@
       ]
     },
     "spielberg": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "gerald": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "molen": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
-      ]
-    },
-    "winning producer": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
-      "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "schindler": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "list": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "dies": {
-      "count": 1,
-      "last_seen": "2026-11-26T22:02:48.056116+00:00",
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
       "categories": [
-        "movie_news"
+        "movie_news",
+        "awards_festivals"
       ]
     },
     "steven spielberg": {
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "instagram": {
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "actors_directors",
+        "awards_festivals"
+      ]
+    },
+    "academy award": {
+      "count": 2,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "movie_news",
+        "awards_festivals"
+      ]
+    },
+    "winning": {
+      "count": 1,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "producer": {
+      "count": 1,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "rachel lorraine pullan": {
+      "count": 1,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "molen dies": {
+      "count": 1,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "producer was": {
+      "count": 1,
+      "last_seen": "2026-11-27T00:54:00.089728+00:00",
+      "categories": [
+        "awards_festivals"
+      ]
+    },
+    "winning producer": {
       "count": 1,
       "last_seen": "2026-11-26T22:02:48.056116+00:00",
       "categories": [
@@ -32657,13 +32777,6 @@
         "actors_directors"
       ]
     },
-    "instagram": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
     "belle": {
       "count": 1,
       "last_seen": "2026-11-20T01:43:48.883435+00:00",
@@ -32799,13 +32912,6 @@
       ]
     },
     "producers": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "academy award": {
       "count": 1,
       "last_seen": "2026-11-19T21:06:05.347193+00:00",
       "categories": [
@@ -33031,41 +33137,6 @@
       ]
     },
     "look producing deal": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "paramount pictures": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joseph eckert": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "pratt": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "indivisible productions": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "eckert": {
       "count": 1,
       "last_seen": "2026-11-19T01:49:58.425057+00:00",
       "categories": [
