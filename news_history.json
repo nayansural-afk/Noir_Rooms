@@ -25766,6 +25766,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "8055237adf803d0c25cb732e",
+      "story_id": "af724577001cb40e",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
+      "title": "Sebastian Stan Says ‘Thunderbolts’ Had ‘More Nuance’ Than ‘Some of the Recent’ Marvel Movies and Was a ‘Success’ Despite Disappointing Box Office",
+      "category": "movie_news",
+      "score": 81.56,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "marvel",
+        "sebastian stan says",
+        "thunderbolts",
+        "more nuance",
+        "than",
+        "some",
+        "recent",
+        "marvel movies",
+        "success",
+        "despite disappointing box",
+        "office marvel",
+        "sebastian stan"
+      ],
+      "hook": "تندروبلت‌ها: جزئیات بیشتر، موفقیت کمتر در تبلت",
+      "hooks": [
+        "تندروبلت‌ها: جزئیات بیشتر، اما کمترین درآمد",
+        "سازمان‌سازی تندروبلت‌ها: جزئیات و موفقیت"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "تندروبلت‌ها جزئیات بیشتری نسبت به برخی فیلم‌های اخیر مارول دارد"
+      ],
+      "status": "published",
+      "telegram_message_id": 503,
+      "published_at": "2026-11-27T18:39:48.972575+00:00",
+      "text": "تندروبلت‌ها: جزئیات بیشتر، موفقیت کمتر در تبلت\n\n🎬 تندروبلت‌ها: جزئیات بیشتر، اما کمترین درآمد در MCU\n\nسازمان‌سازی تندروبلت‌ها، فیلم سال گذشته در دنیای مارول، توسط بازیگر سابق مارول، ساباستین استن، حمایت می‌شود. او می‌گوید این فیلم جزئیات بیشتری نسبت به برخی از فیلم‌های اخیر مارول دارد.\nبا وجود اینکه تندروبلت‌ها یکی از کمترین درآمدهای درامد در MCU است، استن معتقد است که این فیلم موفقیت‌آمیز بوده و ارزش دیدن دارد. در این فیلم، او نقش بکی برنز، سرباز زمستان، را بازی می‌کند و با فلورنس پو و دیوید هاربور در کنار هم به شکل‌گیری گروه جدید می‌پردازند.\n\n📌 نکات مهم:\n• تندروبلت‌ها یکی از کمترین درآمدهای درامد در MCU است\n• سباستین استن نقش بکی برنز را بازی می‌کند\n• فلورنس پو نقش یلنا بولووا را بازی می‌کند\n• دیوید هاربور نقش گاردین سرخ را بازی می‌کند\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26265,7 +26318,8 @@
     "f4f06fefc7522cac5ad19c3b",
     "560bc728fde4945054d7e12a",
     "204a78945d4da76c60780795",
-    "5af36aef280feabb36912cbc"
+    "5af36aef280feabb36912cbc",
+    "8055237adf803d0c25cb732e"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26764,11 +26818,12 @@
     "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
     "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
     "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
-    "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030"
+    "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
+    "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 248,
+      "published": 249,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26827,7 +26882,7 @@
       "published": 24
     },
     "18": {
-      "published": 25
+      "published": 26
     },
     "20": {
       "published": 46
@@ -26900,64 +26955,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T02:51:40.653082+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T14:12:30.896044+00:00",
       "version": 2,
@@ -29915,6 +29912,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-27T18:39:48.972679+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30413,9 +30468,96 @@
     "fbe8e2abbdd7d8e6",
     "4183417258d0f3f2",
     "a41b09ede44b1270",
-    "e366ec6efd4fdebc"
+    "e366ec6efd4fdebc",
+    "af724577001cb40e"
   ],
   "entity_memory": {
+    "marvel": {
+      "count": 4,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors",
+        "awards_festivals"
+      ]
+    },
+    "sebastian stan says": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "thunderbolts": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "more nuance": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "than": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "some": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "recent": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "marvel movies": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "success": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "despite disappointing box": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "office marvel": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "sebastian stan": {
+      "count": 1,
+      "last_seen": "2026-11-27T18:39:48.972603+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "directed": {
       "count": 4,
       "last_seen": "2026-11-27T14:50:17.734766+00:00",
@@ -31781,15 +31923,6 @@
       "last_seen": "2026-11-24T00:30:56.888251+00:00",
       "categories": [
         "upcoming_movies",
-        "movie_news",
-        "actors_directors",
-        "awards_festivals"
-      ]
-    },
-    "marvel": {
-      "count": 3,
-      "last_seen": "2026-11-24T00:30:56.888251+00:00",
-      "categories": [
         "movie_news",
         "actors_directors",
         "awards_festivals"
@@ -33176,83 +33309,6 @@
       "last_seen": "2026-11-19T21:06:05.347193+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "producers": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hilary swank": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "the dink": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "family movie": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sophia bush": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "bridgerton": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "star hannah dodd": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "joins nick jonas": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "in netflix holiday": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the more the": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "merrier": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
