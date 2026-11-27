@@ -25660,6 +25660,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "204a78945d4da76c60780795",
+      "story_id": "a41b09ede44b1270",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
+      "title": "Jesse Eisenberg Says “There’s No Sexuality To My Work” & Why Life Is “Different” When Fans “Want To Sleep With A Person Onscreen”",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "jesse eisenberg says",
+        "there",
+        "no sexuality to",
+        "my work",
+        "why life is",
+        "different",
+        "when fans",
+        "want to sleep",
+        "person onscreen",
+        "jesse eisenberg",
+        "hollywood",
+        "the new yorker"
+      ],
+      "hook": "جسای ایزنبرگ: کار بدون جنسیت، تجربه متفاوت با طرفداران",
+      "hooks": [
+        "ایزنبرگ درباره جنسیت در کارش و واکنش طرفداران",
+        "چرا زندگی او در مقابل طرفداران متفاوت است؟"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "جسای ایزنبرگ در مصاحبه The New Yorker گفت کارش بدون جنسیت است"
+      ],
+      "status": "published",
+      "telegram_message_id": 501,
+      "published_at": "2026-11-27T02:44:43.201175+00:00",
+      "text": "جسای ایزنبرگ: کار بدون جنسیت، تجربه متفاوت با طرفداران\n\n🎬 جسای ایزنبرگ: «کارم بدون جنسیت است» و واکنش‌های طرفداران\n\nدر مصاحبه‌ای تازه با مجله The New Yorker، جسای ایزنبرگ دربارهٔ دیدگاه خود نسبت به جنسیت در آثارش صحبت کرد و گفت هیچ جنسی در کارهایش وجود ندارد.\nاو همچنین توضیح داد که تجربهٔ او با طرفداران در فضای عمومی کاملاً متفاوت است؛ طرفداران معمولاً به دیدن او در فیلم‌ها راضی هستند و نگران نیستند که او را به صورت شخصی تصور کنند.\n\n📌 نکات مهم:\n• جسای ایزنبرگ در مصاحبه The New Yorker گفت کارش بدون جنسیت است\n• او تجربه متفاوتی با طرفداران در فضای عمومی دارد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26157,7 +26210,8 @@
     "7df71b2cc4dd956e132b8061",
     "6664dbafee5e889d0520c8e1",
     "f4f06fefc7522cac5ad19c3b",
-    "560bc728fde4945054d7e12a"
+    "560bc728fde4945054d7e12a",
+    "204a78945d4da76c60780795"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26654,7 +26708,8 @@
     "https://variety.com/2026/film/global/pirates-of-the-caribbean-secret-cinema-video-1236958835",
     "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
     "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
-    "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182"
+    "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
+    "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140"
   ],
   "category_stats": {
     "movie_news": {
@@ -26664,7 +26719,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 207,
+      "published": 208,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26756,7 +26811,7 @@
       "published": 8
     },
     "2": {
-      "published": 6
+      "published": 7
     },
     "13": {
       "published": 38
@@ -26790,64 +26845,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-16T22:40:43.816907+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "actors_directors",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T00:35:24.797587+00:00",
       "version": 2,
@@ -29805,6 +29802,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-27T02:44:43.201269+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30301,9 +30356,95 @@
     "2e820e115f6a256f",
     "b81bd1933812a0f6",
     "fbe8e2abbdd7d8e6",
-    "4183417258d0f3f2"
+    "4183417258d0f3f2",
+    "a41b09ede44b1270"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 2,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "jesse eisenberg says": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "there": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "no sexuality to": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "my work": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "why life is": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "different": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "when fans": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "want to sleep": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "person onscreen": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "jesse eisenberg": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the new yorker": {
+      "count": 1,
+      "last_seen": "2026-11-27T02:44:43.201199+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "oscar": {
       "count": 51,
       "last_seen": "2026-11-27T00:54:00.089728+00:00",
@@ -32855,13 +32996,6 @@
         "movie_news"
       ]
     },
-    "hollywood": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
     "cliff": {
       "count": 1,
       "last_seen": "2026-11-19T23:21:20.703955+00:00",
@@ -33063,84 +33197,6 @@
       "last_seen": "2026-11-19T14:13:01.341505+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "three afghan asylum": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "seekers many": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "richly": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "ragazzi": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "envision competition": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paramount": {
-      "count": 2,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "chris pratt": {
-      "count": 2,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
-    "fi family drama": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the traveler": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "inks first": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "look producing deal": {
-      "count": 1,
-      "last_seen": "2026-11-19T01:49:58.425057+00:00",
-      "categories": [
-        "actors_directors"
       ]
     }
   },
