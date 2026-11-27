@@ -25713,6 +25713,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5af36aef280feabb36912cbc",
+      "story_id": "e366ec6efd4fdebc",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
+      "title": "Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’",
+      "category": "movie_news",
+      "score": 69.24,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 63.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "chiwetel ejiofor was",
+        "afraid",
+        "make",
+        "backrooms",
+        "because",
+        "director kane parsons",
+        "he was so",
+        "young",
+        "chiwetel ejiofor",
+        "directed",
+        "kane parsons",
+        "when"
+      ],
+      "hook": "سینمای ترسناک: چیوئتل ایجیوفر از کار با کارگردان جوان ترس داشت",
+      "hooks": [
+        "کارگردان جوان Kane Parsons، ترس چیوئتل ایجیوفر را برمی‌انگیزید",
+        "Backrooms: بودجه 10 میلیون، سود 400 میلیون، ترس از کارگردان جوان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Backrooms بیش از 400 میلیون دلار در سراسر جهان کسب کرده"
+      ],
+      "status": "published",
+      "telegram_message_id": 502,
+      "published_at": "2026-11-27T14:50:17.734732+00:00",
+      "text": "سینمای ترسناک: چیوئتل ایجیوفر از کار با کارگردان جوان ترس داشت\n\n🎬 چیوئتل ایجیوفر: ترس از کارگردان جوان Kane Parsons در فیلم Backrooms\n\nدر فیلم ترسناک «Backrooms»، چیوئتل ایجیوفر ابتدا به دلیل سن پایین کارگردان Kane Parsons، که از یوتیوب به کارگردانی پیوسته، تردید داشت.\nفیلم با بودجه 10 میلیون دلار ساخته شد و تاکنون بیش از 400 میلیون دلار در سراسر جهان کسب کرده، یکی از پر سودترین آثار سال است.\n\n📌 نکات مهم:\n• چیوئتل ایجیوفر ترس داشت از کارگردان Kane Parsons\n• Backrooms بودجه 10 میلیون دلار و سود 400 میلیون دلار\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26211,7 +26264,8 @@
     "6664dbafee5e889d0520c8e1",
     "f4f06fefc7522cac5ad19c3b",
     "560bc728fde4945054d7e12a",
-    "204a78945d4da76c60780795"
+    "204a78945d4da76c60780795",
+    "5af36aef280feabb36912cbc"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26709,11 +26763,12 @@
     "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
     "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035",
     "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
-    "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140"
+    "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
+    "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 247,
+      "published": 248,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26766,7 +26821,7 @@
       "published": 24
     },
     "14": {
-      "published": 16
+      "published": 17
     },
     "16": {
       "published": 24
@@ -26845,64 +26900,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T00:35:24.797587+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 411,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T02:51:40.653082+00:00",
       "version": 2,
@@ -29860,6 +29857,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-27T14:50:17.734882+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 411,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30357,9 +30412,95 @@
     "b81bd1933812a0f6",
     "fbe8e2abbdd7d8e6",
     "4183417258d0f3f2",
-    "a41b09ede44b1270"
+    "a41b09ede44b1270",
+    "e366ec6efd4fdebc"
   ],
   "entity_memory": {
+    "directed": {
+      "count": 4,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news",
+        "box_office"
+      ]
+    },
+    "chiwetel ejiofor was": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "afraid": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "make": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "backrooms": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "because": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "director kane parsons": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "he was so": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "young": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "chiwetel ejiofor": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "kane parsons": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "when": {
+      "count": 1,
+      "last_seen": "2026-11-27T14:50:17.734766+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "hollywood": {
       "count": 2,
       "last_seen": "2026-11-27T02:44:43.201199+00:00",
@@ -30660,14 +30801,6 @@
       "last_seen": "2026-11-26T18:48:11.318574+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "directed": {
-      "count": 3,
-      "last_seen": "2026-11-26T14:52:12.191791+00:00",
-      "categories": [
-        "movie_news",
-        "box_office"
       ]
     },
     "disney": {
@@ -33120,83 +33253,6 @@
       "last_seen": "2026-11-19T17:56:40.864176+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "hannah dodd": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "english": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "nick jonas": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the more": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "april": {
-      "count": 1,
-      "last_seen": "2026-11-19T17:56:40.864176+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "boys": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "river": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "highlight": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "captures one day": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "paradise": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "relished": {
-      "count": 1,
-      "last_seen": "2026-11-19T14:13:01.341505+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
