@@ -25819,6 +25819,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "5c6734fe32dad730d12e8915",
+      "story_id": "bcd41491cd9067bb",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
+      "title": "Filming the Moroccan Horse-Riding Doc ‘Bardi’ Took Director Tala Hadid Into a ‘Terrain That Was Totally Unknown’ to Her: ‘I Was Almost Like an Alien’",
+      "category": "actors_directors",
+      "score": 72.95,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "filming",
+        "moroccan horse",
+        "riding doc",
+        "bardi",
+        "took director tala",
+        "hadid into",
+        "terrain that was",
+        "totally unknown",
+        "was almost like",
+        "alien",
+        "tala hadid",
+        "moroccan"
+      ],
+      "hook": "دستیار جدید تالاهادی در مراکش: 'Bardi'",
+      "hooks": [
+        "سفر بی‌سابقه تالاهادی در دنیای اسب‌سواری مراکش",
+        "مراکش و رقص اسب: 'Bardi' را کشف کنید"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "مستند 'Bardi' مستند واقعی دربارهٔ رقص اسب‌سواری و تیراندازی در مراکش است."
+      ],
+      "status": "published",
+      "telegram_message_id": 504,
+      "published_at": "2026-11-27T21:45:38.784206+00:00",
+      "text": "دستیار جدید تالاهادی در مراکش: 'Bardi'\n\n🎬 تالاهادی در مراکش: مستند 'Bardi' دربارهٔ رقص اسب و تیراندازی\n\nدر طول بیش از چهار سال، تالاهادی در مراکش زندگی می‌کرد و به عمق سنت هزار سالهٔ تبوریدا، رقص اسب‌سواری و تیراندازی، پی برد.\nمستند 'Bardi' با دیدی بی‌سابقه، این فرهنگ را به دوربین می‌برد و نشان می‌دهد که چگونه این رقص جنگی هنوز در دل جامعهٔ مراکش زنده است.\n\n📌 نکات مهم:\n• تالاهادی در طول بیش از چهار سال در مراکش زندگی و کار کرد.\n• مستند 'Bardi' به بررسی سنت تبوریدا، رقص اسب‌سواری و تیراندازی می‌پردازد.\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26319,7 +26372,8 @@
     "560bc728fde4945054d7e12a",
     "204a78945d4da76c60780795",
     "5af36aef280feabb36912cbc",
-    "8055237adf803d0c25cb732e"
+    "8055237adf803d0c25cb732e",
+    "5c6734fe32dad730d12e8915"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26819,7 +26873,8 @@
     "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182",
     "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
     "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
-    "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632"
+    "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
+    "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520"
   ],
   "category_stats": {
     "movie_news": {
@@ -26829,7 +26884,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 208,
+      "published": 209,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26888,7 +26943,7 @@
       "published": 46
     },
     "21": {
-      "published": 31
+      "published": 32
     },
     "23": {
       "published": 38
@@ -26955,64 +27010,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T14:12:30.896044+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "trailers_first_look",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 412,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T18:06:03.349673+00:00",
       "version": 2,
@@ -29970,6 +29967,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-27T21:45:38.784321+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 412,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30469,9 +30524,94 @@
     "4183417258d0f3f2",
     "a41b09ede44b1270",
     "e366ec6efd4fdebc",
-    "af724577001cb40e"
+    "af724577001cb40e",
+    "bcd41491cd9067bb"
   ],
   "entity_memory": {
+    "filming": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "moroccan horse": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "riding doc": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "bardi": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "took director tala": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "hadid into": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "terrain that was": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "totally unknown": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "was almost like": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "alien": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "tala hadid": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "moroccan": {
+      "count": 1,
+      "last_seen": "2026-11-27T21:45:38.784237+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "marvel": {
       "count": 4,
       "last_seen": "2026-11-27T18:39:48.972603+00:00",
@@ -33223,90 +33363,6 @@
     "cliff booth": {
       "count": 1,
       "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "fincher": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "david fincher": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "quentin tarantino": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "once upon": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "time": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cliff": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "mary steenburgen": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kyra sedgwick": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "sophia bush set": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "for indie": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "kindred spirits": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "hilary swank among": {
-      "count": 1,
-      "last_seen": "2026-11-19T21:06:05.347193+00:00",
       "categories": [
         "movie_news"
       ]
