@@ -2,60 +2,6 @@
   "version": 2,
   "posts": [
     {
-      "news_id": "2e07738d432981532a7253be",
-      "story_id": "d8c210a4afc89034",
-      "source": "Variety Film",
-      "sources": [
-        "Variety Film",
-        "Variety"
-      ],
-      "multi_source_count": 2,
-      "url": "https://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
-      "title": "Sundance Prizewinner Luke Lorentzen’s Documentary ‘Boatbuilders’ Boarded by Metfilm Sales Ahead of Venice World Premiere (EXCLUSIVE)",
-      "category": "movie_news",
-      "score": 89.85,
-      "freshness": 100.0,
-      "credibility": 95.0,
-      "audience_interest": 63.0,
-      "potential_engagement": 45.0,
-      "verification_confidence": 0.72,
-      "is_breaking": true,
-      "entities": [
-        "venice",
-        "sundance",
-        "sundance prizewinner luke",
-        "lorentzen",
-        "documentary",
-        "boatbuilders",
-        "boarded",
-        "metfilm sales ahead",
-        "venice world premiere",
-        "sales",
-        "luke lorentzen",
-        "maine"
-      ],
-      "hook": "دستاورد Sundance: مستند Boatbuilders در ونیس به نمایش می‌رسد",
-      "hooks": [
-        "فیلمی که در ونیس برگزیده شد",
-        "سفر به دنیای ساخت قایق در مینه"
-      ],
-      "confidence": "high",
-      "supported_claims": [
-        "MetFilm Sales حقوق فروش جهانی Boatbuilders را بر عهده گرفت",
-        "فلم در بخش باز 83rd Venice International Film Festival در 7 سپتامبر به نمایش می‌رسد"
-      ],
-      "status": "published",
-      "telegram_message_id": 5,
-      "published_at": "2026-08-20T11:23:32.924296+00:00",
-      "text": "دستاورد Sundance: مستند Boatbuilders در ونیس به نمایش می‌رسد\n\n🎬 مستند Boatbuilders، برنده جایزه Sundance، در ونیس به نمایش می‌آید\n\nمتفیلم ساندنس برنده Luke Lorentzen، مستند Boatbuilders، به دست MetFilm Sales رسید و حقوق فروش جهانی را بر عهده گرفت. MetFilm Sales فیلمنامه را در بازار Toronto International Film Festival Market به خریداران معرفی خواهد کرد.\n\n📌 نکات مهم:\n• متفیلم ساندنس برنده Luke Lorentzen\n• MetFilm Sales حقوق فروش جهانی Boatbuilders را بر عهده گرفت\n• فلم در بخش باز 83rd Venice International Film Festival در 7 سپتامبر به نمایش می‌رسد\n• MetFilm Sales فیلمنامه را در بازار Toronto International Film Festival Market ارائه می‌دهد\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/global/luke-lorentzen-boatbuilders-metfilm-sales-venice-1236838855",
-      "analytics": {
-        "views": null,
-        "forwards": null,
-        "reactions": null,
-        "source": "unavailable_via_bot_api"
-      }
-    },
-    {
       "news_id": "2e2fd938beb37dd88c06a542",
       "story_id": "dc38a20d0963a1bf",
       "source": "The Guardian",
@@ -25971,6 +25917,59 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "a974bf41338b244e2dd0ede1",
+      "story_id": "9325cf1f332e06cd",
+      "source": "Variety Film",
+      "sources": [
+        "Variety Film",
+        "Variety"
+      ],
+      "multi_source_count": 2,
+      "url": "https://variety.com/2026/film/columns/scout-willis-thriller-the-prostitute-1236960003",
+      "title": "Scout Willis, Will Peltz and Kurt Deimer to Star in Indie Thriller ‘The Prostitute’ (EXCLUSIVE)",
+      "category": "actors_directors",
+      "score": 65.02,
+      "freshness": 100.0,
+      "credibility": 96.0,
+      "audience_interest": 71.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": true,
+      "entities": [
+        "scout willis",
+        "will peltz",
+        "kurt deimer",
+        "star",
+        "indie thriller",
+        "the prostitute",
+        "paul boyd",
+        "peltz",
+        "euphoria",
+        "manifest",
+        "unfriended",
+        "hollywood"
+      ],
+      "hook": "درگیر شدن در تاریکی: فیلم ترسناک 'The Prostitute'",
+      "hooks": [
+        "نقش‌پذیرترین فیلم‌سازی در هالیوود",
+        "یک زن بلوند مرموز و فیلم‌سازی جوان"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "Will Peltz plays a young, struggling filmmaker living out of his van in Hollywood"
+      ],
+      "status": "published",
+      "telegram_message_id": 508,
+      "published_at": "2026-11-28T17:20:25.079627+00:00",
+      "text": "درگیر شدن در تاریکی: فیلم ترسناک 'The Prostitute'\n\n🎬 پاول بویِد، اسکوت ویلس و ویل پلتز در ترسناک روانی 'The Prostitute'\n\nفیلم مستقل روانی 'The Prostitute' توسط نویسنده-کارگردان پاول بویِد ساخته شده و در آن ویل پلتز نقش فیلم‌سازی جوانی را بازی می‌کند که در هالیوود در یک وانت زندگی می‌کند. او به دنبال مستندسازی یک زن بلوند مرموز (اسکوت ویلس) می‌شود.\nکورت‌دست‌های دیگر شامل کرت دیمر می‌شود و فیلم در قالب یک ترسناک تاریک روانی به نمایش گذاشته می‌شود.\n\n📌 نکات مهم:\n• فیلم: The Prostitute\n• کارگردان: Paul Boyd\n• نقش‌های اصلی: Scout Willis, Will Peltz, Kurt Deimer\n• نقش پلتز: فیلم‌سازی جوان در هالیوود\n\n✅ تأیید چندمنبعی: Variety Film, Variety\n\n#سینما #فیلم\n\n🔗 منبع: Variety Film\nhttps://variety.com/2026/film/columns/scout-willis-thriller-the-prostitute-1236960003",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26475,7 +26474,8 @@
     "5c6734fe32dad730d12e8915",
     "f77552fc0f9f7331d35ab023",
     "92f934eaf1d6f15ac1681e91",
-    "633393232483384caa2e798d"
+    "633393232483384caa2e798d",
+    "a974bf41338b244e2dd0ede1"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26979,7 +26979,8 @@
     "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
     "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380",
     "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743",
-    "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o"
+    "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o",
+    "https://variety.com/2026/film/columns/scout-willis-thriller-the-prostitute-1236960003"
   ],
   "category_stats": {
     "movie_news": {
@@ -26989,7 +26990,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 211,
+      "published": 212,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -27087,7 +27088,7 @@
       "published": 39
     },
     "17": {
-      "published": 45
+      "published": 46
     },
     "12": {
       "published": 13
@@ -27115,64 +27116,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-18T02:18:25.760822+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 409,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-18T13:43:51.951288+00:00",
       "version": 2,
@@ -30130,6 +30073,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-28T17:20:25.079727+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30633,9 +30634,96 @@
     "bcd41491cd9067bb",
     "7c54eb231bf27268",
     "250346446ee3f193",
-    "71ac183fc376b408"
+    "71ac183fc376b408",
+    "9325cf1f332e06cd"
   ],
   "entity_memory": {
+    "hollywood": {
+      "count": 3,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "star": {
+      "count": 10,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "movie_news",
+        "actors_directors"
+      ]
+    },
+    "scout willis": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "will peltz": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "kurt deimer": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "indie thriller": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the prostitute": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "paul boyd": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "peltz": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "euphoria": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "manifest": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "unfriended": {
+      "count": 1,
+      "last_seen": "2026-11-28T17:20:25.079657+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "actor": {
       "count": 1,
       "last_seen": "2026-11-28T13:58:48.884389+00:00",
@@ -31065,14 +31153,6 @@
       "last_seen": "2026-11-27T14:50:17.734766+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "hollywood": {
-      "count": 2,
-      "last_seen": "2026-11-27T02:44:43.201199+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     },
     "jesse eisenberg says": {
@@ -32408,14 +32488,6 @@
         "awards_festivals"
       ]
     },
-    "star": {
-      "count": 9,
-      "last_seen": "2026-11-23T20:49:54.564502+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
-      ]
-    },
     "sadie sandler": {
       "count": 1,
       "last_seen": "2026-11-23T20:49:54.564502+00:00",
@@ -33402,77 +33474,6 @@
       "last_seen": "2026-11-20T17:30:12.084803+00:00",
       "categories": [
         "movie_news"
-      ]
-    },
-    "harry lawtey join": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "jeremy allen white": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "in ben stiller": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "airman": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "from laika live": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "action and": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "louis garrel": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "harry lawtey": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "laika live action": {
-      "count": 1,
-      "last_seen": "2026-11-20T17:30:12.084803+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "tarantino": {
-      "count": 2,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "movie_news",
-        "actors_directors"
       ]
     }
   },
