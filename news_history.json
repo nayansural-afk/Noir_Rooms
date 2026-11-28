@@ -2,30 +2,6 @@
   "version": 2,
   "posts": [
     {
-      "news_id": "35258b33ea997c9a5dafa5f4",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
-      "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
-      "category": "movie_news",
-      "score": 72.6,
-      "freshness": 100.0,
-      "credibility": 94.0,
-      "audience_interest": 53.0,
-      "potential_engagement": 45.0,
-      "hook": "BFI 12 مرکز جدید در انگلستان راه‌اندازی می‌کند؛ فرصت‌های شغلی برای جوانان!",
-      "confidence": "high",
-      "status": "published",
-      "telegram_message_id": 4,
-      "published_at": "2026-08-20T10:16:03.678864+00:00",
-      "text": "BFI 12 مرکز جدید در انگلستان راه‌اندازی می‌کند؛ فرصت‌های شغلی برای جوانان!\n\n🎬 BFI 12 مرکز آموزشی جدید در انگلستان راه‌اندازی می‌کند\n\nBFI Film Academy، مرکز اصلی آموزش فیلم در انگلستان، برنامه خود را با ایجاد ۱۲ مرکز آموزشی جدید گسترش داده است. این مراکز برای جوانان ۱۶ تا ۲۵ ساله طراحی شده‌اند و به‌صورت محلی در سراسر کشور فعالیت می‌کنند.\n\nبرنامه به‌دنبال توزیع بودجه و منابع در سطح منطقه‌ای است تا دسترسی به آموزش‌های حرفه‌ای فیلمسازی برای همهٔ مناطق انگلستان فراهم شود. این گام جدید نشان‌دهندهٔ تعهد BFI به تقویت صنعت فیلم در سطح ملی است.\n\n📌 نکات مهم:\n• BFI Film Academy 12 مرکز آموزشی جدید در انگلستان راه‌اندازی می‌کند\n• هدف این برنامه حمایت از جوانان 16-25 ساله است\n• تمرکز بر ارائه محلی و تفکیک بودجه در سراسر انگلستان\n\nلینک در توضیحات\n\n#سینما #فیلم #BFI #انگلستان #آموزش\n\n🔗 منبع: Deadline\nhttps://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
-      "analytics": {
-        "views": null,
-        "forwards": null,
-        "reactions": null,
-        "source": "unavailable_via_bot_api"
-      }
-    },
-    {
       "news_id": "2e07738d432981532a7253be",
       "story_id": "d8c210a4afc89034",
       "source": "Variety Film",
@@ -25950,6 +25926,51 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "633393232483384caa2e798d",
+      "story_id": "71ac183fc376b408",
+      "source": "BBC",
+      "sources": [
+        "BBC"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o",
+      "title": "Actor and comedian PJ Gallagher dies aged 51",
+      "category": "actors_directors",
+      "score": 71.26,
+      "freshness": 100.0,
+      "credibility": 92.0,
+      "audience_interest": 66.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.56,
+      "is_breaking": true,
+      "entities": [
+        "actor",
+        "gallagher",
+        "irish",
+        "naked camera",
+        "the young offenders"
+      ],
+      "hook": "یک هنرمند، 51 سال، درخشش در تلویزیون ایرلند",
+      "hooks": [
+        "گذشته‌ی 51 ساله، پایان یافت",
+        "PJ Gallagher درگذشت در سن 51 سالگی"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "PJ Gallagher درگذشت در سن 51 سالگی"
+      ],
+      "status": "published",
+      "telegram_message_id": 507,
+      "published_at": "2026-11-28T13:58:48.884359+00:00",
+      "text": "یک هنرمند، 51 سال، درخشش در تلویزیون ایرلند\n\n🎬 PJ Gallagher، بازیگر و کمدین ایرلندی، درگذشت در سن 51 سالگی\n\nPJ Gallagher، بازیگر و کمدین ایرلندی، درگذشت در سن 51 سالگی. او بیش از دو دهه در تلویزیون ایرلند حضور داشت و در برنامه‌های Naked Camera و The Young Offenders ظاهر شد.\n\n📌 نکات مهم:\n• PJ Gallagher درگذشت در سن 51 سالگی\n• PJ Gallagher در تلویزیون ایرلند بیش از دو دهه حضور داشت\n• شما در برنامه‌های Naked Camera و The Young Offenders ظاهر شد\n\n#سینما #فیلم\n\n🔗 منبع: BBC\nhttps://www.bbc.co.uk/news/articles/cwp83j2k31g3o",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26453,7 +26474,8 @@
     "8055237adf803d0c25cb732e",
     "5c6734fe32dad730d12e8915",
     "f77552fc0f9f7331d35ab023",
-    "92f934eaf1d6f15ac1681e91"
+    "92f934eaf1d6f15ac1681e91",
+    "633393232483384caa2e798d"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26956,7 +26978,8 @@
     "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
     "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
     "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380",
-    "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743"
+    "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743",
+    "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o"
   ],
   "category_stats": {
     "movie_news": {
@@ -26966,7 +26989,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 210,
+      "published": 211,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -27061,7 +27084,7 @@
       "published": 8
     },
     "13": {
-      "published": 38
+      "published": 39
     },
     "17": {
       "published": 45
@@ -27092,64 +27115,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T23:42:54.984090+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 408,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-18T02:18:25.760822+00:00",
       "version": 2,
@@ -30107,6 +30072,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-28T13:58:48.884455+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 405,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30609,9 +30632,45 @@
     "af724577001cb40e",
     "bcd41491cd9067bb",
     "7c54eb231bf27268",
-    "250346446ee3f193"
+    "250346446ee3f193",
+    "71ac183fc376b408"
   ],
   "entity_memory": {
+    "actor": {
+      "count": 1,
+      "last_seen": "2026-11-28T13:58:48.884389+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "gallagher": {
+      "count": 1,
+      "last_seen": "2026-11-28T13:58:48.884389+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "irish": {
+      "count": 1,
+      "last_seen": "2026-11-28T13:58:48.884389+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "naked camera": {
+      "count": 1,
+      "last_seen": "2026-11-28T13:58:48.884389+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "the young offenders": {
+      "count": 1,
+      "last_seen": "2026-11-28T13:58:48.884389+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "christopher nolan": {
       "count": 1,
       "last_seen": "2026-11-28T02:34:34.022009+00:00",
@@ -33413,41 +33472,6 @@
       "last_seen": "2026-11-20T13:54:26.485839+00:00",
       "categories": [
         "movie_news",
-        "actors_directors"
-      ]
-    },
-    "quentin tarantino play": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the popinjay cavalier": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "starring sacha baron": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "cohen": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "unveils full cast": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
         "actors_directors"
       ]
     }
