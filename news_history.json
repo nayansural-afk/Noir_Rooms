@@ -2,30 +2,6 @@
   "version": 2,
   "posts": [
     {
-      "news_id": "897a1351c593cd1eadef62cb",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
-      "title": "India’s Epic Studios, Rusk Media Ink 50-Title Vertical Drama Deal (EXCLUSIVE)",
-      "category": "movie_news",
-      "score": 72.6,
-      "freshness": 100.0,
-      "credibility": 94.0,
-      "audience_interest": 53.0,
-      "potential_engagement": 45.0,
-      "hook": "آینده‌ی سریال‌های عمودی در هند، با ۵۰ اثر جدید آغاز شد!",
-      "confidence": "high",
-      "status": "published",
-      "telegram_message_id": 3,
-      "published_at": "2026-08-20T08:26:55.936357+00:00",
-      "text": "آینده‌ی سریال‌های عمودی در هند، با ۵۰ اثر جدید آغاز شد!\n\n🎬 ایپیک استودیوز هند و راسک مدیا، قرارداد ۵۰ سریال عمودی را امضا کردند\n\nایپیک استودیوز هند با شرکت راسک مدیا خصوصی محدود (RMPL) همکاری کرده و قصد دارد ۵۰ سریال عمودی اصلی تولید کند.\nاین سریال‌ها در ژانرهای اسطوره، درام، معما، ترسناک و رمانس گسترش می‌یابند و در پلتفرم Alright! TV به نمایش درمی‌آیند.\n\n📌 نکات مهم:\n• ایپیک استودیوز هند و راسک مدیا قرارداد ۵۰ سریال عمودی امضا کردند\n• هدف ساخت بزرگترین کتابخانه‌ی مالکیت فکری سریال‌های عمودی در هند\n• سریال‌ها در ژانرهای اسطوره، درام، معما، ترسناک و رمانس گسترش می‌یابند و در Alright! TV پخش می‌شوند\n\n#سینما #فیلم #تلویزیون #هند #سریال #VerticalDrama\n\n🔗 منبع: Variety\nhttps://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
-      "analytics": {
-        "views": null,
-        "forwards": null,
-        "reactions": null,
-        "source": "unavailable_via_bot_api"
-      }
-    },
-    {
       "news_id": "35258b33ea997c9a5dafa5f4",
       "source": "Deadline",
       "url": "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305",
@@ -25926,6 +25902,54 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "92f934eaf1d6f15ac1681e91",
+      "story_id": "250346446ee3f193",
+      "source": "IndieWire",
+      "sources": [
+        "IndieWire"
+      ],
+      "multi_source_count": 1,
+      "url": "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743",
+      "title": "‘Odyssey’ Cinematographer Hoyte van Hoytema Was More Interested in the Intimate Than the Epic",
+      "category": "movie_news",
+      "score": 69.39,
+      "freshness": 92.0,
+      "credibility": 90.0,
+      "audience_interest": 60.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.55,
+      "is_breaking": false,
+      "entities": [
+        "christopher nolan",
+        "nolan",
+        "odyssey",
+        "cinematographer hoyte",
+        "hoytema was more",
+        "interested",
+        "intimate than",
+        "epic in"
+      ],
+      "hook": "سینمای انسانی در دل اوپیسی: دیدگاه‌های هوایته",
+      "hooks": [
+        "نقاشی نور در اوپیسی: انسانیت بر فراز صحنه",
+        "از عکاسی IMAX تا دل‌نشینی: دیدگاه هوایته"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "هوایته در مصاحبه‌اش تأکید کرد که انسانیت در دل اوپیسی مهم‌تر از صحنه‌های بزرگ است."
+      ],
+      "status": "published",
+      "telegram_message_id": 506,
+      "published_at": "2026-11-28T02:34:34.021979+00:00",
+      "text": "سینمای انسانی در دل اوپیسی: دیدگاه‌های هوایته\n\n🎬 هوایته: در دل اوپیسی، انسانیت بر فراز صحنه\n\nدر اوپیسی، دوربین‌های IMAX و مقیاس عظیم حضور داشتند، اما هوایته به انسانیت در دل ماجراجویی‌هایشان علاقه‌مند بود.\nهوایته و نولان بر این باورند که صحنه‌های بزرگ، اما انسانیت در قلب داستان اهمیت دارد.\n\n📌 نکات مهم:\n• اوپیسی با دوربین‌های IMAX و مقیاس عظیم ساخته شد\n• هوایته و نولان به انسانیت در دل ماجراجویی‌هایشان علاقه‌مند بودند\n\n#سینما #فیلم\n\n🔗 منبع: IndieWire\nhttps://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26428,7 +26452,8 @@
     "5af36aef280feabb36912cbc",
     "8055237adf803d0c25cb732e",
     "5c6734fe32dad730d12e8915",
-    "f77552fc0f9f7331d35ab023"
+    "f77552fc0f9f7331d35ab023",
+    "92f934eaf1d6f15ac1681e91"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26930,11 +26955,12 @@
     "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
     "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
     "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
-    "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380"
+    "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380",
+    "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743"
   ],
   "category_stats": {
     "movie_news": {
-      "published": 249,
+      "published": 250,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -27032,7 +27058,7 @@
       "published": 8
     },
     "2": {
-      "published": 7
+      "published": 8
     },
     "13": {
       "published": 38
@@ -27066,64 +27092,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T21:27:32.839494+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T23:42:54.984090+00:00",
       "version": 2,
@@ -30081,6 +30049,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-28T02:34:34.022091+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 408,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30582,9 +30608,66 @@
     "e366ec6efd4fdebc",
     "af724577001cb40e",
     "bcd41491cd9067bb",
-    "7c54eb231bf27268"
+    "7c54eb231bf27268",
+    "250346446ee3f193"
   ],
   "entity_memory": {
+    "christopher nolan": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "nolan": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "odyssey": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "cinematographer hoyte": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "hoytema was more": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "interested": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "intimate than": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
+    "epic in": {
+      "count": 1,
+      "last_seen": "2026-11-28T02:34:34.022009+00:00",
+      "categories": [
+        "movie_news"
+      ]
+    },
     "this": {
       "count": 2,
       "last_seen": "2026-11-28T00:18:33.183450+00:00",
@@ -33364,62 +33447,6 @@
     "unveils full cast": {
       "count": 1,
       "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "west end run": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "extended quentin tarantino": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "the oscar": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "sony pictures entertainment": {
-      "count": 1,
-      "last_seen": "2026-11-20T13:54:26.485839+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "tuesday": {
-      "count": 3,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "jorrybell agoto dies": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "breakout actress was": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "philippines": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
       "categories": [
         "actors_directors"
       ]
