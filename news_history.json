@@ -25872,6 +25872,60 @@
         "reactions": null,
         "source": "unavailable_via_bot_api"
       }
+    },
+    {
+      "news_id": "f77552fc0f9f7331d35ab023",
+      "story_id": "7c54eb231bf27268",
+      "source": "Deadline Film",
+      "sources": [
+        "Deadline Film",
+        "Deadline"
+      ],
+      "multi_source_count": 2,
+      "url": "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380",
+      "title": "William Shatner Responds After ‘Halloween’ Director John Carpenter Called Him “A Piece Of S***” For Snub",
+      "category": "actors_directors",
+      "score": 71.37,
+      "freshness": 92.0,
+      "credibility": 96.0,
+      "audience_interest": 58.0,
+      "potential_engagement": 45.0,
+      "verification_confidence": 0.72,
+      "is_breaking": false,
+      "entities": [
+        "william shatner responds",
+        "after",
+        "halloween",
+        "director john carpenter",
+        "called him",
+        "piece of",
+        "for snub william",
+        "shatner",
+        "john carpenter",
+        "star trek",
+        "orlando",
+        "this"
+      ],
+      "hook": "شاتن در برابر توهین کارپینر واکنش نشان داد",
+      "hooks": [
+        "کارپینر شاتن را به‌عنوان «قطعه‌ی س***» توهین کرد",
+        "شاتن در حاشیه‌ی جشنواره در اورلاندو واکنش نشان داد"
+      ],
+      "confidence": "high",
+      "supported_claims": [
+        "کارپینر شاتن را به‌عنوان «قطعه‌ی س***» توهین کرد",
+        "شاتن در پاسخ به این توهین صحبت کرد"
+      ],
+      "status": "published",
+      "telegram_message_id": 505,
+      "published_at": "2026-11-28T00:18:33.183419+00:00",
+      "text": "شاتن در برابر توهین کارپینر واکنش نشان داد\n\n🎬 شاتن پس از توهین کارپینر به‌عنوان «قطعه‌ی س***» واکنش نشان داد\n\nدر حین یک رویداد در اورلاندو، کارگردان جان کارپینر شاتن را «قطعه‌ی س***» صدا زد، زیرا او ادعا می‌کرد شاتن او را نادیده گرفته بود. شاتن در پاسخ به این توهین، در رسانه‌ها حضور یافت و توضیح داد که در حین حضور در سالن سبز، او در حال استفاده از تلفن بود و به‌دلیل این، به‌طور ناخودآگاه نادیده گرفته شد.\n\n📌 نکات مهم:\n• کارپینر شاتن را «قطعه‌ی س***» صدا زد\n• شاتن در پاسخ به این توهین صحبت کرد\n\n✅ تأیید چندمنبعی: Deadline Film, Deadline\n\n#سینما #فیلم\n\n🔗 منبع: Deadline Film\nhttps://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380",
+      "analytics": {
+        "views": null,
+        "forwards": null,
+        "reactions": null,
+        "source": "unavailable_via_bot_api"
+      }
     }
   ],
   "seen_news_ids": [
@@ -26373,7 +26427,8 @@
     "204a78945d4da76c60780795",
     "5af36aef280feabb36912cbc",
     "8055237adf803d0c25cb732e",
-    "5c6734fe32dad730d12e8915"
+    "5c6734fe32dad730d12e8915",
+    "f77552fc0f9f7331d35ab023"
   ],
   "seen_urls": [
     "https://variety.com/2026/tv/news/india-epic-studios-rusk-media-50-title-vertical-drama-deal-1236838805",
@@ -26874,7 +26929,8 @@
     "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140",
     "https://variety.com/2026/film/global/chiwetel-ejiofor-backrooms-kane-parsons-1236959030",
     "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632",
-    "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520"
+    "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520",
+    "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380"
   ],
   "category_stats": {
     "movie_news": {
@@ -26884,7 +26940,7 @@
       "samples_with_metrics": 0
     },
     "actors_directors": {
-      "published": 209,
+      "published": 210,
       "avg_views": null,
       "avg_reactions": null,
       "samples_with_metrics": 0
@@ -26988,7 +27044,7 @@
       "published": 13
     },
     "0": {
-      "published": 17
+      "published": 18
     },
     "4": {
       "published": 1
@@ -27010,64 +27066,6 @@
     }
   },
   "weekly_reports": [
-    {
-      "generated_at": "2026-11-17T18:06:03.349673+00:00",
-      "version": 2,
-      "posts": 100,
-      "average_views": null,
-      "best_category": "movie_news",
-      "worst_category": "awards_festivals",
-      "best_hook": null,
-      "top_news": [
-        {
-          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
-          "category": "movie_news",
-          "score": 95.05,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Maya Hawke Boards ‘Magic: The Gathering’ Movie From Legendary And Hasbro",
-          "category": "movie_news",
-          "score": 94.54,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tinto Brass Dies: Italian ‘Caligula’ Director Was 93",
-          "category": "movie_news",
-          "score": 93.29,
-          "multi_source_count": 3
-        },
-        {
-          "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        },
-        {
-          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
-          "category": "movie_news",
-          "score": 89.56,
-          "multi_source_count": 2
-        }
-      ],
-      "entity_memory_size": 410,
-      "growth": null,
-      "recommended_strategy": {
-        "exploration_rate": 0.3,
-        "category_weights": {
-          "movie_news": 30,
-          "actors_directors": 20,
-          "upcoming_movies": 15,
-          "trailers_first_look": 10,
-          "box_office": 10,
-          "awards_festivals": 5,
-          "streaming": 5,
-          "short_analysis": 5,
-          "breaking_news": 0,
-          "controversy": 0
-        }
-      }
-    },
     {
       "generated_at": "2026-11-17T21:27:32.839494+00:00",
       "version": 2,
@@ -30025,6 +30023,64 @@
           "controversy": 0
         }
       }
+    },
+    {
+      "generated_at": "2026-11-28T00:18:33.183523+00:00",
+      "version": 2,
+      "posts": 100,
+      "average_views": null,
+      "best_category": "movie_news",
+      "worst_category": "upcoming_movies",
+      "best_hook": null,
+      "top_news": [
+        {
+          "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 3
+        },
+        {
+          "title": "Michelle Monaghan & Justin Theroux Are Having A ‘Sleepover’ With Blumhouse Atomic & Universal",
+          "category": "movie_news",
+          "score": 95.05,
+          "multi_source_count": 4
+        },
+        {
+          "title": "XTR Joins Oscar Contender ‘Y Vân: The Lost Sounds of Saigon,’ Award-Winning Documentary About “The Quincy Jones of Saigon”",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "‘Low Lies the Land,’ From Producer of Oscar-Nominated ‘The Cave,’ Sells to Several Territories (EXCLUSIVE)",
+          "category": "movie_news",
+          "score": 89.56,
+          "multi_source_count": 2
+        },
+        {
+          "title": "It’s Christopher Briney Vs. Michelle Randolph In Prime Video’s ‘Clashing Through The Snow’ Trailer Featuring Olivia Rodrigo’s Christmas Single",
+          "category": "movie_news",
+          "score": 88.31,
+          "multi_source_count": 2
+        }
+      ],
+      "entity_memory_size": 410,
+      "growth": null,
+      "recommended_strategy": {
+        "exploration_rate": 0.3,
+        "category_weights": {
+          "movie_news": 30,
+          "actors_directors": 20,
+          "upcoming_movies": 15,
+          "trailers_first_look": 10,
+          "box_office": 10,
+          "awards_festivals": 5,
+          "streaming": 5,
+          "short_analysis": 5,
+          "breaking_news": 0,
+          "controversy": 0
+        }
+      }
     }
   ],
   "analytics_snapshots": [],
@@ -30525,9 +30581,95 @@
     "a41b09ede44b1270",
     "e366ec6efd4fdebc",
     "af724577001cb40e",
-    "bcd41491cd9067bb"
+    "bcd41491cd9067bb",
+    "7c54eb231bf27268"
   ],
   "entity_memory": {
+    "this": {
+      "count": 2,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "box_office",
+        "actors_directors"
+      ]
+    },
+    "john carpenter": {
+      "count": 2,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "william shatner responds": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "after": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "halloween": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "director john carpenter": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "called him": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "piece of": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "for snub william": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "shatner": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "star trek": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
+    "orlando": {
+      "count": 1,
+      "last_seen": "2026-11-28T00:18:33.183450+00:00",
+      "categories": [
+        "actors_directors"
+      ]
+    },
     "filming": {
       "count": 1,
       "last_seen": "2026-11-27T21:45:38.784237+00:00",
@@ -32041,13 +32183,6 @@
         "box_office"
       ]
     },
-    "this": {
-      "count": 1,
-      "last_seen": "2026-11-24T03:07:10.375696+00:00",
-      "categories": [
-        "box_office"
-      ]
-    },
     "avengers": {
       "count": 4,
       "last_seen": "2026-11-24T00:30:56.888251+00:00",
@@ -32642,13 +32777,6 @@
       ]
     },
     "reimagining after": {
-      "count": 1,
-      "last_seen": "2026-11-22T00:14:19.199712+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "john carpenter": {
       "count": 1,
       "last_seen": "2026-11-22T00:14:19.199712+00:00",
       "categories": [
@@ -33294,77 +33422,6 @@
       "last_seen": "2026-11-20T01:43:48.883435+00:00",
       "categories": [
         "actors_directors"
-      ]
-    },
-    "jorrybell agoto": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "rafael manuel": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "epicmedia productions": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "philippine": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "belle": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "manuel": {
-      "count": 1,
-      "last_seen": "2026-11-20T01:43:48.883435+00:00",
-      "categories": [
-        "actors_directors"
-      ]
-    },
-    "brad pitt": {
-      "count": 2,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "actors_directors",
-        "movie_news"
-      ]
-    },
-    "the further mis": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "adventures": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
-      ]
-    },
-    "cliff booth": {
-      "count": 1,
-      "last_seen": "2026-11-19T23:21:20.703955+00:00",
-      "categories": [
-        "movie_news"
       ]
     }
   },
